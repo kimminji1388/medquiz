@@ -1,11 +1,17 @@
 const STORAGE_KEY = "medquiz-locker:v1:progress";
 const SESSION_KEY = "medquiz-locker:v1:session";
+const FIREBASE_SDK_VERSION = "10.12.2";
 
 let questions = [];
 let progress = loadJson(STORAGE_KEY, {});
 let filtered = [];
 let currentIndex = 0;
 let dataWarnings = [];
+let firebaseReady = false;
+let currentUser = null;
+let auth = null;
+let db = null;
+let firebaseApi = {};
 
 const $ = (id) => document.getElementById(id);
 const els = {
@@ -21,7 +27,13 @@ const els = {
   saveStatus: $("saveStatus"),
   exportBtn: $("exportBtn"),
   importInput: $("importInput"),
-  clearProgressBtn: $("clearProgressBtn")
+  clearProgressBtn: $("clearProgressBtn"),
+  authStatus: $("authStatus"),
+  emailInput: $("emailInput"),
+  passwordInput: $("passwordInput"),
+  signupBtn: $("signupBtn"),
+  loginBtn: $("loginBtn"),
+  logoutBtn: $("logoutBtn")
 };
 
 start();
@@ -33,6 +45,7 @@ async function start() {
   restoreSession();
   applyFilters();
   updateSaveStatus("Local save is on");
+  setupFirebase();
 }
 
 async function loadQuestions() {
@@ -80,6 +93,9 @@ function bindEvents() {
   els.exportBtn.addEventListener("click", exportProgress);
   els.importInput.addEventListener("change", importProgress);
   els.clearProgressBtn.addEventListener("click", clearProgress);
+  els.signupBtn.addEventListener("click", signup);
+  els.loginBtn.addEventListener("click", login);
+  els.logoutBtn.addEventListener("click", logout);
   window.addEventListener("beforeunload", saveSession);
 }
 
@@ -226,7 +242,7 @@ function answerQuestion(question, selectedIndex) {
     wrongCount: (old.wrongCount || 0) + (correct ? 0 : 1),
     lastSolvedAt: new Date().toISOString()
   };
-  persistProgress();
+  persistProgress(question.id);
   render();
 }
 
@@ -240,7 +256,7 @@ function revealAnswer(question) {
     revealed: true,
     lastSolvedAt: new Date().toISOString()
   };
-  persistProgress();
+  persistProgress(question.id);
   render();
 }
 
@@ -263,16 +279,16 @@ function toggleBookmark(id) {
     bookmarked: !old.bookmarked,
     lastSolvedAt: new Date().toISOString()
   };
-  persistProgress();
+  persistProgress(id);
   render();
 }
 
 function resetOne(id) {
   if (!confirm("Clear only this question record?")) return;
   const bookmarked = progress[id]?.bookmarked;
-  if (bookmarked) progress[id] = { bookmarked };
+  if (bookmarked) progress[id] = { bookmarked, lastSolvedAt: new Date().toISOString() };
   else delete progress[id];
-  persistProgress();
+  persistProgress(id);
   render();
 }
 
@@ -282,10 +298,13 @@ function move(delta) {
   saveSession();
 }
 
-function persistProgress() {
+function persistProgress(questionId) {
   localStorage.setItem(STORAGE_KEY, JSON.stringify(progress));
-  updateSaveStatus("Saved locally");
+  updateSaveStatus(currentUser ? "Saved locally, syncing..." : "Saved locally");
   saveSession();
+  if (currentUser && questionId) {
+    syncOneRecordToFirestore(questionId);
+  }
 }
 
 function saveSession() {
@@ -329,6 +348,7 @@ async function importProgress(event) {
     const json = JSON.parse(await file.text());
     progress = { ...progress, ...(json.progress || json) };
     persistProgress();
+    syncAllRecordsToFirestore();
     applyFilters();
     alert("Records imported.");
   } catch (error) {
@@ -342,7 +362,187 @@ function clearProgress() {
   if (!confirm("Clear all saved quiz records?")) return;
   progress = {};
   persistProgress();
+  clearFirestoreRecords();
   applyFilters();
+}
+
+async function setupFirebase() {
+  try {
+    const [{ firebaseConfig }, appModule, authModule, firestoreModule] = await Promise.all([
+      import("./firebase-config.js"),
+      import(`https://www.gstatic.com/firebasejs/${FIREBASE_SDK_VERSION}/firebase-app.js`),
+      import(`https://www.gstatic.com/firebasejs/${FIREBASE_SDK_VERSION}/firebase-auth.js`),
+      import(`https://www.gstatic.com/firebasejs/${FIREBASE_SDK_VERSION}/firebase-firestore.js`)
+    ]);
+
+    const app = appModule.initializeApp(firebaseConfig);
+    auth = authModule.getAuth(app);
+    db = firestoreModule.getFirestore(app);
+    firebaseApi = { ...authModule, ...firestoreModule };
+    firebaseReady = true;
+    updateAuthStatus("Firebase ready. Log in to sync.");
+
+    authModule.onAuthStateChanged(auth, async (user) => {
+      currentUser = user;
+      if (!user) {
+        updateAuthStatus("Using local save only.");
+        updateSaveStatus("Local save is on");
+        return;
+      }
+
+      updateAuthStatus(`Logged in: ${user.email}`);
+      updateSaveStatus("Merging cloud records...");
+      await mergeLocalAndFirestoreRecords();
+      applyFilters();
+      updateSaveStatus(`Synced with Firebase: ${user.email}`);
+    });
+  } catch (error) {
+    console.warn("Firebase could not be started. Local save still works.", error);
+    firebaseReady = false;
+    currentUser = null;
+    updateAuthStatus("Firebase unavailable. Using local save only.");
+    updateSaveStatus("Saved locally");
+  }
+}
+
+async function signup() {
+  if (!firebaseReady) return alert("Firebase is not ready. Local save still works.");
+  const { email, password } = readAuthInputs();
+  if (!email || !password) return alert("Enter email and password.");
+
+  try {
+    await firebaseApi.createUserWithEmailAndPassword(auth, email, password);
+  } catch (error) {
+    alert(readableAuthError(error));
+  }
+}
+
+async function login() {
+  if (!firebaseReady) return alert("Firebase is not ready. Local save still works.");
+  const { email, password } = readAuthInputs();
+  if (!email || !password) return alert("Enter email and password.");
+
+  try {
+    await firebaseApi.signInWithEmailAndPassword(auth, email, password);
+  } catch (error) {
+    alert(readableAuthError(error));
+  }
+}
+
+async function logout() {
+  if (!firebaseReady || !currentUser) return;
+  try {
+    await firebaseApi.signOut(auth);
+  } catch (error) {
+    alert(readableAuthError(error));
+  }
+}
+
+async function mergeLocalAndFirestoreRecords() {
+  if (!firebaseReady || !currentUser) return;
+
+  try {
+    const cloudProgress = await loadFirestoreProgress();
+    progress = mergeProgressByTime(progress, cloudProgress);
+    localStorage.setItem(STORAGE_KEY, JSON.stringify(progress));
+    await syncAllRecordsToFirestore();
+  } catch (error) {
+    console.warn("Cloud merge failed. Local save still works.", error);
+    updateSaveStatus("Saved locally. Cloud sync failed.");
+  }
+}
+
+async function loadFirestoreProgress() {
+  const recordsRef = firebaseApi.collection(db, "users", currentUser.uid, "quizRecords");
+  const snapshot = await firebaseApi.getDocs(recordsRef);
+  const cloudProgress = {};
+  snapshot.forEach((docSnap) => {
+    cloudProgress[docSnap.id] = docSnap.data();
+  });
+  return cloudProgress;
+}
+
+function mergeProgressByTime(localRecords, cloudRecords) {
+  const merged = { ...localRecords };
+  for (const [questionId, cloudRecord] of Object.entries(cloudRecords || {})) {
+    const localRecord = merged[questionId];
+    if (!localRecord) {
+      merged[questionId] = cloudRecord;
+      continue;
+    }
+
+    const localTime = Date.parse(localRecord.lastSolvedAt || localRecord.updatedAt || 0);
+    const cloudTime = Date.parse(cloudRecord.lastSolvedAt || cloudRecord.updatedAt || 0);
+    merged[questionId] = cloudTime > localTime ? cloudRecord : localRecord;
+  }
+  return merged;
+}
+
+async function syncOneRecordToFirestore(questionId) {
+  if (!firebaseReady || !currentUser || !questionId) return;
+
+  try {
+    const record = progress[questionId];
+    const recordRef = firebaseApi.doc(db, "users", currentUser.uid, "quizRecords", questionId);
+    if (record) {
+      await firebaseApi.setDoc(recordRef, {
+        ...record,
+        questionId,
+        syncedAt: new Date().toISOString()
+      }, { merge: true });
+    } else {
+      await firebaseApi.deleteDoc(recordRef);
+    }
+    updateSaveStatus(`Synced with Firebase: ${currentUser.email}`);
+  } catch (error) {
+    console.warn("Cloud record sync failed. Local save still works.", error);
+    updateSaveStatus("Saved locally. Cloud sync failed.");
+  }
+}
+
+async function syncAllRecordsToFirestore() {
+  if (!firebaseReady || !currentUser) return;
+
+  try {
+    await Promise.all(Object.keys(progress).map((questionId) => syncOneRecordToFirestore(questionId)));
+  } catch (error) {
+    console.warn("Cloud full sync failed. Local save still works.", error);
+    updateSaveStatus("Saved locally. Cloud sync failed.");
+  }
+}
+
+async function clearFirestoreRecords() {
+  if (!firebaseReady || !currentUser) return;
+
+  try {
+    const recordsRef = firebaseApi.collection(db, "users", currentUser.uid, "quizRecords");
+    const snapshot = await firebaseApi.getDocs(recordsRef);
+    await Promise.all(snapshot.docs.map((docSnap) => firebaseApi.deleteDoc(docSnap.ref)));
+    updateSaveStatus(`Cleared Firebase records: ${currentUser.email}`);
+  } catch (error) {
+    console.warn("Cloud clear failed. Local records were cleared.", error);
+    updateSaveStatus("Local records cleared. Cloud clear failed.");
+  }
+}
+
+function readAuthInputs() {
+  return {
+    email: els.emailInput.value.trim(),
+    password: els.passwordInput.value
+  };
+}
+
+function updateAuthStatus(text) {
+  els.authStatus.textContent = text;
+}
+
+function readableAuthError(error) {
+  const code = error?.code || "";
+  if (code.includes("email-already-in-use")) return "This email is already signed up.";
+  if (code.includes("invalid-credential")) return "Email or password is incorrect.";
+  if (code.includes("weak-password")) return "Password should be at least 6 characters.";
+  if (code.includes("operation-not-allowed")) return "Enable Email/Password sign-in in Firebase Authentication.";
+  return error?.message || "Authentication failed.";
 }
 
 function normalizeQuestions(rawQuestions) {

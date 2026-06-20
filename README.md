@@ -2,7 +2,7 @@
 
 MedQuiz Locker is a simple static quiz web app for medical exam practice.
 
-It does not use npm, React, Next.js, Firebase, or login yet. It runs with plain HTML, CSS, JavaScript, JSON, and image files.
+It does not use npm, React, or Next.js. It runs with plain HTML, CSS, JavaScript, JSON, image files, and Firebase Web SDK CDN imports.
 
 ## Current Structure
 
@@ -12,6 +12,7 @@ These are the files that should be deployed to GitHub Pages:
 index.html
 app.js
 styles.css
+firebase-config.js
 data/questions.json
 assets/images/
 .nojekyll
@@ -73,7 +74,17 @@ https://yourname.github.io/medquiz-locker/
 
 Those two addresses have separate saved records. When the app is moved from local testing to GitHub Pages, existing local records will not automatically appear on the GitHub Pages URL.
 
-Each friend who opens the GitHub Pages site will have their own browser-local records. Records are not shared between people unless Firebase/login is added later.
+Each friend who opens the GitHub Pages site will have their own browser-local records.
+
+If a user logs in, the app also syncs records to Firebase Firestore:
+
+```text
+users/{uid}/quizRecords/{questionId}
+```
+
+When a user logs in, the app merges local records and Firestore records by `questionId`. If the same question exists in both places, the record with the newer `lastSolvedAt` wins.
+
+If Firebase fails to load or the user does not log in, the app keeps working with local browser save.
 
 ## Run Locally
 
@@ -113,6 +124,7 @@ app.js
 styles.css
 data/
 assets/
+firebase-config.js
 .nojekyll
 .gitignore
 README.md
@@ -152,17 +164,47 @@ Open that URL and check:
 5. Bookmark works.
 6. Refreshing the page keeps your records.
 
+## Firebase Setup
+
+Firebase is optional for basic local use, but needed for account sync.
+
+In the Firebase console:
+
+1. Open your Firebase project.
+2. Go to Authentication.
+3. Click Sign-in method.
+4. Enable Email/Password.
+5. Go to Firestore Database.
+6. Create a Firestore database if it does not exist.
+7. Add security rules similar to this:
+
+```text
+rules_version = '2';
+service cloud.firestore {
+  match /databases/{database}/documents {
+    match /users/{userId}/quizRecords/{questionId} {
+      allow read, write: if request.auth != null && request.auth.uid == userId;
+    }
+  }
+}
+```
+
+The Firebase web app settings are stored in:
+
+```text
+firebase-config.js
+```
+
+This file is safe to deploy for a normal Firebase web app. Security comes from Authentication and Firestore security rules, not from hiding the web config.
+
 ## Not Included Yet
 
 These are intentionally not included in this stage:
 
 ```text
-Firebase
-Login
-Account-based sync
 npm
 React
 Next.js
 ```
 
-For now, this is a GitHub Pages-ready static web app.
+For now, this is a GitHub Pages-ready static web app with optional Firebase login sync.
