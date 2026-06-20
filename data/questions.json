@@ -4157,5 +4157,3285 @@
         "answer":  5,
         "explanation":  "정답: 5번 · L4-L5 간략 해설: 핵심: 척수, 뇌실/뇌막, 뇌영역, 뇌신경, 중추신경 조직을 묻는 문제야. 정답 선지는 ‘L4-L5’로, 문제의 임상 단서/사진 표시 부위와 직접 연결되는 구조를 고르면 돼. 원본 정답 표시 이미지 보기",
         "image":  ""
+    },
+    {
+        "id":  "pharmacology_01_19_1",
+        "subject":  "Pharmacology",
+        "section":  "01 약리학 총론",
+        "question":  "27세 남자에게 약물 A 100 mg을 정맥주사(IV bolus injection)한 후 시간에 따른 혈중약물농도는 표는 다음과 같다. 약물 A의 청소율(clearance)은? (ln2=0.69) Time (h) Concentration (mg/L) 0 20.00 1 10.00 2 5.00 3 2.50 4 1.25",
+        "choices":  [
+                        "0.69 L/h",
+                        "1 L/h",
+                        "3.45 L/h",
+                        "5 L/h",
+                        "6.9 L/h"
+                    ],
+        "answer":  3,
+        "explanation":  "핵심 단서: 정맥투여 후 혈중농도-시간 자료. 정답 판단: 3번 3.45 L/h. 암기: CL = k × Vd. 반감기·분포용적 또는 AUC로 청소율을 계산한다.",
+        "image":  ""
+    },
+    {
+        "id":  "pharmacology_01_19_2",
+        "subject":  "Pharmacology",
+        "section":  "01 약리학 총론",
+        "question":  "20세 남자가 술을 많이 마신 후 의식을 잃고 응급실에 실려왔다. 시간에 따른 혈중 에탄올 농도 변화 그림(사진 1)이다. 에탄올의 약동학에 대한 설명 중 옳은 것은?",
+        "choices":  [
+                        "영차 약동학으로 흡수",
+                        "영차 약동학으로 제거",
+                        "일차 약동학으로 흡수",
+                        "일차 약동학으로 제거",
+                        "이차 약동학으로 제거"
+                    ],
+        "answer":  2,
+        "explanation":  "핵심 단서: 혈중 에탄올 농도 변화. 정답 판단: 2번 영차 약동학으로 제거. 암기: 에탄올은 치료농도 범위에서 포화대사로 영차 제거가 대표적이다.",
+        "image":  "assets/images/pharmacology_01_19_2.jpg"
+    },
+    {
+        "id":  "pharmacology_01_19_3",
+        "subject":  "Pharmacology",
+        "section":  "01 약리학 총론",
+        "question":  "28세 남자에게 약물을 투여한 후 시간에 따른 혈중 약물농도 변화 그림(사진 2)이다. 이와 같은 혈중 약물농도 변화를 나타내는 투여방법은?",
+        "choices":  [
+                        "경구투여",
+                        "경피패치",
+                        "피하주사",
+                        "정맥내주사",
+                        "근육내주사"
+                    ],
+        "answer":  4,
+        "explanation":  "핵심 단서: 문항의 약물-질환 조합. 정답 판단: 4번 정맥내주사. 암기: 대표 작용기전, 적응증, 대표 부작용을 한 세트로 연결한다.",
+        "image":  "assets/images/pharmacology_01_19_3.jpg"
+    },
+    {
+        "id":  "pharmacology_01_19_4",
+        "subject":  "Pharmacology",
+        "section":  "01 약리학 총론",
+        "question":  "반감기가 35시간, 분포용적이 10 L/kg인 약물 X를 정맥 투여하여 원하는 혈중농도에 도달하도록 부하용량을 투여 하고자 한다. 체중이 70 kg인 환자의 목표 혈중농도를 10 mg/L로 정할 경우 약물 X의 부하용량은?",
+        "choices":  [
+                        "70 mg/kg",
+                        "100 mg/kg",
+                        "700 mg/kg",
+                        "1000 mg/kg",
+                        "7000 mg/kg"
+                    ],
+        "answer":  2,
+        "explanation":  "핵심 단서: 목표 혈중농도와 분포용적. 정답 판단: 2번 100 mg/kg. 암기: Loading dose = Vd × 목표농도.",
+        "image":  ""
+    },
+    {
+        "id":  "pharmacology_01_19_5",
+        "subject":  "Pharmacology",
+        "section":  "01 약리학 총론",
+        "question":  "그림(사진 3)은 시간에 따른 혈중 약물농도 곡선이다. 이 약물의 작용과 관련하여 치료역(therapeutic window)에 해 당하는 것은?",
+        "choices":  [
+                        "A",
+                        "B",
+                        "C",
+                        "D",
+                        "E"
+                    ],
+        "answer":  5,
+        "explanation":  "핵심 단서: 최소유효농도와 최소독성농도 사이. 정답 판단: 5번 E. 암기: 치료역은 효과는 있고 독성은 없는 농도 범위이다.",
+        "image":  "assets/images/pharmacology_01_19_5.jpg"
+    },
+    {
+        "id":  "pharmacology_01_19_6",
+        "subject":  "Pharmacology",
+        "section":  "01 약리학 총론",
+        "question":  "그래프(사진 4)에서 A, B, C는 약물 X의 농도-반응곡선 이다. A곡선(약물 X 단독 투여)이 약물 Y를 동시에 투여함 에 따라 B곡선으로, 약물 Z를 동시투여하여 C곡선으로 변 화하였다. 수용체에 대한 약물 X와 Y의 상호작용은?",
+        "choices":  [
+                        "synergism",
+                        "potentiation",
+                        "additive effect",
+                        "competitive antagonism",
+                        "non-competitive antagonism"
+                    ],
+        "answer":  4,
+        "explanation":  "핵심 단서: 우측 이동, 최대효과 보존. 정답 판단: 4번 competitive antagonism. 암기: 경쟁적 길항은 potency를 낮추지만 Emax는 보존한다.",
+        "image":  "assets/images/pharmacology_01_19_6.jpg"
+    },
+    {
+        "id":  "pharmacology_01_19_7",
+        "subject":  "Pharmacology",
+        "section":  "01 약리학 총론",
+        "question":  "6번 문항과 동일한 그래프(사진 4)에서 약물 X와 Z의 상 호작용은?",
+        "choices":  [
+                        "synergism",
+                        "potentiation",
+                        "additive effect",
+                        "competitive antagonism",
+                        "non-competitive antagonism"
+                    ],
+        "answer":  5,
+        "explanation":  "핵심 단서: 우측 이동, 최대효과 보존. 정답 판단: 5번 non-competitive antagonism. 암기: 경쟁적 길항은 potency를 낮추지만 Emax는 보존한다.",
+        "image":  "assets/images/pharmacology_01_19_7.jpg"
+    },
+    {
+        "id":  "pharmacology_06_19_8",
+        "subject":  "Pharmacology",
+        "section":  "06 기타 장기에 작용하는 약물",
+        "question":  "48세 남자가 위궤양으로 cimetidine을 복용하고 있다. 무좀을 치료하기 위하여 경구용 ketoconazole을 처방할 경 우 예상되는 약물상호작용은?",
+        "choices":  [
+                        "Cimetidine의 대사가 촉진된다.",
+                        "Ketoconazole의 대사가 촉진된다.",
+                        "Ketoconazole의 위장관 흡수가 증가된다.",
+                        "Ketoconazole의 위장관 흡수가 저해된다.",
+                        "Cimetidine의 위산분비억제 효과가 감소된다."
+                    ],
+        "answer":  4,
+        "explanation":  "핵심 단서: 위산 억제제와 케토코나졸 병용. 정답 판단: 4번 Ketoconazole의 위장관 흡수가 저해된다.. 암기: 케토코나졸은 산성 환경에서 흡수가 좋아 H2 차단제 병용 시 흡수가 감소한다.",
+        "image":  ""
+    },
+    {
+        "id":  "pharmacology_01_19_9",
+        "subject":  "Pharmacology",
+        "section":  "01 약리학 총론",
+        "question":  "임신 중 약물사용과 관련하여 Category X를 설명한 것은?",
+        "choices":  [
+                        "동물연구에서 태아에 유해작용(기형, 태아사망 등)이 발견됨",
+                        "동물-생식연구에서 태아에 대한 유해작용(기형, 태아 사망 등) 위험을 증명하지 못했음",
+                        "여성 대조연구에서 임신 첫 3개월에 태아에 대한 유 해작용(기형, 태아사망 등) 위험을 증명하지 못했음",
+                        "사람에서 태아에 대한 유해작용(기형, 태아사망 등)이 명백하여 임신했거나 임신할 여성에게 사용 금지",
+                        "사람 태아에 유해작용(기형, 태아사망 등) 위험의 증거 가 있으나, 위험에도 불구하고 임산부에 유익성이 있음"
+                    ],
+        "answer":  4,
+        "explanation":  "핵심 단서: 임신 중 금기. 정답 판단: 4번 사람에서 태아에 대한 유해작용(기형, 태아사망 등)이 명백하여 임신했거나 임신할 여성에게 사용 금지. 암기: Category X는 사람 태아 위해가 명백해 임신 중 사용 금기이다.",
+        "image":  ""
+    },
+    {
+        "id":  "pharmacology_04_19_10",
+        "subject":  "Pharmacology",
+        "section":  "04 심혈관계 약물",
+        "question":  "임상시험 수행과정에서 발생한 다음의 내용 중 의약품 임상시험관리기준(GCP) 위반에 해당하는 경우는?",
+        "choices":  [
+                        "연구 대상자를 모집하기 위해 임상시험 참여방법과 참 여에 따른 사례 금액이 제시된 광고문을 게재하였다.",
+                        "연구 진행 중 한 연구 대상자가 참여 철회를 요구하 였다. 연구자는 이 요구에 응하여 해당 대상자를 제 외하였다.",
+                        "의무 기록 데이터를 기반으로 후향적 연구를 수행하 기에 앞서 대상자의 서면 동의를 받는 것이 현실적으 로 불가능하기에 기관윤리위원회(IRB)에 동의 면제를 신청하였다.",
+                        "혈압 하강제의 임상시험 과정에서 저혈압 쇼크가 발 생하여 신속히 응급처치를 수행한 결과 대상자는 회 복되었다. 해당 부작용에 대하여 IRB, 의뢰 제약회사, 허가 당국에 보고하였다.",
+                        "신약 임상시험에서 연구 대상자를 신약과 위약군에 무작위로 배정하고자 하였다. IRB는 “위약군에 속하는 경우 치료효과가 없는 위약을 사용하게 된다”는 문구 를 동의서에 삽입하도록 하였다."
+                    ],
+        "answer":  1,
+        "explanation":  "핵심 단서: 임상시험 광고·동의·보고. 정답 판단: 1번 연구 대상자를 모집하기 위해 임상시험 참여방법과 참 여에 따른 사례 금액이 제시된 광고문을 게재하였다.. 암기: 사례금 광고처럼 부당한 유인은 GCP 위반 소지가 크다.",
+        "image":  ""
+    },
+    {
+        "id":  "pharmacology_03_19_11",
+        "subject":  "Pharmacology",
+        "section":  "03 중추신경계 약물",
+        "question":  "54세 남자가 잠들기 힘들고 잠이 들어도 여러 번 깬다 며 병원에 왔다. 이러한 증상은 밤마다 지속되었으며 처방 받은 수면제를 복용해도 효과가 없고 다음 날 숙취현상 (hangover)이 나타났다. 적절한 수면제는?",
+        "choices":  [
+                        "clonazepam",
+                        "flurazepam",
+                        "lorazepam",
+                        "triazolam",
+                        "zolpidem"
+                    ],
+        "answer":  5,
+        "explanation":  "핵심 단서: 위궤양 + urease/CLO 양성. 정답 판단: 5번 zolpidem. 암기: H. pylori 제균요법에 macrolide인 clarithromycin이 포함된다.",
+        "image":  ""
+    },
+    {
+        "id":  "pharmacology_04_19_12",
+        "subject":  "Pharmacology",
+        "section":  "04 심혈관계 약물",
+        "question":  "56세 남자가 심장 판막수술을 위해 병원에 왔다. 순환 계, 특히 심장에 대한 영향이 적어 심장수술에 자주 사용 되며 mu-opioid 수용체를 차단하여 진통과 마취효과가 강 한 정맥마취제는?",
+        "choices":  [
+                        "fentanyl",
+                        "ketamine",
+                        "midazolam",
+                        "propofol",
+                        "thiopental"
+                    ],
+        "answer":  1,
+        "explanation":  "핵심 단서: benzodiazepine 과량/호흡억제. 정답 판단: 1번 fentanyl. 암기: Flumazenil은 benzodiazepine 수용체 길항제이다.",
+        "image":  ""
+    },
+    {
+        "id":  "pharmacology_02_19_13",
+        "subject":  "Pharmacology",
+        "section":  "02 자율신경계 약물",
+        "question":  "X와 Y는 의존성을 유발하는 향정신성 약물이다. 그림 (사진 5)은 X와 Y에 의한 정신 및 신체상태 등의 약물반응 을 시간에 따라 나타낸 것이다(High: 황홀감, Sick: 불쾌감). X와 Y에 대한 설명으로 옳은 것은? (단, 파란색 굵은 화살 표는 약물투여 시기를 나타냄)",
+        "choices":  [
+                        "X는 Y보다 소수성이 크다.",
+                        "X는 Y보다 심한 금단증상을 유발한다.",
+                        "X는 Y보다 약물의존성 발현율이 높다.",
+                        "X는 Y보다 혈액뇌장벽 투과율이 낮다.",
+                        "X는 Y보다 높은 뇌보상반응(reward)을 유발한다."
+                    ],
+        "answer":  4,
+        "explanation":  "핵심 단서: 문항의 약물-질환 조합. 정답 판단: 4번 X는 Y보다 혈액뇌장벽 투과율이 낮다.. 암기: 대표 작용기전, 적응증, 대표 부작용을 한 세트로 연결한다.",
+        "image":  "assets/images/pharmacology_02_19_13.jpg"
+    },
+    {
+        "id":  "pharmacology_03_19_14",
+        "subject":  "Pharmacology",
+        "section":  "03 중추신경계 약물",
+        "question":  "72세 여자에게 대장내시경을 하기 위하여 midazolam 을 정맥주사하였다. 내시경을 하던 중 심각한 호흡억제가 나타났다. 호흡억제 개선을 위하여 투여해야 할 약물은?",
+        "choices":  [
+                        "baclofen",
+                        "diazepam",
+                        "flumazenil",
+                        "muscimol",
+                        "propofol"
+                    ],
+        "answer":  3,
+        "explanation":  "핵심 단서: 위궤양 + urease/CLO 양성. 정답 판단: 3번 flumazenil. 암기: H. pylori 제균요법에 macrolide인 clarithromycin이 포함된다.",
+        "image":  ""
+    },
+    {
+        "id":  "pharmacology_02_19_15",
+        "subject":  "Pharmacology",
+        "section":  "02 자율신경계 약물",
+        "question":  "49세 여자가 두경부 방사선치료 후 구강건조(xerostomia) 를 호소하여 pilocarpine을 투여하였다. 나타날 수 있는 유해 반응은?",
+        "choices":  [
+                        "발한(sweating)",
+                        "혼돈(confusion)",
+                        "안구건조(dry eye)",
+                        "빠른맥(tachycardia)",
+                        "섬모체근마비(cycloplegia)"
+                    ],
+        "answer":  1,
+        "explanation":  "핵심 단서: 위궤양 + urease/CLO 양성. 정답 판단: 1번 발한(sweating). 암기: H. pylori 제균요법에 macrolide인 clarithromycin이 포함된다.",
+        "image":  ""
+    },
+    {
+        "id":  "pharmacology_05_19_16",
+        "subject":  "Pharmacology",
+        "section":  "05 내분비계 약물",
+        "question":  "정신질환 치료를 받는 환자에게서 약물치료 후 떨림 (tremor), 다음증(polydipsia), 갑상샘저하증(hypothyroidism), 체중증가 등이 나타났다. 이러한 유해반응의 원인 약물은?",
+        "choices":  [
+                        "aripiprazole",
+                        "chlorpromazine",
+                        "fluoxetine",
+                        "haloperidol",
+                        "lithium chloride"
+                    ],
+        "answer":  5,
+        "explanation":  "핵심 단서: 떨림·다음증·갑상샘저하증. 정답 판단: 5번 lithium chloride. 암기: Lithium의 대표 부작용은 tremor, polyuria/polydipsia, hypothyroidism이다.",
+        "image":  ""
+    },
+    {
+        "id":  "pharmacology_02_19_17",
+        "subject":  "Pharmacology",
+        "section":  "02 자율신경계 약물",
+        "question":  "55세 남자가 파킨슨병으로 진단 받았다. 초기에는 trihexyphenidyl을 투여하여 증상이 호전되었으나 시간이 경과되면서 안정떨림(resting tremor), 경직(rigidity) 증상이 나타나 levodopa를 투여하였다. Levodopa의 역할은?",
+        "choices":  [
+                        "COMT 억제",
+                        "MAO-B 억제",
+                        "도파민의 전구물질",
+                        "도파민 수용체 활성화",
+                        "무스카린 수용체 차단"
+                    ],
+        "answer":  3,
+        "explanation":  "핵심 단서: 파킨슨병 운동증상. 정답 판단: 3번 도파민의 전구물질. 암기: Levodopa는 dopamine 전구물질이다.",
+        "image":  ""
+    },
+    {
+        "id":  "pharmacology_03_19_18",
+        "subject":  "Pharmacology",
+        "section":  "03 중추신경계 약물",
+        "question":  "63세 여자가 기억력 저하로 병원에 왔다. 알츠하이머병 으로 진단하고 도네페질(donepezil)을 처방하였다. 아세틸 콜린 신경전달과정 그림(사진 6)에서 도네페질의 표적은?",
+        "choices":  [
+                        "A",
+                        "B",
+                        "C",
+                        "D",
+                        "E"
+                    ],
+        "answer":  5,
+        "explanation":  "핵심 단서: 알츠하이머병 치료. 정답 판단: 5번 E. 암기: Donepezil은 acetylcholinesterase 억제제이다.",
+        "image":  "assets/images/pharmacology_03_19_18.jpg"
+    },
+    {
+        "id":  "pharmacology_04_19_19",
+        "subject":  "Pharmacology",
+        "section":  "04 심혈관계 약물",
+        "question":  "59세 남자가 피로, 호흡곤란, 전신부종으로 병원에 왔 다. 심장기능상실이 진단되어 디곡신을 처방하였다. 만일 이 환자가 티아지드(thiazide)나 고리이뇨제(loop diuretics)를 함께 복용한다면 디곡신 독성이 더 잘 발생할 수 있다. 이 를 예방하기 위하여 추적관찰해야 하는 혈액검사 지표는?",
+        "choices":  [
+                        "bicarbonate",
+                        "chloride",
+                        "glucose",
+                        "potassium",
+                        "sodium"
+                    ],
+        "answer":  4,
+        "explanation":  "핵심 단서: thiazide 이뇨제. 정답 판단: 4번 potassium. 암기: Thiazide는 원위곡세관 NaCl 공동수송체를 억제한다.",
+        "image":  ""
+    },
+    {
+        "id":  "pharmacology_04_19_20",
+        "subject":  "Pharmacology",
+        "section":  "04 심혈관계 약물",
+        "question":  "57세 남자가 심장기능상실 치료를 위하여 디곡신을 복 용하던 중 부정맥이 발생하였다. 심근세포 수축조절을 설 명한 그림(사진 7)이다. 디곡신의 약물표적은?",
+        "choices":  [
+                        "A",
+                        "B",
+                        "C",
+                        "D",
+                        "E"
+                    ],
+        "answer":  1,
+        "explanation":  "핵심 단서: 문항의 약물-질환 조합. 정답 판단: 1번 A. 암기: 대표 작용기전, 적응증, 대표 부작용을 한 세트로 연결한다.",
+        "image":  "assets/images/pharmacology_04_19_20.jpg"
+    },
+    {
+        "id":  "pharmacology_04_19_21",
+        "subject":  "Pharmacology",
+        "section":  "04 심혈관계 약물",
+        "question":  "고혈압 치료에 많이 사용되는 이뇨제 중 혈관 확장작 용을 하는 chlorothiazide의 작용부위는?",
+        "choices":  [
+                        "proximal convoluted tubule",
+                        "descending limb of Henle",
+                        "thick ascending limb of Henle",
+                        "distal convoluted tubule",
+                        "collecting duct"
+                    ],
+        "answer":  4,
+        "explanation":  "핵심 단서: thiazide 이뇨제. 정답 판단: 4번 distal convoluted tubule. 암기: Thiazide는 원위곡세관 NaCl 공동수송체를 억제한다.",
+        "image":  ""
+    },
+    {
+        "id":  "pharmacology_06_19_22",
+        "subject":  "Pharmacology",
+        "section":  "06 기타 장기에 작용하는 약물",
+        "question":  "37세 여자가 알레르기성 비염을 앓고 있다. 2세대 항히 스타민제를 처방하였다. 2세대 항히스타민제가 1세대 항히 스타민제에 비하여 가장 구별되는 특성은?",
+        "choices":  [
+                        "H1 수용체 선택성",
+                        "혈액뇌장벽 투과성",
+                        "H1 수용체 차단 효과",
+                        "H2 수용체 차단 효과",
+                        "알레르기 증상 완화 효과"
+                    ],
+        "answer":  2,
+        "explanation":  "핵심 단서: 문항의 약물-질환 조합. 정답 판단: 2번 혈액뇌장벽 투과성. 암기: 대표 작용기전, 적응증, 대표 부작용을 한 세트로 연결한다.",
+        "image":  ""
+    },
+    {
+        "id":  "pharmacology_07_19_23",
+        "subject":  "Pharmacology",
+        "section":  "07 항염증제, 면역억제제, 항암제",
+        "question":  "항암제 중 일부는 암세포의 세포주기와 무관하게 항암 효과를 나타내고 다른 일부는 암세포 세포주기의 특정기에 선택적으로 작용한다. 다음 중 세포주기 특이성 항암제는?",
+        "choices":  [
+                        "cisplatin",
+                        "cyclophosphamide",
+                        "dactinomycin",
+                        "doxorubicin",
+                        "5-fluorouracil"
+                    ],
+        "answer":  5,
+        "explanation":  "핵심 단서: 위궤양 + urease/CLO 양성. 정답 판단: 5번 5-fluorouracil. 암기: H. pylori 제균요법에 macrolide인 clarithromycin이 포함된다.",
+        "image":  ""
+    },
+    {
+        "id":  "pharmacology_07_19_24",
+        "subject":  "Pharmacology",
+        "section":  "07 항염증제, 면역억제제, 항암제",
+        "question":  "67세 여자가 관절염을 치료하기 위하여 아스피린을 복 용하던 중 구역, 구토, 속쓰림, 식욕부진의 유해반응이 나타 나 다른 약물로 대체하려고 한다. 가장 적절한 약물은?",
+        "choices":  [
+                        "phospholipase A2 억제제",
+                        "phospholipase C 억제제",
+                        "cyclooxygenase 1 억제제",
+                        "cyclooxygenase 2 억제제",
+                        "5-lipoxygenase 억제제"
+                    ],
+        "answer":  4,
+        "explanation":  "핵심 단서: 위궤양 + urease/CLO 양성. 정답 판단: 4번 cyclooxygenase 2 억제제. 암기: H. pylori 제균요법에 macrolide인 clarithromycin이 포함된다.",
+        "image":  ""
+    },
+    {
+        "id":  "pharmacology_08_19_25",
+        "subject":  "Pharmacology",
+        "section":  "08 미생물에 대한 화학요법",
+        "question":  "35세 남자가 서아프리카 여행을 다녀온 후 고열과 두통으 로 병원에 왔다. 말초혈액도말검사결과(사진 8) 정상 크기의 적 혈구 내에서 밴드형의 말라리아원충이 관찰되어 primaquine을 처방하였다. 만일 이 환자에게 glucose-6-phosphate dehydrogenase 효소가 결핍되어 있다면 예상되는 유해반응은?",
+        "choices":  [
+                        "혈뇨",
+                        "치아착색",
+                        "시력저하",
+                        "용혈성 빈혈",
+                        "무과립백혈구증"
+                    ],
+        "answer":  4,
+        "explanation":  "핵심 단서: primaquine 사용 전 확인. 정답 판단: 4번 용혈성 빈혈. 암기: G6PD 결핍에서 primaquine은 용혈성 빈혈을 유발할 수 있다.",
+        "image":  "assets/images/pharmacology_08_19_25.jpg"
+    },
+    {
+        "id":  "pharmacology_08_19_26",
+        "subject":  "Pharmacology",
+        "section":  "08 미생물에 대한 화학요법",
+        "question":  "60세 남자에게 위암 수술 후 경정맥 영양공급을 위해 중심정맥 카테터를 삽입하였다. 카테터 삽입 일주일째 갑 자기 고열이 관찰되어 혈액배양검사를 시행한 결과, 메티 실린내성 포도알균이 동정되었다. 이 환자에게 적절한 항 균제는?",
+        "choices":  [
+                        "ampicillin",
+                        "carbapenem",
+                        "cefotaxime",
+                        "penicillin",
+                        "vancomycin"
+                    ],
+        "answer":  5,
+        "explanation":  "핵심 단서: 문항의 약물-질환 조합. 정답 판단: 5번 vancomycin. 암기: 대표 작용기전, 적응증, 대표 부작용을 한 세트로 연결한다.",
+        "image":  ""
+    },
+    {
+        "id":  "pharmacology_05_19_27",
+        "subject":  "Pharmacology",
+        "section":  "05 내분비계 약물",
+        "question":  "50세 남자가 혈당 조절을 위하여 metformin을 복용하 고 있다. Metformin의 작용기전은?",
+        "choices":  [
+                        "인크레틴 작용 촉진",
+                        "alpha-glucosidase 작용 억제",
+                        "AMP-activated protein kinase 활성 촉진",
+                        "sodium-glucose co-transporter 2 작용 억제",
+                        "peroxisome proliferator-activated receptor-gamma 작용 촉진"
+                    ],
+        "answer":  3,
+        "explanation":  "핵심 단서: 제2형 당뇨 1차 약물. 정답 판단: 3번 AMP-activated protein kinase 활성 촉진. 암기: Metformin은 AMPK 활성화로 간 포도당 생성을 감소시킨다.",
+        "image":  ""
+    },
+    {
+        "id":  "pharmacology_02_19_28",
+        "subject":  "Pharmacology",
+        "section":  "02 자율신경계 약물",
+        "question":  "임신 30주인 32세 여자가 조숙산통(premature labor)으 로 병원에 왔다. 자궁수축을 억제하기 위하여 ritodrine을 주사한 후 유해반응으로 빠른맥이 나타났다. Ritodrine이 자궁수축을 억제하는 기전은?",
+        "choices":  [
+                        "프로스타글란딘 합성 차단",
+                        "자궁의 옥시토신 수용체 차단",
+                        "시상하부에서 옥시토신 합성 억제",
+                        "자궁의 베타 아드레날린 수용체 자극",
+                        "뇌하수체후엽에서 옥시토신 유리 억제"
+                    ],
+        "answer":  4,
+        "explanation":  "핵심 단서: 조산 진통 억제. 정답 판단: 4번 자궁의 베타 아드레날린 수용체 자극. 암기: β2 작용제는 자궁평활근을 이완하지만 빈맥을 유발할 수 있다.",
+        "image":  ""
+    },
+    {
+        "id":  "pharmacology_06_19_29",
+        "subject":  "Pharmacology",
+        "section":  "06 기타 장기에 작용하는 약물",
+        "question":  "Esomeprazole은 소화성 궤양의 치료에 사용되는 약물 이다. Esomeprazole의 혈장 반감기는 수시간이나 위산감소 효과는 수일 동안 지속된다. 그 이유로 적절한 설명은?",
+        "choices":  [
+                        "Esomeprazole의 H. pylori에 대한 직접적인 항균작 용 때문이다.",
+                        "위산분비 억제효과를 가진 프로스타글란딘 합성을 증 가시키기 때문이다.",
+                        "새로운 H+, K+-ATPase가 합성될 때까지 위산분비 억 제효과가 나타나기 때문이다.",
+                        "새로운 히스타민 H1 수용체가 합성될 때까지 위산분 비 억제효과가 나타나기 때문이다.",
+                        "새로운 히스타민 H2 수용체가 합성될 때까지 위산분 비 억제효과가 나타나기 때문이다."
+                    ],
+        "answer":  3,
+        "explanation":  "핵심 단서: PPI와 긴 위산억제 효과. 정답 판단: 3번 새로운 H+, K+-ATPase가 합성될 때까지 위산분비 억 제효과가 나타나기 때문이다.. 암기: PPI는 H+/K+-ATPase를 비가역 억제해 새 펌프가 합성될 때까지 작용한다.",
+        "image":  ""
+    },
+    {
+        "id":  "pharmacology_06_19_30",
+        "subject":  "Pharmacology",
+        "section":  "06 기타 장기에 작용하는 약물",
+        "question":  "52세 여자가 난소암을 치료하기 위해 cisplatin을 투여 받고 심한 구토 증상을 보였다. 다음 cisplatin 투여 시에는 구토 증상을 예방하기 위해 ondansetron을 정맥주사하기 로 하였다. Ondansetron의 작용기전은?",
+        "choices":  [
+                        "D2 도파민 수용체 차단",
+                        "M1 무스카린 수용체 차단",
+                        "H1 히스타민 수용체 차단",
+                        "NK1 뉴로키닌 수용체 차단",
+                        "5-HT3 세로토닌 수용체 차단"
+                    ],
+        "answer":  5,
+        "explanation":  "핵심 단서: 항암제 유발 구토 예방. 정답 판단: 5번 5-HT3 세로토닌 수용체 차단. 암기: Ondansetron은 5-HT3 수용체 길항제이다.",
+        "image":  ""
+    },
+    {
+        "id":  "pharmacology_01_19_31",
+        "subject":  "Pharmacology",
+        "section":  "01 약리학 총론",
+        "question":  "많은 약물은 체내대사과정을 거친 후 제거된다. 약물과 그 대사산물을 비교할 때 대사산물의 일반적 특성은?",
+        "choices":  [
+                        "지용성이 낮아진다.",
+                        "수용성이 낮아진다.",
+                        "이온화 정도가 낮아진다.",
+                        "신장의 재흡수율이 높아진다.",
+                        "혈액뇌장벽 투과성이 높아진다."
+                    ],
+        "answer":  1,
+        "explanation":  "핵심 단서: 문항의 약물-질환 조합. 정답 판단: 1번 지용성이 낮아진다.. 암기: 대표 작용기전, 적응증, 대표 부작용을 한 세트로 연결한다.",
+        "image":  ""
+    },
+    {
+        "id":  "pharmacology_02_19_32",
+        "subject":  "Pharmacology",
+        "section":  "02 자율신경계 약물",
+        "question":  "60세 여자가 요실금 치료를 위한 약물을 복용한 후 입 이 마르고 시야가 흐릿하다고 하였다. 복용한 약물은?",
+        "choices":  [
+                        "무스카린 수용체 작용제",
+                        "무스카린 수용체 길항제",
+                        "베타 아드레날린 수용체 작용제",
+                        "베타 아드레날린 수용체 길항제",
+                        "알파 아드레날린 수용체 길항제"
+                    ],
+        "answer":  2,
+        "explanation":  "핵심 단서: 입마름·시야흐림. 정답 판단: 2번 무스카린 수용체 길항제. 암기: 절박요실금 약물은 주로 M 수용체 길항제라 항콜린 부작용이 생긴다.",
+        "image":  ""
+    },
+    {
+        "id":  "pharmacology_07_19_33",
+        "subject":  "Pharmacology",
+        "section":  "07 항염증제, 면역억제제, 항암제",
+        "question":  "25세 남자가 알레르기성 천식을 진단받고 corticosteroid 를 투여하였으나 호전되지 않아 omalizumab을 투여하기로 하였다. Omalizumab의 약물 표적은?",
+        "choices":  [
+                        "IgE",
+                        "IgG",
+                        "neutrophil",
+                        "macrophage",
+                        "complement"
+                    ],
+        "answer":  1,
+        "explanation":  "핵심 단서: 스테로이드 불응 알레르기 천식. 정답 판단: 1번 IgE. 암기: Omalizumab은 IgE를 표적으로 한다.",
+        "image":  ""
+    },
+    {
+        "id":  "pharmacology_07_19_34",
+        "subject":  "Pharmacology",
+        "section":  "07 항염증제, 면역억제제, 항암제",
+        "question":  "58세 남자가 신장 이식 후 이식거부반응을 억제하기 위한 약물을 복용하고 있다. 면역억제제 중 T 림프구 내 calcineurin과 결합하여 IL-2의 발현을 저해하는 약물은?",
+        "choices":  [
+                        "azathioprine",
+                        "cyclosporine",
+                        "methotrexate",
+                        "prednisolone",
+                        "sirolimus"
+                    ],
+        "answer":  2,
+        "explanation":  "핵심 단서: 위궤양 + urease/CLO 양성. 정답 판단: 2번 cyclosporine. 암기: H. pylori 제균요법에 macrolide인 clarithromycin이 포함된다.",
+        "image":  ""
+    },
+    {
+        "id":  "pharmacology_08_19_35",
+        "subject":  "Pharmacology",
+        "section":  "08 미생물에 대한 화학요법",
+        "question":  "35세 남자가 결핵을 진단받은 후 이소니아지드(isoniazid), 리팜피신(rifampicin), 피라진아미드(pyrazinamide) 투여받고 있다. 환자가 최근 사랑니 발치로 아목시실린(amoxicillin)을 투여 받게 되었다. 아목시실린이 결핵치료에 도움 되지 않는 이유는?",
+        "choices":  [
+                        "결핵균이 아목시실린을 분해한다.",
+                        "결핵균은 증식이 빨라 아목시실린이 효과가 없다.",
+                        "아목시실린이 결핵균의 세포벽을 투과하지 못한다.",
+                        "결핵균이 아목시실린에 대한 내성을 쉽게 획득한다.",
+                        "결핵균은 혐기성 세균이므로 아목시실린이 효과가 없다."
+                    ],
+        "answer":  3,
+        "explanation":  "핵심 단서: Mycobacterium tuberculosis. 정답 판단: 3번 아목시실린이 결핵균의 세포벽을 투과하지 못한다.. 암기: 결핵균은 지질 풍부 세포벽 때문에 일반 β-lactam 투과/효과가 제한된다.",
+        "image":  ""
+    },
+    {
+        "id":  "pharmacology_01_21_1",
+        "subject":  "Pharmacology",
+        "section":  "01 약리학 총론",
+        "question":  "다음 괄호 안에 들어갈 약동학 파라미터는 무엇인가? 약물제거속도(rate of elimination) = ( ) X 약물농도(concentration)",
+        "choices":  [
+                        "제거속도상수(elimination rate constant)",
+                        "청소율(clearance)",
+                        "반감기(half-life)",
+                        "분포용적(volume of distribution)",
+                        "용량(amount)"
+                    ],
+        "answer":  2,
+        "explanation":  "핵심 단서: 정맥투여 후 혈중농도-시간 자료. 정답 판단: 2번 청소율(clearance). 암기: CL = k × Vd. 반감기·분포용적 또는 AUC로 청소율을 계산한다.",
+        "image":  ""
+    },
+    {
+        "id":  "pharmacology_01_21_2",
+        "subject":  "Pharmacology",
+        "section":  "01 약리학 총론",
+        "question":  "30세 여성이 새로 개발된 한 약물의 임상시험에 연구대상자로 참여하였다. 이 약물의 청소율 은 1.9 L/h이고, 분포용적은 96 L이었다. 이 약물의 반감기는 대략 얼마인가?",
+        "choices":  [
+                        "33시간",
+                        "35시간",
+                        "38시간",
+                        "41시간",
+                        "43시간"
+                    ],
+        "answer":  2,
+        "explanation":  "핵심 단서: 정맥투여 후 혈중농도-시간 자료. 정답 판단: 2번 35시간. 암기: CL = k × Vd. 반감기·분포용적 또는 AUC로 청소율을 계산한다.",
+        "image":  ""
+    },
+    {
+        "id":  "pharmacology_07_21_3",
+        "subject":  "Pharmacology",
+        "section":  "07 항염증제, 면역억제제, 항암제",
+        "question":  "73세 여자가 1년 전부터 물건을 잘 찾지 못하면서 누군가 자신의 물건을 훔쳐 간다고 의심 하여 병원에 왔다. 3개월 전부터 조금 전에 만나고 온 사람이 누구인지 잘 기억하지 못하고, 방금 밥을 먹고도 식구들이 자신에게 밥을 주지 않는다며 화를 냈다고 한다. 간이정신상태검 사는 15점이다. 의식은 명료하고 신경학적 검사에서 이상은 없다. 적절한 치료 약물은?",
+        "choices":  [
+                        "도네페질",
+                        "암페타민",
+                        "클로니딘",
+                        "이미프라민",
+                        "아캄프로세이트"
+                    ],
+        "answer":  1,
+        "explanation":  "핵심 단서: 문항의 약물-질환 조합. 정답 판단: 1번 도네페질. 암기: 대표 작용기전, 적응증, 대표 부작용을 한 세트로 연결한다.",
+        "image":  ""
+    },
+    {
+        "id":  "pharmacology_02_21_4",
+        "subject":  "Pharmacology",
+        "section":  "02 자율신경계 약물",
+        "question":  "60세 여자가 최근 의지와 상관없이 팔다리가 불규칙하게 움찔거리는 증상이 나타나 병원에 왔다. 환자는 5년 전에 파킨슨병은 진단받고 레보도파를 복용하고 있다. 증상은 약물복용 직 후 더욱 심한 양상을 보였다. 관련된 수용체는?",
+        "choices":  [
+                        "도파민 수용체",
+                        "니코틴 수용체",
+                        "세로토닌 수용체",
+                        "무스카린 수용체",
+                        "아세틸콜린 수용체"
+                    ],
+        "answer":  1,
+        "explanation":  "핵심 단서: 문항의 약물-질환 조합. 정답 판단: 1번 도파민 수용체. 암기: 대표 작용기전, 적응증, 대표 부작용을 한 세트로 연결한다.",
+        "image":  ""
+    },
+    {
+        "id":  "pharmacology_03_21_5",
+        "subject":  "Pharmacology",
+        "section":  "03 중추신경계 약물",
+        "question":  "남편과 부부싸움 후 디아제팜을 다량 복용한 30세 여자가 의식저하를 주소로 응급실을 방문 하였다. 호흡수는 분당 7회였다. 적절한 치료 약물은?",
+        "choices":  [
+                        "날록손",
+                        "도파민",
+                        "메타돈",
+                        "할로페리돌",
+                        "플루마제닐"
+                    ],
+        "answer":  5,
+        "explanation":  "핵심 단서: 문항의 약물-질환 조합. 정답 판단: 5번 플루마제닐. 암기: 대표 작용기전, 적응증, 대표 부작용을 한 세트로 연결한다.",
+        "image":  ""
+    },
+    {
+        "id":  "pharmacology_03_21_6",
+        "subject":  "Pharmacology",
+        "section":  "03 중추신경계 약물",
+        "question":  "17세 남학생이 6개월 전부터 수업시간에 집중하기 어렵고 안절부절 못하며 학교에 가기 싫 어하여 병원에 왔다. 유치원 때에도 차례를 기다리지 못하여 지적을 많이 받았으며 초등학교 때는 과제를 끝마치지 못하고 자주 미루어 엄마와 갈등이 많았다. 현재도 시험을 볼 때 실수 가 많고 사소한 자극에 화를 내고 눈치 없이 끼어든다. 적절한 치료 약물은?",
+        "choices":  [
+                        "로라제팜",
+                        "발프로산",
+                        "카르바마제핀",
+                        "프로프라놀롤",
+                        "메틸페니데이트"
+                    ],
+        "answer":  5,
+        "explanation":  "핵심 단서: 문항의 약물-질환 조합. 정답 판단: 5번 메틸페니데이트. 암기: 대표 작용기전, 적응증, 대표 부작용을 한 세트로 연결한다.",
+        "image":  ""
+    },
+    {
+        "id":  "pharmacology_08_21_7",
+        "subject":  "Pharmacology",
+        "section":  "08 미생물에 대한 화학요법",
+        "question":  "페니실린내성 폐렴사슬알균이 페니실린에 내성을 획득하는 기전은?",
+        "choices":  [
+                        "페니실린 분해 효소 생산",
+                        "페니실린 결합 단백의 과다 생산",
+                        "페니실린 표적단백 변화",
+                        "페니실린 투과성 저하",
+                        "페니실린을 세포 밖으로 배출"
+                    ],
+        "answer":  3,
+        "explanation":  "핵심 단서: penicillin-resistant pneumococcus. 정답 판단: 3번 페니실린 표적단백 변화. 암기: 내성은 주로 penicillin-binding protein 변화 때문이다.",
+        "image":  ""
+    },
+    {
+        "id":  "pharmacology_08_21_8",
+        "subject":  "Pharmacology",
+        "section":  "08 미생물에 대한 화학요법",
+        "question":  "30세 남자가 4일 전부터 물설사를 하였고, 3일 전부터 열이 났다. 혈압 120/70 mmHg, 맥 박 100회/분, 호흡 18회/분, 체온 38.5℃였다. 대변검사에서 백혈구가 다수 관찰되었다. 적절 한 치료 약물은?",
+        "choices":  [
+                        "아목시실린",
+                        "반코마이신",
+                        "독시사이클린",
+                        "메트로니다졸",
+                        "시프로플록사신"
+                    ],
+        "answer":  5,
+        "explanation":  "핵심 단서: 발열·대변 백혈구 양성 설사. 정답 판단: 5번 시프로플록사신. 암기: 침습성 세균성 장염은 fluoroquinolone 선택지가 맞다.",
+        "image":  ""
+    },
+    {
+        "id":  "pharmacology_08_21_9",
+        "subject":  "Pharmacology",
+        "section":  "08 미생물에 대한 화학요법",
+        "question":  "50세 남자가 1주일 전부터 시작된 발열, 오한, 두통 및 근육통으로 병원에 왔다. 매주 주말마 다 등산을 다니는 것 이외에는 특이 병력이 없었다. 신체진찰에서 오른팔에 붉고 딱딱한 피 부병변(사진)이 있었으며, 배와 등에도 발진이 관찰되었다. 혈압 120/80 mmHg, 맥박 90회/ 분, 호흡 20회/분, 체온은 38.9℃였다. 적절한 치료 약물은?",
+        "choices":  [
+                        "세프라딘",
+                        "아시클로버",
+                        "클린다마이신",
+                        "독시사이클린",
+                        "시프로플록사신"
+                    ],
+        "answer":  4,
+        "explanation":  "핵심 단서: 등산 후 eschar·발열·발진. 정답 판단: 4번 독시사이클린. 암기: 쯔쯔가무시/리케차 의심 시 doxycycline을 사용한다.",
+        "image":  "assets/images/pharmacology_08_21_9.jpg"
+    },
+    {
+        "id":  "pharmacology_04_21_10",
+        "subject":  "Pharmacology",
+        "section":  "04 심혈관계 약물",
+        "question":  "30세 여자가 반복되는 물설사로 병원에 왔다. 작년부터 일주일에 한 두 차례, 아랫배가 아프 고 배가 더부룩하고 소화가 잘되지 않았다고 한다. 평소에 스트레스를 받으면 물설사 횟수가 늘어난다고 한다. 아랫배가 아픈 증상은 대변을 보고 나면 호전되었다. 신체검진에서 혈압 120/80 mmHg, 맥박 80회/분, 호흡 18회/분, 체온 36.5℃였고, 복부에서 만져지는 덩이나 압통은 없었다. 적절한 치료 약물은?",
+        "choices":  [
+                        "로페라미드",
+                        "설파살라진",
+                        "돔페리돈",
+                        "네오마이신",
+                        "중간사슬 중성지방"
+                    ],
+        "answer":  1,
+        "explanation":  "핵심 단서: 비감염성 물설사 조절. 정답 판단: 1번 로페라미드. 암기: Loperamide는 장관 μ-opioid 수용체를 통해 장운동을 억제한다.",
+        "image":  ""
+    },
+    {
+        "id":  "pharmacology_07_21_11",
+        "subject":  "Pharmacology",
+        "section":  "07 항염증제, 면역억제제, 항암제",
+        "question":  "55세 여자가 심한 토혈로 응급실에 왔다. 상부위장관 조영술에서 위궤양과 혈관 노출이 발견 되었다. 재출혈 예방을 위한 약물은?",
+        "choices":  [
+                        "아스피린",
+                        "리도카인",
+                        "0.9% N/S",
+                        "에피네프린 희석액",
+                        "글루코코르티코이드"
+                    ],
+        "answer":  4,
+        "explanation":  "핵심 단서: Class Ib 항부정맥제. 정답 판단: 4번 에피네프린 희석액. 암기: Lidocaine은 전압개폐 Na+ 통로를 차단한다.",
+        "image":  ""
+    },
+    {
+        "id":  "pharmacology_08_21_12",
+        "subject":  "Pharmacology",
+        "section":  "08 미생물에 대한 화학요법",
+        "question":  "60세 남자가 명치 부위 통증으로 병원에 왔다. 위내시경에서 위궤양 소견을 확인하였으며 신 속요소분해효소검사 결과는 양성이었다. 적절한 치료 약물은?",
+        "choices":  [
+                        "세파졸린",
+                        "프라지콴텔",
+                        "겐타마이신",
+                        "암포테리신 B",
+                        "클래리스로마이신"
+                    ],
+        "answer":  5,
+        "explanation":  "핵심 단서: 문항의 약물-질환 조합. 정답 판단: 5번 클래리스로마이신. 암기: 대표 작용기전, 적응증, 대표 부작용을 한 세트로 연결한다.",
+        "image":  ""
+    },
+    {
+        "id":  "pharmacology_07_21_13",
+        "subject":  "Pharmacology",
+        "section":  "07 항염증제, 면역억제제, 항암제",
+        "question":  "15세 여자가 월경통으로 병원에 왔다. 초경은 2년 전에 있었다. 골반진찰에서 아랫배에 압통 은 없었고 덩이는 만져지지 않았다. 골반초음파검사에서 자궁과 난소는 정상이었다. 적절한 치료 약물은?",
+        "choices":  [
+                        "다나졸",
+                        "에스트로겐",
+                        "브로모크립틴",
+                        "글루코코르티코이드",
+                        "프로스타글란딘 억제제"
+                    ],
+        "answer":  5,
+        "explanation":  "핵심 단서: 문항의 약물-질환 조합. 정답 판단: 5번 프로스타글란딘 억제제. 암기: 대표 작용기전, 적응증, 대표 부작용을 한 세트로 연결한다.",
+        "image":  ""
+    },
+    {
+        "id":  "pharmacology_07_21_14",
+        "subject":  "Pharmacology",
+        "section":  "07 항염증제, 면역억제제, 항암제",
+        "question":  "15세 여자가 가슴 두근거림으로 병원에 왔다. 땀이 많이 나고 불안 증상을 호소하였다. 눈이 돌출되어 있었고, 목 앞쪽에 6x4 cm 크기의 결절이 만져졌다. 혈압 110/70 mmHg, 맥박 150회/분, 호흡수 20회/분일 때, 적절한 치료 약물은?",
+        "choices":  [
+                        "리도카인",
+                        "베라파밀",
+                        "아데노신",
+                        "암로디핀",
+                        "프로프라놀롤"
+                    ],
+        "answer":  5,
+        "explanation":  "핵심 단서: Class Ib 항부정맥제. 정답 판단: 5번 프로프라놀롤. 암기: Lidocaine은 전압개폐 Na+ 통로를 차단한다.",
+        "image":  ""
+    },
+    {
+        "id":  "pharmacology_07_21_15",
+        "subject":  "Pharmacology",
+        "section":  "07 항염증제, 면역억제제, 항암제",
+        "question":  "33세 여자가 1년 이상 지속되는 손목과 손가락의 조조강직과 관절통으로 병원에 왔다. 신체 진찰에서 양쪽 손목과 두 번째 세 번째 중수지 관절에 압통과 부종이 관찰되었다. 다음은 혈 액검사 결과이다. 이 병의 진행을 지연시킬 수 있는 약제가 아닌 것은? 적혈구침강속도 32 mm/시간, C-반응단백질 7 mg/dL (참고치, \u003c5) 류마티스 인자 24 IU/mL(참고치, \u003c12.5), 항CCP항체 (-), 요산 3.1 mg/dL (참고치, \u003c7)",
+        "choices":  [
+                        "설파살라진",
+                        "인플릭시맙",
+                        "이부프로펜",
+                        "메토트렉세이트",
+                        "저용량 프레드니솔론"
+                    ],
+        "answer":  3,
+        "explanation":  "핵심 단서: RA 진행 억제. 정답 판단: 3번 이부프로펜. 암기: NSAID는 증상 완화제이고 DMARD/생물학제가 관절 손상 진행을 늦춘다.",
+        "image":  ""
+    },
+    {
+        "id":  "pharmacology_07_21_16",
+        "subject":  "Pharmacology",
+        "section":  "07 항염증제, 면역억제제, 항암제",
+        "question":  "70세 여자가 통풍으로 진단되어 인도메타신을 처방받은 후 발적과 통증이 호전되었다. 다음 은 추적검사 결과이다. 요산의 생성을 줄이기 위해 사용할 수 있는 약물은? 적혈구침강속도 2 mm/시간, C-반응단백질 0.5 mg/dL (참고치, \u003c10) 류마티스 인자(-), 항CCP항체 (-), 항핵항체 (-), 요산 8.8 mg/dL (참고치, \u003c7)",
+        "choices":  [
+                        "알로푸리놀",
+                        "글루코사민",
+                        "프로베네시드",
+                        "메토트렉세이트",
+                        "글루코코르티코이드"
+                    ],
+        "answer":  1,
+        "explanation":  "핵심 단서: RA 진행 억제. 정답 판단: 1번 알로푸리놀. 암기: NSAID는 증상 완화제이고 DMARD/생물학제가 관절 손상 진행을 늦춘다.",
+        "image":  ""
+    },
+    {
+        "id":  "pharmacology_05_21_17",
+        "subject":  "Pharmacology",
+        "section":  "05 내분비계 약물",
+        "question":  "다음 경구혈당강하제 중 간의 포도당 생성을 감소시키는 것은?",
+        "choices":  [
+                        "아카보즈",
+                        "글리피짓",
+                        "시타글립틴",
+                        "메트포르민",
+                        "피오글리타존"
+                    ],
+        "answer":  4,
+        "explanation":  "핵심 단서: 제2형 당뇨 1차 약물. 정답 판단: 4번 메트포르민. 암기: Metformin은 AMPK 활성화로 간 포도당 생성을 감소시킨다.",
+        "image":  ""
+    },
+    {
+        "id":  "pharmacology_03_21_18",
+        "subject":  "Pharmacology",
+        "section":  "03 중추신경계 약물",
+        "question":  "20세 여자가 외래 시술을 위하여 진정과 마취에 필요한 약물을 투여하였다. 시술 후 구역, 구토 및 두통이 없었고 마취가 깨어난 후에 편안한 느낌을 가졌다. 이 약물은?",
+        "choices":  [
+                        "케타민",
+                        "프로포폴",
+                        "티오펜탈",
+                        "미다졸람",
+                        "클로나제팜"
+                    ],
+        "answer":  2,
+        "explanation":  "핵심 단서: 문항의 약물-질환 조합. 정답 판단: 2번 프로포폴. 암기: 대표 작용기전, 적응증, 대표 부작용을 한 세트로 연결한다.",
+        "image":  ""
+    },
+    {
+        "id":  "pharmacology_04_21_19",
+        "subject":  "Pharmacology",
+        "section":  "04 심혈관계 약물",
+        "question":  "와파린 장기 복용시, 부족해지기 쉬운 것이 아닌 것은?",
+        "choices":  [
+                        "factor VII",
+                        "factor IX",
+                        "factor X",
+                        "프로트롬빈",
+                        "트롬보모듈린"
+                    ],
+        "answer":  5,
+        "explanation":  "핵심 단서: 비타민 K 길항제. 정답 판단: 5번 트롬보모듈린. 암기: Warfarin은 II, VII, IX, X와 protein C/S 합성을 억제한다.",
+        "image":  ""
+    },
+    {
+        "id":  "pharmacology_06_21_20",
+        "subject":  "Pharmacology",
+        "section":  "06 기타 장기에 작용하는 약물",
+        "question":  "60세 남자가 관상동맥질환으로 약물 방출형 스텐트 시술을 하였다. 시술 후 반드시 사용하여 야 할 약제는?",
+        "choices":  [
+                        "퀴니딘",
+                        "아테놀올",
+                        "딜티아젬",
+                        "베라파밀",
+                        "클로피도그렐"
+                    ],
+        "answer":  5,
+        "explanation":  "핵심 단서: 관상동맥 스텐트 후 항혈소판. 정답 판단: 5번 클로피도그렐. 암기: Clopidogrel은 ADP P2Y12 수용체 차단제이다.",
+        "image":  ""
+    },
+    {
+        "id":  "pharmacology_04_21_21",
+        "subject":  "Pharmacology",
+        "section":  "04 심혈관계 약물",
+        "question":  "60세 남자가 부정맥 증상을 호소하여 리도카인 약물을 투여하였다. 이 약물의 항부정맥 작용 기전은?",
+        "choices":  [
+                        "K+통로 차단",
+                        "Na+통로 차단",
+                        "Ca2+통로 차단",
+                        "알파아드레날린 수용체 차단",
+                        "베타아드레날린 수용체 차단"
+                    ],
+        "answer":  2,
+        "explanation":  "핵심 단서: Class Ib 항부정맥제. 정답 판단: 2번 Na+통로 차단. 암기: Lidocaine은 전압개폐 Na+ 통로를 차단한다.",
+        "image":  ""
+    },
+    {
+        "id":  "pharmacology_04_21_22",
+        "subject":  "Pharmacology",
+        "section":  "04 심혈관계 약물",
+        "question":  "55세 남자가 2일 전부터 갑자기 발생한 심한 두통, 욕지기, 간헐적인 경련으로 병원에 왔다. 2년 전 고혈압 진단을 받았으나 별다른 치료 없이 지내왔다고 하였다. 혈압 220/140 mmHg 였다. 안저검사상 유두부종, 삼출, 망막출혈이 있었다. 혈압을 수분 내에 떨어뜨리기 위한 적 절한 치료법은?",
+        "choices":  [
+                        "프라조신 경구투여",
+                        "메틸도파 정맥주사",
+                        "아테놀올 경구투여",
+                        "에날라프릴 경구투여",
+                        "니트로프루시드 정맥주사"
+                    ],
+        "answer":  5,
+        "explanation":  "핵심 단서: 문항의 약물-질환 조합. 정답 판단: 5번 니트로프루시드 정맥주사. 암기: 대표 작용기전, 적응증, 대표 부작용을 한 세트로 연결한다.",
+        "image":  ""
+    },
+    {
+        "id":  "pharmacology_04_21_23",
+        "subject":  "Pharmacology",
+        "section":  "04 심혈관계 약물",
+        "question":  "Neuromuscular junction에 작용하는 neurotransmittter는 무엇인가?",
+        "choices":  [
+                        "acetylcholine",
+                        "norepinephrine",
+                        "serotonin",
+                        "aspartate",
+                        "epinephrine"
+                    ],
+        "answer":  1,
+        "explanation":  "핵심 단서: 교감신경 수용체 선택성. 정답 판단: 1번 acetylcholine. 암기: Norepinephrine은 α/β1 작용이 강하고 β2 기관지확장 효과는 약하다.",
+        "image":  ""
+    },
+    {
+        "id":  "pharmacology_02_21_24",
+        "subject":  "Pharmacology",
+        "section":  "02 자율신경계 약물",
+        "question":  "65세 남자가 Alzheimer’s disease로 진단받고 donepezil을 복용하고 있다. 이 약물의 작용기 전은 무엇인가?",
+        "choices":  [
+                        "stimulating the release of Ach.",
+                        "blocking the reuptake of norepinephrine.",
+                        "inhibiting monoamine oxidase.",
+                        "blocking the release of Ach.",
+                        "inhibiting AchE."
+                    ],
+        "answer":  5,
+        "explanation":  "핵심 단서: 교감신경 수용체 선택성. 정답 판단: 5번 inhibiting AchE.. 암기: Norepinephrine은 α/β1 작용이 강하고 β2 기관지확장 효과는 약하다.",
+        "image":  ""
+    },
+    {
+        "id":  "pharmacology_02_21_25",
+        "subject":  "Pharmacology",
+        "section":  "02 자율신경계 약물",
+        "question":  "55세 여성 COPD 환자가 사용하던 흡입용 albuterol를 더 이상 사용할 수 없게 되었다. 이 환자가 겪었을 것으로 추정되는 약물의 부작용은 무엇인가?",
+        "choices":  [
+                        "입술이 검어졌다.",
+                        "심박수가 빨라졌다.",
+                        "손끝이 저리다.",
+                        "일과성 실명이 있었다.",
+                        "일과성 청력 감소가 있었다."
+                    ],
+        "answer":  2,
+        "explanation":  "핵심 단서: 천식 β2 작용제. 정답 판단: 2번 심박수가 빨라졌다.. 암기: β2 작용제의 흔한 부작용은 빈맥·떨림이다.",
+        "image":  ""
+    },
+    {
+        "id":  "pharmacology_06_21_26",
+        "subject":  "Pharmacology",
+        "section":  "06 기타 장기에 작용하는 약물",
+        "question":  "3세 남아가 다량의 nicotine-containing product를 섭취해서 응급실로 내원했다. 이 남아에게 니코틴 독성이 발생하는 기전은 무엇인가?",
+        "choices":  [
+                        "blockade of transmission at autonomic ganglia and neuromuscular junctions.",
+                        "blockade of adrenergic receptor",
+                        "blockade of muscarinic receptor",
+                        "stimulation of adrenergic receptor",
+                        "stimulation of muscarinic receptor"
+                    ],
+        "answer":  1,
+        "explanation":  "핵심 단서: 운동신경-골격근 접합부. 정답 판단: 1번 blockade of transmission at autonomic ganglia and neuromuscular junctions.. 암기: 신경근접합부의 전달물질은 acetylcholine이다.",
+        "image":  ""
+    },
+    {
+        "id":  "pharmacology_06_21_27",
+        "subject":  "Pharmacology",
+        "section":  "06 기타 장기에 작용하는 약물",
+        "question":  "23세 대학생이 각성을 위해서 amphetamine을 사용하였다. 이 약물의 각성효과는 무엇 때문 인가?",
+        "choices":  [
+                        "due to the release of epinephrine from the adrenal medulla.",
+                        "due to the release of histamine from mast cells.",
+                        "due to the stimulation of β receptors in the frontal cortex of the brain.",
+                        "due to the release of norepinephrine from central the adrenergic neurons.",
+                        "the result of inhibition of monoamine oxidase."
+                    ],
+        "answer":  4,
+        "explanation":  "핵심 단서: 교감신경 수용체 선택성. 정답 판단: 4번 due to the release of norepinephrine from central the adrenergic neurons.. 암기: Norepinephrine은 α/β1 작용이 강하고 β2 기관지확장 효과는 약하다.",
+        "image":  ""
+    },
+    {
+        "id":  "pharmacology_06_21_28",
+        "subject":  "Pharmacology",
+        "section":  "06 기타 장기에 작용하는 약물",
+        "question":  "34세 여성이 코막힘 치료를 위해 비강분무제인 oxymetazoline을 사용하고 있었다. 그런데 최 근 약물을 사용해도 증상이 개선되지 않았다. 이 약물의 효능이 감소한 이유는 무엇으로 추 정되는가?",
+        "choices":  [
+                        "the fact that her spray container is empty.",
+                        "degradation of the oxymetazoline.",
+                        "a manufacturing defect in the nasal spray container.",
+                        "a loss of innervation to her nasal mucosa.",
+                        "rebound hyperemia of her nasal mucosa."
+                    ],
+        "answer":  5,
+        "explanation":  "핵심 단서: 문항의 약물-질환 조합. 정답 판단: 5번 rebound hyperemia of her nasal mucosa.. 암기: 대표 작용기전, 적응증, 대표 부작용을 한 세트로 연결한다.",
+        "image":  ""
+    },
+    {
+        "id":  "pharmacology_06_21_29",
+        "subject":  "Pharmacology",
+        "section":  "06 기타 장기에 작용하는 약물",
+        "question":  "다음 중 tacrolimus의 작용부위는 어디인가?",
+        "choices":  [
+                        "T 세포의 purine 대사",
+                        "T 세포 표면 의 CD 52 차단",
+                        "증식하는 T 세포의 DNA에 결합 후 방해(intercalation)",
+                        "Calcineurin의 차단",
+                        "mTOR의 활성을 억제"
+                    ],
+        "answer":  4,
+        "explanation":  "핵심 단서: 이식 거부반응 억제. 정답 판단: 4번 Calcineurin의 차단. 암기: Cyclosporine/tacrolimus는 calcineurin 억제로 IL-2 전사를 낮춘다.",
+        "image":  ""
+    },
+    {
+        "id":  "pharmacology_06_21_30",
+        "subject":  "Pharmacology",
+        "section":  "06 기타 장기에 작용하는 약물",
+        "question":  "다음 중 이식거부반응을 억제하기 위하여 사용하는 sirolimus의 작용기전는 무엇인가?",
+        "choices":  [
+                        "T 세포의 purine 대사",
+                        "T 세포 표면의 CD 52 차단",
+                        "mTOR 경로에서 kinase의 활성을 억제",
+                        "증식하는 T 세포의 DNA에 결합 후 방해(intercalation)",
+                        "T 세포의 guanine nucleotide의 합성을 억제"
+                    ],
+        "answer":  3,
+        "explanation":  "핵심 단서: mTOR 억제제. 정답 판단: 3번 mTOR 경로에서 kinase의 활성을 억제. 암기: Sirolimus는 T세포 증식 신호를 mTOR 단계에서 억제한다.",
+        "image":  ""
+    },
+    {
+        "id":  "pharmacology_07_21_31",
+        "subject":  "Pharmacology",
+        "section":  "07 항염증제, 면역억제제, 항암제",
+        "question":  "다음 중 E. coli에서 추출된 물질로서 백혈병성 세포에서 아미노산을 결핍시키는 효소는 무엇 인가?",
+        "choices":  [
+                        "pentostatin",
+                        "L-asparaginase",
+                        "deoxycytidine kinase",
+                        "trabectedin",
+                        "aspargine synthase"
+                    ],
+        "answer":  2,
+        "explanation":  "핵심 단서: 소아 ALL 항암제. 정답 판단: 2번 L-asparaginase. 암기: Asparaginase는 asparagine을 고갈시킨다.",
+        "image":  ""
+    },
+    {
+        "id":  "pharmacology_07_21_32",
+        "subject":  "Pharmacology",
+        "section":  "07 항염증제, 면역억제제, 항암제",
+        "question":  "다음 중 5-FU를 투약하기 전에 먼저 투여하면 암세포 내에 PRPP를 증가시켜서 항암효과를 증강 시킬 수 있는 약물은 무엇인가?",
+        "choices":  [
+                        "leucovorin",
+                        "oxaliplatin",
+                        "methotrexate",
+                        "cytarabine (Ara-C)",
+                        "fluxuridine"
+                    ],
+        "answer":  3,
+        "explanation":  "핵심 단서: 문항의 약물-질환 조합. 정답 판단: 3번 methotrexate. 암기: 대표 작용기전, 적응증, 대표 부작용을 한 세트로 연결한다.",
+        "image":  ""
+    },
+    {
+        "id":  "pharmacology_07_21_33",
+        "subject":  "Pharmacology",
+        "section":  "07 항염증제, 면역억제제, 항암제",
+        "question":  "다음 중 유방암 치료에 사용되는 aromatase inhibitor(AI)는 어느 것인가?",
+        "choices":  [
+                        "tamoxifen",
+                        "raloxifen",
+                        "fulvestrant",
+                        "anastrozole",
+                        "leuprolide"
+                    ],
+        "answer":  4,
+        "explanation":  "핵심 단서: 폐경 후 호르몬수용체 양성 유방암. 정답 판단: 4번 anastrozole. 암기: Anastrozole은 aromatase inhibitor이다.",
+        "image":  ""
+    },
+    {
+        "id":  "pharmacology_07_21_34",
+        "subject":  "Pharmacology",
+        "section":  "07 항염증제, 면역억제제, 항암제",
+        "question":  "다음 중 BCL2의 활성을 억제하는 물질은 어느 것인가?",
+        "choices":  [
+                        "panitumumab",
+                        "trastuzumab",
+                        "venetoclax",
+                        "pertuzumab",
+                        "vemurafenib"
+                    ],
+        "answer":  3,
+        "explanation":  "핵심 단서: BCL2 억제. 정답 판단: 3번 venetoclax. 암기: Venetoclax는 BCL2 억제로 apoptosis를 촉진한다.",
+        "image":  ""
+    },
+    {
+        "id":  "pharmacology_07_21_35",
+        "subject":  "Pharmacology",
+        "section":  "07 항염증제, 면역억제제, 항암제",
+        "question":  "다음 중 1차 항암 화학치료에 저항성인 NSCLC 치료에 사용되는 PD-1의 활성을 억제하는 물질은 어느 것인가?",
+        "choices":  [
+                        "atezolizumab",
+                        "tremelimumab",
+                        "ipilimumab",
+                        "nivolumab",
+                        "sunitinib"
+                    ],
+        "answer":  4,
+        "explanation":  "핵심 단서: 면역관문 억제제. 정답 판단: 4번 nivolumab. 암기: Nivolumab은 PD-1을 억제한다.",
+        "image":  ""
+    },
+    {
+        "id":  "pharmacology_06_22_1",
+        "subject":  "Pharmacology",
+        "section":  "06 기타 장기에 작용하는 약물",
+        "question":  "사이토크롬 P450 (CYP) 약물대사 효소 중 간에 가장 풍부하게 분포하며 가장 많은 종류의 약물의 약물대사를 담당하는 효소는?",
+        "choices":  [
+                        "CYP1A2",
+                        "CYP2E1",
+                        "CYP2C9",
+                        "CYP2D6",
+                        "CYP3A4"
+                    ],
+        "answer":  5,
+        "explanation":  "핵심 단서: 간에서 가장 많은 약물대사. 정답 판단: 5번 CYP3A4. 암기: CYP3A4가 간과 장에서 가장 폭넓게 약물대사를 담당한다.",
+        "image":  ""
+    },
+    {
+        "id":  "pharmacology_06_22_2",
+        "subject":  "Pharmacology",
+        "section":  "06 기타 장기에 작용하는 약물",
+        "question":  "50 kg인 30세 여자가 메티실린 내성 황색포도알균에 감염된 것으로 진단 받았다. 반코마이신(vancomycin)을 2,000 mg 부하용량으로 정맥주사하 였을 때 최고혈장농도가 25 mg/L였다. 이 약물의 분포용적은?",
+        "choices":  [
+                        "8 L/kg",
+                        "1.6 L/kg",
+                        "16 L/kg",
+                        "80 L/kg",
+                        "1,000 L/kg"
+                    ],
+        "answer":  2,
+        "explanation":  "핵심 단서: 목표 혈중농도와 분포용적. 정답 판단: 2번 1.6 L/kg. 암기: Loading dose = Vd × 목표농도.",
+        "image":  ""
+    },
+    {
+        "id":  "pharmacology_06_22_3",
+        "subject":  "Pharmacology",
+        "section":  "06 기타 장기에 작용하는 약물",
+        "question":  "30세 남자에게 항생제를 정맥주사하고 있다. 일차 역학에 의해 약물의 소 실이 일어나고 소실속도상수(Ke)가 0.35h-1이라면 항정상태에 도달하는 데 걸리는 시간은?",
+        "choices":  [
+                        "1시간",
+                        "2시간",
+                        "4시간",
+                        "8시간",
+                        "16시간"
+                    ],
+        "answer":  4,
+        "explanation":  "핵심 단서: Ke와 steady state. 정답 판단: 4번 8시간. 암기: t1/2 = 0.693/Ke, steady state는 대략 4반감기 후이다.",
+        "image":  ""
+    },
+    {
+        "id":  "pharmacology_04_22_4",
+        "subject":  "Pharmacology",
+        "section":  "04 심혈관계 약물",
+        "question":  "심근수축 약물의 심장박출량에 대한 용량-반응 곡선(사진)이다. 효능 (efficacy)과 효력(potency)에 대한 설명으로 옳은 것은?",
+        "choices":  [
+                        "A의 효능은 C의 효능보다 크다.",
+                        "B의 효능은 D의 효능보다 작다.",
+                        "A의 효력은 B의 효력보다 작다.",
+                        "C의 효력은 B의 효력보다 작다.",
+                        "D의 효력은 C의 효력보다 크다."
+                    ],
+        "answer":  4,
+        "explanation":  "핵심 단서: 문항의 약물-질환 조합. 정답 판단: 4번 C의 효력은 B의 효력보다 작다.. 암기: 대표 작용기전, 적응증, 대표 부작용을 한 세트로 연결한다.",
+        "image":  "assets/images/pharmacology_04_22_4.jpg"
+    },
+    {
+        "id":  "pharmacology_01_22_5",
+        "subject":  "Pharmacology",
+        "section":  "01 약리학 총론",
+        "question":  "신약 X의 제1상 임상시험을 시행하고자 한다. 가장 중요한 목적은?",
+        "choices":  [
+                        "작용기전 규명",
+                        "치료효과 확인",
+                        "추가 적응증 탐색",
+                        "사람에서 안전성 확인",
+                        "시판 후 예측하지 못한 유해반응 확인"
+                    ],
+        "answer":  4,
+        "explanation":  "핵심 단서: 신약의 첫 사람 대상 시험. 정답 판단: 4번 사람에서 안전성 확인. 암기: 제1상은 주로 안전성·내약성·약동학 확인이다.",
+        "image":  ""
+    },
+    {
+        "id":  "pharmacology_08_22_6",
+        "subject":  "Pharmacology",
+        "section":  "08 미생물에 대한 화학요법",
+        "question":  "50세 남자가 속쓰림으로 병원에 왔다. 내시경 검사 결과 소화성 궤양이 진단되어 오메프라졸(omeprazole)을 처방하였다. 이 약물의 작용기전은?",
+        "choices":  [
+                        "제산제",
+                        "H. pylori 제균",
+                        "양성자펌프 억제",
+                        "무스카린 수용체 차단",
+                        "히스타민2 수용체 차단"
+                    ],
+        "answer":  3,
+        "explanation":  "핵심 단서: PPI와 긴 위산억제 효과. 정답 판단: 3번 양성자펌프 억제. 암기: PPI는 H+/K+-ATPase를 비가역 억제해 새 펌프가 합성될 때까지 작용한다.",
+        "image":  ""
+    },
+    {
+        "id":  "pharmacology_05_22_7",
+        "subject":  "Pharmacology",
+        "section":  "05 내분비계 약물",
+        "question":  "25세 여자가 식사 후 심한 복통과 설사를 호소하였다. 세로토닌 수용체(5- HT3) 길항제로서 장관평활근 활성을 감소시켜 설사가 동반된 과민성 대장 증후군 치료에 효과적인 약물은?",
+        "choices":  [
+                        "베타네콜(bethanechol)",
+                        "돔페리돈(domperidone)",
+                        "알로세트론(alosetron)",
+                        "미소프로스톨(misoprostol)",
+                        "피리도스티그민(pyridostigmine)"
+                    ],
+        "answer":  3,
+        "explanation":  "핵심 단서: IBS-D 치료. 정답 판단: 3번 알로세트론(alosetron). 암기: Alosetron은 장관 5-HT3 수용체 길항제이다.",
+        "image":  ""
+    },
+    {
+        "id":  "pharmacology_02_22_8",
+        "subject":  "Pharmacology",
+        "section":  "02 자율신경계 약물",
+        "question":  "55세 여자가 유람선 여행을 가기 전에 멀미가 걱정되어 병원에 왔다. 멀미 예방을 위해 스코폴라민(scopolamine) 패치를 추천하였다. 이 약물의 작 용기전은?",
+        "choices":  [
+                        "무스카린 수용체 차단",
+                        "세로토닌 수용체 자극",
+                        "히스타민2 수용체 차단",
+                        "베타1 아드레날린 수용체 차단",
+                        "베타2 아드레날린 수용체 차단"
+                    ],
+        "answer":  1,
+        "explanation":  "핵심 단서: 멀미 예방 패치. 정답 판단: 1번 무스카린 수용체 차단. 암기: Scopolamine은 중추 M 수용체 차단으로 전정계-구토중추 전달을 줄인다.",
+        "image":  ""
+    },
+    {
+        "id":  "pharmacology_04_22_9",
+        "subject":  "Pharmacology",
+        "section":  "04 심혈관계 약물",
+        "question":  "60세 남자가 관상동맥질환으로 약물 방출형 스텐트 시술을 하였다. 시술 후 반드시 사용해야 할 약제는?",
+        "choices":  [
+                        "퀴니딘",
+                        "아테놀올",
+                        "딜티아젬",
+                        "클로피도그렐",
+                        "나이트로글리세린"
+                    ],
+        "answer":  4,
+        "explanation":  "핵심 단서: 관상동맥 스텐트 후 항혈소판. 정답 판단: 4번 클로피도그렐. 암기: Clopidogrel은 ADP P2Y12 수용체 차단제이다.",
+        "image":  ""
+    },
+    {
+        "id":  "pharmacology_04_22_10",
+        "subject":  "Pharmacology",
+        "section":  "04 심혈관계 약물",
+        "question":  "55세 남자가 심장기능상실 치료를 위하여 약물을 복용 한 후 지속적인 마 른기침과 고칼륨혈증이 나타났다. 이 약물의 작용기전은?",
+        "choices":  [
+                        "알도스테론 길항",
+                        "심근세포내 칼슘 증가",
+                        "앤지오텐신 수용체 차단",
+                        "심근세포내 cAMP 증가",
+                        "앤지오텐신 전환효소 억제"
+                    ],
+        "answer":  5,
+        "explanation":  "핵심 단서: 문항의 약물-질환 조합. 정답 판단: 5번 앤지오텐신 전환효소 억제. 암기: 대표 작용기전, 적응증, 대표 부작용을 한 세트로 연결한다.",
+        "image":  ""
+    },
+    {
+        "id":  "pharmacology_04_22_11",
+        "subject":  "Pharmacology",
+        "section":  "04 심혈관계 약물",
+        "question":  "55세 남자가 2일 전부터 갑자기 발생한 심한 두통, 욕지기, 간헐적인 경련 으로 병원에 왔다. 2년 전 고혈압 진단을 받았으나 별다른 치료 없이 지내 왔다고 하였다. 혈압 220/140 mmHg였다. 안저검사상 유두부종, 삼출, 망막출혈이 있었다. 혈압을 수분 내에 떨어뜨리기 위한 적절한 치료법은?",
+        "choices":  [
+                        "프라조신 경구투여",
+                        "메틸도파 정맥주사",
+                        "아테놀올 경구투여",
+                        "에날라프릴 경구투여",
+                        "니트로프루시드 정맥주사"
+                    ],
+        "answer":  5,
+        "explanation":  "핵심 단서: 문항의 약물-질환 조합. 정답 판단: 5번 니트로프루시드 정맥주사. 암기: 대표 작용기전, 적응증, 대표 부작용을 한 세트로 연결한다.",
+        "image":  ""
+    },
+    {
+        "id":  "pharmacology_05_22_12",
+        "subject":  "Pharmacology",
+        "section":  "05 내분비계 약물",
+        "question":  "30세 여자가 두근거림, 발열, 손가락 떨림으로 병원에 왔다. 혈압 160/100 mmHg, 맥박 130회/분이었다. 갑상샘은 전반적으로 커져 있었 다. 안구가 돌출되어 있었으며 과거력상 천식과 요오드(iodine)에 과민반 응이 있었다. 치료는?",
+        "choices":  [
+                        "메티마졸",
+                        "루골용액",
+                        "L-티록신",
+                        "프로프라놀롤",
+                        "소마토스타틴"
+                    ],
+        "answer":  1,
+        "explanation":  "핵심 단서: 갑상샘기능 이상. 정답 판단: 1번 메티마졸. 암기: 저하증은 levothyroxine, Graves/항진증은 thionamide와 β차단제를 연결한다.",
+        "image":  ""
+    },
+    {
+        "id":  "pharmacology_05_22_13",
+        "subject":  "Pharmacology",
+        "section":  "05 내분비계 약물",
+        "question":  "50세 남자가 혈당 조절을 위하여 메트포르민(metformin)을 복용하고 있 다. 메트포르민의 작용기전은?",
+        "choices":  [
+                        "인크레틴 작용 촉진",
+                        "α-glucosidase 작용 억제",
+                        "AMP-activated protein kinase 활성 촉진",
+                        "sodium-glucose co-transporter 2(SGLT2) 작용 억제",
+                        "peroxisome proliferator-activated receptor-γ 작용 촉진"
+                    ],
+        "answer":  3,
+        "explanation":  "핵심 단서: 제2형 당뇨 1차 약물. 정답 판단: 3번 AMP-activated protein kinase 활성 촉진. 암기: Metformin은 AMPK 활성화로 간 포도당 생성을 감소시킨다.",
+        "image":  ""
+    },
+    {
+        "id":  "pharmacology_07_22_14",
+        "subject":  "Pharmacology",
+        "section":  "07 항염증제, 면역억제제, 항암제",
+        "question":  "25세 남자가 알레르기성 천식을 진단받고 corticosteroid를 투여하였으나 호전되지 않아 오말리주맙(omalizumab)을 투여하기로 하였다. 오말리주 맙의 약물 표적은?",
+        "choices":  [
+                        "IgE",
+                        "IgG",
+                        "neutrophil",
+                        "macrophage",
+                        "complement"
+                    ],
+        "answer":  1,
+        "explanation":  "핵심 단서: 스테로이드 불응 알레르기 천식. 정답 판단: 1번 IgE. 암기: Omalizumab은 IgE를 표적으로 한다.",
+        "image":  ""
+    },
+    {
+        "id":  "pharmacology_03_22_15",
+        "subject":  "Pharmacology",
+        "section":  "03 중추신경계 약물",
+        "question":  "40세 남자가 약 2주 전부터 시작된 불안과 불면증 때문에 병원에 왔다. 최 근 회사에서 스트레스를 많이 받은 후 이러한 증상이 생겼다고 한다. 진정 수면제인 로라제팜(lorazepam)을 복용하고 증상이 개선되었다. 이 약물 의 작용표적은?",
+        "choices":  [
+                        "AMPA 수용체",
+                        "NMDA 수용체",
+                        "도파민 수용체",
+                        "GABAA 수용체",
+                        "GABAB 수용체"
+                    ],
+        "answer":  4,
+        "explanation":  "핵심 단서: benzodiazepine계 진정수면제. 정답 판단: 4번 GABAA 수용체. 암기: BZD는 GABAA 수용체의 Cl- 통로 개방 빈도를 증가시킨다.",
+        "image":  ""
+    },
+    {
+        "id":  "pharmacology_07_22_16",
+        "subject":  "Pharmacology",
+        "section":  "07 항염증제, 면역억제제, 항암제",
+        "question":  "65세 여자가 관절염을 치료하기 위하여 아스피린을 복용하던 중 구역, 구 토, 속쓰림, 식욕부진의 유해반응이 나타나 다른 약물로 대체하려고 한다. 가장 적절한 약물은?",
+        "choices":  [
+                        "5-lipoxygenase 억제제",
+                        "phospholipase C 억제제",
+                        "phospholipase A2 억제제",
+                        "cyclooxygenase-1 억제제",
+                        "cyclooxygenase-2 억제제"
+                    ],
+        "answer":  5,
+        "explanation":  "핵심 단서: 위궤양 + urease/CLO 양성. 정답 판단: 5번 cyclooxygenase-2 억제제. 암기: H. pylori 제균요법에 macrolide인 clarithromycin이 포함된다.",
+        "image":  ""
+    },
+    {
+        "id":  "pharmacology_06_22_17",
+        "subject":  "Pharmacology",
+        "section":  "06 기타 장기에 작용하는 약물",
+        "question":  "50세 여자가 통풍으로 진단되어 인도메타신(indomethacin)을 처방 받은 후 통증과 발적이 호전되었다. 3개월 후 통증과 발적이 재발하여 병원에 왔다. 혈액검사 결과 높은 요산 수치를 보였다. 요산의 생성을 줄이기 위해 사용할 수 있는 약물은?",
+        "choices":  [
+                        "아스피린",
+                        "콜히친(colchicine)",
+                        "알로퓨리놀(allopurinol)",
+                        "프로베네시드(probenecid)",
+                        "아세트아미노펜(acetaminophen)"
+                    ],
+        "answer":  3,
+        "explanation":  "핵심 단서: ACE 억제제 부작용. 정답 판단: 3번 알로퓨리놀(allopurinol). 암기: ACE 억제제 기침은 bradykinin 증가와 관련되어 ARB로 대체한다.",
+        "image":  ""
+    },
+    {
+        "id":  "pharmacology_03_22_18",
+        "subject":  "Pharmacology",
+        "section":  "03 중추신경계 약물",
+        "question":  "40세 여자가 2개월 전부터 잠을 못 자고 우울해서 병원에 왔다. 지난 2개 월 동안 체중이 6kg 정도 줄었다. 1주일 전 자살 목적으로 수면제 10알을 한꺼번에 복용하기도 하였다. 적절한 치료는?",
+        "choices":  [
+                        "벤라팍신",
+                        "부스피론",
+                        "클로자핀",
+                        "할로페리돌",
+                        "메틸페니데이트(methylphenidate)"
+                    ],
+        "answer":  1,
+        "explanation":  "핵심 단서: 문항의 약물-질환 조합. 정답 판단: 1번 벤라팍신. 암기: 대표 작용기전, 적응증, 대표 부작용을 한 세트로 연결한다.",
+        "image":  ""
+    },
+    {
+        "id":  "pharmacology_03_22_19",
+        "subject":  "Pharmacology",
+        "section":  "03 중추신경계 약물",
+        "question":  "70세 여자가 자꾸 기억력이 저하된다고 하며 병원에 왔다. 3년 전부터 물 건을 자주 잃어버리고 약속을 잊는 경우가 있었으며, 최근에는 증상이 더 욱 심해져서 방금 했던 말도 기억하지 못하였다. MRI 검사에서 대뇌 피질 의 위축 소견이 보였다. 적절한 치료는?",
+        "choices":  [
+                        "도네페질(donepezil)",
+                        "올란자핀(olanzapine)",
+                        "알프라졸람(alprazolam)",
+                        "아미트립틸린(amitriptyline)",
+                        "브로모크립틴(bromocriptine)"
+                    ],
+        "answer":  1,
+        "explanation":  "핵심 단서: 알츠하이머병 치료. 정답 판단: 1번 도네페질(donepezil). 암기: Donepezil은 acetylcholinesterase 억제제이다.",
+        "image":  ""
+    },
+    {
+        "id":  "pharmacology_06_22_20",
+        "subject":  "Pharmacology",
+        "section":  "06 기타 장기에 작용하는 약물",
+        "question":  "30세 남자가 1주일간의 고열과 혈성설사로 병원에 왔다. 대변검사 결과는 다음과 같았다. 세균배양검사가 나올 때까지 경험적으로 사용할 수 있는 약제는? 백혈구 (+), 잠혈(+)",
+        "choices":  [
+                        "페니실린",
+                        "겐타마이신",
+                        "반코마이신",
+                        "메트로니다졸",
+                        "시프로플록사신(ciprofloxacin)"
+                    ],
+        "answer":  5,
+        "explanation":  "핵심 단서: 문항의 약물-질환 조합. 정답 판단: 5번 시프로플록사신(ciprofloxacin). 암기: 대표 작용기전, 적응증, 대표 부작용을 한 세트로 연결한다.",
+        "image":  ""
+    },
+    {
+        "id":  "pharmacology_06_22_21",
+        "subject":  "Pharmacology",
+        "section":  "06 기타 장기에 작용하는 약물",
+        "question":  "60세 남자가 대장암 수술 후 빗장 밑 정맥 카테터를 1주간 유지하던 중 고 열이 발생하였다. 검사결과는 다음과 같았다. 적절한 치료는? 균 배양 검사: 혈장응고효소 양성 포도알균 항생제 감수성 결과: 옥사실린(oxacillin) 내성",
+        "choices":  [
+                        "나프실린",
+                        "피페라실린",
+                        "겐타마이신",
+                        "반코마이신",
+                        "에리스로마이신(erythromycin)"
+                    ],
+        "answer":  4,
+        "explanation":  "핵심 단서: MRSA/oxacillin 내성 포도알균. 정답 판단: 4번 반코마이신. 암기: MRSA 중증 감염은 vancomycin을 선택한다.",
+        "image":  ""
+    },
+    {
+        "id":  "pharmacology_08_22_22",
+        "subject":  "Pharmacology",
+        "section":  "08 미생물에 대한 화학요법",
+        "question":  "55세 남자가 3일 전부터 오른쪽 가슴과 옆구리가 아프다며 병원에 왔다. 1주 전부터 과로한 후에 온몸이 쑤시고 몸살 증상이 있었다. 편측성 흉부 에 띠 모양으로 발진이 있었으며, 의사는 대상포진으로 진단하고 약물 치 료를 시행하였다. 적절한 치료는?",
+        "choices":  [
+                        "아스피린(aspirin)",
+                        "세파졸린(cefazolin)",
+                        "아만타딘(amantadine)",
+                        "팜시클로버(famciclovir)",
+                        "아지트로마이신(azithromycin)"
+                    ],
+        "answer":  4,
+        "explanation":  "핵심 단서: 위궤양 + urease/CLO 양성. 정답 판단: 4번 팜시클로버(famciclovir). 암기: H. pylori 제균요법에 macrolide인 clarithromycin이 포함된다.",
+        "image":  ""
+    },
+    {
+        "id":  "pharmacology_02_22_23",
+        "subject":  "Pharmacology",
+        "section":  "02 자율신경계 약물",
+        "question":  "말초조직의 Muscarinic M2 수용체와 Adrenergic α2 수용체에 각각의 효현제가 작용할 경우 관찰될 수 있는 공통적인 생리 현상은?",
+        "choices":  [
+                        "심박수 감소",
+                        "혈관 수축",
+                        "신경절의 신호전달 증가",
+                        "골격근의 수축",
+                        "손떨림이 심해진다."
+                    ],
+        "answer":  1,
+        "explanation":  "핵심 단서: 문항의 약물-질환 조합. 정답 판단: 1번 심박수 감소. 암기: 대표 작용기전, 적응증, 대표 부작용을 한 세트로 연결한다.",
+        "image":  ""
+    },
+    {
+        "id":  "pharmacology_02_22_24",
+        "subject":  "Pharmacology",
+        "section":  "02 자율신경계 약물",
+        "question":  "37세의 시골 농부가 amanita muscaria 버섯을 먹고 맥박수가 분당 40회 로 서맥이 발생하였다. sinoatrial node에 있는 어느 수용체에 버섯 성분 이 영향을 미쳤다고 판단되는가?",
+        "choices":  [
+                        "α1 adrenergic receptor",
+                        "β1 adrenergic receptor",
+                        "M2 muscarinic receptor",
+                        "β2 adrenergic receptor",
+                        "nicotinic receptor"
+                    ],
+        "answer":  3,
+        "explanation":  "핵심 단서: 문항의 약물-질환 조합. 정답 판단: 3번 M2 muscarinic receptor. 암기: 대표 작용기전, 적응증, 대표 부작용을 한 세트로 연결한다.",
+        "image":  ""
+    },
+    {
+        "id":  "pharmacology_02_22_25",
+        "subject":  "Pharmacology",
+        "section":  "02 자율신경계 약물",
+        "question":  "72세 여성에게 무릎 수술 중 근이완제인 succinylcholine을 투약하였다. 이 약물의 작용기전은 무엇인가?",
+        "choices":  [
+                        "blocking ACh at nicotinic receptors of neuromuscular endplate.",
+                        "blocking ACh at nicotinic receptors in the adrenal medulla.",
+                        "increasing Na+ and K+ permeability of the postsynaptic neuromuscular membrane.",
+                        "blocking the transmission of the action potential along the nerve axon.",
+                        "blocking the release of ACh rom neuromuscular presynaptic vesicles."
+                    ],
+        "answer":  3,
+        "explanation":  "핵심 단서: 탈분극성 근이완제. 정답 판단: 3번 increasing Na+ and K+ permeability of the postsynaptic neuromuscular membrane.. 암기: Succinylcholine은 nicotinic 수용체를 지속 활성화해 Na+/K+ 투과성을 증가시킨다.",
+        "image":  ""
+    },
+    {
+        "id":  "pharmacology_02_22_26",
+        "subject":  "Pharmacology",
+        "section":  "02 자율신경계 약물",
+        "question":  "3세 아이가 다량의 nicotine 함유물질에 중독되어서 응급실에 내원하였다 . 이 아이에게서 나타날 수 있는 심각한 니코틴 중독 중상의 원인은 무엇인 가?",
+        "choices":  [
+                        "blockade of transmission at autonomic ganglia and neuromuscular junctions.",
+                        "blockade of muscarinic receptors.",
+                        "stimulation of adrenergic receptors.",
+                        "blockade of adrenergic receptors.",
+                        "stimulation of muscarinic receptors."
+                    ],
+        "answer":  1,
+        "explanation":  "핵심 단서: 운동신경-골격근 접합부. 정답 판단: 1번 blockade of transmission at autonomic ganglia and neuromuscular junctions.. 암기: 신경근접합부의 전달물질은 acetylcholine이다.",
+        "image":  ""
+    },
+    {
+        "id":  "pharmacology_02_22_27",
+        "subject":  "Pharmacology",
+        "section":  "02 자율신경계 약물",
+        "question":  "23세 대학생이 각성을 위해서 amphetamine을 사용하였다. 이 약물의 각 성효과는 무엇 때문인가?",
+        "choices":  [
+                        "due to the release of epinephrine from the adrenal medulla.",
+                        "due to the release of histamine from mast cells",
+                        "due to the stimulation of β receptors in the frontal cortex of the brain.",
+                        "due to the release of norepinephrine from central adrenergic neurons.",
+                        "the result of inhibition of monoamine oxidase."
+                    ],
+        "answer":  4,
+        "explanation":  "핵심 단서: 교감신경 수용체 선택성. 정답 판단: 4번 due to the release of norepinephrine from central adrenergic neurons.. 암기: Norepinephrine은 α/β1 작용이 강하고 β2 기관지확장 효과는 약하다.",
+        "image":  ""
+    },
+    {
+        "id":  "pharmacology_02_22_28",
+        "subject":  "Pharmacology",
+        "section":  "02 자율신경계 약물",
+        "question":  "34세 여성이 코막힘 치료를 위해 비강분무제인 oxymetazoline을 사용하 고 있었다. 그런데 최근 약물을 사용해도 증상이 개선되지 않았다. 이 약물 의 효능이 감소한 이유는 무엇으로 추정되는가?",
+        "choices":  [
+                        "the fact that her spray container is empty.",
+                        "degradation of the oxymetazoline",
+                        "a manufacturing defect in the nasal spray container",
+                        "a loss of innervation to her nasal mucosa.",
+                        "rebound hyperemia of her nasal mucosa."
+                    ],
+        "answer":  5,
+        "explanation":  "핵심 단서: 문항의 약물-질환 조합. 정답 판단: 5번 rebound hyperemia of her nasal mucosa.. 암기: 대표 작용기전, 적응증, 대표 부작용을 한 세트로 연결한다.",
+        "image":  ""
+    },
+    {
+        "id":  "pharmacology_07_22_29",
+        "subject":  "Pharmacology",
+        "section":  "07 항염증제, 면역억제제, 항암제",
+        "question":  "다음 중 glucocorticoids에 의하여, glucocorticoids receptor (GR)와의 결합이 억제되어서 함염증작용을 일으키는 transcription factor는 어느 것인가?",
+        "choices":  [
+                        "AP-1",
+                        "calcineurin",
+                        "mTOR C1",
+                        "CD52",
+                        "mTOR C2"
+                    ],
+        "answer":  1,
+        "explanation":  "핵심 단서: 이식 거부반응 억제. 정답 판단: 1번 AP-1. 암기: Cyclosporine/tacrolimus는 calcineurin 억제로 IL-2 전사를 낮춘다.",
+        "image":  ""
+    },
+    {
+        "id":  "pharmacology_07_22_30",
+        "subject":  "Pharmacology",
+        "section":  "07 항염증제, 면역억제제, 항암제",
+        "question":  "다음 중 BCL-2 억제제로서 작용하는 BH3(BCL-2 homology domain 3) mimetics는 어느 것인가?",
+        "choices":  [
+                        "CAR-T",
+                        "olaparib",
+                        "rucaparib",
+                        "venetoclax",
+                        "thalidomide"
+                    ],
+        "answer":  4,
+        "explanation":  "핵심 단서: BCL2 억제. 정답 판단: 4번 venetoclax. 암기: Venetoclax는 BCL2 억제로 apoptosis를 촉진한다.",
+        "image":  ""
+    },
+    {
+        "id":  "pharmacology_07_22_31",
+        "subject":  "Pharmacology",
+        "section":  "07 항염증제, 면역억제제, 항암제",
+        "question":  "다음 중 5-FU를 투약하기 전에 먼저 투여하면 암세포 내에 PRPP를 증가시 켜서 항암효과를 증강 시킬 수 있는 약물은 무엇인가?",
+        "choices":  [
+                        "leucovorin",
+                        "oxaliplatin",
+                        "methotrexate",
+                        "cytarabine (Ara-C)",
+                        "fluxuridine"
+                    ],
+        "answer":  3,
+        "explanation":  "핵심 단서: 문항의 약물-질환 조합. 정답 판단: 3번 methotrexate. 암기: 대표 작용기전, 적응증, 대표 부작용을 한 세트로 연결한다.",
+        "image":  ""
+    },
+    {
+        "id":  "pharmacology_07_22_32",
+        "subject":  "Pharmacology",
+        "section":  "07 항염증제, 면역억제제, 항암제",
+        "question":  "다음 중 유방암 치료에 사용되는 poly ADP ribose polymerase 1(PARP1) inhibitor는 어느 것인가?",
+        "choices":  [
+                        "tamoxifen",
+                        "olaparib",
+                        "fulvestrant",
+                        "anastrozole",
+                        "leuprolide"
+                    ],
+        "answer":  2,
+        "explanation":  "핵심 단서: 폐경 후 호르몬수용체 양성 유방암. 정답 판단: 2번 olaparib. 암기: Anastrozole은 aromatase inhibitor이다.",
+        "image":  ""
+    },
+    {
+        "id":  "pharmacology_04_22_33",
+        "subject":  "Pharmacology",
+        "section":  "04 심혈관계 약물",
+        "question":  "다음 중 CRPC(castration-resistant prostate cancer)의 치료를 위하여 arbiraterone을 사용하였을 때 특히 체내에서 증가하는 물질은 무엇인가?",
+        "choices":  [
+                        "glucocorticods",
+                        "mineralocorticoids",
+                        "androgens",
+                        "estrogens",
+                        "progesterones"
+                    ],
+        "answer":  2,
+        "explanation":  "핵심 단서: 문항의 약물-질환 조합. 정답 판단: 2번 mineralocorticoids. 암기: 대표 작용기전, 적응증, 대표 부작용을 한 세트로 연결한다.",
+        "image":  ""
+    },
+    {
+        "id":  "pharmacology_07_22_34",
+        "subject":  "Pharmacology",
+        "section":  "07 항염증제, 면역억제제, 항암제",
+        "question":  "다음 중 말초조혈모세포 채집을 위하여 G-CSF와 함께 사용되는 CXCR4 chemokine receptor 억제제는 무엇인가?",
+        "choices":  [
+                        "atezolizumab",
+                        "tremelimumab",
+                        "ipilimumab",
+                        "plerixafor",
+                        "sunitinib"
+                    ],
+        "answer":  4,
+        "explanation":  "핵심 단서: 문항의 약물-질환 조합. 정답 판단: 4번 plerixafor. 암기: 대표 작용기전, 적응증, 대표 부작용을 한 세트로 연결한다.",
+        "image":  ""
+    },
+    {
+        "id":  "pharmacology_07_22_35",
+        "subject":  "Pharmacology",
+        "section":  "07 항염증제, 면역억제제, 항암제",
+        "question":  "다음 중 peripheral T-cell lymphoma 치료에 사용되는 histone deacetylase 억제제는 어느 것인가?",
+        "choices":  [
+                        "atezolizumab",
+                        "alemtuzumab",
+                        "romidepsin",
+                        "plerixafor",
+                        "sunitinib"
+                    ],
+        "answer":  3,
+        "explanation":  "핵심 단서: ACE 억제제 부작용. 정답 판단: 3번 romidepsin. 암기: ACE 억제제 기침은 bradykinin 증가와 관련되어 ARB로 대체한다.",
+        "image":  ""
+    },
+    {
+        "id":  "pharmacology_01_23_36",
+        "subject":  "Pharmacology",
+        "section":  "01 약리학 총론",
+        "question":  "환자 치료를 위해 다양한 경로를 통하여 약물을 투여할 수 있다. 약물 투여 방법 중 생체이용률이 가장 큰 것은?",
+        "choices":  [
+                        "설하투여",
+                        "경구투여",
+                        "피하주사",
+                        "정맥주사",
+                        "직장내투여"
+                    ],
+        "answer":  4,
+        "explanation":  "핵심 단서: 투여경로 비교. 정답 판단: 4번 정맥주사. 암기: 정맥주사는 흡수 단계를 거치지 않아 생체이용률 100%이다.",
+        "image":  ""
+    },
+    {
+        "id":  "pharmacology_01_23_37",
+        "subject":  "Pharmacology",
+        "section":  "01 약리학 총론",
+        "question":  "약물이 대사(biotransformation or metabolism) 과정을 거친 결과에 관 한 설명으로 맞는 것은?",
+        "choices":  [
+                        "유해 작용이 더 많이 발생된다.",
+                        "세포 내에 더 잘 분포하게 된다.",
+                        "원래 약물보다 수용성이 증가된다.",
+                        "신세뇨관에서 재흡수가 더 잘 이루어진다.",
+                        "중간 대사산물들은 약리학적 활성을 띄지 않는다."
+                    ],
+        "answer":  3,
+        "explanation":  "핵심 단서: 약물대사 결과. 정답 판단: 3번 원래 약물보다 수용성이 증가된다.. 암기: 대사는 대체로 수용성을 높여 신장/담즙 배설을 쉽게 한다.",
+        "image":  ""
+    },
+    {
+        "id":  "pharmacology_01_23_38",
+        "subject":  "Pharmacology",
+        "section":  "01 약리학 총론",
+        "question":  "Drug A 100 mg 정맥투여 시의 시간에 따른 혈중 약물 농도는 다음과 같 았다. Drug A의 청소율은?(ln2=0.69) 표: Time(h) 0, 1, 2, 3, 4 / Concentration(mg/L) 20.00, 10.00, 5.00, 2.50, 1.25.",
+        "choices":  [
+                        "0.69 L/h",
+                        "1 L/h",
+                        "3.45 L/h",
+                        "5 L/h",
+                        "6.9 L/h"
+                    ],
+        "answer":  3,
+        "explanation":  "핵심 단서: 정맥투여 후 혈중농도-시간 자료. 정답 판단: 3번 3.45 L/h. 암기: CL = k × Vd. 반감기·분포용적 또는 AUC로 청소율을 계산한다.",
+        "image":  "assets/images/pharmacology_01_23_38.jpg"
+    },
+    {
+        "id":  "pharmacology_01_23_39",
+        "subject":  "Pharmacology",
+        "section":  "01 약리학 총론",
+        "question":  "제약회사에서 개발 중인 약물에 대하여 환자를 대상으로 효능을 평가하고 임상 용량을 최초로 결정하려고 한다. 신약개발 과정 중 이에 해당하는 임 상시험 단계는?",
+        "choices":  [
+                        "전임상시험",
+                        "제1상 임상시험",
+                        "제2상 임상시험",
+                        "제3상 임상시험",
+                        "제4상 임상시험"
+                    ],
+        "answer":  3,
+        "explanation":  "핵심 단서: 신약의 첫 사람 대상 시험. 정답 판단: 3번 제2상 임상시험. 암기: 제1상은 주로 안전성·내약성·약동학 확인이다.",
+        "image":  ""
+    },
+    {
+        "id":  "pharmacology_05_23_40",
+        "subject":  "Pharmacology",
+        "section":  "05 내분비계 약물",
+        "question":  "60세 여자가 1개월 전부터 소변을 자주 보고 입이 말라 병원에 왔다. 검사 결과는 다음과 같았다. Type2 당뇨병으로 진단 후 적절한 치료는? 신체: 키 155 cm, 체중 70 kg 혈청: 공복혈당 220 mg/dL, 식후 2시간 혈당 280 mg/dL 당화혈색소 8.1%, 크레아티닌 0.9 mg/dL 아스파르테이트아미노전달효소 52 IU/L 알라닌아미노전달효소 60 IU/L 소변: 포도당 (2+), 케톤 (-)",
+        "choices":  [
+                        "지속형 인슐린 투여",
+                        "메트포민(metformin)",
+                        "메글리티나이드(meglitinide)",
+                        "티아졸리디네디온(thiazolidinedione)",
+                        "알파글루코시데이스억제제(α-glucosidase inhibitor)"
+                    ],
+        "answer":  2,
+        "explanation":  "핵심 단서: 제2형 당뇨 1차 약물. 정답 판단: 2번 메트포민(metformin). 암기: Metformin은 AMPK 활성화로 간 포도당 생성을 감소시킨다.",
+        "image":  ""
+    },
+    {
+        "id":  "pharmacology_05_23_41",
+        "subject":  "Pharmacology",
+        "section":  "05 내분비계 약물",
+        "question":  "30세 여자가 두근거림, 발열, 손가락 떨림으로 병원에 왔다. 혈압 160/100 mmHg, 맥박 130회/분이었다. 갑상샘은 전반적으로 커져 있었 다. 안구가 돌출되어 있었으며 과거력상 천식과 요오드(iodine)에 과민반 응이 있었다. 적절한 치료는?",
+        "choices":  [
+                        "L-티록신",
+                        "루골용액",
+                        "메티마졸",
+                        "프로프라놀롤",
+                        "소마토스타틴"
+                    ],
+        "answer":  3,
+        "explanation":  "핵심 단서: 갑상샘기능 이상. 정답 판단: 3번 메티마졸. 암기: 저하증은 levothyroxine, Graves/항진증은 thionamide와 β차단제를 연결한다.",
+        "image":  ""
+    },
+    {
+        "id":  "pharmacology_08_23_42",
+        "subject":  "Pharmacology",
+        "section":  "08 미생물에 대한 화학요법",
+        "question":  "68세 남자가 대장암 수술 후 빗장 밑 정맥 카테터를 1주간 유치하던 중 고 열이 발생하였다. 검사 결과는 다음과 같았다. 적절한 치료는? 균 배양 검사: 혈장응고효소 양성 포도알균 항생제 감수성 결과: 옥사실린(oxacillin) 내성",
+        "choices":  [
+                        "나프실린(nafcillin)",
+                        "피페라실린(piperacillin)",
+                        "겐타마이신(gentamicin)",
+                        "반코마이신(vancomycin)",
+                        "에리스로마이신(erythromycin)"
+                    ],
+        "answer":  4,
+        "explanation":  "핵심 단서: MRSA/oxacillin 내성 포도알균. 정답 판단: 4번 반코마이신(vancomycin). 암기: MRSA 중증 감염은 vancomycin을 선택한다.",
+        "image":  ""
+    },
+    {
+        "id":  "pharmacology_08_23_43",
+        "subject":  "Pharmacology",
+        "section":  "08 미생물에 대한 화학요법",
+        "question":  "33세 여자가 2일 전부터 왼쪽 발등이 붓고 열이 나서 병원에 왔다. 굽 높은 구두를 신은 뒤 왼쪽 엄지발가락에 상처가 생겼고 발등까지 빨갛게 부었다 고 했다. 과거에 페니실린 투여 후 쇼크가 발생한 적이 있었다고 한다. 적 절한 치료는?",
+        "choices":  [
+                        "이미페넴(imipenem)",
+                        "나프실린(nafcillin)",
+                        "프리마퀸(primaquine)",
+                        "클린다마이신(clindamycin)",
+                        "시프로플록사신(ciprofloxacin)"
+                    ],
+        "answer":  4,
+        "explanation":  "핵심 단서: primaquine 사용 전 확인. 정답 판단: 4번 클린다마이신(clindamycin). 암기: G6PD 결핍에서 primaquine은 용혈성 빈혈을 유발할 수 있다.",
+        "image":  ""
+    },
+    {
+        "id":  "pharmacology_08_23_44",
+        "subject":  "Pharmacology",
+        "section":  "08 미생물에 대한 화학요법",
+        "question":  "30세 남자가 혈성 설사와 뒤무직으로 병원에 왔다. 2년 전부터 혈변과 무 른변이 가끔 있었고 최근 하루 3~4회로 악화되었다고 한다. 대변배양검사 는 음성이었고 대장내시경상 출혈성 염증소견이 직장에 국한되어 있었다. 생검 결과 움고름집이 보였다. 적절한 치료는?",
+        "choices":  [
+                        "세레콕시브(celecoxib)",
+                        "인플릭시맙(infliximab)",
+                        "5-아미노살리실산(5-ASA)",
+                        "아자티오프린(azathioprine)",
+                        "메트로니다졸(metronidazole)"
+                    ],
+        "answer":  3,
+        "explanation":  "핵심 단서: 문항의 약물-질환 조합. 정답 판단: 3번 5-아미노살리실산(5-ASA). 암기: 대표 작용기전, 적응증, 대표 부작용을 한 세트로 연결한다.",
+        "image":  ""
+    },
+    {
+        "id":  "pharmacology_07_23_45",
+        "subject":  "Pharmacology",
+        "section":  "07 항염증제, 면역억제제, 항암제",
+        "question":  "40세 남자가 속쓰림과 가슴통증으로 병원에 왔다. 통증은 주로 밤에 발생 하여 30분 정도 지속되었으며 물을 마시면 호전되었다고 한다. 운동부하 심전도와 가슴통증 시 심전도는 정상이었다. H2 차단제로 2주간 치료하였 으나 효과는 없었다. 적절한 치료는?",
+        "choices":  [
+                        "질산염",
+                        "항콜린제",
+                        "칼슘통로차단제",
+                        "양성자펌프억제제",
+                        "비스테로이드소염제"
+                    ],
+        "answer":  4,
+        "explanation":  "핵심 단서: PPI와 긴 위산억제 효과. 정답 판단: 4번 양성자펌프억제제. 암기: PPI는 H+/K+-ATPase를 비가역 억제해 새 펌프가 합성될 때까지 작용한다.",
+        "image":  ""
+    },
+    {
+        "id":  "pharmacology_07_23_46",
+        "subject":  "Pharmacology",
+        "section":  "07 항염증제, 면역억제제, 항암제",
+        "question":  "73세 여자가 골관절염 치료를 위하여 아스피린(aspirin)을 복용하고 있다. 복용 후 윗배 통증과 흑색변을 보이기 시작했다. 검사 결과 다른 특별한 이 상은 발견되지 않았다. 적절한 대체 약물은?",
+        "choices":  [
+                        "Vitamin K",
+                        "세레콕시브(celecoxib)",
+                        "이부프로펜(ibuprofen)",
+                        "N-아세틸시스테인(N-acetylcysteine)",
+                        "프로타민 황산염(protamine sulfate)"
+                    ],
+        "answer":  2,
+        "explanation":  "핵심 단서: 헤파린 과량. 정답 판단: 2번 세레콕시브(celecoxib). 암기: Protamine sulfate는 heparin을 중화한다.",
+        "image":  ""
+    },
+    {
+        "id":  "pharmacology_04_23_47",
+        "subject":  "Pharmacology",
+        "section":  "04 심혈관계 약물",
+        "question":  "13세 남아가 기관지수축에 의한 호흡곤란증세로 병원에 와서 천식 진단을 받았다. 천식 증상을 완화하면서 심장부정맥 위험이 가장 적은 약물은?",
+        "choices":  [
+                        "beta1 아드레날린 수용체 작용제",
+                        "beta2 아드레날린 수용체 작용제",
+                        "beta3 아드레날린 수용체 작용제",
+                        "alpha1 아드레날린 수용체 작용제",
+                        "alpha2 아드레날린 수용체 작용제"
+                    ],
+        "answer":  2,
+        "explanation":  "핵심 단서: 천식 β2 작용제. 정답 판단: 2번 beta2 아드레날린 수용체 작용제. 암기: β2 작용제의 흔한 부작용은 빈맥·떨림이다.",
+        "image":  ""
+    },
+    {
+        "id":  "pharmacology_07_23_48",
+        "subject":  "Pharmacology",
+        "section":  "07 항염증제, 면역억제제, 항암제",
+        "question":  "23세 남자가 두통으로 병원에 왔다. 두통을 완화하기 위하여 진통제를 사 용하고자 한다. 항염증작용 없이 통증을 완화하는 약물은?",
+        "choices":  [
+                        "아스피린",
+                        "나프록센",
+                        "세레콕시브",
+                        "이부프로펜",
+                        "아세트아미노펜"
+                    ],
+        "answer":  5,
+        "explanation":  "핵심 단서: 문항의 약물-질환 조합. 정답 판단: 5번 아세트아미노펜. 암기: 대표 작용기전, 적응증, 대표 부작용을 한 세트로 연결한다.",
+        "image":  ""
+    },
+    {
+        "id":  "pharmacology_04_23_49",
+        "subject":  "Pharmacology",
+        "section":  "04 심혈관계 약물",
+        "question":  "63세 남자가 오른쪽 엄지발가락의 이상으로 병원에 왔다. 콩팥돌의 병력 이 있었다. 과거 수차례 통증이 있었으나 현재 통증은 없다. 검사 결과는 다음과 같았다. 관절액 편광현미경에서 바늘(needle) 모양의 결정이 관찰 되었다. 적합한 치료는? 혈청: 요산 8.6 mg/d L (참고치, \u003c7) 24시간 소변: 요산 800 mg (참고치, 250~800)",
+        "choices":  [
+                        "콜히친(colchicine)",
+                        "알로퓨리놀(allopurinol)",
+                        "프로베네시드(probenecid)",
+                        "설핀파이라존(sulfinpyrazone)",
+                        "아세틸살리실산(acetylsalicylic acid)"
+                    ],
+        "answer":  2,
+        "explanation":  "핵심 단서: ACE 억제제 부작용. 정답 판단: 2번 알로퓨리놀(allopurinol). 암기: ACE 억제제 기침은 bradykinin 증가와 관련되어 ARB로 대체한다.",
+        "image":  ""
+    },
+    {
+        "id":  "pharmacology_04_23_50",
+        "subject":  "Pharmacology",
+        "section":  "04 심혈관계 약물",
+        "question":  "55세 남자가 2일 전부터 발생한 심한 두통, 욕지기, 간헐적인 경련으로 병 원에 왔다. 2년 전 고혈압으로 진단받았으나 치료 없이 지내왔다고 하였다 . 혈압 220/140 mmHg였다. 안저검사상 유두부종, 망막출혈, 삼출이 있 었다. 혈압을 수분 내에 떨어뜨리기 위한 적절한 치료는?",
+        "choices":  [
+                        "아테놀롤(atenolol) 경구투여",
+                        "메틸도파(methyldopa) 정맥주사",
+                        "에날라프릴(enalapril) 경구투여",
+                        "하이드랄라진(hydralazine) 정맥주사",
+                        "니트로프루시드(nitroprusside) 정맥주사"
+                    ],
+        "answer":  5,
+        "explanation":  "핵심 단서: 고혈압 응급. 정답 판단: 5번 니트로프루시드(nitroprusside) 정맥주사. 암기: Nitroprusside는 NO 공여로 동맥·정맥을 빠르게 확장한다.",
+        "image":  ""
+    },
+    {
+        "id":  "pharmacology_04_23_51",
+        "subject":  "Pharmacology",
+        "section":  "04 심혈관계 약물",
+        "question":  "60세 남자가 관상동맥질환으로 약물 방출형 스텐트 시술을 하였다. 시술 후 반드시 사용해야 할 약물은?",
+        "choices":  [
+                        "질산염",
+                        "퀴니딘",
+                        "아테놀롤",
+                        "딜티아젬",
+                        "클로피도그렐"
+                    ],
+        "answer":  5,
+        "explanation":  "핵심 단서: 관상동맥 스텐트 후 항혈소판. 정답 판단: 5번 클로피도그렐. 암기: Clopidogrel은 ADP P2Y12 수용체 차단제이다.",
+        "image":  ""
+    },
+    {
+        "id":  "pharmacology_04_23_52",
+        "subject":  "Pharmacology",
+        "section":  "04 심혈관계 약물",
+        "question":  "55세 남자가 고혈압을 치료하기 위하여 장기간 히드로클로로티아지드 (hydrochlorothiazide)를 복용하던 중 심부전 증상이 나타나서 디지탈리 스(digitalis)를 사용하고자 한다. 주의해야 할 이온 불균형은?",
+        "choices":  [
+                        "고칼슘혈증",
+                        "저칼륨혈증",
+                        "저칼슘혈증",
+                        "저나트륨혈증",
+                        "고마그네슘혈증"
+                    ],
+        "answer":  2,
+        "explanation":  "핵심 단서: thiazide 이뇨제. 정답 판단: 2번 저칼륨혈증. 암기: Thiazide는 원위곡세관 NaCl 공동수송체를 억제한다.",
+        "image":  ""
+    },
+    {
+        "id":  "pharmacology_04_23_53",
+        "subject":  "Pharmacology",
+        "section":  "04 심혈관계 약물",
+        "question":  "45세 된 남자가 고혈압 약제로 에날라프릴(enalapril)을 처방받고 있었다. 그러다가 최근 지속적인 기침이 너무 불편하다고 호소하며 내원하였다. 기 존의 약제와 동일한 효과는 있으나 기침을 일으키지 않는 약물을 사용하고 자 할 때, 가장 적절한 약물은?",
+        "choices":  [
+                        "로자탄(losartan)",
+                        "프라조신(prazosin)",
+                        "클로니딘(clonidine)",
+                        "베라파밀(verapamil)",
+                        "프로프라놀롤(propranolol)"
+                    ],
+        "answer":  1,
+        "explanation":  "핵심 단서: 위궤양 + urease/CLO 양성. 정답 판단: 1번 로자탄(losartan). 암기: H. pylori 제균요법에 macrolide인 clarithromycin이 포함된다.",
+        "image":  ""
+    },
+    {
+        "id":  "pharmacology_03_23_54",
+        "subject":  "Pharmacology",
+        "section":  "03 중추신경계 약물",
+        "question":  "33세 여자가 조현병 치료를 위하여 할로페리돌(haloperidol)을 복용 중이 다. 이 약물의 유해반응으로 불수의적 운동과 근긴장 이상 등의 추체외로 증상이 나타나는 기전은?",
+        "choices":  [
+                        "기저핵 도파민 D2 수용체 억제",
+                        "기저핵 히스타민 H1 수용체 억제",
+                        "대뇌피질 도파민 D1 수용체 억제",
+                        "전두엽 교감신경 alpha1 수용체 억제",
+                        "전두엽 세로토닌 5-HT2A 수용체 억제"
+                    ],
+        "answer":  1,
+        "explanation":  "핵심 단서: 문항의 약물-질환 조합. 정답 판단: 1번 기저핵 도파민 D2 수용체 억제. 암기: 대표 작용기전, 적응증, 대표 부작용을 한 세트로 연결한다.",
+        "image":  ""
+    },
+    {
+        "id":  "pharmacology_03_23_55",
+        "subject":  "Pharmacology",
+        "section":  "03 중추신경계 약물",
+        "question":  "23세 남자가 5년 전부터 조현병으로 진단받고 치료 중이다. 장기간 약물 치료를 통해 망상이나 환각 등의 증상은 감소되었으나, 시간이 지날 수록 의욕이 없고 감정둔마를 보이며 사회적으로 위축되어 일상생활을 거의 하 지 않았다. 이 환자에게 효과적인 치료 약물은?",
+        "choices":  [
+                        "트라조돈(trazodone)",
+                        "부프로피온(bupropion)",
+                        "할로페리돌(haloperidol)",
+                        "리스페리돈(risperidone)",
+                        "클로르프로마진(chlorpromazine)"
+                    ],
+        "answer":  4,
+        "explanation":  "핵심 단서: 문항의 약물-질환 조합. 정답 판단: 4번 리스페리돈(risperidone). 암기: 대표 작용기전, 적응증, 대표 부작용을 한 세트로 연결한다.",
+        "image":  ""
+    },
+    {
+        "id":  "pharmacology_02_23_56",
+        "subject":  "Pharmacology",
+        "section":  "02 자율신경계 약물",
+        "question":  "25세 여자가 우울증으로 진단받고 이미프라민(imipramine)을 3주간 복 용하였다. 우울 증상은 개선되었으나 심한 입마름, 시야 흐림, 변비 증상이 나타났다. 이 유해 반응은 어떤 수용체가 차단되어 발생한 것인가?",
+        "choices":  [
+                        "니코틴 수용체",
+                        "도파민 수용체",
+                        "무스카린 수용체",
+                        "세로토닌 수용체",
+                        "히스타민 수용체"
+                    ],
+        "answer":  3,
+        "explanation":  "핵심 단서: 입마름·시야흐림. 정답 판단: 3번 무스카린 수용체. 암기: 절박요실금 약물은 주로 M 수용체 길항제라 항콜린 부작용이 생긴다.",
+        "image":  ""
+    },
+    {
+        "id":  "pharmacology_03_23_57",
+        "subject":  "Pharmacology",
+        "section":  "03 중추신경계 약물",
+        "question":  "48세 남자가 만성 허리통증 치료를 위하여 마약성 진통제를 복용하던 중 변비가 생겼다. 변비 증상을 완화하기 위하여 사용한 메틸날트렉손 (methylnaltrexone)의 작용기전은?",
+        "choices":  [
+                        "대변연화제",
+                        "삼투성 완화제",
+                        "자극성 완화제",
+                        "팽창성 완화제",
+                        "오피오이드 수용체 길항제"
+                    ],
+        "answer":  5,
+        "explanation":  "핵심 단서: opioid 유발 변비. 정답 판단: 5번 오피오이드 수용체 길항제. 암기: Methylnaltrexone은 말초 μ-opioid 수용체 길항제이다.",
+        "image":  ""
+    },
+    {
+        "id":  "pharmacology_06_23_58",
+        "subject":  "Pharmacology",
+        "section":  "06 기타 장기에 작용하는 약물",
+        "question":  "65세 남자가 Alzheimer’s disease로 진단받고 donepezil을 복용하고 있 다. 이 약물의 작용기전은 무엇인가?",
+        "choices":  [
+                        "stimulating the release of Ach.",
+                        "blocking the reuptake of norepinephrine.",
+                        "inhibiting monoamine oxidase.",
+                        "blocking the release of Ach.",
+                        "inhibiting AchE."
+                    ],
+        "answer":  5,
+        "explanation":  "핵심 단서: 교감신경 수용체 선택성. 정답 판단: 5번 inhibiting AchE.. 암기: Norepinephrine은 α/β1 작용이 강하고 β2 기관지확장 효과는 약하다.",
+        "image":  ""
+    },
+    {
+        "id":  "pharmacology_06_23_59",
+        "subject":  "Pharmacology",
+        "section":  "06 기타 장기에 작용하는 약물",
+        "question":  "Tranylcypromine을 복용하고 있던 40세 남성이 호텔 축하연을 다녀 온 후 심한 두통과 흉통으로 응급실로 내원하였다. 다음 중 이 환자의 증세를 유발 시켰을 가능성이 있는 음식물은 무엇인가?",
+        "choices":  [
+                        "샐러드",
+                        "초크릿케이크",
+                        "적포도주",
+                        "훈제 연어",
+                        "빵"
+                    ],
+        "answer":  3,
+        "explanation":  "핵심 단서: 간에서 가장 많은 약물대사. 정답 판단: 3번 적포도주. 암기: CYP3A4가 간과 장에서 가장 폭넓게 약물대사를 담당한다.",
+        "image":  ""
+    },
+    {
+        "id":  "pharmacology_06_23_60",
+        "subject":  "Pharmacology",
+        "section":  "06 기타 장기에 작용하는 약물",
+        "question":  "72세 여성에게 무릎 수술 중 근이완제인 succinylcholine을 투약하였다. 이 약물의 작용기전은 무엇인가?",
+        "choices":  [
+                        "blocking ACh at nicotinic receptors of neuromuscular endplate.",
+                        "blocking ACh at nicotinic receptors in the adrenal medulla.",
+                        "increasing Na+ and K+ permeability of the postsynaptic neuromuscular membrane.",
+                        "blocking the transmission of the action potential along the nerve axon.",
+                        "blocking the release of ACh rom neuromuscular presynaptic vesicles."
+                    ],
+        "answer":  3,
+        "explanation":  "핵심 단서: 탈분극성 근이완제. 정답 판단: 3번 increasing Na+ and K+ permeability of the postsynaptic neuromuscular membrane.. 암기: Succinylcholine은 nicotinic 수용체를 지속 활성화해 Na+/K+ 투과성을 증가시킨다.",
+        "image":  ""
+    },
+    {
+        "id":  "pharmacology_02_23_61",
+        "subject":  "Pharmacology",
+        "section":  "02 자율신경계 약물",
+        "question":  "norepinephrine이 기관지의 공기흐름을 증가시키는 영향이 상대적으로 적은 이유는 기관지 평활근의 수용체가 주로 어떤 유형이기 때문인가?",
+        "choices":  [
+                        "α1 adrenergic receptor",
+                        "β1 adrenergic receptor",
+                        "M2 muscarinic receptor",
+                        "β2 adrenergic receptor",
+                        "nicotinic receptor"
+                    ],
+        "answer":  4,
+        "explanation":  "핵심 단서: 천식 β2 작용제. 정답 판단: 4번 β2 adrenergic receptor. 암기: β2 작용제의 흔한 부작용은 빈맥·떨림이다.",
+        "image":  ""
+    },
+    {
+        "id":  "pharmacology_02_23_62",
+        "subject":  "Pharmacology",
+        "section":  "02 자율신경계 약물",
+        "question":  "23세 대학생이 각성을 위해서 amphetamine을 사용하였다. 이 약물의 각 성효과는 무엇 때문인가?",
+        "choices":  [
+                        "due to the release of epinephrine from the adrenal medulla.",
+                        "due to the release of histamine from mast cells",
+                        "due to the stimulation of β receptors in the frontal cortex of the brain.",
+                        "due to the release of norepinephrine from central adrenergic neurons.",
+                        "the result of inhibition of monoamine oxidase."
+                    ],
+        "answer":  4,
+        "explanation":  "핵심 단서: 교감신경 수용체 선택성. 정답 판단: 4번 due to the release of norepinephrine from central adrenergic neurons.. 암기: Norepinephrine은 α/β1 작용이 강하고 β2 기관지확장 효과는 약하다.",
+        "image":  ""
+    },
+    {
+        "id":  "pharmacology_02_23_63",
+        "subject":  "Pharmacology",
+        "section":  "02 자율신경계 약물",
+        "question":  "55세 여성 COPD 환자가 사용하던 흡입용 albuterol를 더 이상 사용할 수 없게 되었다. 이 환자가 겪었을 것으로 추정되는 약물의 부작용은 무엇인 가?",
+        "choices":  [
+                        "입술이 검어졌다.",
+                        "심박수가 빨라졌다.",
+                        "손끝이 저리다.",
+                        "일과성 실명이 있었다.",
+                        "일과성 청력 감소가 있었다."
+                    ],
+        "answer":  2,
+        "explanation":  "핵심 단서: 천식 β2 작용제. 정답 판단: 2번 심박수가 빨라졌다.. 암기: β2 작용제의 흔한 부작용은 빈맥·떨림이다.",
+        "image":  ""
+    },
+    {
+        "id":  "pharmacology_07_23_64",
+        "subject":  "Pharmacology",
+        "section":  "07 항염증제, 면역억제제, 항암제",
+        "question":  "다음 중glucocorticoids에 의하여, glucocorticoids receptor (GR)와의 결합으로 항염증작용에 관여하는transcription factor는 어느 것인가?",
+        "choices":  [
+                        "AP-1",
+                        "calcineurin",
+                        "mTOR C1",
+                        "CD52",
+                        "mTOR C2"
+                    ],
+        "answer":  1,
+        "explanation":  "핵심 단서: 이식 거부반응 억제. 정답 판단: 1번 AP-1. 암기: Cyclosporine/tacrolimus는 calcineurin 억제로 IL-2 전사를 낮춘다.",
+        "image":  ""
+    },
+    {
+        "id":  "pharmacology_07_23_65",
+        "subject":  "Pharmacology",
+        "section":  "07 항염증제, 면역억제제, 항암제",
+        "question":  "다음 중 BCL-2 억제제로서 작용하는 BH3(BCL-2 homology domain 3) mimetics는 어느 것인가?",
+        "choices":  [
+                        "CAR-T",
+                        "olaparib",
+                        "rucaparib",
+                        "venetoclax",
+                        "thalidomide"
+                    ],
+        "answer":  4,
+        "explanation":  "핵심 단서: BCL2 억제. 정답 판단: 4번 venetoclax. 암기: Venetoclax는 BCL2 억제로 apoptosis를 촉진한다.",
+        "image":  ""
+    },
+    {
+        "id":  "pharmacology_07_23_66",
+        "subject":  "Pharmacology",
+        "section":  "07 항염증제, 면역억제제, 항암제",
+        "question":  "다음 중 5-FU를 투약하기 전에 먼저 투여하면 암세포 내에 PRPP를 증가시 켜서 항암효과를 증강 시킬 수 있는 약물은 무엇인가?",
+        "choices":  [
+                        "leucovorin",
+                        "oxaliplatin",
+                        "methotrexate",
+                        "cytarabine (Ara-C)",
+                        "fluxuridine"
+                    ],
+        "answer":  3,
+        "explanation":  "핵심 단서: 문항의 약물-질환 조합. 정답 판단: 3번 methotrexate. 암기: 대표 작용기전, 적응증, 대표 부작용을 한 세트로 연결한다.",
+        "image":  ""
+    },
+    {
+        "id":  "pharmacology_07_23_67",
+        "subject":  "Pharmacology",
+        "section":  "07 항염증제, 면역억제제, 항암제",
+        "question":  "다음 중 유방암 발병과 유관한 homologous recombination에 관여하는 유전자는 어느 것인가?",
+        "choices":  [
+                        "Rb",
+                        "p53",
+                        "APC",
+                        "BRCA2",
+                        "PTCH"
+                    ],
+        "answer":  4,
+        "explanation":  "핵심 단서: 문항의 약물-질환 조합. 정답 판단: 4번 BRCA2. 암기: 대표 작용기전, 적응증, 대표 부작용을 한 세트로 연결한다.",
+        "image":  ""
+    },
+    {
+        "id":  "pharmacology_07_23_68",
+        "subject":  "Pharmacology",
+        "section":  "07 항염증제, 면역억제제, 항암제",
+        "question":  "다음 중 renal cell carcinoma의 치료로 사용되는 HIF-2α inhibitor는 무 엇인가?",
+        "choices":  [
+                        "belzutifan",
+                        "olaparib",
+                        "rucaparib",
+                        "venetoclax",
+                        "thalidomide"
+                    ],
+        "answer":  1,
+        "explanation":  "핵심 단서: BCL2 억제. 정답 판단: 1번 belzutifan. 암기: Venetoclax는 BCL2 억제로 apoptosis를 촉진한다.",
+        "image":  ""
+    },
+    {
+        "id":  "pharmacology_07_23_69",
+        "subject":  "Pharmacology",
+        "section":  "07 항염증제, 면역억제제, 항암제",
+        "question":  "다음 중 multiple myeloma의 치료제로 사용되며, targeting protein degradation에서 molecular glue로 작용하는 제제는 무엇인가?",
+        "choices":  [
+                        "atezolizumab",
+                        "lenalidomide",
+                        "ipilimumab",
+                        "plerixafor",
+                        "sunitinib"
+                    ],
+        "answer":  2,
+        "explanation":  "핵심 단서: 문항의 약물-질환 조합. 정답 판단: 2번 lenalidomide. 암기: 대표 작용기전, 적응증, 대표 부작용을 한 세트로 연결한다.",
+        "image":  ""
+    },
+    {
+        "id":  "pharmacology_07_23_70",
+        "subject":  "Pharmacology",
+        "section":  "07 항염증제, 면역억제제, 항암제",
+        "question":  "다음 중 peripheral T-cell lymphoma 치료에 사용되는 histone deacetylase 억제제는 어느 것인가?",
+        "choices":  [
+                        "atezolizumab",
+                        "alemtuzumab",
+                        "vorinostat",
+                        "plerixafor",
+                        "sunitinib"
+                    ],
+        "answer":  3,
+        "explanation":  "핵심 단서: ACE 억제제 부작용. 정답 판단: 3번 vorinostat. 암기: ACE 억제제 기침은 bradykinin 증가와 관련되어 ARB로 대체한다.",
+        "image":  ""
+    },
+    {
+        "id":  "pharmacology_03_23_36",
+        "subject":  "Pharmacology",
+        "section":  "03 중추신경계 약물",
+        "question":  "33세 여자가 반감기가 2시간인 수면제를 100mg 정맥투여 받았다. 이 약물의 최소 유효 용량이 12.5mg이라면, 예상 수면 지속 시간은?",
+        "choices":  [
+                        "2시간",
+                        "4시간",
+                        "6시간",
+                        "8시간",
+                        "10시간"
+                    ],
+        "answer":  3,
+        "explanation":  "핵심 단서: 문항의 약물-질환 조합. 정답 판단: 3번 6시간. 암기: 대표 작용기전, 적응증, 대표 부작용을 한 세트로 연결한다.",
+        "image":  ""
+    },
+    {
+        "id":  "pharmacology_05_23_37",
+        "subject":  "Pharmacology",
+        "section":  "05 내분비계 약물",
+        "question":  "21세 여자가 운동 중 힘이 빠지면서 구역질, 심한 갈증, 어지럼, 가쁜 호흡 이 나타나서 응급실에 왔다. 3년 전 1형 당뇨병으로 진단을 받았다고 한다 . 검사 결과는 다음과 같다. 빠른 증상 호전을 위하여 투여해야 하는 약물 은? 혈당 345 mg/dL 동맥혈 pH 7.05",
+        "choices":  [
+                        "인슐린(insulin)",
+                        "글리피짓(glipizide)",
+                        "메트포르민(metformin)",
+                        "엑세나타이드(exenatide)",
+                        "로지글리타존(rosiglitazone)"
+                    ],
+        "answer":  1,
+        "explanation":  "핵심 단서: 제2형 당뇨 1차 약물. 정답 판단: 1번 인슐린(insulin). 암기: Metformin은 AMPK 활성화로 간 포도당 생성을 감소시킨다.",
+        "image":  ""
+    },
+    {
+        "id":  "pharmacology_07_23_38",
+        "subject":  "Pharmacology",
+        "section":  "07 항염증제, 면역억제제, 항암제",
+        "question":  "58세 남자가 6개월 전부터 몸무게가 7 kg 늘어서 병원에 왔다. 추위를 자주 느낀다고 한다. 6년 전 두경부암으로 방사선 치료를 받았다. 혈압 150/90 mmHg, 맥박 62회/분, 체온 36.4℃이다. 갑상샘은 만져지지 않 으며, 얼굴이 붓고 전신 피부가 거칠게 만져진다. 혈액검사 결과는 다음과 같다. 적절한 치료는? Na+/K+/Cl- 132/4.5/108 mEq/L T3 42 ng/dL (참고치, 98~180) 유리 T4 0.39 ng/dL (참고치, 0.8~1.9) 갑상샘자극호르몬 89.5 μU/mL (참고치, 0.4~5.1)",
+        "choices":  [
+                        "저염식",
+                        "루골용액",
+                        "푸로세미드",
+                        "레보티록신",
+                        "글루코코르티코이드"
+                    ],
+        "answer":  4,
+        "explanation":  "핵심 단서: 갑상샘기능 이상. 정답 판단: 4번 레보티록신. 암기: 저하증은 levothyroxine, Graves/항진증은 thionamide와 β차단제를 연결한다.",
+        "image":  ""
+    },
+    {
+        "id":  "pharmacology_08_23_39",
+        "subject":  "Pharmacology",
+        "section":  "08 미생물에 대한 화학요법",
+        "question":  "65세 여자가 명치 부위 통증으로 병원에 왔다. 위내시경 사진(사진 1)과 병터 부위의 위점막의 검사 사진(사진 2)이다. 적절한 치료 약물은?",
+        "choices":  [
+                        "세파졸린",
+                        "겐타마이신",
+                        "프라지콴텔",
+                        "암포테리신 B",
+                        "클라리스로마이신"
+                    ],
+        "answer":  5,
+        "explanation":  "핵심 단서: 문항의 약물-질환 조합. 정답 판단: 5번 클라리스로마이신. 암기: 대표 작용기전, 적응증, 대표 부작용을 한 세트로 연결한다.",
+        "image":  "assets/images/pharmacology_08_23_39.jpg"
+    },
+    {
+        "id":  "pharmacology_08_23_40",
+        "subject":  "Pharmacology",
+        "section":  "08 미생물에 대한 화학요법",
+        "question":  "58세 여자가 3개월 전부터 손관절 통증과 부종이 더 심해져서 병원에 왔 다. 1년 전 류마티스관절염을 진단받았고, 메토트렉세이트, 술파살라진, 히드록시클로로퀸 복합요법으로 7개월째 치료 중이었다. 부종관절 수가 7개, 압통관절 수가 9개였다. 혈액검사 결과는 다음과 같았다. 손 X선 사 진에서 새로운 골미란이 관찰되었다. 적절한 치료 약물은? 혈색소 9.3 g/dL, 백혈구 8,600/mm3, 혈소판 512,000/mm3 적혈구침강속도 77 mm/시간 (참고치, \u003c20) C-반응단백질 26.7 mg/L (참고치, \u003c10)",
+        "choices":  [
+                        "콜히친",
+                        "항생제",
+                        "면역글로불린G",
+                        "비스포스포네이트",
+                        "항종양괴사인자제제"
+                    ],
+        "answer":  5,
+        "explanation":  "핵심 단서: RA 진행 억제. 정답 판단: 5번 항종양괴사인자제제. 암기: NSAID는 증상 완화제이고 DMARD/생물학제가 관절 손상 진행을 늦춘다.",
+        "image":  ""
+    },
+    {
+        "id":  "pharmacology_07_23_41",
+        "subject":  "Pharmacology",
+        "section":  "07 항염증제, 면역억제제, 항암제",
+        "question":  "55세 여자가 2주 전부터 머리가 아파서 왔다. 한 달 전 고혈압을 진단받고 혈압강하제를 복용하였다. 혈압 120/80 mmHg, 맥박 70회/분, 호흡 20회/분, 체온 36.3℃였다. 얼굴에 홍조가 있었고, 양쪽 정강뼈앞 오목부 종이 있었다. 원인 약제는?",
+        "choices":  [
+                        "로살탄(losartan)",
+                        "티아지드(thiazide)",
+                        "아테놀롤(atenolol)",
+                        "캡토프릴(captopril)",
+                        "암로디핀(amlodipine)"
+                    ],
+        "answer":  5,
+        "explanation":  "핵심 단서: thiazide 이뇨제. 정답 판단: 5번 암로디핀(amlodipine). 암기: Thiazide는 원위곡세관 NaCl 공동수송체를 억제한다.",
+        "image":  ""
+    },
+    {
+        "id":  "pharmacology_05_23_42",
+        "subject":  "Pharmacology",
+        "section":  "05 내분비계 약물",
+        "question":  "53세 남자가 건강검진에서 이상지질혈증이 발견되어 병원에 왔다. 4년 전 부터 고혈압으로 약물치료를 해 오고 있었다. 비흡연자였으며, 심혈관질환 의 가족력은 없었다. 키 170 cm, 체중 70 kg 이었다. 혈액검사 결과는 다 음과 같았다. 우선 투여할 약제는? 공복혈당 96 mg/dL, 크레아티닌 0.6 mg/dL 총 콜레스테롤 190 mg/dL (참고치, \u003c200), 중성지방 520 mg/dL (참고치, \u003c150) 고밀도지질단백콜레스테롤 42 mg/dL (참고치 ≥40) 저밀도지질단백콜레스테롤 110 mg/dL (참고치, \u003c100)",
+        "choices":  [
+                        "스타틴",
+                        "에제티미브",
+                        "피브레이트",
+                        "콜레스티라민",
+                        "감마리놀렌산"
+                    ],
+        "answer":  3,
+        "explanation":  "핵심 단서: 문항의 약물-질환 조합. 정답 판단: 3번 피브레이트. 암기: 대표 작용기전, 적응증, 대표 부작용을 한 세트로 연결한다.",
+        "image":  ""
+    },
+    {
+        "id":  "pharmacology_03_23_43",
+        "subject":  "Pharmacology",
+        "section":  "03 중추신경계 약물",
+        "question":  "43세 여자가 불안증을 치료하기 위하여 디아제팜(diazepam)을 복용하고 있다. 디아제팜이 GABAA 수용체에 작용할 때 투과성이 증가되는 이온은 ?",
+        "choices":  [
+                        "Cl-",
+                        "K+",
+                        "Na+",
+                        "Ca2+",
+                        "Mg2+"
+                    ],
+        "answer":  1,
+        "explanation":  "핵심 단서: benzodiazepine 과량/호흡억제. 정답 판단: 1번 Cl-. 암기: Flumazenil은 benzodiazepine 수용체 길항제이다.",
+        "image":  ""
+    },
+    {
+        "id":  "pharmacology_01_23_44",
+        "subject":  "Pharmacology",
+        "section":  "01 약리학 총론",
+        "question":  "25세 여자가 숨쉬기가 힘들다며 병원에 왔다. 2개월 전 비행기 안에서 호 흡곤란, 어지러움, 가슴 통증이 발생한 후 파록세틴(paroxetine)을 꾸준히 복용하고 괜찮아졌다. 3일 전 버스 안에서 호흡곤란이 다시 시작된 것 같 아 걱정을 하고 있다. 혈액검사와 심전도에서 이상이 없으니 안심하고 복 식 호흡 훈련을 자주하고 파록세틴을 계속 복용하라고 하였다. 그러나 다 음 주에 당장 해외 출장이 있어 비행기를 타야 한다며 추가 약물을 요청하 였다. 적절한 치료는?",
+        "choices":  [
+                        "졸피뎀",
+                        "벤라팍신",
+                        "부스피론",
+                        "부프로피온",
+                        "알프라졸람"
+                    ],
+        "answer":  5,
+        "explanation":  "핵심 단서: 문항의 약물-질환 조합. 정답 판단: 5번 알프라졸람. 암기: 대표 작용기전, 적응증, 대표 부작용을 한 세트로 연결한다.",
+        "image":  ""
+    },
+    {
+        "id":  "pharmacology_02_23_45",
+        "subject":  "Pharmacology",
+        "section":  "02 자율신경계 약물",
+        "question":  "55세 남자가 안정 떨림, 경직 증상으로 병원에 왔다. 파킨슨병으로 진단하 고 레보도파(levodopa)를 처방하였다. 레보도파의 작용기전은?",
+        "choices":  [
+                        "COMT 억제제",
+                        "MAO-B 억제제",
+                        "도파민 전구물질",
+                        "도파민 수용체 작용제",
+                        "무스카린 수용체 차단제"
+                    ],
+        "answer":  3,
+        "explanation":  "핵심 단서: 파킨슨병 운동증상. 정답 판단: 3번 도파민 전구물질. 암기: Levodopa는 dopamine 전구물질이다.",
+        "image":  ""
+    },
+    {
+        "id":  "pharmacology_02_23_46",
+        "subject":  "Pharmacology",
+        "section":  "02 자율신경계 약물",
+        "question":  "63세 여자가 기억력이 떨어져서 병원에 왔다. 알츠하이머병으로 진단하고 도네페질(donepezil)을 처방하였다. 도네페질의 작용기전은?",
+        "choices":  [
+                        "아세틸콜린 합성 촉진",
+                        "아세틸콜린 저장 증가",
+                        "아세틸콜린 유리 억제",
+                        "아세틸콜린 분해 억제",
+                        "아세틸콜린 수용체 차단"
+                    ],
+        "answer":  4,
+        "explanation":  "핵심 단서: 알츠하이머병 치료. 정답 판단: 4번 아세틸콜린 분해 억제. 암기: Donepezil은 acetylcholinesterase 억제제이다.",
+        "image":  ""
+    },
+    {
+        "id":  "pharmacology_05_23_47",
+        "subject":  "Pharmacology",
+        "section":  "05 내분비계 약물",
+        "question":  "30세 여자가 두근거림, 발열, 손가락 떨림으로 병원에 왔다. 혈압 160/100 mmHg, 맥박 130회/분이었다. 갑상샘은 전반적으로 커져 있었 다. 안구가 돌출되어 있었으며 과거력상 천식과 요오드(iodine)에 과민반 응이 있었다. 적절한 치료는?",
+        "choices":  [
+                        "L-티록신",
+                        "루골용액",
+                        "메티마졸",
+                        "프로프라놀롤",
+                        "소마토스타틴"
+                    ],
+        "answer":  3,
+        "explanation":  "핵심 단서: 갑상샘기능 이상. 정답 판단: 3번 메티마졸. 암기: 저하증은 levothyroxine, Graves/항진증은 thionamide와 β차단제를 연결한다.",
+        "image":  ""
+    },
+    {
+        "id":  "pharmacology_07_23_48_2",
+        "subject":  "Pharmacology",
+        "section":  "07 항염증제, 면역억제제, 항암제",
+        "question":  "73세 여자가 골관절염 치료를 위하여 아스피린(aspirin)을 복용하고 있다. 복용 후 윗배 통증과 흑색변을 보이기 시작했다. 검사 결과 다른 특별한 이 상은 발견되지 않았다. 적절한 대체 약물은?",
+        "choices":  [
+                        "Vitamin K",
+                        "세레콕시브(celecoxib)",
+                        "이부프로펜(ibuprofen)",
+                        "N-아세틸시스테인(N-acetylcysteine)",
+                        "프로타민 황산염(protamine sulfate)"
+                    ],
+        "answer":  2,
+        "explanation":  "핵심 단서: 헤파린 과량. 정답 판단: 2번 세레콕시브(celecoxib). 암기: Protamine sulfate는 heparin을 중화한다.",
+        "image":  ""
+    },
+    {
+        "id":  "pharmacology_01_23_49",
+        "subject":  "Pharmacology",
+        "section":  "01 약리학 총론",
+        "question":  "Drug A 100 mg 정맥투여 시의 시간에 따른 혈중 약물 농도는 다음과 같 았다. Drug A의 청소율은?(ln2=0.69) 표: Time(h) 0, 1, 2, 3, 4 / Concentration(mg/L) 20.00, 10.00, 5.00, 2.50, 1.25.",
+        "choices":  [
+                        "0.69 L/h",
+                        "1 L/h",
+                        "3.45 L/h",
+                        "5 L/h",
+                        "6.9 L/h"
+                    ],
+        "answer":  3,
+        "explanation":  "핵심 단서: 정맥투여 후 혈중농도-시간 자료. 정답 판단: 3번 3.45 L/h. 암기: CL = k × Vd. 반감기·분포용적 또는 AUC로 청소율을 계산한다.",
+        "image":  "assets/images/pharmacology_01_23_49.jpg"
+    },
+    {
+        "id":  "pharmacology_03_23_50",
+        "subject":  "Pharmacology",
+        "section":  "03 중추신경계 약물",
+        "question":  "48세 남자가 만성 허리통증 치료를 위하여 마약성 진통제를 복용하던 중 변비가 생겼다. 변비 증상을 완화하기 위하여 사용한 메틸날트렉손 (methylnaltrexone)의 작용기전은?",
+        "choices":  [
+                        "대변연화제",
+                        "삼투성 완화제",
+                        "자극성 완화제",
+                        "팽창성 완화제",
+                        "오피오이드 수용체 길항제"
+                    ],
+        "answer":  5,
+        "explanation":  "핵심 단서: opioid 유발 변비. 정답 판단: 5번 오피오이드 수용체 길항제. 암기: Methylnaltrexone은 말초 μ-opioid 수용체 길항제이다.",
+        "image":  ""
+    },
+    {
+        "id":  "pharmacology_05_23_51",
+        "subject":  "Pharmacology",
+        "section":  "05 내분비계 약물",
+        "question":  "60세 여자가 1개월 전부터 소변을 자주 보고 입이 말라 병원에 왔다. 검사 결과는 다음과 같았다. Type2 당뇨병으로 진단 후 적절한 치료는? 신체: 키 155 cm, 체중 70 kg 혈청: 공복혈당 220 mg/dL, 식후 2시간 혈당 280 mg/dL 당화혈색소 8.1%, 크레아티닌 0.9 mg/dL 아스파르테이트아미노전달효소 52 IU/L 알라닌아미노전달효소 60 IU/L 소변: 포도당 (2+), 케톤 (-)",
+        "choices":  [
+                        "지속형 인슐린 투여",
+                        "메트포민(metformin)",
+                        "메글리티나이드(meglitinide)",
+                        "티아졸리디네디온(thiazolidinedione)",
+                        "알파글루코시데이스억제제(α-glucosidase inhibitor)"
+                    ],
+        "answer":  2,
+        "explanation":  "핵심 단서: 제2형 당뇨 1차 약물. 정답 판단: 2번 메트포민(metformin). 암기: Metformin은 AMPK 활성화로 간 포도당 생성을 감소시킨다.",
+        "image":  ""
+    },
+    {
+        "id":  "pharmacology_06_23_52",
+        "subject":  "Pharmacology",
+        "section":  "06 기타 장기에 작용하는 약물",
+        "question":  "30세 남자가 혈성 설사와 뒤무직으로 병원에 왔다. 2년 전부터 혈변과 무 른변이 가끔 있었고 최근 하루 3~4회로 악화되었다고 한다. 대변배양검사 는 음성이었고 대장내시경상 출혈성 염증소견이 직장에 국한되어 있었다. 생검 결과 움고름집이 보였다. 적절한 치료는?",
+        "choices":  [
+                        "세레콕시브(celecoxib)",
+                        "인플릭시맙(infliximab)",
+                        "5-아미노살리실산(5-ASA)",
+                        "아자티오프린(azathioprine)",
+                        "메트로니다졸(metronidazole)"
+                    ],
+        "answer":  3,
+        "explanation":  "핵심 단서: 문항의 약물-질환 조합. 정답 판단: 3번 5-아미노살리실산(5-ASA). 암기: 대표 작용기전, 적응증, 대표 부작용을 한 세트로 연결한다.",
+        "image":  ""
+    },
+    {
+        "id":  "pharmacology_07_23_53",
+        "subject":  "Pharmacology",
+        "section":  "07 항염증제, 면역억제제, 항암제",
+        "question":  "23세 남자가 두통으로 병원에 왔다. 두통을 완화하기 위하여 진통제를 사 용하고자 한다. 항염증작용 없이 통증을 완화하는 약물은?",
+        "choices":  [
+                        "아스피린",
+                        "나프록센",
+                        "세레콕시브",
+                        "이부프로펜",
+                        "아세트아미노펜"
+                    ],
+        "answer":  5,
+        "explanation":  "핵심 단서: 문항의 약물-질환 조합. 정답 판단: 5번 아세트아미노펜. 암기: 대표 작용기전, 적응증, 대표 부작용을 한 세트로 연결한다.",
+        "image":  ""
+    },
+    {
+        "id":  "pharmacology_03_23_54_2",
+        "subject":  "Pharmacology",
+        "section":  "03 중추신경계 약물",
+        "question":  "33세 여자가 조현병 치료를 위하여 할로페리돌(haloperidol)을 복용 중이 다. 이 약물의 유해반응으로 불수의적 운동과 근긴장 이상 등의 추체외로 증상이 나타나는 기전은?",
+        "choices":  [
+                        "기저핵 도파민 D2 수용체 억제",
+                        "기저핵 히스타민 H1 수용체 억제",
+                        "대뇌피질 도파민 D1 수용체 억제",
+                        "전두엽 교감신경 alpha1 수용체 억제",
+                        "전두엽 세로토닌 5-HT2A 수용체 억제"
+                    ],
+        "answer":  1,
+        "explanation":  "핵심 단서: 문항의 약물-질환 조합. 정답 판단: 1번 기저핵 도파민 D2 수용체 억제. 암기: 대표 작용기전, 적응증, 대표 부작용을 한 세트로 연결한다.",
+        "image":  ""
+    },
+    {
+        "id":  "pharmacology_02_23_55",
+        "subject":  "Pharmacology",
+        "section":  "02 자율신경계 약물",
+        "question":  "25세 여자가 우울증으로 진단받고 이미프라민(imipramine)을 3주간 복 용하였다. 우울 증상은 개선되었으나 심한 입마름, 시야 흐림, 변비 증상이 나타났다. 이 유해 반응은 어떤 수용체가 차단되어 발생한 것인가?",
+        "choices":  [
+                        "니코틴 수용체",
+                        "도파민 수용체",
+                        "무스카린 수용체",
+                        "세로토닌 수용체",
+                        "히스타민 수용체"
+                    ],
+        "answer":  3,
+        "explanation":  "핵심 단서: 입마름·시야흐림. 정답 판단: 3번 무스카린 수용체. 암기: 절박요실금 약물은 주로 M 수용체 길항제라 항콜린 부작용이 생긴다.",
+        "image":  ""
+    },
+    {
+        "id":  "pharmacology_01_23_56",
+        "subject":  "Pharmacology",
+        "section":  "01 약리학 총론",
+        "question":  "약물이 대사(biotransformation or metabolism) 과정을 거친 결과에 관 한 설명으로 맞는 것은?",
+        "choices":  [
+                        "유해 작용이 더 많이 발생된다.",
+                        "세포 내에 더 잘 분포하게 된다.",
+                        "원래 약물보다 수용성이 증가된다.",
+                        "신세뇨관에서 재흡수가 더 잘 이루어진다.",
+                        "중간 대사산물들은 약리학적 활성을 띄지 않는다."
+                    ],
+        "answer":  3,
+        "explanation":  "핵심 단서: 약물대사 결과. 정답 판단: 3번 원래 약물보다 수용성이 증가된다.. 암기: 대사는 대체로 수용성을 높여 신장/담즙 배설을 쉽게 한다.",
+        "image":  ""
+    },
+    {
+        "id":  "pharmacology_08_23_57",
+        "subject":  "Pharmacology",
+        "section":  "08 미생물에 대한 화학요법",
+        "question":  "68세 남자가 대장암 수술 후 빗장 밑 정맥 카테터를 1주간 유치하던 중 고 열이 발생하였다. 검사 결과는 다음과 같았다. 적절한 치료는? 균 배양 검사: 혈장응고효소 양성 포도알균 항생제 감수성 결과: 옥사실린(oxacillin) 내성",
+        "choices":  [
+                        "나프실린(nafcillin)",
+                        "피페라실린(piperacillin)",
+                        "겐타마이신(gentamicin)",
+                        "반코마이신(vancomycin)",
+                        "에리스로마이신(erythromycin)"
+                    ],
+        "answer":  4,
+        "explanation":  "핵심 단서: MRSA/oxacillin 내성 포도알균. 정답 판단: 4번 반코마이신(vancomycin). 암기: MRSA 중증 감염은 vancomycin을 선택한다.",
+        "image":  ""
+    },
+    {
+        "id":  "pharmacology_02_23_58",
+        "subject":  "Pharmacology",
+        "section":  "02 자율신경계 약물",
+        "question":  "25세 남성이 늦은 밤 3명의 남자와 시비가 붙었다. 남자의 맥박수는 증가 하였고 혈류에는 에피네프린이 증가하였다. 이것은 아세틸콜린의 부신수 질에 대한 작용으로서 이때 반응하는 수용체는 다음 중 어느 것인가?",
+        "choices":  [
+                        "muscarinic receptor",
+                        "α adrenergic receptor",
+                        "nicotinic receptor",
+                        "β adrenergic receptor",
+                        "glutamate receptor"
+                    ],
+        "answer":  3,
+        "explanation":  "핵심 단서: 문항의 약물-질환 조합. 정답 판단: 3번 nicotinic receptor. 암기: 대표 작용기전, 적응증, 대표 부작용을 한 세트로 연결한다.",
+        "image":  ""
+    },
+    {
+        "id":  "pharmacology_04_23_59",
+        "subject":  "Pharmacology",
+        "section":  "04 심혈관계 약물",
+        "question":  "53세 여성이 안과에 내원하였다. 의사가 검사를 위해 약물을 점안하자 동 공이 확대되었 다. 이때 반응하는 수용체는 다음 중 어느 것인가?",
+        "choices":  [
+                        "serotonin receptor",
+                        "α1 adrenergic receptor",
+                        "nicotinic receptor",
+                        "β2 adrenergic receptor",
+                        "acetylcholine receptor"
+                    ],
+        "answer":  2,
+        "explanation":  "핵심 단서: ACE 억제제 부작용. 정답 판단: 2번 α1 adrenergic receptor. 암기: ACE 억제제 기침은 bradykinin 증가와 관련되어 ARB로 대체한다.",
+        "image":  ""
+    },
+    {
+        "id":  "pharmacology_04_23_60",
+        "subject":  "Pharmacology",
+        "section":  "04 심혈관계 약물",
+        "question":  "다음 중 neuromuscular junction에서 작용하는 신경전달물질은 무엇인 가?",
+        "choices":  [
+                        "serotonin",
+                        "norepinephrine",
+                        "aspartate",
+                        "acetylcholine",
+                        "epinephrine"
+                    ],
+        "answer":  4,
+        "explanation":  "핵심 단서: 교감신경 수용체 선택성. 정답 판단: 4번 acetylcholine. 암기: Norepinephrine은 α/β1 작용이 강하고 β2 기관지확장 효과는 약하다.",
+        "image":  ""
+    },
+    {
+        "id":  "pharmacology_07_23_61",
+        "subject":  "Pharmacology",
+        "section":  "07 항염증제, 면역억제제, 항암제",
+        "question":  "다음 중 tacrolimus의 작용부위는 어디인가?",
+        "choices":  [
+                        "T 세포의 purine 대사",
+                        "T 세포 표면 의 CD 52 차단",
+                        "증식하는 T 세포의 DNA에 결합 후 방해(intercalation)",
+                        "Calcineurin의 차단",
+                        "mTOR의 활성을 억제"
+                    ],
+        "answer":  4,
+        "explanation":  "핵심 단서: 이식 거부반응 억제. 정답 판단: 4번 Calcineurin의 차단. 암기: Cyclosporine/tacrolimus는 calcineurin 억제로 IL-2 전사를 낮춘다.",
+        "image":  ""
+    },
+    {
+        "id":  "pharmacology_07_23_62",
+        "subject":  "Pharmacology",
+        "section":  "07 항염증제, 면역억제제, 항암제",
+        "question":  "다음 중 백혈병 세포의 아미노산을 고갈시키기 위하여, E. Coli로부터 추출 하는 효소는 무엇인가?",
+        "choices":  [
+                        "pentostatin",
+                        "L-asparaginase",
+                        "deoxycytidine kinase",
+                        "trabectidine",
+                        "asparagine synthase"
+                    ],
+        "answer":  2,
+        "explanation":  "핵심 단서: 소아 ALL 항암제. 정답 판단: 2번 L-asparaginase. 암기: Asparaginase는 asparagine을 고갈시킨다.",
+        "image":  ""
+    },
+    {
+        "id":  "pharmacology_07_23_63",
+        "subject":  "Pharmacology",
+        "section":  "07 항염증제, 면역억제제, 항암제",
+        "question":  "다음 중 multiple myeloma 치료를 위해 NF-κB의 전사를 억제하는 약물 은 무엇인가?",
+        "choices":  [
+                        "Thalidomide",
+                        "Lenalidomide",
+                        "Sirolimus",
+                        "Sorafenib",
+                        "Bortezomib"
+                    ],
+        "answer":  5,
+        "explanation":  "핵심 단서: mTOR 억제제. 정답 판단: 5번 Bortezomib. 암기: Sirolimus는 T세포 증식 신호를 mTOR 단계에서 억제한다.",
+        "image":  ""
+    },
+    {
+        "id":  "pharmacology_02_23_64",
+        "subject":  "Pharmacology",
+        "section":  "02 자율신경계 약물",
+        "question":  "55세 여성 COPD 환자가 사용하던 흡입용 albuterol를 더 이상 사용할 수 없게 되었다. 이 환자가 겪었을 것으로 추정되는 약물의 부작용은 무엇인 가?",
+        "choices":  [
+                        "입술이 검어졌다.",
+                        "심박수가 빨라졌다.",
+                        "손끝이 저리다.",
+                        "일과성 실명이 있었다.",
+                        "일과성 청력 감소가 있었다."
+                    ],
+        "answer":  2,
+        "explanation":  "핵심 단서: 천식 β2 작용제. 정답 판단: 2번 심박수가 빨라졌다.. 암기: β2 작용제의 흔한 부작용은 빈맥·떨림이다.",
+        "image":  ""
+    },
+    {
+        "id":  "pharmacology_02_23_65",
+        "subject":  "Pharmacology",
+        "section":  "02 자율신경계 약물",
+        "question":  "72세 여성에게 무릎 수술 중 근이완제인 succinylcholine을 투약하였다. 이 약물의 작용기전은 무엇인가?",
+        "choices":  [
+                        "blocking ACh at nicotinic receptors of neuromuscular endplate.",
+                        "blocking ACh at nicotinic receptors in the adrenal medulla.",
+                        "increasing Na+ and K+ permeability of the postsynaptic neuromuscular membrane.",
+                        "blocking the transmission of the action potential along the nerve axon.",
+                        "blocking the release of ACh rom neuromuscular presynaptic vesicles."
+                    ],
+        "answer":  3,
+        "explanation":  "핵심 단서: 탈분극성 근이완제. 정답 판단: 3번 increasing Na+ and K+ permeability of the postsynaptic neuromuscular membrane.. 암기: Succinylcholine은 nicotinic 수용체를 지속 활성화해 Na+/K+ 투과성을 증가시킨다.",
+        "image":  ""
+    },
+    {
+        "id":  "pharmacology_07_23_66_2",
+        "subject":  "Pharmacology",
+        "section":  "07 항염증제, 면역억제제, 항암제",
+        "question":  "다음 중 glucocorticoids에 의하여, glucocorticoids receptor (GR)와의 결합으로 항염증작용에 관여하는transcription factor는 어느 것인가?",
+        "choices":  [
+                        "AP-1",
+                        "calcineurin",
+                        "mTOR C1",
+                        "CD52",
+                        "mTOR C2"
+                    ],
+        "answer":  1,
+        "explanation":  "핵심 단서: 이식 거부반응 억제. 정답 판단: 1번 AP-1. 암기: Cyclosporine/tacrolimus는 calcineurin 억제로 IL-2 전사를 낮춘다.",
+        "image":  ""
+    },
+    {
+        "id":  "pharmacology_02_23_67",
+        "subject":  "Pharmacology",
+        "section":  "02 자율신경계 약물",
+        "question":  "65세 남자가 Alzheimer’s disease로 진단받고 donepezil을 복용하고 있 다. 이 약물의 작용기전은 무엇인가?",
+        "choices":  [
+                        "stimulating the release of Ach.",
+                        "blocking the reuptake of norepinephrine.",
+                        "inhibiting monoamine oxidase.",
+                        "blocking the release of Ach.",
+                        "inhibiting AchE."
+                    ],
+        "answer":  5,
+        "explanation":  "핵심 단서: 교감신경 수용체 선택성. 정답 판단: 5번 inhibiting AchE.. 암기: Norepinephrine은 α/β1 작용이 강하고 β2 기관지확장 효과는 약하다.",
+        "image":  ""
+    },
+    {
+        "id":  "pharmacology_07_23_68_2",
+        "subject":  "Pharmacology",
+        "section":  "07 항염증제, 면역억제제, 항암제",
+        "question":  "다음 중 BCL-2 억제제로서 작용하는 BH3(BCL-2 homology domain 3) mimetics는 어느 것인가?",
+        "choices":  [
+                        "CAR-T",
+                        "olaparib",
+                        "rucaparib",
+                        "venetoclax",
+                        "thalidomide"
+                    ],
+        "answer":  4,
+        "explanation":  "핵심 단서: BCL2 억제. 정답 판단: 4번 venetoclax. 암기: Venetoclax는 BCL2 억제로 apoptosis를 촉진한다.",
+        "image":  ""
+    },
+    {
+        "id":  "pharmacology_07_23_69_2",
+        "subject":  "Pharmacology",
+        "section":  "07 항염증제, 면역억제제, 항암제",
+        "question":  "다음 중 5-FU를 투약하기 전에 먼저 투여하면 암세포 내에 PRPP를 증가시 켜서 항암효과를 증강 시킬 수 있는 약물은 무엇인가?",
+        "choices":  [
+                        "leucovorin",
+                        "oxaliplatin",
+                        "methotrexate",
+                        "cytarabine (Ara-C)",
+                        "fluxuridine"
+                    ],
+        "answer":  3,
+        "explanation":  "핵심 단서: 문항의 약물-질환 조합. 정답 판단: 3번 methotrexate. 암기: 대표 작용기전, 적응증, 대표 부작용을 한 세트로 연결한다.",
+        "image":  ""
+    },
+    {
+        "id":  "pharmacology_02_23_70",
+        "subject":  "Pharmacology",
+        "section":  "02 자율신경계 약물",
+        "question":  "norepinephrine이 기관지의 공기흐름을 증가시키는 영향이 상대적으로 적은 이유는 기관지 평활근의 수용체가 주로 어떤 유형이기 때문인가?",
+        "choices":  [
+                        "α1 adrenergic receptor",
+                        "β1 adrenergic receptor",
+                        "M2 muscarinic receptor",
+                        "β2 adrenergic receptor",
+                        "nicotinic receptor"
+                    ],
+        "answer":  4,
+        "explanation":  "핵심 단서: 천식 β2 작용제. 정답 판단: 4번 β2 adrenergic receptor. 암기: β2 작용제의 흔한 부작용은 빈맥·떨림이다.",
+        "image":  ""
+    },
+    {
+        "id":  "pharmacology_08_25_31",
+        "subject":  "Pharmacology",
+        "section":  "08 미생물에 대한 화학요법",
+        "question":  "55세 남자가 3일 전부터 오른쪽 가슴과 옆구리가 아프다며 병원에 왔다. 1주 전부터 과로한 후에 온몸이 쑤시고 몸살 증상이 있었다. 편측성 흉부 에 띠 모양으로 발진이 있었으며, 의사는 대상포진으로 진단하고 약물 치 료를 시행하였다. 적절한 치료는?",
+        "choices":  [
+                        "아스피린(aspirin)",
+                        "세파졸린(cefazolin)",
+                        "아만타딘(amantadine)",
+                        "팜시클로버(famciclovir)",
+                        "아지트로마이신(azithromycin)"
+                    ],
+        "answer":  4,
+        "explanation":  "핵심 단서: 위궤양 + urease/CLO 양성. 정답 판단: 4번 팜시클로버(famciclovir). 암기: H. pylori 제균요법에 macrolide인 clarithromycin이 포함된다.",
+        "image":  ""
+    },
+    {
+        "id":  "pharmacology_03_25_32",
+        "subject":  "Pharmacology",
+        "section":  "03 중추신경계 약물",
+        "question":  "남편과 부부싸움 후 디아제팜을 다량 복용한 30세 여자가 의식저하를 주 소로 응급실을 방문하였다. 호흡수는 분당 7회였다. 적절한 치료 약물은?",
+        "choices":  [
+                        "날록손",
+                        "도파민",
+                        "메타돈",
+                        "할로페리돌",
+                        "플루마제닐"
+                    ],
+        "answer":  5,
+        "explanation":  "핵심 단서: 문항의 약물-질환 조합. 정답 판단: 5번 플루마제닐. 암기: 대표 작용기전, 적응증, 대표 부작용을 한 세트로 연결한다.",
+        "image":  ""
+    },
+    {
+        "id":  "pharmacology_08_25_33",
+        "subject":  "Pharmacology",
+        "section":  "08 미생물에 대한 화학요법",
+        "question":  "페니실린내성 폐렴사슬알균이 페니실린에 내성을 획득하는 기전은?",
+        "choices":  [
+                        "페니실린 분해 효소 생산",
+                        "페니실린 결합 단백의 과다 생산",
+                        "페니실린 표적단백 변화",
+                        "페니실린 투과성 저하",
+                        "페니실린을 세포 밖으로 배출"
+                    ],
+        "answer":  3,
+        "explanation":  "핵심 단서: penicillin-resistant pneumococcus. 정답 판단: 3번 페니실린 표적단백 변화. 암기: 내성은 주로 penicillin-binding protein 변화 때문이다.",
+        "image":  ""
+    },
+    {
+        "id":  "pharmacology_08_25_34",
+        "subject":  "Pharmacology",
+        "section":  "08 미생물에 대한 화학요법",
+        "question":  "30세 남자가 4일 전부터 물설사를 하였고, 3일 전부터 열이 났다. 혈압 120/70 mmHg, 맥박 100회/분, 호흡 18회/분, 체온 38.5℃였다. 대변검 사에서 백혈구가 다수 관찰되었다. 적절한 치료 약물은?",
+        "choices":  [
+                        "아목시실린",
+                        "반코마이신",
+                        "독시사이클린",
+                        "메트로니다졸",
+                        "시프로플록사신"
+                    ],
+        "answer":  5,
+        "explanation":  "핵심 단서: 발열·대변 백혈구 양성 설사. 정답 판단: 5번 시프로플록사신. 암기: 침습성 세균성 장염은 fluoroquinolone 선택지가 맞다.",
+        "image":  ""
+    },
+    {
+        "id":  "pharmacology_01_25_35",
+        "subject":  "Pharmacology",
+        "section":  "01 약리학 총론",
+        "question":  "환자 치료를 위해 다양한 경로를 통하여 약물을 투여할 수 있다. 약물 투여 방법 중 생체이용률이 가장 큰 것은?",
+        "choices":  [
+                        "설하투여",
+                        "경구투여",
+                        "피하주사",
+                        "정맥주사",
+                        "직장내투여"
+                    ],
+        "answer":  4,
+        "explanation":  "핵심 단서: 투여경로 비교. 정답 판단: 4번 정맥주사. 암기: 정맥주사는 흡수 단계를 거치지 않아 생체이용률 100%이다.",
+        "image":  ""
+    },
+    {
+        "id":  "pharmacology_01_25_36",
+        "subject":  "Pharmacology",
+        "section":  "01 약리학 총론",
+        "question":  "약물이 대사(biotransformation or metabolism) 과정을 거친 결과에 관 한 설명으로 맞는 것은?",
+        "choices":  [
+                        "유해 작용이 더 많이 발생된다.",
+                        "세포 내에 더 잘 분포하게 된다.",
+                        "원래 약물보다 수용성이 증가된다.",
+                        "신세뇨관에서 재흡수가 더 잘 이루어진다.",
+                        "중간 대사산물들은 약리학적 활성을 띄지 않는다."
+                    ],
+        "answer":  3,
+        "explanation":  "핵심 단서: 약물대사 결과. 정답 판단: 3번 원래 약물보다 수용성이 증가된다.. 암기: 대사는 대체로 수용성을 높여 신장/담즙 배설을 쉽게 한다.",
+        "image":  ""
+    },
+    {
+        "id":  "pharmacology_07_25_37",
+        "subject":  "Pharmacology",
+        "section":  "07 항염증제, 면역억제제, 항암제",
+        "question":  "33세 여자가 1년 이상 지속되는 손목과 손가락의 조조강직과 관절통으로 병원에 왔다. 신체 진찰에서 양쪽 손목과 두 번째 세 번째 중수지 관절에 압통과 부종이 관찰되었다. 다음은 혈액검사 결과이다. 이 병의 진행을 지연시킬 수 있는 약제가 아닌 것은? 혈액검사: 적혈구침강속도 32 mm/시간, C-반응단백질 7 mg/dL(참고치 \u003c5), 류마티스 인자 24 IU/mL(참고치 \u003c12.5), 항CCP항체(-), 요산 3.1 mg/dL(참고치 \u003c7).",
+        "choices":  [
+                        "설파살라진",
+                        "인플릭시맙",
+                        "이부프로펜",
+                        "메토트렉세이트",
+                        "저용량 프레드니솔론"
+                    ],
+        "answer":  3,
+        "explanation":  "핵심 단서: RA 진행 억제. 정답 판단: 3번 이부프로펜. 암기: NSAID는 증상 완화제이고 DMARD/생물학제가 관절 손상 진행을 늦춘다.",
+        "image":  "assets/images/pharmacology_07_25_37.png"
+    },
+    {
+        "id":  "pharmacology_07_25_38",
+        "subject":  "Pharmacology",
+        "section":  "07 항염증제, 면역억제제, 항암제",
+        "question":  "70세 여자가 통풍으로 진단되어 인도메타신을 처방받은 후 발적과 통증이 호전되었다. 다음은 추적검사 결과이다. 요산의 생성을 줄이기 위해 사용 할 수 있는 약물은? 추적검사: 적혈구침강속도 2 mm/시간, C-반응단백질 0.5 mg/dL(참고치 \u003c10), 류마티스 인자(-), 항CCP항체(-), 항핵항체(-), 요산 8.8 mg/dL(참고치 \u003c7).",
+        "choices":  [
+                        "알로푸리놀",
+                        "글루코사민",
+                        "프로베네시드",
+                        "메토트렉세이트",
+                        "글루코코르티코이드"
+                    ],
+        "answer":  1,
+        "explanation":  "핵심 단서: RA 진행 억제. 정답 판단: 1번 알로푸리놀. 암기: NSAID는 증상 완화제이고 DMARD/생물학제가 관절 손상 진행을 늦춘다.",
+        "image":  "assets/images/pharmacology_07_25_38.png"
+    },
+    {
+        "id":  "pharmacology_03_25_39",
+        "subject":  "Pharmacology",
+        "section":  "03 중추신경계 약물",
+        "question":  "Tranylcypromine을 복용하고 있던 40세 남성이 호텔 축하연을 다녀온 후 심한 두통과 흉통으로 응급실로 내원하였다. 다음 중 이 환자의 증세를 유 발 시켰을 가능성이 있는 음식물은 무엇인가?",
+        "choices":  [
+                        "샐러드",
+                        "초콜릿케이크",
+                        "적포도주",
+                        "훈제 연어",
+                        "빵"
+                    ],
+        "answer":  3,
+        "explanation":  "핵심 단서: 간에서 가장 많은 약물대사. 정답 판단: 3번 적포도주. 암기: CYP3A4가 간과 장에서 가장 폭넓게 약물대사를 담당한다.",
+        "image":  ""
+    },
+    {
+        "id":  "pharmacology_04_25_40",
+        "subject":  "Pharmacology",
+        "section":  "04 심혈관계 약물",
+        "question":  "60세 남자가 부정맥 증상을 호소하여 리도카인 약물을 투여하였다. 이 약물의 항부정맥 작용기전은?",
+        "choices":  [
+                        "K+통로 차단",
+                        "Na+통로 차단",
+                        "Ca2+통로 차단",
+                        "알파아드레날린 수용체 차단",
+                        "베타아드레날린 수용체 차단"
+                    ],
+        "answer":  2,
+        "explanation":  "핵심 단서: Class Ib 항부정맥제. 정답 판단: 2번 Na+통로 차단. 암기: Lidocaine은 전압개폐 Na+ 통로를 차단한다.",
+        "image":  ""
+    },
+    {
+        "id":  "pharmacology_08_25_41",
+        "subject":  "Pharmacology",
+        "section":  "08 미생물에 대한 화학요법",
+        "question":  "33세 여자가 2일 전부터 왼쪽 발등이 붓고 열이 나서 병원에 왔다. 굽 높은 구두를 신은 뒤 왼쪽 엄지발가락에 상처가 생겼고 발등까지 빨갛게 부었다 고 했다. 과거에 페니실린 투여 후 쇼크가 발생한 적이 있었다고 한다. 적 절한 치료는?",
+        "choices":  [
+                        "이미페넴(imipenem)",
+                        "나프실린(nafcillin)",
+                        "프리마퀸(primaquine)",
+                        "클린다마이신(clindamycin)",
+                        "시프로플록사신(ciprofloxacin)"
+                    ],
+        "answer":  4,
+        "explanation":  "핵심 단서: primaquine 사용 전 확인. 정답 판단: 4번 클린다마이신(clindamycin). 암기: G6PD 결핍에서 primaquine은 용혈성 빈혈을 유발할 수 있다.",
+        "image":  ""
+    },
+    {
+        "id":  "pharmacology_02_25_42",
+        "subject":  "Pharmacology",
+        "section":  "02 자율신경계 약물",
+        "question":  "65세 남자가 Alzheimer’s disease로 진단받고 donepezil을 복용하고 있 다. 이 약물의 작용기전은 무엇인가?",
+        "choices":  [
+                        "stimulating the release of Ach.",
+                        "blocking the reuptake of norepinephrine.",
+                        "inhibiting monoamine oxidase.",
+                        "blocking the release of Ach.",
+                        "inhibiting AchE."
+                    ],
+        "answer":  5,
+        "explanation":  "핵심 단서: 교감신경 수용체 선택성. 정답 판단: 5번 inhibiting AchE.. 암기: Norepinephrine은 α/β1 작용이 강하고 β2 기관지확장 효과는 약하다.",
+        "image":  ""
+    },
+    {
+        "id":  "pharmacology_03_25_43",
+        "subject":  "Pharmacology",
+        "section":  "03 중추신경계 약물",
+        "question":  "23세 대학생이 각성을 위해서 amphetamine을 사용하였다. 이 약물의 각 성효과는 무엇 때문인가?",
+        "choices":  [
+                        "due to the release of epinephrine from the adrenal medulla.",
+                        "due to the release of histamine from mast cells.",
+                        "due to the stimulation of β receptors in the frontal cortex of the brain.",
+                        "due to the release of norepinephrine from central the adrenergic neurons.",
+                        "the result of inhibition of monoamine oxidase."
+                    ],
+        "answer":  4,
+        "explanation":  "핵심 단서: 교감신경 수용체 선택성. 정답 판단: 4번 due to the release of norepinephrine from central the adrenergic neurons.. 암기: Norepinephrine은 α/β1 작용이 강하고 β2 기관지확장 효과는 약하다.",
+        "image":  ""
+    },
+    {
+        "id":  "pharmacology_07_25_44",
+        "subject":  "Pharmacology",
+        "section":  "07 항염증제, 면역억제제, 항암제",
+        "question":  "다음 중 유방암 치료에 사용되는 aromatase inhibitor(AI)는 어느 것인가 ?",
+        "choices":  [
+                        "tamoxifen",
+                        "raloxifen",
+                        "fulvestrant",
+                        "anastrozole",
+                        "leuprolide"
+                    ],
+        "answer":  4,
+        "explanation":  "핵심 단서: 폐경 후 호르몬수용체 양성 유방암. 정답 판단: 4번 anastrozole. 암기: Anastrozole은 aromatase inhibitor이다.",
+        "image":  ""
+    },
+    {
+        "id":  "pharmacology_07_25_45",
+        "subject":  "Pharmacology",
+        "section":  "07 항염증제, 면역억제제, 항암제",
+        "question":  "다음 중 BCL2의 활성을 억제하는 물질은 어느 것인가?",
+        "choices":  [
+                        "panitumumab",
+                        "trastuzumab",
+                        "venetoclax",
+                        "pertuzumab",
+                        "vemurafenib"
+                    ],
+        "answer":  3,
+        "explanation":  "핵심 단서: BCL2 억제. 정답 판단: 3번 venetoclax. 암기: Venetoclax는 BCL2 억제로 apoptosis를 촉진한다.",
+        "image":  ""
+    },
+    {
+        "id":  "pharmacology_07_25_46",
+        "subject":  "Pharmacology",
+        "section":  "07 항염증제, 면역억제제, 항암제",
+        "question":  "다음 중 1차 항암 화학치료에 저항성인 NSCLC 치료에 사용되는 PD-1의 활성을 억제하는 물질은 어느 것인가?",
+        "choices":  [
+                        "atezolizumab",
+                        "tremelimumab",
+                        "ipilimumab",
+                        "nivolumab",
+                        "sunitinib"
+                    ],
+        "answer":  4,
+        "explanation":  "핵심 단서: 면역관문 억제제. 정답 판단: 4번 nivolumab. 암기: Nivolumab은 PD-1을 억제한다.",
+        "image":  ""
+    },
+    {
+        "id":  "pharmacology_01_25_47",
+        "subject":  "Pharmacology",
+        "section":  "01 약리학 총론",
+        "question":  "사이토크롬 P450 (CYP) 약물대사 효소 중 간에 가장 풍부하게 분포하며 가장 많은 종류의 약물의 약물대사를 담당하는 효소는?",
+        "choices":  [
+                        "CYP1A2",
+                        "CYP2E1",
+                        "CYP2C9",
+                        "CYP2D6",
+                        "CYP3A4"
+                    ],
+        "answer":  5,
+        "explanation":  "핵심 단서: 간에서 가장 많은 약물대사. 정답 판단: 5번 CYP3A4. 암기: CYP3A4가 간과 장에서 가장 폭넓게 약물대사를 담당한다.",
+        "image":  ""
+    },
+    {
+        "id":  "pharmacology_08_25_48",
+        "subject":  "Pharmacology",
+        "section":  "08 미생물에 대한 화학요법",
+        "question":  "50 kg인 30세 여자가 메티실린 내성 황색포도알균에 감염된 것으로 진단 받았다. 반코마이신(vancomycin)을 2,000 mg 부하용량으로 정맥주사하 였을 때 최고혈장농도가 25 mg/L였다. 이 약물의 분포용적은?",
+        "choices":  [
+                        "8 L/kg",
+                        "1.6 L/kg",
+                        "16 L/kg",
+                        "80 L/kg",
+                        "1,000 L/kg"
+                    ],
+        "answer":  2,
+        "explanation":  "핵심 단서: 목표 혈중농도와 분포용적. 정답 판단: 2번 1.6 L/kg. 암기: Loading dose = Vd × 목표농도.",
+        "image":  ""
+    },
+    {
+        "id":  "pharmacology_08_25_49",
+        "subject":  "Pharmacology",
+        "section":  "08 미생물에 대한 화학요법",
+        "question":  "30세 남자에게 항생제를 정맥주사하고 있다. 일차 역학에 의해 약물의 소 실이 일어나고 소실속도상수(Ke)가 0.35h-1이라면 항정상태에 도달하는 데 걸리는 시간은?",
+        "choices":  [
+                        "1시간",
+                        "2시간",
+                        "4시간",
+                        "8시간",
+                        "16시간"
+                    ],
+        "answer":  4,
+        "explanation":  "핵심 단서: Ke와 steady state. 정답 판단: 4번 8시간. 암기: t1/2 = 0.693/Ke, steady state는 대략 4반감기 후이다.",
+        "image":  ""
+    },
+    {
+        "id":  "pharmacology_04_25_50",
+        "subject":  "Pharmacology",
+        "section":  "04 심혈관계 약물",
+        "question":  "심근수축 약물의 심장박출량에 대한 용량-반응 곡선(사진)이다. 효능 (efficacy)과 효력(potency)에 대한 설명으로 옳은 것은?",
+        "choices":  [
+                        "A의 효능은 C의 효능보다 크다.",
+                        "B의 효능은 D의 효능보다 작다.",
+                        "A의 효력은 B의 효력보다 작다.",
+                        "C의 효력은 B의 효력보다 작다.",
+                        "D의 효력은 C의 효력보다 크다."
+                    ],
+        "answer":  4,
+        "explanation":  "핵심 단서: 문항의 약물-질환 조합. 정답 판단: 4번 C의 효력은 B의 효력보다 작다.. 암기: 대표 작용기전, 적응증, 대표 부작용을 한 세트로 연결한다.",
+        "image":  "assets/images/pharmacology_04_25_50.png"
+    },
+    {
+        "id":  "pharmacology_01_25_51",
+        "subject":  "Pharmacology",
+        "section":  "01 약리학 총론",
+        "question":  "신약 X의 제1상 임상시험을 시행하고자 한다. 가장 중요한 목적은?",
+        "choices":  [
+                        "작용기전 규명",
+                        "치료효과 확인",
+                        "추가 적응증 탐색",
+                        "사람에서 안전성 확인",
+                        "시판 후 예측하지 못한 유해반응 확인"
+                    ],
+        "answer":  4,
+        "explanation":  "핵심 단서: 신약의 첫 사람 대상 시험. 정답 판단: 4번 사람에서 안전성 확인. 암기: 제1상은 주로 안전성·내약성·약동학 확인이다.",
+        "image":  ""
+    },
+    {
+        "id":  "pharmacology_08_25_52",
+        "subject":  "Pharmacology",
+        "section":  "08 미생물에 대한 화학요법",
+        "question":  "50세 남자가 속쓰림으로 병원에 왔다. 내시경 검사 결과 소화성 궤양이 진단되어 오메프라졸(omeprazole)을 처방하였다. 이 약물의 작용기전은?",
+        "choices":  [
+                        "위산 중화",
+                        "H. pylori 제균 억제",
+                        "양성자펌프 억제",
+                        "무스카린 수용체 차단",
+                        "히스타민2 수용체 차단"
+                    ],
+        "answer":  3,
+        "explanation":  "핵심 단서: PPI와 긴 위산억제 효과. 정답 판단: 3번 양성자펌프 억제. 암기: PPI는 H+/K+-ATPase를 비가역 억제해 새 펌프가 합성될 때까지 작용한다.",
+        "image":  ""
+    },
+    {
+        "id":  "pharmacology_02_25_53",
+        "subject":  "Pharmacology",
+        "section":  "02 자율신경계 약물",
+        "question":  "25세 여자가 우울증으로 진단받고 이미프라민(imipramine)을 3주간 복 용하였다. 우울 증상은 개선되었으나 심한 입마름, 시야 흐림, 변비 증상이 나타났다. 이 유해 반응은 어떤 수용체가 차단되어 발생한 것인가?",
+        "choices":  [
+                        "니코틴 수용체",
+                        "도파민 수용체",
+                        "무스카린 수용체",
+                        "세로토닌 수용체",
+                        "히스타민 수용체"
+                    ],
+        "answer":  3,
+        "explanation":  "핵심 단서: 입마름·시야흐림. 정답 판단: 3번 무스카린 수용체. 암기: 절박요실금 약물은 주로 M 수용체 길항제라 항콜린 부작용이 생긴다.",
+        "image":  ""
+    },
+    {
+        "id":  "pharmacology_02_25_54",
+        "subject":  "Pharmacology",
+        "section":  "02 자율신경계 약물",
+        "question":  "55세 여자가 유람선 여행을 가기 전에 멀미가 걱정되어 병원에 왔다. 멀미 예방을 위해 스코폴라민(scopolamine) 패치를 추천하였다. 이 약물의 작 용기전은?",
+        "choices":  [
+                        "무스카린 수용체 차단",
+                        "세로토닌 수용체 자극",
+                        "히스타민2 수용체 차단",
+                        "베타1 아드레날린 수용체 차단",
+                        "베타2 아드레날린 수용체 차단"
+                    ],
+        "answer":  1,
+        "explanation":  "핵심 단서: 멀미 예방 패치. 정답 판단: 1번 무스카린 수용체 차단. 암기: Scopolamine은 중추 M 수용체 차단으로 전정계-구토중추 전달을 줄인다.",
+        "image":  ""
+    },
+    {
+        "id":  "pharmacology_05_25_55",
+        "subject":  "Pharmacology",
+        "section":  "05 내분비계 약물",
+        "question":  "다음 경구혈당강하제 중 간의 포도당 생성을 감소시키는 것은?",
+        "choices":  [
+                        "아카보즈",
+                        "글리피짓",
+                        "시타글립틴",
+                        "메트포르민",
+                        "피오글리타존"
+                    ],
+        "answer":  4,
+        "explanation":  "핵심 단서: 제2형 당뇨 1차 약물. 정답 판단: 4번 메트포르민. 암기: Metformin은 AMPK 활성화로 간 포도당 생성을 감소시킨다.",
+        "image":  ""
+    },
+    {
+        "id":  "pharmacology_05_25_56",
+        "subject":  "Pharmacology",
+        "section":  "05 내분비계 약물",
+        "question":  "50세 남자가 혈당 조절을 위하여 메트포르민(metformin)을 복용하고 있 다. 메트포르민의 작용기전은?",
+        "choices":  [
+                        "인크레틴 작용 촉진",
+                        "α-glucosidase 작용 억제",
+                        "AMP-activated protein kinase 활성 촉진",
+                        "sodium-glucose co-transporter 2(SGLT2) 작용 억제",
+                        "peroxisome proliferator-activated receptor-γ 작용 촉진"
+                    ],
+        "answer":  3,
+        "explanation":  "핵심 단서: 제2형 당뇨 1차 약물. 정답 판단: 3번 AMP-activated protein kinase 활성 촉진. 암기: Metformin은 AMPK 활성화로 간 포도당 생성을 감소시킨다.",
+        "image":  ""
+    },
+    {
+        "id":  "pharmacology_07_25_57",
+        "subject":  "Pharmacology",
+        "section":  "07 항염증제, 면역억제제, 항암제",
+        "question":  "25세 남자가 알레르기성 천식을 진단받고 corticosteroid를 투여하였으나 호전되지 않아 오말리주맙(omalizumab)을 투여하기로 하였다. 오말리주 맙의 약물 표적은?",
+        "choices":  [
+                        "IgE",
+                        "IgG",
+                        "neutrophil",
+                        "macrophage",
+                        "complement"
+                    ],
+        "answer":  1,
+        "explanation":  "핵심 단서: 스테로이드 불응 알레르기 천식. 정답 판단: 1번 IgE. 암기: Omalizumab은 IgE를 표적으로 한다.",
+        "image":  ""
+    },
+    {
+        "id":  "pharmacology_03_25_58",
+        "subject":  "Pharmacology",
+        "section":  "03 중추신경계 약물",
+        "question":  "40세 남자가 약 2주 전부터 시작된 불안과 불면증 때문에 병원에 왔다. 최 근 회사에서 스트레스를 많이 받은 후 이러한 증상이 생겼다고 한다. 진정 수면제인 로라제팜(lorazepam)을 복용하고 증상이 개선되었다. 이 약물 의 작용기전은?",
+        "choices":  [
+                        "AMPA 수용체 항진",
+                        "NMDA 수용체 길항",
+                        "GABAA 수용체 항진",
+                        "GABAA 수용체 길항",
+                        "GABAB 수용체 길항"
+                    ],
+        "answer":  3,
+        "explanation":  "핵심 단서: benzodiazepine계 진정수면제. 정답 판단: 3번 GABAA 수용체 항진. 암기: BZD는 GABAA 수용체의 Cl- 통로 개방 빈도를 증가시킨다.",
+        "image":  ""
+    },
+    {
+        "id":  "pharmacology_07_25_59",
+        "subject":  "Pharmacology",
+        "section":  "07 항염증제, 면역억제제, 항암제",
+        "question":  "65세 여자가 관절염을 치료하기 위하여 아스피린을 복용하던 중 구역, 구 토, 속쓰림, 식욕부진의 유해반응이 나타나 다른 약물로 대체하려고 한다. 가장 적절한 약물은?",
+        "choices":  [
+                        "5-lipoxygenase 억제제",
+                        "phospholipase C 억제제",
+                        "phospholipase A2 억제제",
+                        "cyclooxygenase-1 억제제",
+                        "cyclooxygenase-2 억제제"
+                    ],
+        "answer":  5,
+        "explanation":  "핵심 단서: 위궤양 + urease/CLO 양성. 정답 판단: 5번 cyclooxygenase-2 억제제. 암기: H. pylori 제균요법에 macrolide인 clarithromycin이 포함된다.",
+        "image":  ""
+    },
+    {
+        "id":  "pharmacology_08_25_60",
+        "subject":  "Pharmacology",
+        "section":  "08 미생물에 대한 화학요법",
+        "question":  "60세 남자가 대장암 수술 후 빗장 밑 정맥 카테터를 1주간 유지하던 중 고 열이 발생하였다. 검사결과는 다음과 같았다. 적절한 치료는? 검사결과: 균 배양 검사에서 혈장응고효소 양성 포도알균, 항생제 감수성 결과에서 옥사실린(oxacillin) 내성.",
+        "choices":  [
+                        "나프실린",
+                        "피페라실린",
+                        "겐타마이신",
+                        "반코마이신",
+                        "에리스로마이신(erythromycin)"
+                    ],
+        "answer":  4,
+        "explanation":  "핵심 단서: MRSA/oxacillin 내성 포도알균. 정답 판단: 4번 반코마이신. 암기: MRSA 중증 감염은 vancomycin을 선택한다.",
+        "image":  "assets/images/pharmacology_08_25_60.png"
     }
 ]
