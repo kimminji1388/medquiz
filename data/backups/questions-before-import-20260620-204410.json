@@ -1,0 +1,98 @@
+[
+  {
+    "id": "pharmacology_gi_001",
+    "subject": "Pharmacology",
+    "section": "GI",
+    "question": "Which drug class blocks the substance P pathway in delayed chemotherapy-induced nausea and vomiting?",
+    "choices": [
+      "5-HT3 receptor antagonist",
+      "NK1 receptor antagonist",
+      "D2 receptor antagonist",
+      "H2 blocker",
+      "ClC-2 activator"
+    ],
+    "answer": 2,
+    "explanation": "Delayed CINV is strongly related to substance P and NK1 receptor signaling. Aprepitant and fosaprepitant are NK1 receptor antagonists.",
+    "image": ""
+  },
+  {
+    "id": "pharmacology_respiratory_001",
+    "subject": "Pharmacology",
+    "section": "Respiratory",
+    "question": "In asthma, which Th2 cytokine is most directly related to eosinophil activation?",
+    "choices": [
+      "IL-1",
+      "IL-2",
+      "IL-5",
+      "IFN-gamma",
+      "TNF-alpha"
+    ],
+    "answer": 3,
+    "explanation": "IL-5 is important for eosinophil growth and activation in the Th2 pathway of asthma.",
+    "image": ""
+  },
+  {
+    "id": "pathology_genetics_001",
+    "subject": "Pathology",
+    "section": "Genetics",
+    "question": "In colorectal cancer with MSI-H or MMR deficiency, which finding suggests a sporadic tumor rather than Lynch syndrome?",
+    "choices": [
+      "SERPINA1 sequencing",
+      "BRAF V600E mutation or MLH1 hypermethylation",
+      "NTRK fusion",
+      "ALK FISH",
+      "HER2 IHC"
+    ],
+    "answer": 2,
+    "explanation": "BRAF V600E mutation or MLH1 hypermethylation supports sporadic colorectal cancer more than germline Lynch syndrome.",
+    "image": ""
+  },
+  {
+    "id": "pathology_environment_001",
+    "subject": "Pathology",
+    "section": "Environment",
+    "question": "Which enzyme pair is directly inhibited in lead poisoning, impairing heme synthesis?",
+    "choices": [
+      "Pyruvate kinase and G6PD",
+      "Delta-ALA dehydratase and ferrochelatase",
+      "Tyrosinase and phenylalanine hydroxylase",
+      "Hexokinase and phosphofructokinase",
+      "Acetylcholinesterase and monoamine oxidase"
+    ],
+    "answer": 2,
+    "explanation": "Lead inhibits delta-ALA dehydratase and ferrochelatase, disrupting heme synthesis.",
+    "image": ""
+  },
+  {
+    "id": "pharmacology_cardiovascular_001",
+    "subject": "Pharmacology",
+    "section": "Cardiovascular",
+    "question": "Why should nitrates be avoided in suspected right ventricular infarction?",
+    "choices": [
+      "They directly increase afterload",
+      "They increase preload",
+      "They reduce preload and can worsen cardiac output",
+      "They cause coronary artery spasm",
+      "They sharply increase potassium"
+    ],
+    "answer": 3,
+    "explanation": "Nitrates cause venodilation and reduce preload. Right ventricular infarction can be preload dependent, so nitrates may worsen hypotension and cardiac output.",
+    "image": ""
+  },
+  {
+    "id": "pharmacology_antibiotics_001",
+    "subject": "Pharmacology",
+    "section": "Antibiotics",
+    "question": "For a severe infection where both MRSA and Pseudomonas aeruginosa must be covered, which empiric combination is appropriate?",
+    "choices": [
+      "Vancomycin + Cefepime",
+      "Nafcillin + Cefazolin",
+      "Daptomycin alone",
+      "Azithromycin alone",
+      "Amoxicillin + Clavulanate"
+    ],
+    "answer": 1,
+    "explanation": "Vancomycin covers MRSA, while cefepime covers Pseudomonas as an anti-pseudomonal beta-lactam.",
+    "image": ""
+  }
+]

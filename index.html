@@ -1,0 +1,72 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <title>MedQuiz Locker</title>
+  <link rel="stylesheet" href="styles.css" />
+</head>
+<body>
+  <header class="topbar">
+    <div>
+      <p class="eyebrow">MedQuiz Locker</p>
+      <h1>Medical Exam Quiz</h1>
+      <p class="subtitle">Questions are managed in data/questions.json. Answers and bookmarks are saved in this browser.</p>
+    </div>
+    <span id="saveStatus" class="pill">Local save ready</span>
+  </header>
+
+  <main class="layout">
+    <aside class="sidebar" aria-label="Filters and progress">
+      <section class="panel">
+        <h2>Filters</h2>
+        <label>
+          Subject
+          <select id="subjectFilter"></select>
+        </label>
+        <label>
+          Section
+          <select id="sectionFilter"></select>
+        </label>
+        <label>
+          Mode
+          <select id="modeFilter">
+            <option value="all">All questions</option>
+            <option value="wrong">Wrong only</option>
+            <option value="bookmarked">Bookmarked</option>
+            <option value="unseen">Unseen</option>
+          </select>
+        </label>
+        <button id="resetSessionBtn" class="secondary full">Start current list again</button>
+      </section>
+
+      <section class="panel">
+        <h2>Progress</h2>
+        <div id="statsBox" class="stats"></div>
+      </section>
+
+      <section class="panel small-actions">
+        <h2>Records</h2>
+        <button id="exportBtn" class="secondary full">Export JSON</button>
+        <label class="file-label full">
+          Import JSON
+          <input id="importInput" type="file" accept="application/json" />
+        </label>
+        <button id="clearProgressBtn" class="danger full">Clear all records</button>
+      </section>
+    </aside>
+
+    <section class="quiz-area">
+      <nav class="question-nav" aria-label="Question navigation">
+        <button id="prevBtn" class="ghost">Previous</button>
+        <div id="questionCounter" class="counter">0 / 0</div>
+        <button id="nextBtn" class="ghost">Next</button>
+      </nav>
+
+      <article id="quizCard" class="quiz-card panel"></article>
+    </section>
+  </main>
+
+  <script src="app.js"></script>
+</body>
+</html>
