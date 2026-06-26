@@ -21,6 +21,7 @@ Rules:
 
 - `id` should use `subject_section_number`, for example `pharmacology_gi_001`.
 - `answer` is the correct choice number, starting from 1.
+- For a multiple-answer question, `answer` can be an array such as `[1, 3]`.
 - `choices` must contain at least 2 choices.
 - `image` can be empty. When it is empty, the app hides the image area.
 - If an item is broken, the app skips that item and keeps running.

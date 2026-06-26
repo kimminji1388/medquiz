@@ -187,7 +187,8 @@ function renderQuestion() {
 
   const question = filtered[currentIndex];
   const saved = progress[question.id] || {};
-  const answered = typeof saved.selected === "number";
+  const answered = saved.solved === true || (typeof saved.selected === "number" && !question.multiple);
+  const selectedIndexes = selectedIndexesFor(saved);
 
   els.quizCard.innerHTML = `
     <div class="meta">
@@ -200,6 +201,7 @@ function renderQuestion() {
     <div class="question-title">${escapeHtml(question.question)}</div>
     <div id="choices" class="choices"></div>
     <div class="quiz-actions">
+      ${question.multiple && !answered ? `<button id="checkAnswerBtn">Check answer</button>` : ""}
       <button id="bookmarkBtn" class="secondary">${saved.bookmarked ? "Remove bookmark" : "Bookmark"}</button>
       <button id="showAnswerBtn" class="ghost">Show answer</button>
       <button id="retryBtn" class="ghost">Clear this record</button>
@@ -217,15 +219,17 @@ function renderQuestion() {
     button.textContent = `${index + 1}. ${choice}`;
 
     if (answered) {
-      if (index === question.answerIndex) button.classList.add("correct");
-      if (index === saved.selected && index !== question.answerIndex) button.classList.add("incorrect");
-      if (index === saved.selected) button.classList.add("selected");
+      if (question.answerIndexes.includes(index)) button.classList.add("correct");
+      if (selectedIndexes.includes(index) && !question.answerIndexes.includes(index)) button.classList.add("incorrect");
     }
+    if (selectedIndexes.includes(index)) button.classList.add("selected");
+    button.disabled = answered;
 
     button.addEventListener("click", () => answerQuestion(question, index));
     choicesBox.appendChild(button);
   });
 
+  if (question.multiple) $("checkAnswerBtn")?.addEventListener("click", () => gradeMultipleAnswer(question));
   $("bookmarkBtn").addEventListener("click", () => toggleBookmark(question.id));
   $("showAnswerBtn").addEventListener("click", () => revealAnswer(question));
   $("retryBtn").addEventListener("click", () => resetOne(question.id));
@@ -233,10 +237,43 @@ function renderQuestion() {
 
 function answerQuestion(question, selectedIndex) {
   const old = progress[question.id] || {};
-  const correct = selectedIndex === question.answerIndex;
+  if (question.multiple) {
+    const selected = new Set(selectedIndexesFor(old));
+    if (selected.has(selectedIndex)) selected.delete(selectedIndex);
+    else selected.add(selectedIndex);
+    progress[question.id] = {
+      ...old,
+      selected: [...selected].sort((a, b) => a - b),
+      solved: false
+    };
+    persistProgress(question.id);
+    render();
+    return;
+  }
+
+  const correct = question.answerIndexes.includes(selectedIndex);
   progress[question.id] = {
     ...old,
     selected: selectedIndex,
+    solved: true,
+    lastCorrect: correct,
+    attempts: (old.attempts || 0) + 1,
+    wrongCount: (old.wrongCount || 0) + (correct ? 0 : 1),
+    lastSolvedAt: new Date().toISOString()
+  };
+  persistProgress(question.id);
+  render();
+}
+
+function gradeMultipleAnswer(question) {
+  const old = progress[question.id] || {};
+  const selected = selectedIndexesFor(old);
+  if (!selected.length) return;
+  const correct = sameIndexes(selected, question.answerIndexes);
+  progress[question.id] = {
+    ...old,
+    selected,
+    solved: true,
     lastCorrect: correct,
     attempts: (old.attempts || 0) + 1,
     wrongCount: (old.wrongCount || 0) + (correct ? 0 : 1),
@@ -248,10 +285,12 @@ function answerQuestion(question, selectedIndex) {
 
 function revealAnswer(question) {
   const old = progress[question.id] || {};
+  const selected = selectedIndexesFor(old);
   progress[question.id] = {
     ...old,
-    selected: old.selected ?? -1,
-    lastCorrect: old.selected === question.answerIndex,
+    selected: old.selected ?? (question.multiple ? [] : -1),
+    solved: true,
+    lastCorrect: selected.length > 0 && sameIndexes(selected, question.answerIndexes),
     attempts: old.attempts || 0,
     revealed: true,
     lastSolvedAt: new Date().toISOString()
@@ -261,15 +300,29 @@ function revealAnswer(question) {
 }
 
 function feedbackHtml(question, saved) {
-  const selectedText = saved.selected >= 0 ? `Choice ${saved.selected + 1}` : "Answer revealed";
-  const answerText = `Choice ${question.answer} - ${question.choices[question.answerIndex]}`;
-  const result = saved.lastCorrect ? "Correct" : "Wrong";
+  const selected = selectedIndexesFor(saved);
+  const selectedText = selected.length ? `Choice ${selected.map((index) => index + 1).join(", ")}` : "Answer revealed";
+  const answerText = question.answerIndexes
+    .map((index) => `Choice ${index + 1} - ${question.choices[index]}`)
+    .join(" / ");
+  const result = saved.revealed && !selected.length ? "Answer" : saved.lastCorrect ? "Correct" : "Wrong";
 
   return `
     <h3>${result}</h3>
     <p class="muted">Selected: ${escapeHtml(selectedText)} / Answer: ${escapeHtml(answerText)}</p>
     <div class="explanation">${escapeHtml(question.explanation || "No explanation yet.")}</div>
   `;
+}
+
+function selectedIndexesFor(saved) {
+  if (Array.isArray(saved.selected)) {
+    return [...new Set(saved.selected.map(Number).filter(Number.isInteger))].sort((a, b) => a - b);
+  }
+  return Number.isInteger(saved.selected) && saved.selected >= 0 ? [saved.selected] : [];
+}
+
+function sameIndexes(left, right) {
+  return left.length === right.length && left.every((value, index) => value === right[index]);
 }
 
 function toggleBookmark(id) {
@@ -598,13 +651,20 @@ function normalizeQuestion(raw, index, idCounts, warnings) {
     question,
     choices,
     answer,
-    answerIndex: answer - 1,
+    answerIndex: (Array.isArray(answer) ? answer[0] : answer) - 1,
+    answerIndexes: (Array.isArray(answer) ? answer : [answer]).map((value) => value - 1),
+    multiple: Array.isArray(answer),
     explanation: explanation || "No explanation yet.",
     image
   };
 }
 
 function normalizeAnswer(answer, answerIndex, choices) {
+  if (Array.isArray(answer)) {
+    const values = [...new Set(answer.map(Number).filter(Number.isInteger))].sort((a, b) => a - b);
+    if (!values.length || values.some((value) => value < 1 || value > choices.length)) return null;
+    return values.length === 1 ? values[0] : values;
+  }
   const byAnswer = Number(answer);
   const byLegacyIndex = Number(answerIndex);
   const value = Number.isInteger(byAnswer) ? byAnswer : byLegacyIndex + 1;

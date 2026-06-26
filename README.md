@@ -59,6 +59,14 @@ If a question has no image, use:
 "image": ""
 ```
 
+For a multiple-answer question, use an array of choice numbers:
+
+```json
+"answer": [1, 3]
+```
+
+Single-answer questions are graded as soon as a choice is selected. Multiple-answer questions are graded after the user selects the choices and presses `Check answer`.
+
 ## Local Save Behavior
 
 Quiz records are saved with `localStorage`.
