@@ -14,7 +14,15 @@ app.js
 styles.css
 firebase-config.js
 data/questions.json
+data/question-sets.json
 assets/images/
+manage.html
+manage.js
+guide.html
+.github/workflows/import-quiz.yml
+tools/
+incoming/
+archive/
 .nojekyll
 README.md
 ```
@@ -43,6 +51,7 @@ Each question uses this format:
 ```json
 {
   "id": "anatomy_01_19_41",
+  "setId": "anatomy_2026_midterm",
   "subject": "Anatomy",
   "section": "Lower Limb",
   "question": "Question text",
@@ -66,6 +75,49 @@ For a multiple-answer question, use an array of choice numbers:
 ```
 
 Single-answer questions are graded as soon as a choice is selected. Multiple-answer questions are graded after the user selects the choices and presses `Check answer`.
+
+## Automatic HTML Import
+
+After the automation files have been uploaded once, new quiz HTML files can be
+added without manually converting JSON or uploading extracted images.
+
+1. Open the repository `Code` page on GitHub.
+2. Open the `incoming` folder.
+3. Click `Add file`, then `Upload files`.
+4. Upload the HTML file and click `Commit changes`.
+5. Open the `Actions` tab and wait for `Import quiz HTML` to show a green check.
+6. Wait a few minutes for GitHub Pages, then refresh the quiz site.
+
+The automation supports the current Anatomy, Biochemistry, Physiology,
+Pathology, Microbiology, previous-exam, and Pharmacology HTML formats.
+
+Keep the same HTML filename when uploading a corrected version of the same exam.
+The matching question set is replaced and stable question IDs are reused. A new
+filename creates a new question set.
+
+If conversion or validation fails, the existing `questions.json` is not
+committed. The existing quiz therefore remains available.
+
+After a successful import, the source HTML is moved from `incoming` to
+`archive/html`.
+
+## Archive Or Restore Question Sets
+
+Open the question-set manager:
+
+```text
+https://kimminji1388.github.io/medquiz/manage.html
+```
+
+1. Turn off the question sets that should no longer appear.
+2. Click `Download settings`.
+3. In the GitHub repository, open the `data` folder.
+4. Click `Add file`, then `Upload files`.
+5. Upload the downloaded `question-sets.json` and commit the change.
+
+Archived questions disappear from the quiz, but their data, stable IDs,
+localStorage records, and Firestore records remain. Turn the set on and upload
+the settings again to restore it.
 
 ## Local Save Behavior
 
@@ -133,6 +185,12 @@ styles.css
 data/
 assets/
 firebase-config.js
+manage.html
+manage.js
+.github/
+tools/
+incoming/
+archive/
 .nojekyll
 .gitignore
 README.md

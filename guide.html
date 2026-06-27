@@ -1,0 +1,77 @@
+<!doctype html>
+<html lang="ko">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>운영 매뉴얼 - MedQuiz Locker</title>
+  <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+  <header class="topbar">
+    <div>
+      <p class="eyebrow">MedQuiz Locker</p>
+      <h1>운영 매뉴얼</h1>
+      <p class="subtitle">휴대폰에서 문제를 추가하고 지난 시험을 보관하는 순서입니다.</p>
+    </div>
+    <a class="header-link" href="index.html">문제풀이로 돌아가기</a>
+  </header>
+
+  <main class="guide-shell">
+    <nav class="guide-links" aria-label="바로가기">
+      <a href="https://github.com/kimminji1388/medquiz/upload/main/incoming">새 HTML 추가</a>
+      <a href="https://github.com/kimminji1388/medquiz/actions">자동 변환 확인</a>
+      <a href="manage.html">문제 묶음 보관</a>
+      <a href="https://github.com/kimminji1388/medquiz/upload/main/data">보관 설정 반영</a>
+    </nav>
+
+    <section class="guide-section">
+      <p class="step-number">1</p>
+      <div>
+        <h2>새 HTML 추가</h2>
+        <ol>
+          <li>아래 버튼을 누르고 GitHub에 로그인합니다.</li>
+          <li><strong>choose your files</strong>를 눌러 HTML 파일을 선택합니다.</li>
+          <li>화면 아래의 <strong>Commit changes</strong>를 누릅니다.</li>
+        </ol>
+        <a class="guide-action" href="https://github.com/kimminji1388/medquiz/upload/main/incoming">incoming에 HTML 올리기</a>
+        <p class="guide-note">같은 파일명은 기존 시험을 수정하고, 다른 파일명은 새 시험으로 추가합니다.</p>
+      </div>
+    </section>
+
+    <section class="guide-section">
+      <p class="step-number">2</p>
+      <div>
+        <h2>자동 변환 확인</h2>
+        <ol>
+          <li>Actions 화면에서 <strong>Import quiz HTML</strong>을 확인합니다.</li>
+          <li>노란색은 작업 중, 초록색은 완료, 빨간색은 실패입니다.</li>
+          <li>초록색이 되면 문제풀이 사이트를 새로고침합니다.</li>
+        </ol>
+        <div class="guide-button-row">
+          <a class="guide-action" href="https://github.com/kimminji1388/medquiz/actions">Actions 확인</a>
+          <a class="guide-action secondary-link" href="https://kimminji1388.github.io/medquiz/?refresh=1">사이트 새로 열기</a>
+        </div>
+      </div>
+    </section>
+
+    <section class="guide-section">
+      <p class="step-number">3</p>
+      <div>
+        <h2>지난 시험 보관</h2>
+        <ol>
+          <li>문제 묶음 관리 화면을 엽니다.</li>
+          <li>숨길 시험의 스위치를 끕니다.</li>
+          <li><strong>Download settings</strong>를 눌러 <code>question-sets.json</code>을 받습니다.</li>
+          <li>아래 설정 업로드 버튼을 눌러 받은 파일을 올립니다.</li>
+          <li><strong>Commit changes</strong>를 누른 뒤 사이트를 새로고침합니다.</li>
+        </ol>
+        <div class="guide-button-row">
+          <a class="guide-action" href="manage.html">문제 묶음 관리</a>
+          <a class="guide-action secondary-link" href="https://github.com/kimminji1388/medquiz/upload/main/data">설정 파일 업로드</a>
+        </div>
+        <p class="guide-note">보관한 문제의 데이터와 풀이 기록은 삭제되지 않습니다. 스위치를 다시 켜면 복구할 수 있습니다.</p>
+      </div>
+    </section>
+  </main>
+</body>
+</html>

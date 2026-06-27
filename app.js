@@ -50,11 +50,20 @@ async function start() {
 
 async function loadQuestions() {
   try {
-    const response = await fetch("data/questions.json", { cache: "no-store" });
-    if (!response.ok) throw new Error(`HTTP ${response.status}`);
-    const rawQuestions = await response.json();
+    const [questionsResponse, setsResponse] = await Promise.all([
+      fetch("data/questions.json", { cache: "no-store" }),
+      fetch("data/question-sets.json", { cache: "no-store" })
+    ]);
+    if (!questionsResponse.ok) throw new Error(`Questions HTTP ${questionsResponse.status}`);
+    const rawQuestions = await questionsResponse.json();
+    const questionSets = setsResponse.ok ? await setsResponse.json() : [];
+    const inactiveSetIds = new Set(
+      Array.isArray(questionSets)
+        ? questionSets.filter((set) => set?.active === false).map((set) => cleanText(set.id))
+        : []
+    );
     const normalized = normalizeQuestions(rawQuestions);
-    questions = normalized.questions;
+    questions = normalized.questions.filter((question) => !inactiveSetIds.has(question.setId));
     dataWarnings = normalized.warnings;
   } catch (error) {
     console.error(error);
@@ -646,6 +655,7 @@ function normalizeQuestion(raw, index, idCounts, warnings) {
 
   return {
     id,
+    setId: cleanText(raw.setId),
     subject,
     section,
     question,

@@ -7,6 +7,7 @@ Each question uses this format:
 ```json
 {
   "id": "subject_section_001",
+  "setId": "subject_exam_ab12cd34",
   "subject": "Subject name",
   "section": "Section name",
   "question": "Question text",
@@ -20,8 +21,12 @@ Each question uses this format:
 Rules:
 
 - `id` should use `subject_section_number`, for example `pharmacology_gi_001`.
+- `setId` connects the question to an entry in `data/question-sets.json`.
 - `answer` is the correct choice number, starting from 1.
 - For a multiple-answer question, `answer` can be an array such as `[1, 3]`.
 - `choices` must contain at least 2 choices.
 - `image` can be empty. When it is empty, the app hides the image area.
 - If an item is broken, the app skips that item and keeps running.
+
+`data/question-sets.json` controls whether an imported exam is visible. Set
+`active` to `false` to archive a set without deleting questions or quiz records.
