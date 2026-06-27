@@ -67,6 +67,15 @@ function answerValue(value, zeroBased = false) {
   return normalized.length === 1 ? normalized[0] : normalized;
 }
 
+function examRank(value, type) {
+  const label = clean(value).normalize("NFC");
+  if (type === "physiology" && /^TalkFile_23(?!\d)/i.test(label)) return 300;
+  const year = Number(label.match(/(?:20)?(19|20|21|22|23|24|25|26)/)?.[1]);
+  if (!year) return 0;
+  const isRetest = /재시|재-|23r|r-/i.test(label);
+  return year * 10 + (isRetest ? 1 : 0);
+}
+
 function sectionCode(section) {
   const number = clean(section).match(/^(\d+)/)?.[1];
   return number ? number.padStart(2, "0") : slug(section) || hash(section);
@@ -166,26 +175,27 @@ function arrayConfig(type, html) {
     return {
       source: extractLiteral(html, "DATA"), sourceId: (q) => q.id, section: (q) => q.section,
       question: (q) => q.stem, choices: (q) => q.options || [], answer: (q) => q.answer,
-      explanation: (q) => q.explanation, image: (q) => q.imageData || "", zeroBased: true
+      explanation: (q) => q.explanation, image: (q) => q.imageData || "",
+      examSource: (q) => q.id, zeroBased: true
     };
   }
   const source = extractLiteral(html, "QUESTIONS");
   if (type === "biochemistry") return {
     source, sourceId: (q) => q.id, section: (q) => q.section, question: (q) => q.question,
     choices: (q) => q.options || [], answer: (q) => q.answer, explanation: (q) => q.explanation,
-    image: (q) => q.image || "", zeroBased: false
+    image: (q) => q.image || "", examSource: (q) => q.source, zeroBased: false
   };
   if (type === "physiology") return {
     source, sourceId: (q) => q.id, section: (q) => q.section, question: (q) => q.q,
     choices: (q) => q.opts || [], answer: (q) => q.ans, explanation: (q) => q.exp,
-    image: (q) => q.image || "", zeroBased: true
+    image: (q) => q.image || "", examSource: (q) => q.file, zeroBased: true
   };
   if (type === "pathology") {
     const images = extractLiteral(html, "IMG") || {};
     return {
       source, sourceId: (q) => q.num, section: (q) => q.sec, question: (q) => q.q,
       choices: (q) => q.opts || [], answer: (q) => q.ans, explanation: (q) => q.expl,
-      image: (q) => images[q.num] || "", zeroBased: true
+      image: (q) => images[q.num] || "", examSource: (q) => q.num, zeroBased: true
     };
   }
   if (type === "previous") return {
@@ -198,7 +208,7 @@ function arrayConfig(type, html) {
   return {
     source, sourceId: (q) => q.id, section: (q) => q.section, question: (q) => q.stem,
     choices: (q) => q.options || [], answer: (q) => q.answer, explanation: (q) => q.explanation,
-    image: (q) => q.image || "", zeroBased: true
+    image: (q) => q.image || "", examSource: (q) => q.id, zeroBased: true
   };
 }
 
@@ -222,13 +232,17 @@ async function parseArray(type, html, context) {
       question: questionText,
       choices: config.choices(source).map(clean).filter(Boolean),
       answer: answerValue(config.answer(source), config.zeroBased),
+      examSource: config.examSource ? clean(config.examSource(source)) : "",
+      examRank: config.examSource ? examRank(config.examSource(source), type) : 0,
       explanation: clean(config.explanation(source)),
       image: await saveImage(config.image(source), id, context.imageDir)
     };
     if (!validQuestion(question)) throw new Error(`Invalid question ${sourceId} in ${context.filename}.`);
     questions.push(question);
   }
-  return questions;
+  return type === "previous"
+    ? questions
+    : questions.sort((left, right) => right.examRank - left.examRank);
 }
 
 async function parseAnatomy(html, context) {
@@ -253,6 +267,8 @@ async function parseAnatomy(html, context) {
       choices: [...body.matchAll(/<button class="choice"[^>]*data-choice="\d+"[^>]*>(?<text>[\s\S]*?)<\/button>/g)]
         .map((match) => decodeHtml(match.groups.text).replace(/^\d+\)\s*/, "")),
       answer: Number(attribute(attrs, "data-answer")),
+      examSource: sourceId,
+      examRank: examRank(sourceId, "anatomy"),
       explanation: decodeHtml(answerBox.replace(/<details[\s\S]*?<\/details>/gi, "")),
       image: imageKey ? await saveImage(imageMap[decodeHtml(imageKey)] || "", id, context.imageDir) : ""
     };
@@ -260,7 +276,7 @@ async function parseAnatomy(html, context) {
     questions.push(question);
   }
   if (!questions.length) throw new Error("No anatomy cards were found.");
-  return questions;
+  return questions.sort((left, right) => right.examRank - left.examRank);
 }
 
 async function readJson(filename, fallback) {
