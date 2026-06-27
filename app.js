@@ -116,7 +116,7 @@ function setupFilters() {
 function updateSectionOptions() {
   const subject = els.subjectFilter.value || "All";
   const pool = subject === "All" ? questions : questions.filter((q) => q.subject === subject);
-  fillSelect(els.sectionFilter, ["All", ...unique(pool.map((q) => q.section))]);
+  fillSelect(els.sectionFilter, ["All", ...unique(pool.flatMap((q) => q.sections))]);
 }
 
 function fillSelect(select, options) {
@@ -139,7 +139,7 @@ function applyFilters() {
   filtered = questions.filter((question) => {
     const saved = progress[question.id] || {};
     if (subject !== "All" && question.subject !== subject) return false;
-    if (section !== "All" && question.section !== section) return false;
+    if (section !== "All" && !question.sections.includes(section)) return false;
     if (mode === "wrong" && !(saved.wrongCount > 0 && saved.lastCorrect !== true)) return false;
     if (mode === "bookmarked" && !saved.bookmarked) return false;
     if (mode === "unseen" && saved.attempts > 0) return false;
@@ -202,7 +202,7 @@ function renderQuestion() {
   els.quizCard.innerHTML = `
     <div class="meta">
       <span class="tag">${escapeHtml(question.subject)}</span>
-      <span class="tag">${escapeHtml(question.section)}</span>
+      ${question.sections.map((section) => `<span class="tag">${escapeHtml(section)}</span>`).join("")}
       <span class="tag">${escapeHtml(question.id)}</span>
       ${(saved.wrongCount || 0) > 0 ? `<span class="tag">Wrong ${saved.wrongCount}</span>` : ""}
     </div>
@@ -632,6 +632,9 @@ function normalizeQuestion(raw, index, idCounts, warnings) {
 
   const subject = cleanText(raw.subject);
   const section = cleanText(raw.section);
+  const sections = Array.isArray(raw.sections)
+    ? [...new Set(raw.sections.map(cleanText).filter(Boolean))]
+    : section ? [section] : [];
   const question = cleanText(raw.question);
   const explanation = cleanText(raw.explanation);
   const image = cleanText(raw.image);
@@ -640,14 +643,14 @@ function normalizeQuestion(raw, index, idCounts, warnings) {
     : [];
 
   if (!subject) warnings.push(`Question ${index + 1} is missing subject.`);
-  if (!section) warnings.push(`Question ${index + 1} is missing section.`);
+  if (!sections.length) warnings.push(`Question ${index + 1} is missing section.`);
   if (!question) warnings.push(`Question ${index + 1} is missing question text.`);
   if (choices.length < 2) warnings.push(`Question ${index + 1} needs at least 2 choices.`);
 
   const answer = normalizeAnswer(raw.answer, raw.answerIndex, choices);
   if (!answer) warnings.push(`Question ${index + 1} has an invalid answer.`);
 
-  if (!subject || !section || !question || choices.length < 2 || !answer) {
+  if (!subject || !sections.length || !question || choices.length < 2 || !answer) {
     return null;
   }
 
@@ -657,7 +660,8 @@ function normalizeQuestion(raw, index, idCounts, warnings) {
     id,
     setId: cleanText(raw.setId),
     subject,
-    section,
+    section: section || sections[0],
+    sections,
     question,
     choices,
     answer,
