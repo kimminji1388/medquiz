@@ -190,6 +190,7 @@ function arrayConfig(type, html) {
   }
   if (type === "previous") return {
     source, sourceId: (q) => q.id, section: (q) => `인구기 ${q.source_short || q.file_display || q.file}`,
+    sections: (q) => [q.section, `인구기 ${q.source_short || q.file_display || q.file}`],
     question: (q) => q.stem,
     choices: (q) => (q.options || []).map((choice) => choice.text), answer: (q) => q.answer,
     explanation: (q) => q.explain, image: (q) => q.image || "", zeroBased: false
@@ -217,6 +218,7 @@ async function parseArray(type, html, context) {
     );
     const question = {
       id, setId: context.setId, sourceId, subject: info.subject, section,
+      sections: config.sections ? config.sections(source).map(clean).filter(Boolean) : [section],
       question: questionText,
       choices: config.choices(source).map(clean).filter(Boolean),
       answer: answerValue(config.answer(source), config.zeroBased),
@@ -246,6 +248,7 @@ async function parseAnatomy(html, context) {
     const answerBox = /<div class="answer-box">(?<text>[\s\S]*)$/.exec(body)?.groups.text || "";
     const question = {
       id, setId: context.setId, sourceId, subject: "Anatomy", section,
+      sections: [section],
       question: questionText,
       choices: [...body.matchAll(/<button class="choice"[^>]*data-choice="\d+"[^>]*>(?<text>[\s\S]*?)<\/button>/g)]
         .map((match) => decodeHtml(match.groups.text).replace(/^\d+\)\s*/, "")),
