@@ -189,7 +189,8 @@ function arrayConfig(type, html) {
     };
   }
   if (type === "previous") return {
-    source, sourceId: (q) => q.id, section: (q) => q.section, question: (q) => q.stem,
+    source, sourceId: (q) => q.id, section: (q) => `인구기 ${q.source_short || q.file_display || q.file}`,
+    question: (q) => q.stem,
     choices: (q) => (q.options || []).map((choice) => choice.text), answer: (q) => q.answer,
     explanation: (q) => q.explain, image: (q) => q.image || "", zeroBased: false
   };
