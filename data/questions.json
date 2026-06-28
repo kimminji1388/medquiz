@@ -47271,9 +47271,9 @@
     "setId": "microbiology_parasitology_9baf9a0f",
     "sourceId": "세균2 23-1",
     "subject": "Microbiology & Parasitology",
-    "section": "02 세균 그람음성",
+    "section": "rat",
     "sections": [
-      "02 세균 그람음성"
+      "rat"
     ],
     "question": "물설사로 시작한 장염이 이틀 후에는 심한 복통과 뒤무직으로 이어졌다. 원인균은 사람간 감염만 되는 운동성이 없는 그람음성막대균이었다. 이 균을 배양한 결과로 맞는 것은?",
     "choices": [
@@ -47294,9 +47294,9 @@
     "setId": "microbiology_parasitology_9baf9a0f",
     "sourceId": "세균2 23-3",
     "subject": "Microbiology & Parasitology",
-    "section": "02 세균 그람음성",
+    "section": "rat",
     "sections": [
-      "02 세균 그람음성"
+      "rat"
     ],
     "question": "71세 남자가 숨쉬기가 힘들고 끈적끈적한 피가 섞인 가래 기침을 하는 증상으로 병원에 왔다. 매일 소주를 마시는 알코올 중독자였다. 원인균은 MacConkey 배지에서 점액성의 분홍색 콜로니로 배양되었다. 이 균에게 가장 중요한 독성인자는?",
     "choices": [
@@ -47317,9 +47317,9 @@
     "setId": "microbiology_parasitology_9baf9a0f",
     "sourceId": "세균2 23-5",
     "subject": "Microbiology & Parasitology",
-    "section": "02 세균 그람음성",
+    "section": "rat",
     "sections": [
-      "02 세균 그람음성"
+      "rat"
     ],
     "question": "50세 남자가 8월 여름 휴가로 간 서해안에서 생선회와 조개 등을 먹었고 2일 후 고열, 오한, 사지의 통증, 구토로 병원에 왔다. 음주벽으로 황달을 앓은 적이 있었다. 입원 중 피부에 출혈성 수포가 생성되었고 혈압이 떨어지고(93/34) 호흡수가 증가되어(30회/min) 여러 장기에 문제가 발생하였다. 이 환자의 전신적 증상을 유도한 균의 독성인자는?",
     "choices": [
@@ -47340,9 +47340,9 @@
     "setId": "microbiology_parasitology_9baf9a0f",
     "sourceId": "세균3 23-2",
     "subject": "Microbiology & Parasitology",
-    "section": "03 세균 기타세균",
+    "section": "rat",
     "sections": [
-      "03 세균 기타세균"
+      "rat"
     ],
     "question": "53세 여자가 강원도 산간지방에 캠핑을 다녀온 후 5일째에 미열과 감기증상이 있었다고 한다. 오른 팔에 10cm의 과녁 모양의 유주성 홍반(erythema migrans)이 관찰되었다. 혈액배양 결과는 음성, 혈청검사는 국립보건원에 의뢰하였다. 환자는 doxycycline으로 치료하였다. 원인균의 감염경로는?",
     "choices": [
@@ -47363,9 +47363,9 @@
     "setId": "microbiology_parasitology_9baf9a0f",
     "sourceId": "세균3 23-3",
     "subject": "Microbiology & Parasitology",
-    "section": "03 세균 기타세균",
+    "section": "rat",
     "sections": [
-      "03 세균 기타세균"
+      "rat"
     ],
     "question": "요도염으로 병원에 온 33세 남성이 임질로 진단되었다. 아내의 자궁경부 검사에서도 임균이 검출되었다. 다음 중 임균에 관한 설명으로 맞는 것은?",
     "choices": [
@@ -47386,9 +47386,9 @@
     "setId": "microbiology_parasitology_9baf9a0f",
     "sourceId": "바이러스1 23-1",
     "subject": "Microbiology & Parasitology",
-    "section": "04 바이러스 DNA·레트로·프리온",
+    "section": "rat",
     "sections": [
-      "04 바이러스 DNA·레트로·프리온"
+      "rat"
     ],
     "question": "30세의 여성이 정기적인 검사로 파파니콜로염색검사(pap smear)를 하였는데 자궁경부 형성이상이 확인되었다. In situ hybridization 검사로 HPV 16형이 형성이상세포에서 관찰되었다. 다음 중 HPV가 암으로 발전되기 위해 필요한 과정은?",
     "choices": [
@@ -47409,9 +47409,9 @@
     "setId": "microbiology_parasitology_9baf9a0f",
     "sourceId": "바이러스1 23-4",
     "subject": "Microbiology & Parasitology",
-    "section": "04 바이러스 DNA·레트로·프리온",
+    "section": "rat",
     "sections": [
-      "04 바이러스 DNA·레트로·프리온"
+      "rat"
     ],
     "question": "산업 현장에서 근무하는 한 환자가 뚜렷한 결막하 출혈, 안와 주위 부종, 각막염에 합당한 각막 소견을 보여 안과를 방문했다. 환자는 심한 광과민과 눈에 이물감을 호소하였다. 7일 후 동일한 작업장에서 근무하던 다른 근로자 9명에서도 유사한 증상이 발생하였다. 가장 가능성 있는 병원체는?",
     "choices": [
@@ -47432,9 +47432,9 @@
     "setId": "microbiology_parasitology_9baf9a0f",
     "sourceId": "바이러스2 23-2",
     "subject": "Microbiology & Parasitology",
-    "section": "05 바이러스 RNA·간염",
+    "section": "rat",
     "sections": [
-      "05 바이러스 RNA·간염"
+      "rat"
     ],
     "question": "다음 중 SARS-CoV-2에 대한 설명으로 맞지 않는 것은?",
     "choices": [
@@ -47455,9 +47455,9 @@
     "setId": "microbiology_parasitology_9baf9a0f",
     "sourceId": "바이러스2 23-3",
     "subject": "Microbiology & Parasitology",
-    "section": "05 바이러스 RNA·간염",
+    "section": "rat",
     "sections": [
-      "05 바이러스 RNA·간염"
+      "rat"
     ],
     "question": "6개월된 영아가 5일 동안 맑은 설사를 싸고 구토를 하여 병원에 왔다. 대변에는 피나 고름은 보이지 않았다. 늦가을에서 초봄 사이에 같은 질환을 가진 영유아가 많이 병원을 찾는다고 한다. 가장 가능성이 높은 원인 바이러스에 관한 설명으로 맞는 것은?",
     "choices": [
@@ -47478,9 +47478,9 @@
     "setId": "microbiology_parasitology_9baf9a0f",
     "sourceId": "바이러스2 23-8",
     "subject": "Microbiology & Parasitology",
-    "section": "05 바이러스 RNA·간염",
+    "section": "rat",
     "sections": [
-      "05 바이러스 RNA·간염"
+      "rat"
     ],
     "question": "55세 남자가 급성 B형 간염으로 치료를 받았다. B형 간염이 회복되어 가고 있음을 의미하는 표지자는?",
     "choices": [
@@ -47501,9 +47501,9 @@
     "setId": "microbiology_parasitology_9baf9a0f",
     "sourceId": "바이러스2 23-9",
     "subject": "Microbiology & Parasitology",
-    "section": "05 바이러스 RNA·간염",
+    "section": "rat",
     "sections": [
-      "05 바이러스 RNA·간염"
+      "rat"
     ],
     "question": "10세 여아가 발열과 전신발진으로 병원에 왔다. 4일 전부터 기침, 콧물과 결막충혈이 있었고, 이틀 전에 구강 점막에 회백색의 모래알 크기 모양의 작은 반점(Koplik spot)이 관찰되었다. 다음 중 원인 바이러스에 대한 설명으로 맞지 않는 것은?",
     "choices": [
@@ -47524,9 +47524,9 @@
     "setId": "microbiology_parasitology_9baf9a0f",
     "sourceId": "바이러스2 23-10",
     "subject": "Microbiology & Parasitology",
-    "section": "05 바이러스 RNA·간염",
+    "section": "rat",
     "sections": [
-      "05 바이러스 RNA·간염"
+      "rat"
     ],
     "question": "2개월 영아가 2월에 세기관지염으로 병원에 입원하였다. 아이는 호흡곤란으로 위중한 상태였다. 가장 가능성이 높은 바이러스에 감염되었다고 생각한 의사가 처방하였을 약제는?",
     "choices": [
@@ -47547,9 +47547,9 @@
     "setId": "microbiology_parasitology_9baf9a0f",
     "sourceId": "세균2 23-2",
     "subject": "Microbiology & Parasitology",
-    "section": "02 세균 그람음성",
+    "section": "rat",
     "sections": [
-      "02 세균 그람음성"
+      "rat"
     ],
     "question": "65세 여자가 입원 치료를 받고 있던 중 38℃ 이상의 고열, 전신 권태, 근육통, 기침 및 호흡 곤란을 호소하기 시작하였다. 가슴 X선에서 뚜렷한 폐 침윤이 관찰되고 객담 가검물에서 적색(분홍)으로 배양되는 세균이 분리된다. 이 질환의 원인균은?",
     "choices": [
@@ -47570,9 +47570,9 @@
     "setId": "microbiology_parasitology_9baf9a0f",
     "sourceId": "세균2 23-4",
     "subject": "Microbiology & Parasitology",
-    "section": "02 세균 그람음성",
+    "section": "rat",
     "sections": [
-      "02 세균 그람음성"
+      "rat"
     ],
     "question": "50세의 남자가 복부통증과 구토를 호소하며 왔다. 위내시경검사에서 위염과 궤양이 관찰되어 생검조직으로 세균검사를 시행하였다. 요소분해효소검사에서 양성으로 나타났고 미세호기 조건에서 5일 배양 후 작은 집락이 관찰되었다. 그람음성의 막대균이 관찰되었다. 이 병원체는?",
     "choices": [
@@ -47593,9 +47593,9 @@
     "setId": "microbiology_parasitology_9baf9a0f",
     "sourceId": "세균2 23-6",
     "subject": "Microbiology & Parasitology",
-    "section": "02 세균 그람음성",
+    "section": "rat",
     "sections": [
-      "02 세균 그람음성"
+      "rat"
     ],
     "question": "백신을 맞지 않은 3세 여아가 심한 기침으로 병원에 왔다. 일주일 동안 지속된 감기증상이 나아지지 않고 내원 전날에 심한 기침이 시작되었다. 발작적인 기침은 구토로 이어졌다. 내원 당시 아이는 매우 지친 상태였다. 피 검사에서 림프구의 증가가 보였다. 원인균의 독소 기작은?",
     "choices": [
@@ -47616,9 +47616,9 @@
     "setId": "microbiology_parasitology_9baf9a0f",
     "sourceId": "세균2 23-7",
     "subject": "Microbiology & Parasitology",
-    "section": "02 세균 그람음성",
+    "section": "rat",
     "sections": [
-      "02 세균 그람음성"
+      "rat"
     ],
     "question": "백신을 맞지 않은 어린이에게서 PRP(Polyribosyl ribitol phosphate)-protein conjugate 백신을 맞지 않은 어린이에게서 심각한 후두개염과 수막염을 일으킬 수 있는 균에 대한 설명으로 맞는 것은?",
     "choices": [
@@ -47639,9 +47639,9 @@
     "setId": "microbiology_parasitology_9baf9a0f",
     "sourceId": "세균2 23-8",
     "subject": "Microbiology & Parasitology",
-    "section": "02 세균 그람음성",
+    "section": "rat",
     "sections": [
-      "02 세균 그람음성"
+      "rat"
     ],
     "question": "55세 남자가 야외 카페에서 친구들과 시간을 보내고 집에 돌아온 후에 발열, 두통, 마른기침이 시작되어 병원에 왔다. 가슴 X선에서 오른쪽 폐의 경화가 보였다. 방문하였던 카페는 오랫동안 쓰지 않았던 분수대를 그 날 가동하였고 분사된 물방울의 흡입으로 감염되었다면 원인균의 특성으로 맞는 것은?",
     "choices": [
@@ -47662,9 +47662,9 @@
     "setId": "microbiology_parasitology_9baf9a0f",
     "sourceId": "세균2 23-9",
     "subject": "Microbiology & Parasitology",
-    "section": "02 세균 그람음성",
+    "section": "rat",
     "sections": [
-      "02 세균 그람음성"
+      "rat"
     ],
     "question": "32세 여자가 소변을 잘 참지 못하고 소변 볼 때에 통증을 느껴서 왔다. 소변에서 냄새도 났다. 소변검사 결과 그람음성알막대균이 관찰되었고 균 특성검사에서 oxidase 음성, urease 음성이 나왔다. 원인 병원균이 요로감염을 일으키는 데 특별히 중요한 병원성 인자는?",
     "choices": [
@@ -47681,13 +47681,13 @@
     "image": ""
   },
   {
-    "id": "microbiology_parasitology_02_2_23_10",
+    "id": "microbiology_parasitology_02_2_20_7",
     "setId": "microbiology_parasitology_9baf9a0f",
     "sourceId": "세균2 23-10",
     "subject": "Microbiology & Parasitology",
-    "section": "02 세균 그람음성",
+    "section": "rat",
     "sections": [
-      "02 세균 그람음성"
+      "rat"
     ],
     "question": "38세 화상환자의 상처부위에 감염으로 농이 생겼다. 농을 배양한 결과 방향족 냄새가 나는 청록 및 녹황색의 균 집락을 확인할 수 있었다. 균은 포도당을 발효하지 않으며 oxidase 양성, catalase 양성이었다. 이 원인균의 독성인자 중에서 숙주세포의 단백합성을 저해하여 조직 손상을 초래하는 것은?",
     "choices": [
@@ -47704,13 +47704,13 @@
     "image": ""
   },
   {
-    "id": "microbiology_parasitology_03_3_23_1",
+    "id": "microbiology_parasitology_03_3_22_1",
     "setId": "microbiology_parasitology_9baf9a0f",
     "sourceId": "세균3 23-1",
     "subject": "Microbiology & Parasitology",
-    "section": "03 세균 기타세균",
+    "section": "rat",
     "sections": [
-      "03 세균 기타세균"
+      "rat"
     ],
     "question": "인수공통감염병이란 사람과 동물 사이에서 상호 전파되는 병원체에 의한 전염성 질병을 말한다. 다음 중 인수공통감염병을 일으키는 균이 아닌 것은?",
     "choices": [
@@ -47731,9 +47731,9 @@
     "setId": "microbiology_parasitology_9baf9a0f",
     "sourceId": "세균3 23-4",
     "subject": "Microbiology & Parasitology",
-    "section": "03 세균 기타세균",
+    "section": "rat",
     "sections": [
-      "03 세균 기타세균"
+      "rat"
     ],
     "question": "28세 여자가 소변을 볼 때 불편하고, 아랫배가 아프고 질 분비물이 나와 병원에 왔다. 질염이 의심되어 자궁경부를 생리식염수로 적신 면봉으로 도말한 후 그람염색을 하고 초콜릿한천배지와 McCoy 세포에서 배양을 시행하였다. 그람염색 후 현미경 검사에서 균은 발견되지 않았고, 초콜릿한천배지에서는 배양이 되지 않았다. McCoy 세포에서는 72시간 배양 후에 요오드 염색으로 세포내 봉입체를 확인할 수 있었다. 원인균의 특성으로 맞는 것은?",
     "choices": [
@@ -47754,9 +47754,9 @@
     "setId": "microbiology_parasitology_9baf9a0f",
     "sourceId": "세균3 23-5",
     "subject": "Microbiology & Parasitology",
-    "section": "03 세균 기타세균",
+    "section": "rat",
     "sections": [
-      "03 세균 기타세균"
+      "rat"
     ],
     "question": "36세 남자가 열이 나고 점출혈이 있어 응급실에 왔다. 오늘 새벽부터 발열과 오한이 있었으며 증상 시작 후 약 12시간 후인 저녁 무렵부터 양측하지와 등에 점출혈(petechia)이 나타났다. 체온 39℃였다. 혈액과 뇌척수액 내부에 그람음성 쌍알균이 관찰되었다. 원인균의 중요한 병원성 인자로 혈청형을 결정하며 백신 물질이 되는 것은?",
     "choices": [
@@ -47773,13 +47773,13 @@
     "image": ""
   },
   {
-    "id": "microbiology_parasitology_03_3_23_6",
+    "id": "microbiology_parasitology_03_3_22_6",
     "setId": "microbiology_parasitology_9baf9a0f",
     "sourceId": "세균3 23-6",
     "subject": "Microbiology & Parasitology",
-    "section": "03 세균 기타세균",
+    "section": "rat",
     "sections": [
-      "03 세균 기타세균"
+      "rat"
     ],
     "question": "49세 남자가 한달 넘게 지속되는 기침으로 병원에 왔다. 기침은 점차 심해졌고 객혈과 체중감소, 야간발한의 증상이 동반되었다. 객담검사에서 항산성 세균이 관찰되었다. 원인균과 관련된 발병기전은?",
     "choices": [
@@ -47800,9 +47800,9 @@
     "setId": "microbiology_parasitology_9baf9a0f",
     "sourceId": "세균3 23-7",
     "subject": "Microbiology & Parasitology",
-    "section": "03 세균 기타세균",
+    "section": "rat",
     "sections": [
-      "03 세균 기타세균"
+      "rat"
     ],
     "question": "30대 남자가 자신의 성기에 병변이 생겨서 왔다. 한 달 전에 성기 부위에 통증이 없는 궤양이 있었고 지금은 겨드랑이와 손바닥 등에 구진이 나타나고 발열과 오한도 있다. 이 병의 진단을 위한 선별검사와 확진검사가 맞게 짝지어진 것은?",
     "choices": [
@@ -47819,13 +47819,13 @@
     "image": ""
   },
   {
-    "id": "microbiology_parasitology_03_3_23_8",
+    "id": "microbiology_parasitology_03_3_20_1",
     "setId": "microbiology_parasitology_9baf9a0f",
     "sourceId": "세균3 23-8",
     "subject": "Microbiology & Parasitology",
-    "section": "03 세균 기타세균",
+    "section": "rat",
     "sections": [
-      "03 세균 기타세균"
+      "rat"
     ],
     "question": "8세 남아가 피로, 열감, 콧물 및 두통, 마른기침으로 병원에 왔다. 가슴 X선 사진에서 하부 폐에 반점형 혼탁이 관찰되었다. 객담 검체 배양 검사에서 계란 프라이형(fried-egg)의 작은 균 집락이 관찰되었다. 원인 균의 특성으로 맞는 것은?",
     "choices": [
@@ -47839,16 +47839,16 @@
     "examSource": "세균3 23-8",
     "examRank": 230,
     "explanation": "단서: 비정형폐렴+fried-egg 집락 = Mycoplasma pneumoniae. 판단: Mycoplasma는 세포막에 sterol을 함유하는 유일한 세균이다. 암기: Mycoplasma=무세포벽, sterol 함유 세포막, 그람염색 안됨, peptidoglycan 없음. 출처: 세균각론3 · 23번(조3)",
-    "image": "assets/images/microbiology_parasitology_03_3_23_8.jpg"
+    "image": "assets/images/microbiology_parasitology_03_3_20_1.jpg"
   },
   {
     "id": "microbiology_parasitology_03_3_23_9",
     "setId": "microbiology_parasitology_9baf9a0f",
     "sourceId": "세균3 23-9",
     "subject": "Microbiology & Parasitology",
-    "section": "03 세균 기타세균",
+    "section": "rat",
     "sections": [
-      "03 세균 기타세균"
+      "rat"
     ],
     "question": "30대 남성이 추석때 성묘를 하고 집에 돌아온 지 고열, 오한, 두통 증상과 함께 기침, 구토, 복통의 증상이 나타났다. 환자의 허벅지에 사진과 같은 딱지가 있었다. 이 질환의 원인균의 감염경로는?",
     "choices": [
@@ -47865,13 +47865,13 @@
     "image": "assets/images/microbiology_parasitology_03_3_23_9.jpg"
   },
   {
-    "id": "microbiology_parasitology_03_3_23_10",
+    "id": "microbiology_parasitology_03_3_22_10",
     "setId": "microbiology_parasitology_9baf9a0f",
     "sourceId": "세균3 23-10",
     "subject": "Microbiology & Parasitology",
-    "section": "03 세균 기타세균",
+    "section": "rat",
     "sections": [
-      "03 세균 기타세균"
+      "rat"
     ],
     "question": "40세 남자가 고열, 각막충혈, 근육통 및 기침을 하면 피가 함께 나오는 객혈 때문에 병원에 왔다. 이러한 증상은 늦가을 장마 후 벼베기를 끝내고 2주 후에 나타났다. 원인균은 Fletcher 배지에서 배양 후 광학현미경으로는 관찰하지 못하였고 암시야 현미경으로 관찰이 가능하였다. 원인균의 발병기전은?",
     "choices": [
@@ -47888,13 +47888,13 @@
     "image": ""
   },
   {
-    "id": "microbiology_parasitology_04_1_23_2",
+    "id": "microbiology_parasitology_04_1_22_3",
     "setId": "microbiology_parasitology_9baf9a0f",
     "sourceId": "바이러스1 23-2",
     "subject": "Microbiology & Parasitology",
-    "section": "04 바이러스 DNA·레트로·프리온",
+    "section": "rat",
     "sections": [
-      "04 바이러스 DNA·레트로·프리온"
+      "rat"
     ],
     "question": "사람면역결핍바이러스(HIV)에 감염된 65세 남자가 1개월 이상 지속된 설사와 체중감소로 병원을 찾았다. 혈액검사 결과 ml당 CD4+ T 세포의 수가 150/uL이었다. 임상단계는?",
     "choices": [
@@ -47915,9 +47915,9 @@
     "setId": "microbiology_parasitology_9baf9a0f",
     "sourceId": "바이러스1 23-3",
     "subject": "Microbiology & Parasitology",
-    "section": "04 바이러스 DNA·레트로·프리온",
+    "section": "rat",
     "sections": [
-      "04 바이러스 DNA·레트로·프리온"
+      "rat"
     ],
     "question": "태어난 지 일주일이 안된 신생아 피부에 수포가 생겼고 중추신경계와 간에 이상 증상을 보였다. 아기의 엄마는 분만 며칠 전에 성기에 아픈 수포가 생겼었다고 하였다. 분만실에서 자궁경부와 질 외벽에서 병변이 확인되었으나 제왕절개를 시도하기에는 너무 늦은 때였다. 이 신생아와 엄마에게 투여할 수 있는 치료제는?",
     "choices": [
@@ -47938,9 +47938,9 @@
     "setId": "microbiology_parasitology_9baf9a0f",
     "sourceId": "바이러스1 23-5",
     "subject": "Microbiology & Parasitology",
-    "section": "04 바이러스 DNA·레트로·프리온",
+    "section": "rat",
     "sections": [
-      "04 바이러스 DNA·레트로·프리온"
+      "rat"
     ],
     "question": "떨림, 간헐적 근육경련 및 운동 조정상실이 있는 65세 여자환자가 급속한 진행성 치매로 병원에 왔다. 뇌척수액과 혈청에서 세균 및 바이러스 감염 검사 결과는 음성이었다. 편도선 생검조직의 웨스턴블롯으로 원인체를 확인할 수 있었다. 원인체에 대한 설명으로 올바른 것은?",
     "choices": [
@@ -47961,9 +47961,9 @@
     "setId": "microbiology_parasitology_9baf9a0f",
     "sourceId": "바이러스1 23-6",
     "subject": "Microbiology & Parasitology",
-    "section": "04 바이러스 DNA·레트로·프리온",
+    "section": "rat",
     "sections": [
-      "04 바이러스 DNA·레트로·프리온"
+      "rat"
     ],
     "question": "3인 철종경기에 참석한 30대 남성이 사진과 같은 통증이 심한 수포성 발진으로 병원에 왔다. 의사는 대상포진으로 진단을 내렸다. 하지만 이 남성은 수두를 앓은 적이 없었다. 가장 적절한 설명은?",
     "choices": [
@@ -47984,9 +47984,9 @@
     "setId": "microbiology_parasitology_9baf9a0f",
     "sourceId": "바이러스1 23-7",
     "subject": "Microbiology & Parasitology",
-    "section": "04 바이러스 DNA·레트로·프리온",
+    "section": "rat",
     "sections": [
-      "04 바이러스 DNA·레트로·프리온"
+      "rat"
     ],
     "question": "23세 여성이 목이 붓고 침 삼키기 어려운 증상으로 이비인후과를 찾았다. 일주일 동안 열, 피로감과 인후통이 있었고 검진 결과 편도와 경부 림프선과 비장이 커져 있었다. 피검사에서 비정형 림프구가 발견되었고 이종항체검사에서 양성을 보였다. 질병 이름인 전염성단핵구증과 관련있는 이 환자에게서 증가된 세포는?",
     "choices": [
@@ -48007,9 +48007,9 @@
     "setId": "microbiology_parasitology_9baf9a0f",
     "sourceId": "바이러스1 23-8",
     "subject": "Microbiology & Parasitology",
-    "section": "04 바이러스 DNA·레트로·프리온",
+    "section": "rat",
     "sections": [
-      "04 바이러스 DNA·레트로·프리온"
+      "rat"
     ],
     "question": "정상분만으로 출생한 건강한 신생아가 3주 뒤에 소리에 반응하지 않았고 점차 지능저하 증상이 관찰되었다. 신생아 소변에서 원인 바이러스 항원이 검출되었다. 가장 가능성이 높은 원인바이러스에 감염된 세포의 cytopathologic effect는?",
     "choices": [
@@ -48026,13 +48026,13 @@
     "image": ""
   },
   {
-    "id": "microbiology_parasitology_04_1_23_9",
+    "id": "microbiology_parasitology_04_1_22_5",
     "setId": "microbiology_parasitology_9baf9a0f",
     "sourceId": "바이러스1 23-9",
     "subject": "Microbiology & Parasitology",
-    "section": "04 바이러스 DNA·레트로·프리온",
+    "section": "rat",
     "sections": [
-      "04 바이러스 DNA·레트로·프리온"
+      "rat"
     ],
     "question": "6세 여아가 열, 두통, 근육통 등과 같은 비특이 증상 후 1주일 정도 뒤에 마치 뺨을 맞은 것처럼 명확한 발진이 양쪽 뺨에 생기면서 전신으로 퍼지는 반구진 발진으로 병원에 왔다. 함께 방문한 엄마는 양쪽 손 관절에 심한 관절통과 부종을 호소하였다. 의사는 남자 아이와 엄마의 증상은 어떤 기작에 의한 것인가?",
     "choices": [
@@ -48049,13 +48049,13 @@
     "image": ""
   },
   {
-    "id": "microbiology_parasitology_04_1_23_10",
+    "id": "microbiology_parasitology_04_1_21_6",
     "setId": "microbiology_parasitology_9baf9a0f",
     "sourceId": "바이러스1 23-10",
     "subject": "Microbiology & Parasitology",
-    "section": "04 바이러스 DNA·레트로·프리온",
+    "section": "rat",
     "sections": [
-      "04 바이러스 DNA·레트로·프리온"
+      "rat"
     ],
     "question": "운동을 하지 않던 20대 여성이 산행을 다녀오고 아래와 같은 물집이 입 주변에 생겼다. 이 원인바이러스와 바이러스가 잠복하였을 기관은?",
     "choices": [
@@ -48069,16 +48069,16 @@
     "examSource": "바이러스1 23-10",
     "examRank": 230,
     "explanation": "단서: 입 주변 물집 = HSV-1, 삼차신경절. 판단: 입술헤르페스는 HSV-1이며 삼차신경절에서 잠복한다. 암기: Oral HSV-1=trigeminal ganglia. 출처: 바이러스각론1 · 23번(조3)",
-    "image": "assets/images/microbiology_parasitology_04_1_23_10.jpg"
+    "image": "assets/images/microbiology_parasitology_04_1_21_6.jpg"
   },
   {
-    "id": "microbiology_parasitology_05_2_23_1",
+    "id": "microbiology_parasitology_05_2_21_3",
     "setId": "microbiology_parasitology_9baf9a0f",
     "sourceId": "바이러스2 23-1",
     "subject": "Microbiology & Parasitology",
-    "section": "05 바이러스 RNA·간염",
+    "section": "rat",
     "sections": [
-      "05 바이러스 RNA·간염"
+      "rat"
     ],
     "question": "여름 캠프에 다녀온 초등학생이 열과 두통을 호소하다가 의식이 저하되고 경련을 일으켰다. 아이에게 모기 물린 자국이 많이 있었다. 가장 가능성이 높은 원인 바이러스에 대한 설명으로 맞는 것은?",
     "choices": [
@@ -48099,9 +48099,9 @@
     "setId": "microbiology_parasitology_9baf9a0f",
     "sourceId": "바이러스2 23-4",
     "subject": "Microbiology & Parasitology",
-    "section": "05 바이러스 RNA·간염",
+    "section": "rat",
     "sections": [
-      "05 바이러스 RNA·간염"
+      "rat"
     ],
     "question": "어린이집에 다니는 3세 여아가 열이 나고 칭얼거리고 음식을 먹지 않았다. 입안을 보니 수포가 있었고 손과 발에도 비슷한 수포를 관찰할 수 있었다. 원인바이러스가 주로 일으키는 질병/증상이 아닌 것은?",
     "choices": [
@@ -48122,9 +48122,9 @@
     "setId": "microbiology_parasitology_9baf9a0f",
     "sourceId": "바이러스2 23-5",
     "subject": "Microbiology & Parasitology",
-    "section": "05 바이러스 RNA·간염",
+    "section": "rat",
     "sections": [
-      "05 바이러스 RNA·간염"
+      "rat"
     ],
     "question": "성질이 난폭했던 야생너구리에게 물린 사람이 병원에 왔다. 광견병에 걸린 너구리라고 생각되었다. 적절한 조치에 해당하는 것은?",
     "choices": [
@@ -48145,9 +48145,9 @@
     "setId": "microbiology_parasitology_9baf9a0f",
     "sourceId": "바이러스2 23-6",
     "subject": "Microbiology & Parasitology",
-    "section": "05 바이러스 RNA·간염",
+    "section": "rat",
     "sections": [
-      "05 바이러스 RNA·간염"
+      "rat"
     ],
     "question": "소두증을 가진 아기가 태어났다. 산모는 임신 4주째 얼굴, 목, 등에 연한 반점상발진이 있었다고 한다. 이 때 미열이 있었고, 감기와 비슷한 증상과 함께 손과 무릎 관절에 경직이 있었지만, 출산 전까지 아무런 처치나 치료를 받지 않았다. 사람만 감염시키는 단일 혈청형을 가지는 원인바이러스에 대한 설명으로 맞는 것은?",
     "choices": [
@@ -48164,13 +48164,13 @@
     "image": ""
   },
   {
-    "id": "microbiology_parasitology_05_2_23_7",
+    "id": "microbiology_parasitology_05_3_20_5",
     "setId": "microbiology_parasitology_9baf9a0f",
     "sourceId": "바이러스2 23-7",
     "subject": "Microbiology & Parasitology",
-    "section": "05 바이러스 RNA·간염",
+    "section": "rat",
     "sections": [
-      "05 바이러스 RNA·간염"
+      "rat"
     ],
     "question": "40세 남자가 9월에 벌초 후에 발열, 오한, 두통이 나타나고 안면홍조와 출혈반점이 있어 병원에 왔다. 발열 후 5일경에 혈압저하가 나타나 3일간 지속되며, 신부전으로 인한 질소혈증, 심한 단백뇨가 동반되었다. 원인 바이러스의 특징이 아닌 것은?",
     "choices": [
@@ -48187,13 +48187,13 @@
     "image": ""
   },
   {
-    "id": "microbiology_parasitology_01_1_23_1",
+    "id": "microbiology_parasitology_01_1_20_2",
     "setId": "microbiology_parasitology_9baf9a0f",
     "sourceId": "세균1 23-1",
     "subject": "Microbiology & Parasitology",
-    "section": "01 세균 그람양성",
+    "section": "rat",
     "sections": [
-      "01 세균 그람양성"
+      "rat"
     ],
     "question": "28세 남자가 오토바이 사고로 다리의 개방형 골절을 입었다. 골절 부위에 가스가 찬 물집이 보이고 검게 변하며 괴사가 시작되었다. 상처 주위에서 염증세포는 관찰되지 않았다. 이 현상과 관련이 있는 이 균의 독소는?",
     "choices": [
@@ -48214,9 +48214,9 @@
     "setId": "microbiology_parasitology_9baf9a0f",
     "sourceId": "세균1 23-2",
     "subject": "Microbiology & Parasitology",
-    "section": "01 세균 그람양성",
+    "section": "rat",
     "sections": [
-      "01 세균 그람양성"
+      "rat"
     ],
     "question": "20세 여자가 탐폰을 사용한 후 갑자기 고열, 두통, 근육통, 복통이 시작되었고, 이후 전신 피부에 붉은 반점이 생겨 응급실에 왔다. 도착 시 혈압 80/50, 맥박 140회/분. 혈액 백혈구·간 효소 수치 상승. 혈액·뇨·뇌척수액 배양에서 균 집락이 없었으나 질 분비액에서 Staphylococcus aureus 집락이 확인되었다. 이 질병의 원인 독소와 같은 기작을 가지는 독소는?",
     "choices": [
@@ -48237,9 +48237,9 @@
     "setId": "microbiology_parasitology_9baf9a0f",
     "sourceId": "세균1 23-3",
     "subject": "Microbiology & Parasitology",
-    "section": "01 세균 그람양성",
+    "section": "rat",
     "sections": [
-      "01 세균 그람양성"
+      "rat"
     ],
     "question": "70세 여자가 급성 폐렴으로 항생제를 1주일째 복용하던 중 갑자기 복통과 함께 녹색의 점액성 설사가 시작되어 병원에 왔다. 대장 내시경으로 위막성 장염이 관찰되었다. 원인 균의 특성으로 맞지 않는 것은?",
     "choices": [
@@ -48260,9 +48260,9 @@
     "setId": "microbiology_parasitology_9baf9a0f",
     "sourceId": "세균1 23-4",
     "subject": "Microbiology & Parasitology",
-    "section": "01 세균 그람양성",
+    "section": "rat",
     "sections": [
-      "01 세균 그람양성"
+      "rat"
     ],
     "question": "9세 남아가 혈뇨, 부종, 단백뇨 등과 같은 급성 사구체신염의 증상으로 병원에 왔다. 이 환자는 3주 전에 혈액우무배지에서 베타용혈을 보이는 group A 사슬알균에 의한 급성인후염을 앓았었다. 이 환자의 질병 유발 기전으로 가장 적합한 것은?",
     "choices": [
@@ -48283,9 +48283,9 @@
     "setId": "microbiology_parasitology_9baf9a0f",
     "sourceId": "세균1 23-5",
     "subject": "Microbiology & Parasitology",
-    "section": "01 세균 그람양성",
+    "section": "rat",
     "sections": [
-      "01 세균 그람양성"
+      "rat"
     ],
     "question": "자연분만한 신생아가 뇌수막염으로 진단되었다. 뇌척수액에서 짧은 사슬모양의 그람양성알균이 검출되었다. 원인 균의 특징으로 맞는 것은?",
     "choices": [
@@ -48306,9 +48306,9 @@
     "setId": "microbiology_parasitology_9baf9a0f",
     "sourceId": "세균1 23-6",
     "subject": "Microbiology & Parasitology",
-    "section": "01 세균 그람양성",
+    "section": "rat",
     "sections": [
-      "01 세균 그람양성"
+      "rat"
     ],
     "question": "무더운 여름날 25세 직장 여성이 하루 종일 상온에 방치되었던 찬밥으로 김치볶음밥을 조리하여 저녁식사를 한 후 6시간쯤 지나 갑작스러운 구역, 구토 및 복통 증상을 나타내었다. 증상은 다음 날 오전까지 지속되었고 이후 특별한 치료 없이 저절로 회복되었다. 상복부 증상 이외에 발열이나 설사 등의 증상은 동반되지 않았다. 원인균으로 적합한 것은?",
     "choices": [
@@ -48329,9 +48329,9 @@
     "setId": "microbiology_parasitology_9baf9a0f",
     "sourceId": "세균1 23-7",
     "subject": "Microbiology & Parasitology",
-    "section": "01 세균 그람양성",
+    "section": "rat",
     "sections": [
-      "01 세균 그람양성"
+      "rat"
     ],
     "question": "82세 남자가 갑자기 몸이 춥고, 고열, 혈액이 있는 가래기침 증상으로 병원에 왔다. 가슴 X선 촬영 결과에서 아래 폐의 짙은 경화가 관찰되었다. 객담에서 분리된 균을 그람염색해서 사진과 같았다. 이 균의 특성으로 맞는 것은?",
     "choices": [
@@ -48352,9 +48352,9 @@
     "setId": "microbiology_parasitology_9baf9a0f",
     "sourceId": "세균1 23-8",
     "subject": "Microbiology & Parasitology",
-    "section": "01 세균 그람양성",
+    "section": "rat",
     "sections": [
-      "01 세균 그람양성"
+      "rat"
     ],
     "question": "Streptococcus pyogenes의 감염 후 심장과 관절 질환을 일으킬 수 있는 합병증으로 autoimmune reaction에 의해 초래되는 질환은?",
     "choices": [
@@ -48375,9 +48375,9 @@
     "setId": "microbiology_parasitology_9baf9a0f",
     "sourceId": "세균1 23-9",
     "subject": "Microbiology & Parasitology",
-    "section": "01 세균 그람양성",
+    "section": "rat",
     "sections": [
-      "01 세균 그람양성"
+      "rat"
     ],
     "question": "75세 가죽 공장을 하는 남자가 호주 비즈니스 여행에서 소 농장을 방문하고 돌아온 후 팔의 상처가 붓고 궤양이 생긴 후에 새까만 가피가 생겼다. 남자는 열이 나고 몸살이 나는 증상도 있었다. 피부 검체로부터 아포를 생성하는 그람양성균이 배양되었다. 이 균의 독소 중 zinc protease로 작용하는 것은?",
     "choices": [
@@ -48398,9 +48398,9 @@
     "setId": "microbiology_parasitology_9baf9a0f",
     "sourceId": "세균1 23-10",
     "subject": "Microbiology & Parasitology",
-    "section": "01 세균 그람양성",
+    "section": "rat",
     "sections": [
-      "01 세균 그람양성"
+      "rat"
     ],
     "question": "아프리카 의료선교센터에 8세 어린이가 목이 전체적으로 붓고 삼키는 것과 숨쉬는 것이 힘든 상태로 왔다. 아이의 인두에 단단하게 붙어있는 두터운 회백색의 위막을 볼 수 있었다. 심장과 신경 합병증을 일으킬 수 있는 원인균의 독소 기작은?",
     "choices": [
@@ -48421,9 +48421,9 @@
     "setId": "microbiology_parasitology_9baf9a0f",
     "sourceId": "세균1 22-1",
     "subject": "Microbiology & Parasitology",
-    "section": "01 세균 그람양성",
+    "section": "rat",
     "sections": [
-      "01 세균 그람양성"
+      "rat"
     ],
     "question": "40세 남성이 갑작스런 고열, 근육통, 구토 그리고 설사가 발생하여 응급실에 왔다. 피부는 전신에 sunburn 후 나타나는 것처럼 표피탈락이 관찰되었다. 혈액 및 대변에서 세균배양을 했으나 검출되지 않았다. 남성은 며칠 전 만성부비동염으로 수술을 받았고, 코 안쪽에 단단한 솜뭉치가 묻어 있었으며 솜뭉치에서 카탈라아제 양성의 그람양성 알균이 배양되었다. 이 질환의 가장 가능성 높은 병원성인자는?",
     "choices": [
@@ -48444,9 +48444,9 @@
     "setId": "microbiology_parasitology_9baf9a0f",
     "sourceId": "세균1 22-2",
     "subject": "Microbiology & Parasitology",
-    "section": "01 세균 그람양성",
+    "section": "rat",
     "sections": [
-      "01 세균 그람양성"
+      "rat"
     ],
     "question": "9세 남아가 혈뇨, 부종, 단백뇨 등과 같은 급성 사구체신염의 증상으로 병원에 왔다. 이 환자는 3주 전에 혈액우무배지에서 베타용혈을 보이는 group A 사슬알균에 의한 급성인후염을 앓았다. 이 환자의 급성사구체신염 유발 기전으로 가장 적합한 것은?",
     "choices": [
@@ -48467,9 +48467,9 @@
     "setId": "microbiology_parasitology_9baf9a0f",
     "sourceId": "세균1 22-3",
     "subject": "Microbiology & Parasitology",
-    "section": "01 세균 그람양성",
+    "section": "rat",
     "sections": [
-      "01 세균 그람양성"
+      "rat"
     ],
     "question": "10세 남아가 급성 인두 통증과 발열로 병원에 왔다. 지난 1주간 수차례 구토를 하였고, 체온 38.9℃, 기침이나 콧물은 없었다. 후인두는 삼출을 동반하며 홍반성으로 보이고, 목의 림프절 종창이 촉진된다. 입인두 뒤 편도에서 채취한 목구멍 면봉 검체에서 GAS가 검출되었고 혈액검사에서 ASO 항체가 검출되었다. 의사가 amoxicillin 10일치를 처방하려는 합병증으로 가장 적합한 것은?",
     "choices": [
@@ -48490,9 +48490,9 @@
     "setId": "microbiology_parasitology_9baf9a0f",
     "sourceId": "세균1 22-4",
     "subject": "Microbiology & Parasitology",
-    "section": "01 세균 그람양성",
+    "section": "rat",
     "sections": [
-      "01 세균 그람양성"
+      "rat"
     ],
     "question": "30세 남자가 팔에 2cm의 병변이 생겨서 병원에 왔다. 병터는 통증이 없는 구진 형태로 시작되어 수일 이내에 궤양으로 진행된 후 검은색 딱지(가피)가 형성되었다. 도살장에서 소의 가죽을 벗겨내는 일을 하고 있었다. 병변에서 얻어진 체액의 그람염색 결과이다. 병원체의 특성으로 맞지 않는 것은?",
     "choices": [
@@ -48513,9 +48513,9 @@
     "setId": "microbiology_parasitology_9baf9a0f",
     "sourceId": "세균1 22-5",
     "subject": "Microbiology & Parasitology",
-    "section": "01 세균 그람양성",
+    "section": "rat",
     "sections": [
-      "01 세균 그람양성"
+      "rat"
     ],
     "question": "68세의 남자가 고열과 호흡곤란으로 병원을 방문하였다. 환자는 최근까지 매일 소주 한 병을 10년 동안 마셨다. 환자의 가래에서 그람양성 쌍알균이 관찰되었고 이 균을 혈액우무배지에 배양한 결과 알파용혈 소견이 관찰되었다. 균은 옵토킨에 감수성을 나타내고 담즙에 용해되었다. 다음 중 이 균의 가장 중요한 병원성 인자로서 백신의 주요성분으로 사용되는 것은?",
     "choices": [
@@ -48532,13 +48532,13 @@
     "image": ""
   },
   {
-    "id": "microbiology_parasitology_03_3_22_1",
+    "id": "microbiology_parasitology_03_3_23_1",
     "setId": "microbiology_parasitology_9baf9a0f",
     "sourceId": "세균3 22-1",
     "subject": "Microbiology & Parasitology",
-    "section": "03 세균 기타세균",
+    "section": "rat",
     "sections": [
-      "03 세균 기타세균"
+      "rat"
     ],
     "question": "인수공통감염병이란 사람과 동물 사이에서 상호 전파되는 병원체에 의한 전염성 질병을 말한다. 다음 중 인수공통감염병을 일으키는 균이 아닌 것은?",
     "choices": [
@@ -48559,9 +48559,9 @@
     "setId": "microbiology_parasitology_9baf9a0f",
     "sourceId": "세균3 22-5",
     "subject": "Microbiology & Parasitology",
-    "section": "03 세균 기타세균",
+    "section": "rat",
     "sections": [
-      "03 세균 기타세균"
+      "rat"
     ],
     "question": "36세 남자가 추석때 성묘를 하고 집에 돌아온 지 고열, 오한, 두통 증상과 함께 기침, 구토, 복통의 증상이 나타났다. 환자의 허벅지에 사진과 같은 딱지가 있었다. 이 질환의 원인균의 감염경로는?",
     "choices": [
@@ -48582,9 +48582,9 @@
     "setId": "microbiology_parasitology_9baf9a0f",
     "sourceId": "세균3 22-8",
     "subject": "Microbiology & Parasitology",
-    "section": "03 세균 기타세균",
+    "section": "rat",
     "sections": [
-      "03 세균 기타세균"
+      "rat"
     ],
     "question": "25세 남성이 성기에 궤양이 생겨 병원에 왔다. 단단하고 붉은 궤양에 통증은 없었으며 발열, 인후통 및 발진은 없었다. 1기 매독으로 의심되었다. 보기의 매독을 확인하는 진단에 사용하는 환자 검체가 다른 하나는?",
     "choices": [
@@ -48605,9 +48605,9 @@
     "setId": "microbiology_parasitology_9baf9a0f",
     "sourceId": "세균3 22-9",
     "subject": "Microbiology & Parasitology",
-    "section": "03 세균 기타세균",
+    "section": "rat",
     "sections": [
-      "03 세균 기타세균"
+      "rat"
     ],
     "question": "3세 남아가 5일 동안 발열, 마른 기침이 있어 병원에 왔다. 입원 후 체온 39.1℃이었다. 기침은 심해지고 맑은 객담도 나오기 시작하였고 청진상 오른쪽 폐 등쪽에서 수포음이 들렸다. 객담배양 결과 사진과 같은 세균 집락이 관찰되었다. 적합한 항생제는?",
     "choices": [
@@ -48624,13 +48624,13 @@
     "image": "assets/images/microbiology_parasitology_03_3_22_9.jpg"
   },
   {
-    "id": "microbiology_parasitology_04_1_22_3",
+    "id": "microbiology_parasitology_04_1_23_2",
     "setId": "microbiology_parasitology_9baf9a0f",
     "sourceId": "바이러스1 22-3",
     "subject": "Microbiology & Parasitology",
-    "section": "04 바이러스 DNA·레트로·프리온",
+    "section": "rat",
     "sections": [
-      "04 바이러스 DNA·레트로·프리온"
+      "rat"
     ],
     "question": "사람면역결핍바이러스(HIV)에 감염된 65세 남자가 1개월 이상 지속된 설사와 체중감소로 병원을 찾았다. 혈액검사 결과 ml당 CD4+ T 세포의 수가 150/uL이었다. 임상단계는?",
     "choices": [
@@ -48651,9 +48651,9 @@
     "setId": "microbiology_parasitology_9baf9a0f",
     "sourceId": "바이러스1 22-7",
     "subject": "Microbiology & Parasitology",
-    "section": "04 바이러스 DNA·레트로·프리온",
+    "section": "rat",
     "sections": [
-      "04 바이러스 DNA·레트로·프리온"
+      "rat"
     ],
     "question": "23세 여성이 목이 붓고 침 삼키기 어려운 증상으로 이비인후과를 찾았다. 일주일 동안 열, 피로감과 인후통이 있었고 검진 결과 편도와 경부 림프선과 비장이 커져 있었다. 피검사에서 비정형 림프구가 발견되었고 이종항체검사에서 양성을 보였다. 이러한 증상은 원인 바이러스가 어떤 세포를 감염시켜 나타난 것인가? (증가된 세포)",
     "choices": [
@@ -48674,9 +48674,9 @@
     "setId": "microbiology_parasitology_9baf9a0f",
     "sourceId": "바이러스1 22-8",
     "subject": "Microbiology & Parasitology",
-    "section": "04 바이러스 DNA·레트로·프리온",
+    "section": "rat",
     "sections": [
-      "04 바이러스 DNA·레트로·프리온"
+      "rat"
     ],
     "question": "50세 남자가 만성백혈병으로 골수이식을 받은 후 회복 중, 3주 차에 갑자기 열이 나고 비장비대와 비정형림프구가 나타났다. 폐렴 증상이 발병하여 중환자실에 입원하였고 항생제를 투여받았다. 혈액검사에서 이종친화항체는 나타나지 않았다. 간염증상이 보였으나 간염바이러스는 발견되지 않았다. 조직 검체에서 핵내봉입체가 있는 세포가 발견되었다. 가장 가능성이 높은 원인 바이러스는?",
     "choices": [
@@ -48697,9 +48697,9 @@
     "setId": "microbiology_parasitology_9baf9a0f",
     "sourceId": "바이러스1 22-9",
     "subject": "Microbiology & Parasitology",
-    "section": "04 바이러스 DNA·레트로·프리온",
+    "section": "rat",
     "sections": [
-      "04 바이러스 DNA·레트로·프리온"
+      "rat"
     ],
     "question": "8개월 여아가 갑자기 고열이 나서 병원에 왔다. 의사 진찰에서 상기도 감염, 수막염, 뇌염의 징후는 없었다. 이틀 후 여아는 고열 발작을 해서 다시 병원에 왔는데, 병원에서 체온을 재보니 열은 떨어져 있었다. 이를 후 아이 전신에 발진이 나타났다. 원인 바이러스와 진단명은?",
     "choices": [
@@ -48720,9 +48720,9 @@
     "setId": "microbiology_parasitology_9baf9a0f",
     "sourceId": "바이러스2 22-1",
     "subject": "Microbiology & Parasitology",
-    "section": "05 바이러스 RNA·간염",
+    "section": "rat",
     "sections": [
-      "05 바이러스 RNA·간염"
+      "rat"
     ],
     "question": "Arbovirus가 아닌 것은?",
     "choices": [
@@ -48743,9 +48743,9 @@
     "setId": "microbiology_parasitology_9baf9a0f",
     "sourceId": "바이러스2 22-5",
     "subject": "Microbiology & Parasitology",
-    "section": "05 바이러스 RNA·간염",
+    "section": "rat",
     "sections": [
-      "05 바이러스 RNA·간염"
+      "rat"
     ],
     "question": "46세의 여자가 구토와 설사로 응급실로 왔다. 스키리조트로 여행을 다녀왔다고 한다. 리조트에 머문 다수의 다른 스키어들 역시 같은 증상으로 병원으로 갔다고 한다. 조사 결과 리조트 식당에서 공급된 조개류의 일부가 원인 병원체에 오염되어 있었다. 환자는 피로감과 두통, 근육통이 있지만 변에서 혈액이나 농은 관찰되지 않았고 이틀 후 호전되었다. 가장 가능성이 높은 병원체는?",
     "choices": [
@@ -48766,9 +48766,9 @@
     "setId": "microbiology_parasitology_9baf9a0f",
     "sourceId": "바이러스2 22-6",
     "subject": "Microbiology & Parasitology",
-    "section": "05 바이러스 RNA·간염",
+    "section": "rat",
     "sections": [
-      "05 바이러스 RNA·간염"
+      "rat"
     ],
     "question": "다음 중 +RNA genome으로부터 -RNA를 만들고 -RNA를 template로 하여 mRNA를 합성하는 바이러스가 아닌 것은?",
     "choices": [
@@ -48789,9 +48789,9 @@
     "setId": "microbiology_parasitology_9baf9a0f",
     "sourceId": "바이러스2 22-8",
     "subject": "Microbiology & Parasitology",
-    "section": "05 바이러스 RNA·간염",
+    "section": "rat",
     "sections": [
-      "05 바이러스 RNA·간염"
+      "rat"
     ],
     "question": "SARS-CoV-2의 viral protease를 억제하는 기작을 가진 약제는?",
     "choices": [
@@ -48812,9 +48812,9 @@
     "setId": "microbiology_parasitology_9baf9a0f",
     "sourceId": "바이러스2 22-9",
     "subject": "Microbiology & Parasitology",
-    "section": "05 바이러스 RNA·간염",
+    "section": "rat",
     "sections": [
-      "05 바이러스 RNA·간염"
+      "rat"
     ],
     "question": "노로바이러스와 로타바이러스의 공통점은?",
     "choices": [
@@ -48835,9 +48835,9 @@
     "setId": "microbiology_parasitology_9baf9a0f",
     "sourceId": "세균1 22-6",
     "subject": "Microbiology & Parasitology",
-    "section": "01 세균 그람양성",
+    "section": "rat",
     "sections": [
-      "01 세균 그람양성"
+      "rat"
     ],
     "question": "같이 점심으로 김밥을 먹은 고등학생 3명이 복통과 구토 증상으로 오후 4시경에 병원에 왔다. 김밥에서 그람양성막대균이 관찰되었다. 가장 가능성이 높은 원인균과 식중독이 일어난 기작이 맞게 짝지어진 것은?",
     "choices": [
@@ -48858,9 +48858,9 @@
     "setId": "microbiology_parasitology_9baf9a0f",
     "sourceId": "세균1 22-7",
     "subject": "Microbiology & Parasitology",
-    "section": "01 세균 그람양성",
+    "section": "rat",
     "sections": [
-      "01 세균 그람양성"
+      "rat"
     ],
     "question": "아프리카 지역 해외봉사 중인 의사에게 2세 아이가 심한 열로 왔다. 편도, 목젖 부위에 삼출을 막은 위막이 관찰되었고, 편도부위에서 검체를 분리하여 그람 염색한 결과 불규칙한 곤봉모양의 그람양성 막대균이 관찰되었다. 메틸렌블루 염색에서 세균 내부에 구슬모양의 과립이 관찰되었다. 원인이 되는 독소의 작용기전은?",
     "choices": [
@@ -48881,9 +48881,9 @@
     "setId": "microbiology_parasitology_9baf9a0f",
     "sourceId": "세균1 22-8",
     "subject": "Microbiology & Parasitology",
-    "section": "01 세균 그람양성",
+    "section": "rat",
     "sections": [
-      "01 세균 그람양성"
+      "rat"
     ],
     "question": "태어난 지 일주일 된 신생아가 수막염 증상으로 병원에 왔다. CSF 배양에서 나온 원인균은 그람양성 짧은 막대균이었다. 가장 가능성이 높은 원인균의 특성으로 맞지 않는 것은?",
     "choices": [
@@ -48904,9 +48904,9 @@
     "setId": "microbiology_parasitology_9baf9a0f",
     "sourceId": "세균1 22-9",
     "subject": "Microbiology & Parasitology",
-    "section": "01 세균 그람양성",
+    "section": "rat",
     "sections": [
-      "01 세균 그람양성"
+      "rat"
     ],
     "question": "일가족 세 명이 집 근처 식당에서 저녁을 함께 사 먹은 후, 5사람에게서 48시간이 지나지 않아 구역, 구토, 변비, 복통 등의 소화기 증상과 더불어 복시, 침흘림, 연하 곤란, 언어장애 및 호흡곤란 증상이 보였다. 대변검사에서 특이균이 검출되지 않았다. 이 질환의 원인은?",
     "choices": [
@@ -48927,9 +48927,9 @@
     "setId": "microbiology_parasitology_9baf9a0f",
     "sourceId": "세균1 22-10",
     "subject": "Microbiology & Parasitology",
-    "section": "01 세균 그람양성",
+    "section": "rat",
     "sections": [
-      "01 세균 그람양성"
+      "rat"
     ],
     "question": "25세 남자가 세균성 중이염으로 광범위 퀴놀론계 항생제를 복용하던 중 7일 뒤부터 경련성 복통과 함께 과다한 설사가 시작되었다. 항균제 복용을 중단한 후에는 증상이 호전되었다. 대장내시경상 섬유소 점액, 염증세포들이 장점막 위에 하얀 플라크를 형성하고 있었다. 설사 당시 대변에서 분리될 가능성이 높은 원인균의 특성으로 맞는 것은?",
     "choices": [
@@ -48950,9 +48950,9 @@
     "setId": "microbiology_parasitology_9baf9a0f",
     "sourceId": "세균2 22-1",
     "subject": "Microbiology & Parasitology",
-    "section": "02 세균 그람음성",
+    "section": "rat",
     "sections": [
-      "02 세균 그람음성"
+      "rat"
     ],
     "question": "유치원 아이들이 집단적으로 발열과 혈변성 설사로 병원에 왔다. 그 중 2명의 아이는 소변이 잘 나오지 않는 증상을 보였다. MacConkey Sorbitol 배양검사에서 무색투명한 집락이 관찰되었다. 원인균이 발현하는 독성인자가 아닌 것은?",
     "choices": [
@@ -48973,9 +48973,9 @@
     "setId": "microbiology_parasitology_9baf9a0f",
     "sourceId": "세균2 22-2",
     "subject": "Microbiology & Parasitology",
-    "section": "02 세균 그람음성",
+    "section": "rat",
     "sections": [
-      "02 세균 그람음성"
+      "rat"
     ],
     "question": "65세 여자가 입원 치료를 받고 있던 중 38℃ 이상의 고열, 전신 권태, 근육통, 기침 및 호흡 곤란을 호소하기 시작하였다. 가슴 X선 사진에서 뚜렷한 폐 침윤이 관찰되고, 객담 가검물 검사에서 사진과 같은 세균이 분리된다. 이 질환의 원인균은?",
     "choices": [
@@ -48996,9 +48996,9 @@
     "setId": "microbiology_parasitology_9baf9a0f",
     "sourceId": "세균2 22-3",
     "subject": "Microbiology & Parasitology",
-    "section": "02 세균 그람음성",
+    "section": "rat",
     "sections": [
-      "02 세균 그람음성"
+      "rat"
     ],
     "question": "57세 남성이 여름 휴가철이 지나 한적한 바다에 가서 바다 낚시를 하였다. 물에 들어가 그물로 낚시를 하였는데 뾰족한 돌들에 다리가 몇 군데 긁혔다. 며칠 후 온 몸이 아프고 열과 오한이 나더니 다리에 사진과 같은 수포가 생겼다. 다리의 수포액을 TCBS 배지에서 배양한 결과 녹색의 집락이 형성되었다. 원인균의 독성이 아닌 것은?",
     "choices": [
@@ -49019,9 +49019,9 @@
     "setId": "microbiology_parasitology_9baf9a0f",
     "sourceId": "세균2 22-4",
     "subject": "Microbiology & Parasitology",
-    "section": "02 세균 그람음성",
+    "section": "rat",
     "sections": [
-      "02 세균 그람음성"
+      "rat"
     ],
     "question": "50세의 남자가 복부통증과 구토를 호소하며 왔다. 위내시경검사에서 위염과 궤양이 관찰되어 생검조직으로 세균검사를 시행하였다. 요소분해효소검사에서 양성으로 나타났고, 미세호기 조건에서 5일 배양 후 작은 집락이 관찰되었다. 배양된 균의 현미경 검사에서 그람음성의 막대균이 관찰되었다. 이 병원체는?",
     "choices": [
@@ -49042,9 +49042,9 @@
     "setId": "microbiology_parasitology_9baf9a0f",
     "sourceId": "세균2 22-6",
     "subject": "Microbiology & Parasitology",
-    "section": "02 세균 그람음성",
+    "section": "rat",
     "sections": [
-      "02 세균 그람음성"
+      "rat"
     ],
     "question": "물설사로 시작한 장염이 이틀 후에는 심한 복통과 뒤무직으로 이어졌다. 원인균은 사람간 감염만 되는 운동성이 없는 그람음성막대균이었다. 가장 가능성이 높은 원인균은?",
     "choices": [
@@ -49065,9 +49065,9 @@
     "setId": "microbiology_parasitology_9baf9a0f",
     "sourceId": "세균2 22-7",
     "subject": "Microbiology & Parasitology",
-    "section": "02 세균 그람음성",
+    "section": "rat",
     "sections": [
-      "02 세균 그람음성"
+      "rat"
     ],
     "question": "5개월 여아가 고열과 구토로 왔다. 뇌척수액 검사에서 그람음성의 작은 다형태성 막대균이 발견되었으며 X인자와 V인자가 포함된 배지에서 매끈하고 불투명한 집락으로 배양되었다. 원인균의 중요한 독성인자인 협막을 바르게 말한 것은?",
     "choices": [
@@ -49088,9 +49088,9 @@
     "setId": "microbiology_parasitology_9baf9a0f",
     "sourceId": "세균2 22-8",
     "subject": "Microbiology & Parasitology",
-    "section": "02 세균 그람음성",
+    "section": "rat",
     "sections": [
-      "02 세균 그람음성"
+      "rat"
     ],
     "question": "25세 여자가 태국 여행을 다녀온 뒤 복통과 함께 쌀뜨물 같은 설사로 병원에 왔다. MacConkey 배지에서는 무색의 집락이 나타났고, TCBS 배지에서는 노란색 집락이 관찰되었다. 설사를 유발하는 원인균의 독소 기작은?",
     "choices": [
@@ -49111,9 +49111,9 @@
     "setId": "microbiology_parasitology_9baf9a0f",
     "sourceId": "세균2 22-9",
     "subject": "Microbiology & Parasitology",
-    "section": "02 세균 그람음성",
+    "section": "rat",
     "sections": [
-      "02 세균 그람음성"
+      "rat"
     ],
     "question": "64세 남자가 피곤하고 열과 오한이 있어 왔다. 지난 며칠간 기침이 심해지며 흰 가래도 나왔다고 했다. 체온 38.2℃였고 청진 결과 오른쪽 하부 흉부에 수포음(rale)이 들렸다. 특정 원인균이 의심되어 BCYE 배지에 배양하였고 소변항원검사 실시하여 양성이 나왔다. 이 원인균의 중요한 발병기전은?",
     "choices": [
@@ -49134,9 +49134,9 @@
     "setId": "microbiology_parasitology_9baf9a0f",
     "sourceId": "세균2 22-10",
     "subject": "Microbiology & Parasitology",
-    "section": "02 세균 그람음성",
+    "section": "rat",
     "sections": [
-      "02 세균 그람음성"
+      "rat"
     ],
     "question": "21세 여자가 3일 동안 배뇨에 대한 불편함과 증가된 배뇨 빈도수로 병원에 왔다. 발열, 복통, 요통, 질 분비물, 피부 발진 등은 없었다. 원심분리된 소변 시료의 침전물을 현미경으로 관찰한 결과 현미경 시야에 10~15개의 백혈구와 수많은 그람음성막대균이 검출되었다. 원인균은 MacConkey 배지에서 분홍색 콜로니를 띠었다. 원인균의 요로감염에 특이적으로 중요한 독성인자는?",
     "choices": [
@@ -49157,9 +49157,9 @@
     "setId": "microbiology_parasitology_9baf9a0f",
     "sourceId": "세균3 22-2",
     "subject": "Microbiology & Parasitology",
-    "section": "03 세균 기타세균",
+    "section": "rat",
     "sections": [
-      "03 세균 기타세균"
+      "rat"
     ],
     "question": "36세 남자가 열이 나고 점출혈이 있어 응급실에 왔다. 오늘 새벽부터 발열과 오한이 있었으며, 증상이 시작된 후 약 12시간 후인 저녁 무렵부터 양측하지와 등에 점출혈(petechia)이 나타났다고 하였다. 체온은 39℃였다. 혈액과 뇌척수액에서 백혈구 내부에 그람음성 쌍알균이 관찰되었다. 원인균의 중요한 병원성 인자로 혈청형을 결정하며 백신 물질이 되는 것은?",
     "choices": [
@@ -49180,9 +49180,9 @@
     "setId": "microbiology_parasitology_9baf9a0f",
     "sourceId": "세균3 22-3",
     "subject": "Microbiology & Parasitology",
-    "section": "03 세균 기타세균",
+    "section": "rat",
     "sections": [
-      "03 세균 기타세균"
+      "rat"
     ],
     "question": "15세 남자가 고열, 결막충혈, 두통, 목이 뻣뻣한 증상(수막염)으로 병원에 왔다. 환자는 이틀 전 휴가지 호수가에 물놀이를 하였는데 그 물은 쥐의 배설물에 오염된 물이었다. 의사가 원인균을 확인하기 위해 현재 할 수 있는 가장 적절한 검사법은?",
     "choices": [
@@ -49203,9 +49203,9 @@
     "setId": "microbiology_parasitology_9baf9a0f",
     "sourceId": "세균3 22-4",
     "subject": "Microbiology & Parasitology",
-    "section": "03 세균 기타세균",
+    "section": "rat",
     "sections": [
-      "03 세균 기타세균"
+      "rat"
     ],
     "question": "24세 남자가 4일 전부터 요도에서 화농성 분비물이 지속된다며 왔다. 분비물의 그람염색에서 그람음성 쌍알균이 관찰되었다. 특수배지에 배양한 원인균은 oxidase 양성이었다. 환자는 이전에 두 차례 이 균의 감염으로 치료한 적이 있었다. 과거 감염이 있었음에도 면역이 형성되지 않은 이유는?",
     "choices": [
@@ -49222,13 +49222,13 @@
     "image": ""
   },
   {
-    "id": "microbiology_parasitology_03_3_22_6",
+    "id": "microbiology_parasitology_03_3_23_6",
     "setId": "microbiology_parasitology_9baf9a0f",
     "sourceId": "세균3 22-6",
     "subject": "Microbiology & Parasitology",
-    "section": "03 세균 기타세균",
+    "section": "rat",
     "sections": [
-      "03 세균 기타세균"
+      "rat"
     ],
     "question": "49세 남자가 한달 넘게 지속되는 기침으로 병원에 왔다. 기침은 점차 심해졌고 객혈과 체중감소, 야간발한의 증상이 동반되었다. 객담검사에서 항산성 세균이 관찰되었다. 원인균과 관련된 발병기전은?",
     "choices": [
@@ -49249,9 +49249,9 @@
     "setId": "microbiology_parasitology_9baf9a0f",
     "sourceId": "세균3 22-7",
     "subject": "Microbiology & Parasitology",
-    "section": "03 세균 기타세균",
+    "section": "rat",
     "sections": [
-      "03 세균 기타세균"
+      "rat"
     ],
     "question": "30대 남자가 자신의 성기에 병변이 생겨서 왔다. 환자는 한 달 전에 성기 부위에 통증이 없는 궤양이 있었다고 하였다. 지금은 겨드랑이와 손바닥 등에 구진이 나타나고, 발열과 오한도 있다. 이 병의 진단을 위한 선별검사와 확진검사가 맞게 짝지어진 것은?",
     "choices": [
@@ -49268,13 +49268,13 @@
     "image": ""
   },
   {
-    "id": "microbiology_parasitology_03_3_22_10",
+    "id": "microbiology_parasitology_03_3_23_10",
     "setId": "microbiology_parasitology_9baf9a0f",
     "sourceId": "세균3 22-10",
     "subject": "Microbiology & Parasitology",
-    "section": "03 세균 기타세균",
+    "section": "rat",
     "sections": [
-      "03 세균 기타세균"
+      "rat"
     ],
     "question": "40세 남자가 고열, 각막충혈, 근육통 및 기침을 하면 피가 함께 나오는 객혈 때문에 병원에 왔다. 이러한 증상은 늦가을 장마 후 벼베기를 끝내고 2주 후에 나타났다. 원인균은 Fletcher 배지에서 배양 후 광학현미경으로는 관찰하지 못하였고 암시야 현미경으로 관찰이 가능하였다. 원인균의 발병기전은?",
     "choices": [
@@ -49295,9 +49295,9 @@
     "setId": "microbiology_parasitology_9baf9a0f",
     "sourceId": "바이러스1 22-1",
     "subject": "Microbiology & Parasitology",
-    "section": "04 바이러스 DNA·레트로·프리온",
+    "section": "rat",
     "sections": [
-      "04 바이러스 DNA·레트로·프리온"
+      "rat"
     ],
     "question": "HPV로 인한 자궁경부암의 진단에 대한 설명으로 맞는 것은?",
     "choices": [
@@ -49318,9 +49318,9 @@
     "setId": "microbiology_parasitology_9baf9a0f",
     "sourceId": "바이러스1 22-2",
     "subject": "Microbiology & Parasitology",
-    "section": "04 바이러스 DNA·레트로·프리온",
+    "section": "rat",
     "sections": [
-      "04 바이러스 DNA·레트로·프리온"
+      "rat"
     ],
     "question": "정상분만으로 태어난 신생아가 고열과 발작을 하였다. 피부에 작은 수포도 있었다. 아기의 엄마도 성기에 수포가 종종 생긴다고 하였다. 신생아 감염을 일으킨 가장 가능성이 높은 원인바이러스는?",
     "choices": [
@@ -49341,9 +49341,9 @@
     "setId": "microbiology_parasitology_9baf9a0f",
     "sourceId": "바이러스1 22-4",
     "subject": "Microbiology & Parasitology",
-    "section": "04 바이러스 DNA·레트로·프리온",
+    "section": "rat",
     "sections": [
-      "04 바이러스 DNA·레트로·프리온"
+      "rat"
     ],
     "question": "간이식으로 면역억제제를 복용 중인 55세 남자가 2일 전부터 시작된 피부병변으로 병원에 왔다. 병변은 남자의 왼쪽 허리 부위에 국한되어 수포성으로 발생하였으며, 해당 부위에 국소적인 통증을 호소하였다. 환자에 대한 설명으로 맞는 것은?",
     "choices": [
@@ -49360,13 +49360,13 @@
     "image": "assets/images/microbiology_parasitology_04_1_22_4.jpg"
   },
   {
-    "id": "microbiology_parasitology_04_1_22_5",
+    "id": "microbiology_parasitology_04_1_23_9",
     "setId": "microbiology_parasitology_9baf9a0f",
     "sourceId": "바이러스1 22-5",
     "subject": "Microbiology & Parasitology",
-    "section": "04 바이러스 DNA·레트로·프리온",
+    "section": "rat",
     "sections": [
-      "04 바이러스 DNA·레트로·프리온"
+      "rat"
     ],
     "question": "6세 여아가 열, 두통, 근육통 등과 같은 비특이 증상 후 1주일 정도 뒤에 마치 뺨을 맞은 것처럼 명확한 발진이 양쪽 뺨에 생기면서 전신으로 퍼지는 반구진 발진으로 병원에 왔다. 함께 방문한 엄마는 양쪽 손 관절에 심한 관절통과 부종을 호소하였다. 의사는 남자 아이와 엄마의 증상은 어떤 기작에 의한 것인가?",
     "choices": [
@@ -49387,9 +49387,9 @@
     "setId": "microbiology_parasitology_9baf9a0f",
     "sourceId": "바이러스1 22-6",
     "subject": "Microbiology & Parasitology",
-    "section": "04 바이러스 DNA·레트로·프리온",
+    "section": "rat",
     "sections": [
-      "04 바이러스 DNA·레트로·프리온"
+      "rat"
     ],
     "question": "초등학교 1학년 남아가 눈이 충혈되고 눈곱이 많이 끼고, 고열과 목이 아픈 증상으로 병원에 왔다. 결과는 음성이었다(GAS test). 의사가 같은 학교 학생 여러 명이 비슷한 증상으로 병원에 왔다고 하며 일주일 안에 좋아질 것이라고 말했다. 가장 가능성 있는 병원체는?",
     "choices": [
@@ -49410,9 +49410,9 @@
     "setId": "microbiology_parasitology_9baf9a0f",
     "sourceId": "바이러스1 22-10",
     "subject": "Microbiology & Parasitology",
-    "section": "04 바이러스 DNA·레트로·프리온",
+    "section": "rat",
     "sections": [
-      "04 바이러스 DNA·레트로·프리온"
+      "rat"
     ],
     "question": "운동을 하지 않던 20대 여성이 산행을 다녀오고 아래와 같은 물집이 입 주변에 생겼다. 이 원인바이러스와 바이러스가 잠복하였을 기관은?",
     "choices": [
@@ -49433,9 +49433,9 @@
     "setId": "microbiology_parasitology_9baf9a0f",
     "sourceId": "세균2 22-5",
     "subject": "Microbiology & Parasitology",
-    "section": "02 세균 그람음성",
+    "section": "rat",
     "sections": [
-      "02 세균 그람음성"
+      "rat"
     ],
     "question": "유치원 아이들이 집단적으로 발열과 혈변성 설사로 병원에 왔다. 그 중 2명의 아이는 소변이 잘 나오지 않는 증상을 보였다. MacConkey Sorbitol 배양검사에서 무색투명한 집락이 관찰되었다. 가장 가능성이 높은 원인균은?",
     "choices": [
@@ -49456,9 +49456,9 @@
     "setId": "microbiology_parasitology_9baf9a0f",
     "sourceId": "바이러스2 22-2",
     "subject": "Microbiology & Parasitology",
-    "section": "05 바이러스 RNA·간염",
+    "section": "rat",
     "sections": [
-      "05 바이러스 RNA·간염"
+      "rat"
     ],
     "question": "7월 말경 65세 남자가 갑작스런 고열로 왔다. 전신 권태, 인후통으로 시작하여 욕지기, 구토가 있다가 목 근육의 강직이 왔으며 의식이 혼미하여졌다. 최근 외국은 다녀온 적이 없다고 하였다. 원인 병원체는 외피가 있는 RNA 바이러스였다. 가장 가능성이 높은 원인바이러스의 매개체는?",
     "choices": [
@@ -49479,9 +49479,9 @@
     "setId": "microbiology_parasitology_9baf9a0f",
     "sourceId": "바이러스2 22-3",
     "subject": "Microbiology & Parasitology",
-    "section": "05 바이러스 RNA·간염",
+    "section": "rat",
     "sections": [
-      "05 바이러스 RNA·간염"
+      "rat"
     ],
     "question": "다음 중 SARS-CoV-1에 대한 설명으로 맞지 않는 것은?",
     "choices": [
@@ -49502,9 +49502,9 @@
     "setId": "microbiology_parasitology_9baf9a0f",
     "sourceId": "바이러스2 22-4",
     "subject": "Microbiology & Parasitology",
-    "section": "05 바이러스 RNA·간염",
+    "section": "rat",
     "sections": [
-      "05 바이러스 RNA·간염"
+      "rat"
     ],
     "question": "어린이집에 다니는 3세 여아가 열이 나고 칭얼거리고 음식을 먹지 않았다. 입안과 손과 발에도 비슷한 수포를 관찰할 수 있었다. 다음 중 적절한 조치는?",
     "choices": [
@@ -49525,9 +49525,9 @@
     "setId": "microbiology_parasitology_9baf9a0f",
     "sourceId": "바이러스2 22-7",
     "subject": "Microbiology & Parasitology",
-    "section": "05 바이러스 RNA·간염",
+    "section": "rat",
     "sections": [
-      "05 바이러스 RNA·간염"
+      "rat"
     ],
     "question": "경기도 포천에 거주하는 55세 남자 농부가 늦가을 추수 후에 3일 전부터 시작된 사지의 근육통으로 병원에 왔다. 당시 체온 38.3℃, 혈압 110/90. 입원 후 오한, 전신 쇠약감, 두통, 안구통 등의 증상을 보인 후에 결막출혈, 안면홍조, 겨드랑이에 점상출혈 등이 관찰되었다. 설치류 유래인 원인바이러스는?",
     "choices": [
@@ -49548,9 +49548,9 @@
     "setId": "microbiology_parasitology_9baf9a0f",
     "sourceId": "바이러스2 22-10",
     "subject": "Microbiology & Parasitology",
-    "section": "05 바이러스 RNA·간염",
+    "section": "rat",
     "sections": [
-      "05 바이러스 RNA·간염"
+      "rat"
     ],
     "question": "겨울에 영아와 소아에서 세기관지염, 폐렴을 일으킬 수 있으며, 위험군 영유아를 대상으로 monoclonal antibody로 예방이 가능한 바이러스는?",
     "choices": [
@@ -49571,9 +49571,9 @@
     "setId": "microbiology_parasitology_9baf9a0f",
     "sourceId": "세균1 21-1",
     "subject": "Microbiology & Parasitology",
-    "section": "01 세균 그람양성",
+    "section": "rat",
     "sections": [
-      "01 세균 그람양성"
+      "rat"
     ],
     "question": "68세 남자가 수술 부위에서 화농성 피부감염이 발견되어 배농치료 및 항균제 치료를 실시하였다. 고름을 배양하였더니 혈액우무배지에서 베타용혈이 나타나고 Mannitol salt agar 배지에서 콜로니 부위가 노랗게 변하였다. 이 원인 균의 감염 확산에 기여하는 enzyme이 아닌 것은?",
     "choices": [
@@ -49594,9 +49594,9 @@
     "setId": "microbiology_parasitology_9baf9a0f",
     "sourceId": "세균1 21-2",
     "subject": "Microbiology & Parasitology",
-    "section": "01 세균 그람양성",
+    "section": "rat",
     "sections": [
-      "01 세균 그람양성"
+      "rat"
     ],
     "question": "10세 남아가 춥고 목이 아프다고 병원에 왔다. 체온은 38도, 인두와 편도는 사진과 같았고(A) 목의 림프절은 약간 부어 압통이 있었다. 그람염색은 사진과 같았다(B, 사슬모양 그람양성알균). 원인균의 특성으로 맞지 않는 것은?",
     "choices": [
@@ -49617,9 +49617,9 @@
     "setId": "microbiology_parasitology_9baf9a0f",
     "sourceId": "세균1 21-3",
     "subject": "Microbiology & Parasitology",
-    "section": "01 세균 그람양성",
+    "section": "rat",
     "sections": [
-      "01 세균 그람양성"
+      "rat"
     ],
     "question": "Bioterrorism으로 사용되었던 탄저균의 특성에 대한 설명으로 맞는 것은?",
     "choices": [
@@ -49640,9 +49640,9 @@
     "setId": "microbiology_parasitology_9baf9a0f",
     "sourceId": "세균1 21-4",
     "subject": "Microbiology & Parasitology",
-    "section": "01 세균 그람양성",
+    "section": "rat",
     "sections": [
-      "01 세균 그람양성"
+      "rat"
     ],
     "question": "5개월 된 영아가 모유수유를 잘 하지 못하고 변비가 있으며 울음소리가 약해져서 왔다. 평소 이유식 대신 꿀을 자주 먹었다고 한다. 신체진찰에서 머리를 가누지 못할 정도로 축 늘어져 있었다. 원인균에 대한 설명으로 맞지 않는 것은?",
     "choices": [
@@ -49663,9 +49663,9 @@
     "setId": "microbiology_parasitology_9baf9a0f",
     "sourceId": "세균1 21-5",
     "subject": "Microbiology & Parasitology",
-    "section": "01 세균 그람양성",
+    "section": "rat",
     "sections": [
-      "01 세균 그람양성"
+      "rat"
     ],
     "question": "76세 남자가 갑자기 몸이 춥고, 고열, 혈액이 있는 가래기침 증상으로 병원에 왔다. 가슴 X선에서 아래 폐의 짙은 경화가 관찰되었다. 혈액우무배지에서 배양하니 거무스름한 색을 띠는 점액 집락을 형성하였고 담즙에 용해되었다. 이 균을 그람 염색한 결과와 주 독성인자를 맞게 짝지은 것은?",
     "choices": [
@@ -49686,9 +49686,9 @@
     "setId": "microbiology_parasitology_9baf9a0f",
     "sourceId": "세균2 21-1",
     "subject": "Microbiology & Parasitology",
-    "section": "02 세균 그람음성",
+    "section": "rat",
     "sections": [
-      "02 세균 그람음성"
+      "rat"
     ],
     "question": "다음의 E. coli 중에서 장 상피세포 부착 후 microvilli를 파괴하여 소실하는 attachment/effacement (A/E) histopathology를 보이는 균은?",
     "choices": [
@@ -49709,9 +49709,9 @@
     "setId": "microbiology_parasitology_9baf9a0f",
     "sourceId": "세균2 21-2",
     "subject": "Microbiology & Parasitology",
-    "section": "02 세균 그람음성",
+    "section": "rat",
     "sections": [
-      "02 세균 그람음성"
+      "rat"
     ],
     "question": "Klebsiella pneumoniae와 Haemophilus influenzae type B 균의 공통적인 주 독성인자는?",
     "choices": [
@@ -49732,9 +49732,9 @@
     "setId": "microbiology_parasitology_9baf9a0f",
     "sourceId": "세균2 21-3",
     "subject": "Microbiology & Parasitology",
-    "section": "02 세균 그람음성",
+    "section": "rat",
     "sections": [
-      "02 세균 그람음성"
+      "rat"
     ],
     "question": "38세 화상환자의 상처부위에 농이 생겼다. 농을 배양한 결과 방향족 냄새가 나는 청록 및 녹황색 균 집락을 확인할 수 있었다. 원인균의 특성에 해당되지 않는 것은?",
     "choices": [
@@ -49755,9 +49755,9 @@
     "setId": "microbiology_parasitology_9baf9a0f",
     "sourceId": "세균2 21-4",
     "subject": "Microbiology & Parasitology",
-    "section": "02 세균 그람음성",
+    "section": "rat",
     "sections": [
-      "02 세균 그람음성"
+      "rat"
     ],
     "question": "21세 여자가 이틀 전부터 어제까지 발열, 두통 및 근육통이 있다가 오늘부터 복통과 함께 설사를 한다며 왔다. 4일 전까지 양계장에서 계란 수거 아르바이트를 맨손으로 하였다. 대변검체에서 얻은 원인균은 CO₂가 강화된 microaerophilic 조건에서 배양되고, 그람음성의 작고 얇은 만곡형 막대균으로 관찰되었다. catalase 양성, urease 음성. 후유증으로 길랑-바레증후군이 나타났다. 원인균은?",
     "choices": [
@@ -49778,9 +49778,9 @@
     "setId": "microbiology_parasitology_9baf9a0f",
     "sourceId": "세균2 21-5",
     "subject": "Microbiology & Parasitology",
-    "section": "02 세균 그람음성",
+    "section": "rat",
     "sections": [
-      "02 세균 그람음성"
+      "rat"
     ],
     "question": "61세 여자가 설사, 구토, 두통, 발열이 생겨 응급실로 왔다. 같은 등산 동호회 10여명도 같은 증상을 호소하였다. 2일 전 산행에서 함께 먹은 육전과 떡으로 인한 식중독이었다. 대변배양검사에서 맥콩키배지에서 무색 콜로니가 다수 발견되었고 운동성이 있고 oxidase 음성이었다. 가장 가능성 있는 원인균은?",
     "choices": [
@@ -49801,9 +49801,9 @@
     "setId": "microbiology_parasitology_9baf9a0f",
     "sourceId": "세균2 21-6",
     "subject": "Microbiology & Parasitology",
-    "section": "02 세균 그람음성",
+    "section": "rat",
     "sections": [
-      "02 세균 그람음성"
+      "rat"
     ],
     "question": "29세 여성이 소변이 자주 마렵고 소변 볼 때 통증으로 병원에 왔다. 원인 균은 MacConkey agar에서 핑크색 콜로니를 띠었다. 가장 가능성이 높은 균의 특성으로 맞지 않는 것은?",
     "choices": [
@@ -49824,9 +49824,9 @@
     "setId": "microbiology_parasitology_9baf9a0f",
     "sourceId": "세균2 21-7",
     "subject": "Microbiology & Parasitology",
-    "section": "02 세균 그람음성",
+    "section": "rat",
     "sections": [
-      "02 세균 그람음성"
+      "rat"
     ],
     "question": "57세 남성이 여름 휴가철이 지나 한적한 바다에 가서 바다 낚시를 하였다. 물에 들어가 그물로 낚시를 하였는데 뾰족한 돌들에 다리가 몇 군데 긁혔다. 며칠 후 온 몸이 아프고 열과 오한이 나더니 다리에 사진과 같은 수포가 생겼다. 환자는 만성 간 질환을 갖고 있었다. 원인균의 특성이 아닌 것은?",
     "choices": [
@@ -49847,9 +49847,9 @@
     "setId": "microbiology_parasitology_9baf9a0f",
     "sourceId": "세균2 21-8",
     "subject": "Microbiology & Parasitology",
-    "section": "02 세균 그람음성",
+    "section": "rat",
     "sections": [
-      "02 세균 그람음성"
+      "rat"
     ],
     "question": "생후 6개월 된 여아가 고열과 함께 전신성 경련이 생겨 응급실에 입원하였다. 의사는 뇌수막염으로 의심하여 뇌척수액을 채취해 세균배양검사를 하였다. 원인균의 성장에는 X 인자(hemin)와 V 인자(NAD)가 필요하였다. 원인균에 대한 설명으로 맞는 것은?",
     "choices": [
@@ -49870,9 +49870,9 @@
     "setId": "microbiology_parasitology_9baf9a0f",
     "sourceId": "세균2 21-9",
     "subject": "Microbiology & Parasitology",
-    "section": "02 세균 그람음성",
+    "section": "rat",
     "sections": [
-      "02 세균 그람음성"
+      "rat"
     ],
     "question": "콜레라는 주로 오염된 물을 통해 유행이 일어나고 증상은 쌀뜨물 같은 수양성 설사이다. Vibrio cholerae의 lysogenic strain이 생성하는 독소가 이 증상을 유발한다. 다음 중 cholera toxin과 같은 독성기작을 가지는 독소는?",
     "choices": [
@@ -49893,9 +49893,9 @@
     "setId": "microbiology_parasitology_9baf9a0f",
     "sourceId": "세균2 21-10",
     "subject": "Microbiology & Parasitology",
-    "section": "02 세균 그람음성",
+    "section": "rat",
     "sections": [
-      "02 세균 그람음성"
+      "rat"
     ],
     "question": "물탱크를 청소하는 52세 남성이 열이 나고, 두통, 몸살, 마른 기침으로 병원에 왔다. X-ray 폐사진에서 폐렴으로 확인되었다. 원인 균은 sheep blood agar 배지에서는 자라지 않고 시스테인과 철분이 첨가된 BCYE 배지에서 자랐다. 원인 균의 특성으로 맞는 것은?",
     "choices": [
@@ -49916,9 +49916,9 @@
     "setId": "microbiology_parasitology_9baf9a0f",
     "sourceId": "세균3 21-1",
     "subject": "Microbiology & Parasitology",
-    "section": "03 세균 기타세균",
+    "section": "rat",
     "sections": [
-      "03 세균 기타세균"
+      "rat"
     ],
     "question": "30대 남자가 자신의 성기에 병변이 생겨서 왔다. 한 달 전 성기부위에 통증이 없는 궤양이 있었고 지금은 겨드랑이와 손바닥 등에 구진이 나타나고 발열과 오한이 있었다. 병변부위 검체에서 뚜렷하게 그람염색되는 균은 관찰되지 않았고, 일반 배지에서도 균이 자라지 않았다. 가장 가능성이 높은 원인균은?",
     "choices": [
@@ -49939,9 +49939,9 @@
     "setId": "microbiology_parasitology_9baf9a0f",
     "sourceId": "세균3 21-2",
     "subject": "Microbiology & Parasitology",
-    "section": "03 세균 기타세균",
+    "section": "rat",
     "sections": [
-      "03 세균 기타세균"
+      "rat"
     ],
     "question": "위 병의 진단을 위해 의사가 수행했을 첫번째 진단법은?",
     "choices": [
@@ -49962,9 +49962,9 @@
     "setId": "microbiology_parasitology_9baf9a0f",
     "sourceId": "세균3 21-3",
     "subject": "Microbiology & Parasitology",
-    "section": "03 세균 기타세균",
+    "section": "rat",
     "sections": [
-      "03 세균 기타세균"
+      "rat"
     ],
     "question": "53세 여자가 강원도 산간지방에 캠핑을 다녀온 후 5일째에 미열과 감기증상이 있었다고 한다. 오른 팔에 10cm의 과녁 모양의 유주성 홍반(erythema migrans)이 관찰되었다. 혈액배양 결과는 음성, 혈청검사는 국립보건원에 의뢰하였다. 이 균의 감염경로는?",
     "choices": [
@@ -49985,9 +49985,9 @@
     "setId": "microbiology_parasitology_9baf9a0f",
     "sourceId": "세균3 21-4",
     "subject": "Microbiology & Parasitology",
-    "section": "03 세균 기타세균",
+    "section": "rat",
     "sections": [
-      "03 세균 기타세균"
+      "rat"
     ],
     "question": "29세 남자가 소변 볼 때에 화끈거리고 농액성 분비물이 나온다고 병원에 왔다. 분비물을 도말염색하니 커피콩 모양의 그람음성 쌍알균이 관찰되었다. 원인균에 대한 설명으로 맞는 것은?",
     "choices": [
@@ -50008,9 +50008,9 @@
     "setId": "microbiology_parasitology_9baf9a0f",
     "sourceId": "세균3 21-5",
     "subject": "Microbiology & Parasitology",
-    "section": "03 세균 기타세균",
+    "section": "rat",
     "sections": [
-      "03 세균 기타세균"
+      "rat"
     ],
     "question": "22세 여자가 몇 달 동안 피로, 기침, 식욕부진, 체중감소가 있어 왔다. 기침 시 피가 섞여 나왔고 밤에 식은 땀이 났다. 가슴 X선에서 양쪽 폐 상엽에 하얀 구름모양의 작은 병터가 관찰되었다. 가래 검체로 carbol fuchsin, acid alcohol, methylene blue를 이용한 염색법(항산성 염색)으로 진분홍색의 막대균이 발견되었다. 원인균이 폐 손상을 일으키는 기전은?",
     "choices": [
@@ -50031,9 +50031,9 @@
     "setId": "microbiology_parasitology_9baf9a0f",
     "sourceId": "세균3 21-6",
     "subject": "Microbiology & Parasitology",
-    "section": "03 세균 기타세균",
+    "section": "rat",
     "sections": [
-      "03 세균 기타세균"
+      "rat"
     ],
     "question": "2세 남아가 고열, 구토, 뻣뻣한 목으로 응급실에 왔다. 뇌척수액의 그람염색에서 그람음성균이 쌍알균으로 관찰되었다. 이 세균이 다형핵백혈구로부터 탐식되는 것을 보호하는 역할을 하는 이 균의 중요한 병원성 인자는?",
     "choices": [
@@ -50054,9 +50054,9 @@
     "setId": "microbiology_parasitology_9baf9a0f",
     "sourceId": "세균3 21-7",
     "subject": "Microbiology & Parasitology",
-    "section": "03 세균 기타세균",
+    "section": "rat",
     "sections": [
-      "03 세균 기타세균"
+      "rat"
     ],
     "question": "다음 중 세포내 절대 기생세균이 아닌 것은?",
     "choices": [
@@ -50077,9 +50077,9 @@
     "setId": "microbiology_parasitology_9baf9a0f",
     "sourceId": "세균3 21-8",
     "subject": "Microbiology & Parasitology",
-    "section": "03 세균 기타세균",
+    "section": "rat",
     "sections": [
-      "03 세균 기타세균"
+      "rat"
     ],
     "question": "40대 남자가 고열, 각막충혈, 근육통 및 기침을 하면 피가 함께 나오는 객혈로 병원에 왔다. 이러한 증상은 늦가을 장마 후 벼베기를 끝내고 2주 후에 나타났다. 현미경집법을 이용한 혈청학적 검사를 통해 진단을 내리고 원인균은 fletcher 배지에서 배양할 수 있었다. 이 질환의 원인균의 감염경로는?",
     "choices": [
@@ -50100,9 +50100,9 @@
     "setId": "microbiology_parasitology_9baf9a0f",
     "sourceId": "세균3 21-9",
     "subject": "Microbiology & Parasitology",
-    "section": "03 세균 기타세균",
+    "section": "rat",
     "sections": [
-      "03 세균 기타세균"
+      "rat"
     ],
     "question": "28세 여자가 소변 볼 때 불편하고 아랫배가 아프고 질 분비물이 나와 병원에 왔다. 자궁경부를 생리식염수로 적신 면봉으로 도말 후 그람염색하고 초콜릿한천배지와 McCoy 세포에서 배양하였다. 그람염색에서 균은 발견되지 않았고 초콜릿한천배지에서도 배양되지 않았으나 McCoy 세포에서 72시간 배양 후 요오드 염색으로 세포내 봉입체를 확인하였다. 원인균의 특성으로 맞지 않는 것은?",
     "choices": [
@@ -50123,9 +50123,9 @@
     "setId": "microbiology_parasitology_9baf9a0f",
     "sourceId": "세균3 21-10",
     "subject": "Microbiology & Parasitology",
-    "section": "03 세균 기타세균",
+    "section": "rat",
     "sections": [
-      "03 세균 기타세균"
+      "rat"
     ],
     "question": "20대 여성이 가을 산행을 하고 집에 돌아온 지 약 2주 후 가슴과 배에 발진이 생겼고 곧 팔다리로 번졌다. 열이 39도까지 올랐으며 오한, 두통 증상과 함께 기침, 구토, 복통의 증상이 나타났다. 환자의 겨드랑이 사이로 괴사성 검은 가피를 볼 수 있었다. 원인균의 발병기전은?",
     "choices": [
@@ -50146,9 +50146,9 @@
     "setId": "microbiology_parasitology_9baf9a0f",
     "sourceId": "바이러스1 21-1",
     "subject": "Microbiology & Parasitology",
-    "section": "04 바이러스 DNA·레트로·프리온",
+    "section": "rat",
     "sections": [
-      "04 바이러스 DNA·레트로·프리온"
+      "rat"
     ],
     "question": "8세 남아가 수영학원에서 주최하는 여름캠프에 갔다 온 후 열, 인후통, 두통, 결막염 증상으로 병원에 왔다. 같이 캠프에 참가한 다른 아이들도 유사한 증상을 보였다. 증상은 약 5~7일 정도 지속되고 호전되었다. 원인체는 ds DNA genome을 가지는 바이러스였다. 이 바이러스의 특징이 아닌 것은?",
     "choices": [
@@ -50169,9 +50169,9 @@
     "setId": "microbiology_parasitology_9baf9a0f",
     "sourceId": "바이러스1 21-2",
     "subject": "Microbiology & Parasitology",
-    "section": "04 바이러스 DNA·레트로·프리온",
+    "section": "rat",
     "sections": [
-      "04 바이러스 DNA·레트로·프리온"
+      "rat"
     ],
     "question": "6세 여아가 열, 두통, 근육통 등 비특이 증상 후 1주일 정도 뒤에 마치 뺨을 맞은 것처럼 명확한 발진이 양쪽 뺨에 생기면서 전신으로 퍼지는 반구진 발진으로 병원에 왔다. 함께 방문한 엄마는 양쪽 손 관절에 심한 관절통과 부종을 호소하였다. 의사는 남자 아이와 엄마의 증상은 어떤 기작에 의한 것인가?",
     "choices": [
@@ -50192,9 +50192,9 @@
     "setId": "microbiology_parasitology_9baf9a0f",
     "sourceId": "바이러스1 21-3",
     "subject": "Microbiology & Parasitology",
-    "section": "04 바이러스 DNA·레트로·프리온",
+    "section": "rat",
     "sections": [
-      "04 바이러스 DNA·레트로·프리온"
+      "rat"
     ],
     "question": "수두와 대상포진에 대한 설명으로 맞는 것은?",
     "choices": [
@@ -50215,9 +50215,9 @@
     "setId": "microbiology_parasitology_9baf9a0f",
     "sourceId": "바이러스1 21-4",
     "subject": "Microbiology & Parasitology",
-    "section": "04 바이러스 DNA·레트로·프리온",
+    "section": "rat",
     "sections": [
-      "04 바이러스 DNA·레트로·프리온"
+      "rat"
     ],
     "question": "2022년 monkey pox의 outbreak가 여러 나라에서 일어났다. Monkeypox를 일으키는 바이러스의 특징으로 맞지 않는 것은?",
     "choices": [
@@ -50238,9 +50238,9 @@
     "setId": "microbiology_parasitology_9baf9a0f",
     "sourceId": "바이러스1 21-5",
     "subject": "Microbiology & Parasitology",
-    "section": "04 바이러스 DNA·레트로·프리온",
+    "section": "rat",
     "sections": [
-      "04 바이러스 DNA·레트로·프리온"
+      "rat"
     ],
     "question": "36세 여성이 자궁경부암으로 진단되었다. 옳지 않은 것은?",
     "choices": [
@@ -50257,13 +50257,13 @@
     "image": ""
   },
   {
-    "id": "microbiology_parasitology_04_1_21_6",
+    "id": "microbiology_parasitology_04_1_23_10",
     "setId": "microbiology_parasitology_9baf9a0f",
     "sourceId": "바이러스1 21-6",
     "subject": "Microbiology & Parasitology",
-    "section": "04 바이러스 DNA·레트로·프리온",
+    "section": "rat",
     "sections": [
-      "04 바이러스 DNA·레트로·프리온"
+      "rat"
     ],
     "question": "운동을 하지 않던 20대 여성이 산행을 다녀오고 아래와 같은 물집이 입 주변에 생겼다. 이 원인바이러스와 바이러스가 잠복하였을 기관은?",
     "choices": [
@@ -50277,16 +50277,16 @@
     "examSource": "바이러스1 21-6",
     "examRank": 210,
     "explanation": "단서: 입 주변 물집(입술헤르페스) = HSV-1, 삼차신경절 잠복. 판단: 입술헤르페스는 HSV-1이며 삼차신경절(trigeminal ganglia)에서 잠복한다. 암기: Oral HSV=HSV-1, trigeminal ganglia. Genital HSV=HSV-2, sacral ganglia. VZV=dorsal root/cranial nerve ganglia. 출처: 바이러스각론1 · 21번",
-    "image": "assets/images/microbiology_parasitology_04_1_21_6.jpg"
+    "image": "assets/images/microbiology_parasitology_04_1_23_10.jpg"
   },
   {
     "id": "microbiology_parasitology_04_1_21_7",
     "setId": "microbiology_parasitology_9baf9a0f",
     "sourceId": "바이러스1 21-7",
     "subject": "Microbiology & Parasitology",
-    "section": "04 바이러스 DNA·레트로·프리온",
+    "section": "rat",
     "sections": [
-      "04 바이러스 DNA·레트로·프리온"
+      "rat"
     ],
     "question": "아래의 그래프를 보고 이 HIV 감염자에 대한 설명으로 가장 적절한 것을 고르시오. (CD4 T세포 수와 HIV RNA 농도 곡선)",
     "choices": [
@@ -50307,9 +50307,9 @@
     "setId": "microbiology_parasitology_9baf9a0f",
     "sourceId": "바이러스1 21-8",
     "subject": "Microbiology & Parasitology",
-    "section": "04 바이러스 DNA·레트로·프리온",
+    "section": "rat",
     "sections": [
-      "04 바이러스 DNA·레트로·프리온"
+      "rat"
     ],
     "question": "같은 alpha-Herpesviridae에 속하는 HSV와 VZV가 다른 점은?",
     "choices": [
@@ -50330,9 +50330,9 @@
     "setId": "microbiology_parasitology_9baf9a0f",
     "sourceId": "바이러스1 21-9",
     "subject": "Microbiology & Parasitology",
-    "section": "04 바이러스 DNA·레트로·프리온",
+    "section": "rat",
     "sections": [
-      "04 바이러스 DNA·레트로·프리온"
+      "rat"
     ],
     "question": "54세 에이즈 환자가 기억력 감소와 왼손 마비 증상으로 치료 중 보행장애가 발생하고 갑자기 혼수 상태가 되었다. 뇌 MRI를 통해 양측 대뇌 백질에 병변을 확인하였다. 원인체는 dsDNA genome을 가지는 바이러스였다. 이 바이러스 특징이 아닌 것은?",
     "choices": [
@@ -50353,9 +50353,9 @@
     "setId": "microbiology_parasitology_9baf9a0f",
     "sourceId": "바이러스1 21-10",
     "subject": "Microbiology & Parasitology",
-    "section": "04 바이러스 DNA·레트로·프리온",
+    "section": "rat",
     "sections": [
-      "04 바이러스 DNA·레트로·프리온"
+      "rat"
     ],
     "question": "떨림, 간헐적 근육경련 및 운동 조정상실이 있는 65세 여자환자가 급속한 진행성 치매로 병원에 왔다. 뇌척수액과 혈청에서 세균 및 바이러스 감염 검사 결과는 음성이었다. 원인체에 대한 설명으로 올바른 것은?",
     "choices": [
@@ -50376,9 +50376,9 @@
     "setId": "microbiology_parasitology_9baf9a0f",
     "sourceId": "바이러스3 21-1",
     "subject": "Microbiology & Parasitology",
-    "section": "05 바이러스 RNA·간염",
+    "section": "rat",
     "sections": [
-      "05 바이러스 RNA·간염"
+      "rat"
     ],
     "question": "다음 중 influenza virus의 발병기전의 설명으로 맞는 것은?",
     "choices": [
@@ -50399,9 +50399,9 @@
     "setId": "microbiology_parasitology_9baf9a0f",
     "sourceId": "바이러스3 21-2",
     "subject": "Microbiology & Parasitology",
-    "section": "05 바이러스 RNA·간염",
+    "section": "rat",
     "sections": [
-      "05 바이러스 RNA·간염"
+      "rat"
     ],
     "question": "겨울에 발생하는 영아와 소아의 세기관지염, 폐렴에서 가장 중요한 병원체의 특징으로 맞지 않는 것은?",
     "choices": [
@@ -50422,9 +50422,9 @@
     "setId": "microbiology_parasitology_9baf9a0f",
     "sourceId": "바이러스3 21-3",
     "subject": "Microbiology & Parasitology",
-    "section": "05 바이러스 RNA·간염",
+    "section": "rat",
     "sections": [
-      "05 바이러스 RNA·간염"
+      "rat"
     ],
     "question": "3세 남아가 열, 코막힘, 목아픔, 컹컹거리는 기침과 목이 쉬어서 병원에 왔다. 청진에서 가슴에 쌕쌕거리는 소리를 확인할 수 있었다. 가장 가능성이 높은 바이러스는?",
     "choices": [
@@ -50445,9 +50445,9 @@
     "setId": "microbiology_parasitology_9baf9a0f",
     "sourceId": "바이러스3 21-4",
     "subject": "Microbiology & Parasitology",
-    "section": "05 바이러스 RNA·간염",
+    "section": "rat",
     "sections": [
-      "05 바이러스 RNA·간염"
+      "rat"
     ],
     "question": "경련성 발작을 일으키는 환자가 입원하였다. 특히 물을 보면 무서워하는 특징을 보였다. 일주일 후 환자가 사망하였고 brain biopsy에서 세포질의 봉입체를 확인할 수 있었다. 원인 바이러스의 타겟 조직으로 전달 경로는?",
     "choices": [
@@ -50468,9 +50468,9 @@
     "setId": "microbiology_parasitology_9baf9a0f",
     "sourceId": "바이러스3 21-5",
     "subject": "Microbiology & Parasitology",
-    "section": "05 바이러스 RNA·간염",
+    "section": "rat",
     "sections": [
-      "05 바이러스 RNA·간염"
+      "rat"
     ],
     "question": "45세 남자의 정기건강검진에서 얻은 혈청검사 결과는 HBsAg(+), Anti-HBs(-), HBeAg(+), total anti-HBc(-)이었다. 이 남자의 현재 상태는?",
     "choices": [
@@ -50491,9 +50491,9 @@
     "setId": "microbiology_parasitology_9baf9a0f",
     "sourceId": "바이러스3 21-6",
     "subject": "Microbiology & Parasitology",
-    "section": "05 바이러스 RNA·간염",
+    "section": "rat",
     "sections": [
-      "05 바이러스 RNA·간염"
+      "rat"
     ],
     "question": "20대 군인이 갑작스런 고열, 오한, 두통으로 왔다. 안면홍조, 결막충혈, 출혈반점 등이 관찰되다가 신부전 증상도 나타냈다. 3주 전 군인 봉사활동으로 추수하는 것을 도왔다고 한다. 진드기에 물린 흔적은 없었다. 원인 바이러스의 감염경로는?",
     "choices": [
@@ -50510,13 +50510,13 @@
     "image": ""
   },
   {
-    "id": "microbiology_parasitology_05_3_21_7",
+    "id": "microbiology_parasitology_05_3_20_2a",
     "setId": "microbiology_parasitology_9baf9a0f",
     "sourceId": "바이러스3 21-7",
     "subject": "Microbiology & Parasitology",
-    "section": "05 바이러스 RNA·간염",
+    "section": "rat",
     "sections": [
-      "05 바이러스 RNA·간염"
+      "rat"
     ],
     "question": "3세 된 남아가 기침, 콧물, 결막염 증세로 병원에 왔다. 신체진찰에서 구강의 볼 점막 안 홍반에 회백색의 중심부가 존재하는 반점(Koplik spot)이 관찰되었다. 환아는 2~3일 후 피부에 발진이 났다. 원인 바이러스의 특징이 아닌 것은?",
     "choices": [
@@ -50537,9 +50537,9 @@
     "setId": "microbiology_parasitology_9baf9a0f",
     "sourceId": "바이러스3 21-8",
     "subject": "Microbiology & Parasitology",
-    "section": "05 바이러스 RNA·간염",
+    "section": "rat",
     "sections": [
-      "05 바이러스 RNA·간염"
+      "rat"
     ],
     "question": "떨림, 간헐적 근육경련 및 운동 조정상실이 있는 65세 여자환자가 급속한 진행성 치매로 병원에 왔다. 뇌척수액과 혈청에서 세균 및 바이러스 감염 검사는 음성이었다. 원인체에 대한 설명으로 올바른 것은?",
     "choices": [
@@ -50560,9 +50560,9 @@
     "setId": "microbiology_parasitology_9baf9a0f",
     "sourceId": "바이러스3 21-9",
     "subject": "Microbiology & Parasitology",
-    "section": "05 바이러스 RNA·간염",
+    "section": "rat",
     "sections": [
-      "05 바이러스 RNA·간염"
+      "rat"
     ],
     "question": "36세 여자가 등산에 갔다 온 후에 고열, 피로, 식욕 저하, 구토, 설사, 복통 등의 증상이 나타나고 백혈구와 혈소판이 감소하여서 입원하였다. 감염경로와 원인 바이러스를 바르게 짝지은 것은?",
     "choices": [
@@ -50583,9 +50583,9 @@
     "setId": "microbiology_parasitology_9baf9a0f",
     "sourceId": "바이러스3 21-10",
     "subject": "Microbiology & Parasitology",
-    "section": "05 바이러스 RNA·간염",
+    "section": "rat",
     "sections": [
-      "05 바이러스 RNA·간염"
+      "rat"
     ],
     "question": "다음 중 zoonosis(인수공통감염)을 일으키는 바이러스가 아닌 것은?",
     "choices": [
@@ -50606,9 +50606,9 @@
     "setId": "microbiology_parasitology_9baf9a0f",
     "sourceId": "바이러스2 21-2",
     "subject": "Microbiology & Parasitology",
-    "section": "05 바이러스 RNA·간염",
+    "section": "rat",
     "sections": [
-      "05 바이러스 RNA·간염"
+      "rat"
     ],
     "question": "어린이집에 다니는 3세 여아가 열이 나고 칭얼거리고 음식을 먹지 않았다. 입안을 보니 수포가 있었고 손과 발에도 비슷한 수포를 관찰할 수 있었다. 원인바이러스에 대한 설명으로 맞는 것은?",
     "choices": [
@@ -50625,13 +50625,13 @@
     "image": ""
   },
   {
-    "id": "microbiology_parasitology_05_2_21_3",
+    "id": "microbiology_parasitology_05_2_23_1",
     "setId": "microbiology_parasitology_9baf9a0f",
     "sourceId": "바이러스2 21-3",
     "subject": "Microbiology & Parasitology",
-    "section": "05 바이러스 RNA·간염",
+    "section": "rat",
     "sections": [
-      "05 바이러스 RNA·간염"
+      "rat"
     ],
     "question": "여름 캠프에 다녀온 초등학생이 열과 두통을 호소하다가 의식이 저하되고 경련을 일으켰다. 아이에게 모기 물린 자국이 많이 있었다. 가장 가능성이 높은 원인 바이러스에 대한 설명으로 맞는 것은?",
     "choices": [
@@ -50652,9 +50652,9 @@
     "setId": "microbiology_parasitology_9baf9a0f",
     "sourceId": "바이러스2 21-4",
     "subject": "Microbiology & Parasitology",
-    "section": "05 바이러스 RNA·간염",
+    "section": "rat",
     "sections": [
-      "05 바이러스 RNA·간염"
+      "rat"
     ],
     "question": "소뇌증을 가진 아기가 태어났다. 산모는 임신 4주째 얼굴, 목, 등에 연한 반점상 발진이 있었고 감기 비슷한 증상과 함께 손과 무릎 관절에 경직이 있었지만 출산 전까지 치료를 받지 않았다. 사람만 감염시키는 단일 혈청형을 가지는 원인바이러스는?",
     "choices": [
@@ -50675,9 +50675,9 @@
     "setId": "microbiology_parasitology_9baf9a0f",
     "sourceId": "바이러스2 21-7",
     "subject": "Microbiology & Parasitology",
-    "section": "05 바이러스 RNA·간염",
+    "section": "rat",
     "sections": [
-      "05 바이러스 RNA·간염"
+      "rat"
     ],
     "question": "아래의 그래프를 보고 이 HIV 감염자에 대한 설명으로 가장 적절한 것을 고르시오.",
     "choices": [
@@ -50694,13 +50694,13 @@
     "image": ""
   },
   {
-    "id": "microbiology_parasitology_05_2_21_10",
+    "id": "microbiology_parasitology_05_3_20_10",
     "setId": "microbiology_parasitology_9baf9a0f",
     "sourceId": "바이러스2 21-10",
     "subject": "Microbiology & Parasitology",
-    "section": "05 바이러스 RNA·간염",
+    "section": "rat",
     "sections": [
-      "05 바이러스 RNA·간염"
+      "rat"
     ],
     "question": "71세 여성이 38℃ 이상의 고열과 두통, 전신 권태, 근육통과 기침으로 왔다. 숨이 차고 호흡이 곤란하였다. 가슴 X선에서 폐 침윤의 폐렴 소견을 보였다. 객담 검사에서 세균배양은 음성, 코로나 RT-PCR에서 양성이었다. 원인 바이러스에 관한 설명으로 옳지 않은 것은?",
     "choices": [
@@ -50721,9 +50721,9 @@
     "setId": "microbiology_parasitology_9baf9a0f",
     "sourceId": "세균1 21-6",
     "subject": "Microbiology & Parasitology",
-    "section": "01 세균 그람양성",
+    "section": "rat",
     "sections": [
-      "01 세균 그람양성"
+      "rat"
     ],
     "question": "생후 1주일된 신생아가 목의 경직과 고열로 왔다. 산모는 임신 중 체험목장을 방문하여 살균되지 않은 우유를 먹었고, 이후 약한 감기 증상을 앓았다고 하였다. 신생아의 뇌척수액에서 그람양성 짧은 막대균이 발견되었다. 원인균의 특성으로 맞지 않는 것은?",
     "choices": [
@@ -50744,9 +50744,9 @@
     "setId": "microbiology_parasitology_9baf9a0f",
     "sourceId": "세균1 21-7",
     "subject": "Microbiology & Parasitology",
-    "section": "01 세균 그람양성",
+    "section": "rat",
     "sections": [
-      "01 세균 그람양성"
+      "rat"
     ],
     "question": "태어난지 일주일 된 신생아가 수막염 증상으로 병원에 왔다. CSF 배양에서 나온 원인균은 운동성이 없는 그람양성알균이었으며 혈액우무배지에서 베타용혈이 나타났다. 가장 가능성이 높은 원인균은?",
     "choices": [
@@ -50767,9 +50767,9 @@
     "setId": "microbiology_parasitology_9baf9a0f",
     "sourceId": "세균1 21-8",
     "subject": "Microbiology & Parasitology",
-    "section": "01 세균 그람양성",
+    "section": "rat",
     "sections": [
-      "01 세균 그람양성"
+      "rat"
     ],
     "question": "항생제 연관 위막성 대장염은 치료한 후에도 재발하는 경우가 많은데 그 이유는?",
     "choices": [
@@ -50790,9 +50790,9 @@
     "setId": "microbiology_parasitology_9baf9a0f",
     "sourceId": "세균1 21-9",
     "subject": "Microbiology & Parasitology",
-    "section": "01 세균 그람양성",
+    "section": "rat",
     "sections": [
-      "01 세균 그람양성"
+      "rat"
     ],
     "question": "자취하는 대학생이 아침에 만들어 놓은 볶음밥을 식탁에 놓고 학교에 간 후, 저녁에 데워 식사했다. 3시간쯤 지나 갑작스러운 구역, 구토 및 복통 증상을 나타냈고 다음 날 오전까지 지속되었다가 특별한 치료 없이 회복되었다. 다음 중 원인 균은?",
     "choices": [
@@ -50813,9 +50813,9 @@
     "setId": "microbiology_parasitology_9baf9a0f",
     "sourceId": "세균1 21-10",
     "subject": "Microbiology & Parasitology",
-    "section": "01 세균 그람양성",
+    "section": "rat",
     "sections": [
-      "01 세균 그람양성"
+      "rat"
     ],
     "question": "백신 맞기를 거부하는 가족의 3세 여아가 목이 붓고 숨쉬기를 힘들어하여서 응급실에 왔다. 인두에 삼출물과 회백색의 위막이 있었고, 삼출물에서 곤봉모양의 그람양성막대균을 확인할 수 있었다. 이 균의 독소의 발병기전은?",
     "choices": [
@@ -50836,9 +50836,9 @@
     "setId": "microbiology_parasitology_9baf9a0f",
     "sourceId": "바이러스2 21-1",
     "subject": "Microbiology & Parasitology",
-    "section": "05 바이러스 RNA·간염",
+    "section": "rat",
     "sections": [
-      "05 바이러스 RNA·간염"
+      "rat"
     ],
     "question": "Arbovirus가 아닌 것은?",
     "choices": [
@@ -50859,9 +50859,9 @@
     "setId": "microbiology_parasitology_9baf9a0f",
     "sourceId": "바이러스2 21-5",
     "subject": "Microbiology & Parasitology",
-    "section": "05 바이러스 RNA·간염",
+    "section": "rat",
     "sections": [
-      "05 바이러스 RNA·간염"
+      "rat"
     ],
     "question": "46세의 여자가 구토와 설사로 응급실로 왔다. 스키리조트로 여행을 다녀왔다고 한다. 그 리조트에 머문 다수의 다른 스키어들 역시 같은 증상으로 병원으로 갔다고 한다. 조사 결과 리조트 식당에서 공급된 조개류의 일부가 원인 병원체에 오염되어 있었다. 환자는 피로감과 두통, 근육통이 있지만 변에서 혈액이나 농은 관찰되지 않았고 이틀 후 호전되었다. 가장 가능성이 높은 병원체는?",
     "choices": [
@@ -50882,9 +50882,9 @@
     "setId": "microbiology_parasitology_9baf9a0f",
     "sourceId": "바이러스2 21-6",
     "subject": "Microbiology & Parasitology",
-    "section": "05 바이러스 RNA·간염",
+    "section": "rat",
     "sections": [
-      "05 바이러스 RNA·간염"
+      "rat"
     ],
     "question": "다음 중 +RNA genome으로부터 -RNA를 만들고 -RNA를 template로 하여 mRNA를 합성하는 바이러스가 아닌 것은?",
     "choices": [
@@ -50905,9 +50905,9 @@
     "setId": "microbiology_parasitology_9baf9a0f",
     "sourceId": "바이러스2 21-8",
     "subject": "Microbiology & Parasitology",
-    "section": "05 바이러스 RNA·간염",
+    "section": "rat",
     "sections": [
-      "05 바이러스 RNA·간염"
+      "rat"
     ],
     "question": "SARS-CoV-2의 viral protease를 억제하는 기작을 가진 약제는?",
     "choices": [
@@ -50928,9 +50928,9 @@
     "setId": "microbiology_parasitology_9baf9a0f",
     "sourceId": "바이러스2 21-9",
     "subject": "Microbiology & Parasitology",
-    "section": "05 바이러스 RNA·간염",
+    "section": "rat",
     "sections": [
-      "05 바이러스 RNA·간염"
+      "rat"
     ],
     "question": "노로바이러스와 로타바이러스의 공통점은?",
     "choices": [
@@ -50951,9 +50951,9 @@
     "setId": "microbiology_parasitology_9baf9a0f",
     "sourceId": "세균1 20-1",
     "subject": "Microbiology & Parasitology",
-    "section": "01 세균 그람양성",
+    "section": "rat",
     "sections": [
-      "01 세균 그람양성"
+      "rat"
     ],
     "question": "초등학생이 금요일부터 목이 아프기 시작했고 증상이 심해져 월요일 아침에 병원에 왔다. 진찰 시 열이 있었고 인두와 편도가 빨갛게 붓고 삼출물이 있었으며 목의 림프절도 부어 있었다. 또한 몸에 붉은 발진이 밤사이 생겼다고 하였다. 이 환자의 증상을 일으키는 균의 독성인자는?",
     "choices": [
@@ -50970,13 +50970,13 @@
     "image": ""
   },
   {
-    "id": "microbiology_parasitology_01_1_20_2",
+    "id": "microbiology_parasitology_01_1_23_1",
     "setId": "microbiology_parasitology_9baf9a0f",
     "sourceId": "세균1 20-2",
     "subject": "Microbiology & Parasitology",
-    "section": "01 세균 그람양성",
+    "section": "rat",
     "sections": [
-      "01 세균 그람양성"
+      "rat"
     ],
     "question": "28세 남자가 오토바이 사고로 다리의 개방형 골절을 입었다. 골절 부위에 가스가 찬 물집이 보이고 검게 변하며 괴사가 시작되었다. 상처 주위에서 염증세포는 관찰되지 않았다. 이 현상과 관련이 있는 이 균의 독소는?",
     "choices": [
@@ -50997,9 +50997,9 @@
     "setId": "microbiology_parasitology_9baf9a0f",
     "sourceId": "세균1 20-3",
     "subject": "Microbiology & Parasitology",
-    "section": "01 세균 그람양성",
+    "section": "rat",
     "sections": [
-      "01 세균 그람양성"
+      "rat"
     ],
     "question": "백신 맞기를 거부하는 가족의 3세 아이가 목이 붓고 숨쉬기를 힘들어하여 응급실에 왔다. 인두에 삼출물과 회백색의 위막이 있었고, 삼출물에서 곤봉모양의 그람양성막대균을 확인할 수 있었다. 이 균의 독소의 발병기전은?",
     "choices": [
@@ -51020,9 +51020,9 @@
     "setId": "microbiology_parasitology_9baf9a0f",
     "sourceId": "세균1 20-4",
     "subject": "Microbiology & Parasitology",
-    "section": "01 세균 그람양성",
+    "section": "rat",
     "sections": [
-      "01 세균 그람양성"
+      "rat"
     ],
     "question": "70세 여자가 급성 폐렴으로 항생제를 1주일째 복용하던 중 갑자기 복통과 함께 녹색의 점액성 설사가 시작되어 병원에 왔다. 대장내시경으로 위막성 장염이 관찰되었다. 원인 균의 특성으로 맞지 않는 것은?",
     "choices": [
@@ -51043,9 +51043,9 @@
     "setId": "microbiology_parasitology_9baf9a0f",
     "sourceId": "세균1 20-5",
     "subject": "Microbiology & Parasitology",
-    "section": "01 세균 그람양성",
+    "section": "rat",
     "sections": [
-      "01 세균 그람양성"
+      "rat"
     ],
     "question": "야유회에 참가한 20대 7명이 복통과 설사 증상으로 오후 5시경에 병원에 왔다. 이들은 점심으로 샌드위치를 먹었다고 한다. 샌드위치에서 아포를 생성하지 않는 균을 확인하였다. 이 균의 특성으로 맞는 것은?",
     "choices": [
@@ -51066,9 +51066,9 @@
     "setId": "microbiology_parasitology_9baf9a0f",
     "sourceId": "세균1 20-6",
     "subject": "Microbiology & Parasitology",
-    "section": "01 세균 그람양성",
+    "section": "rat",
     "sections": [
-      "01 세균 그람양성"
+      "rat"
     ],
     "question": "정상분만으로 태어난 아기가 태어난 지 5일 만에 고열, 구토, 호흡 곤란으로 응급실에 왔다. 혈액배양과 뇌척수액 배양에서 그람양성알균이 나와 신생아 패혈증, 뇌수막염으로 진단되었다. 원인균으로 가장 가능성이 높은 균은?",
     "choices": [
@@ -51089,9 +51089,9 @@
     "setId": "microbiology_parasitology_9baf9a0f",
     "sourceId": "세균1 20-7",
     "subject": "Microbiology & Parasitology",
-    "section": "01 세균 그람양성",
+    "section": "rat",
     "sections": [
-      "01 세균 그람양성"
+      "rat"
     ],
     "question": "82세 남자가 갑자기 몸이 춥고, 고열, 혈액이 있는 가래기침 증상으로 병원에 왔다. 가슴 X선 촬영 결과에서 아래 폐의 짙은 경화가 관찰되었다. 객담에서 분리된 균을 그람염색해서 보니 그람양성 쌍알균이었다. 이 균의 특성으로 맞는 것은?",
     "choices": [
@@ -51112,9 +51112,9 @@
     "setId": "microbiology_parasitology_9baf9a0f",
     "sourceId": "세균1 20-8",
     "subject": "Microbiology & Parasitology",
-    "section": "01 세균 그람양성",
+    "section": "rat",
     "sections": [
-      "01 세균 그람양성"
+      "rat"
     ],
     "question": "75세 가죽 공장을 하는 남자가 호주 비즈니스 여행에서 소 농장을 방문하고 돌아온 후 팔의 상처가 붓고 궤양이 생긴 후에 새까만 가피가 생겼다. 남자는 열이 나고 몸살이 나는 증상도 있었다. 피부 검체로부터 아포를 생성하는 그람양성균이 배양되었다. 이 균이 가지는 독성인자는?",
     "choices": [
@@ -51135,9 +51135,9 @@
     "setId": "microbiology_parasitology_9baf9a0f",
     "sourceId": "세균1 20-9",
     "subject": "Microbiology & Parasitology",
-    "section": "01 세균 그람양성",
+    "section": "rat",
     "sections": [
-      "01 세균 그람양성"
+      "rat"
     ],
     "question": "자취하는 대학생이 아침에 만들어 놓은 볶음밥을 식탁에 놓고 학교에 간 후, 저녁에 데워 식사했다. 3시간쯤 지나 갑작스러운 구역, 구토 및 복통 증상을 나타냈고 다음 날 오전까지 지속되었다가 특별한 치료 없이 회복되었다. 원인 균은?",
     "choices": [
@@ -51158,9 +51158,9 @@
     "setId": "microbiology_parasitology_9baf9a0f",
     "sourceId": "세균1 20-10",
     "subject": "Microbiology & Parasitology",
-    "section": "01 세균 그람양성",
+    "section": "rat",
     "sections": [
-      "01 세균 그람양성"
+      "rat"
     ],
     "question": "생후 1주일된 신생아가 목의 경직과 고열로 왔다. 산모는 임신 중 체험목장을 방문하여 살균되지 않은 우유를 먹었고 이후 약한 감기 증상을 앓았다. 뇌척수액에서 그람양성균이 발견되었고 한냉증균(cold enrichment)으로 잘 자랐다. 원인 병원체는?",
     "choices": [
@@ -51181,9 +51181,9 @@
     "setId": "microbiology_parasitology_9baf9a0f",
     "sourceId": "세균2 20-1",
     "subject": "Microbiology & Parasitology",
-    "section": "02 세균 그람음성",
+    "section": "rat",
     "sections": [
-      "02 세균 그람음성"
+      "rat"
     ],
     "question": "3세 여아가 심한 기침으로 병원에 왔다. 일주일 동안 지속된 감기증상이 나아지지 않고 내원 전날에 심한 기침이 시작되었다. 발작적인 기침은 구토로 이어졌다. 내원 당시 아이는 매우 지친 상태였다. 피 검사에서 림프구의 증가가 보였다. 원인균의 독소 기작은?",
     "choices": [
@@ -51204,9 +51204,9 @@
     "setId": "microbiology_parasitology_9baf9a0f",
     "sourceId": "세균2 20-2",
     "subject": "Microbiology & Parasitology",
-    "section": "02 세균 그람음성",
+    "section": "rat",
     "sections": [
-      "02 세균 그람음성"
+      "rat"
     ],
     "question": "61세 여자가 설사, 구토, 두통, 발열이 생겨 응급실로 왔다. 같은 등산 동호회 10여명도 같은 증상을 호소하였다. 2일 전 산행에서 함께 먹은 육전과 떡으로 인한 식중독이었다. 대변배양검사에서 맥콩키배지에서 무색 콜로니가 다수 발견되었고 이 균은 운동성이 있고 oxidase 음성이었다. 추정되는 원인균은?",
     "choices": [
@@ -51227,9 +51227,9 @@
     "setId": "microbiology_parasitology_9baf9a0f",
     "sourceId": "세균2 20-3",
     "subject": "Microbiology & Parasitology",
-    "section": "02 세균 그람음성",
+    "section": "rat",
     "sections": [
-      "02 세균 그람음성"
+      "rat"
     ],
     "question": "55세 남자가 야외 카페에서 친구들과 시간을 보내고 집에 돌아온 후 발열, 두통, 마른기침이 시작되어 병원에 왔다. 가슴 X선에서 오른쪽 폐의 경화가 보였다. 방문한 카페는 오랫동안 쓰지 않았던 분수대를 그 날 가동하였고 분사된 물방울의 흡입으로 감염되었다면 원인균의 특성으로 맞는 것은?",
     "choices": [
@@ -51250,9 +51250,9 @@
     "setId": "microbiology_parasitology_9baf9a0f",
     "sourceId": "세균2 20-4",
     "subject": "Microbiology & Parasitology",
-    "section": "02 세균 그람음성",
+    "section": "rat",
     "sections": [
-      "02 세균 그람음성"
+      "rat"
     ],
     "question": "32세 여자가 소변을 잘 참지 못하고 소변 볼 때 통증을 느껴서 왔다. 소변에서 냄새도 났다. 소변검사 결과 그람음성알막대균이 관찰되었고 균 특성검사에서 oxidase 음성, urease 음성이 나왔다. 원인 병원균이 요로감염을 일으키는 데 특별히 중요한 병원성 인자는?",
     "choices": [
@@ -51273,9 +51273,9 @@
     "setId": "microbiology_parasitology_9baf9a0f",
     "sourceId": "세균2 20-5",
     "subject": "Microbiology & Parasitology",
-    "section": "02 세균 그람음성",
+    "section": "rat",
     "sections": [
-      "02 세균 그람음성"
+      "rat"
     ],
     "question": "59세 알콜 중독자인 노숙자가 폐렴 증상으로 응급실에 왔다. 호흡곤란이 심하여 기관내 삽관 및 기계적 환기를 실시하였다. 환자의 객담은 혈액이 섞여있는 젤리 같았고, 객담염색으로 그람음성막대균이 관찰되었다. 이 균의 특성으로 맞는 것은?",
     "choices": [
@@ -51296,9 +51296,9 @@
     "setId": "microbiology_parasitology_9baf9a0f",
     "sourceId": "세균2 20-6",
     "subject": "Microbiology & Parasitology",
-    "section": "02 세균 그람음성",
+    "section": "rat",
     "sections": [
-      "02 세균 그람음성"
+      "rat"
     ],
     "question": "37세 남자가 만성 위염이 심해져 병원에 왔다. 위내시경으로 위점막 생검조직을 채취하였다. 혈액한천배지에 도말 후 37℃, 10% CO₂ 배양기에서 5~7일간 배양하였다. 5일째에 작고 둥근 무색의 세균 집락이 관찰되었다. 그람염색에서 가늘고 굽은 모양의 그람음성균을 확인하였다. 이 균의 특성으로 맞는 것은?",
     "choices": [
@@ -51315,13 +51315,13 @@
     "image": ""
   },
   {
-    "id": "microbiology_parasitology_02_2_20_7",
+    "id": "microbiology_parasitology_02_2_23_10",
     "setId": "microbiology_parasitology_9baf9a0f",
     "sourceId": "세균2 20-7",
     "subject": "Microbiology & Parasitology",
-    "section": "02 세균 그람음성",
+    "section": "rat",
     "sections": [
-      "02 세균 그람음성"
+      "rat"
     ],
     "question": "38세 화상환자의 상처부위에 감염으로 농이 생겼다. 농을 배양한 결과 방향족 냄새가 나는 청록 및 녹황색의 균 집락을 확인할 수 있었다. 균은 포도당을 발효하지 않으며 oxidase 양성, catalase 양성이었다. 이 원인균의 독성인자 중에서 숙주세포의 단백합성을 저해하여 조직 손상을 초래하는 것은?",
     "choices": [
@@ -51342,9 +51342,9 @@
     "setId": "microbiology_parasitology_9baf9a0f",
     "sourceId": "세균2 20-8",
     "subject": "Microbiology & Parasitology",
-    "section": "02 세균 그람음성",
+    "section": "rat",
     "sections": [
-      "02 세균 그람음성"
+      "rat"
     ],
     "question": "57세 남자가 다리의 출혈성 수포와 괴사성 궤양으로 병원에 왔다. 피부증상 이틀 전 서해안 해수욕장 횟집에서 생선회와 조개 등을 먹었다. 평소 간질환을 가지고 있었다. 다리의 수포액을 TCBS 배지에서 배양한 결과 녹색 집락이 형성되었다. 원인균은?",
     "choices": [
@@ -51365,9 +51365,9 @@
     "setId": "microbiology_parasitology_9baf9a0f",
     "sourceId": "세균2 20-9",
     "subject": "Microbiology & Parasitology",
-    "section": "02 세균 그람음성",
+    "section": "rat",
     "sections": [
-      "02 세균 그람음성"
+      "rat"
     ],
     "question": "생후 6개월 된 여아가 고열과 함께 전신성 경련이 생겨 응급실에 입원하였다. 의사는 뇌수막염으로 의심하여 뇌척수액을 채취해 세균배양검사를 하였다. 초콜렛 agar 위에 직경 0.5mm인 작고 이슬 같은 집락을 형성하는 그람음성균이 분리되었다. 성장에는 X 인자(hemin)와 V 인자(NAD)가 필요하였다. 원인균의 독성인자인 협막을 바르게 말한 것은?",
     "choices": [
@@ -51388,9 +51388,9 @@
     "setId": "microbiology_parasitology_9baf9a0f",
     "sourceId": "세균2 20-10",
     "subject": "Microbiology & Parasitology",
-    "section": "02 세균 그람음성",
+    "section": "rat",
     "sections": [
-      "02 세균 그람음성"
+      "rat"
     ],
     "question": "요로감염 병력이 있는 35세 여성이 잦은 배뇨와 배뇨통증으로 왔다. 아침 첫 소변에서 심한 암모니아 냄새가 났으며, 세균배양검사에서 혈액우무배지와 맥콩키배지에서 모두 집락이 자랐다. 그람음성막대균이 나왔고 urease를 생산하였고 운동성이 좋았다. 원인감염균은?",
     "choices": [
@@ -51407,13 +51407,13 @@
     "image": ""
   },
   {
-    "id": "microbiology_parasitology_03_3_20_1",
+    "id": "microbiology_parasitology_03_3_23_8",
     "setId": "microbiology_parasitology_9baf9a0f",
     "sourceId": "세균3 20-1",
     "subject": "Microbiology & Parasitology",
-    "section": "03 세균 기타세균",
+    "section": "rat",
     "sections": [
-      "03 세균 기타세균"
+      "rat"
     ],
     "question": "8세 남아가 피로, 열감, 콧물 및 두통, 마른기침으로 병원에 왔다. 가슴 X선 사진에서 하부 폐에 반점형 혼탁이 관찰되었다. 객담 검체 배양 검사에서 계란 프라이형(fried-egg)의 작은 균 집락이 관찰되었다. 원인 균의 특성으로 맞는 것은?",
     "choices": [
@@ -51427,16 +51427,16 @@
     "examSource": "세균3 20-1",
     "examRank": 200,
     "explanation": "단서: 마른기침+비정형폐렴+fried-egg 집락 = Mycoplasma pneumoniae. 판단: Mycoplasma는 세포막에 sterol을 함유하는 유일한 세균이다. 암기: Mycoplasma=무세포벽, sterol 함유 세포막, 그람염색 안됨, peptidoglycan 없음, fried-egg 집락. 출처: 세균각론3 · 20번",
-    "image": "assets/images/microbiology_parasitology_03_3_20_1.jpg"
+    "image": "assets/images/microbiology_parasitology_03_3_23_8.jpg"
   },
   {
     "id": "microbiology_parasitology_03_3_20_2",
     "setId": "microbiology_parasitology_9baf9a0f",
     "sourceId": "세균3 20-2",
     "subject": "Microbiology & Parasitology",
-    "section": "03 세균 기타세균",
+    "section": "rat",
     "sections": [
-      "03 세균 기타세균"
+      "rat"
     ],
     "question": "29세 남자가 소변 볼 때에 화끈거리고 농액성 분비물이 나온다고 병원에 왔다. 분비물을 도말염색하니 커피콩 모양의 그람음성 쌍알균이 관찰되었다. 이 균의 숙주 점막상피세포 부착능과 면역회피작용을 동시에 나타내는 독성인자는?",
     "choices": [
@@ -51457,9 +51457,9 @@
     "setId": "microbiology_parasitology_9baf9a0f",
     "sourceId": "세균3 20-3",
     "subject": "Microbiology & Parasitology",
-    "section": "03 세균 기타세균",
+    "section": "rat",
     "sections": [
-      "03 세균 기타세균"
+      "rat"
     ],
     "question": "49세 남자가 한달 넘게 지속되는 기침으로 병원에 왔다. 기침은 점차 심해졌고 객혈과 체중감소, 야간발한의 증상이 동반되었다고 한다. 객담검사에서 항산성 세균이 관찰되었다. 원인균과 관련된 발병기전은?",
     "choices": [
@@ -51480,9 +51480,9 @@
     "setId": "microbiology_parasitology_9baf9a0f",
     "sourceId": "세균3 20-4",
     "subject": "Microbiology & Parasitology",
-    "section": "03 세균 기타세균",
+    "section": "rat",
     "sections": [
-      "03 세균 기타세균"
+      "rat"
     ],
     "question": "40세 남자가 호흡곤란으로 응급실에 왔다. 열, 오한, 근육통, 마른기침이 있었고 가슴 X선상 왼쪽 하부 폐 경화와 오른쪽 상부 폐 반점형 침윤이 관찰되었다. 환자가 조류 애호가이며 최근 기르던 새가 병들어 죽었다는 말을 듣고 의사는 doxycycline 치료를 결정하였다. 의사가 생각한 원인균은?",
     "choices": [
@@ -51503,9 +51503,9 @@
     "setId": "microbiology_parasitology_9baf9a0f",
     "sourceId": "세균3 20-5",
     "subject": "Microbiology & Parasitology",
-    "section": "03 세균 기타세균",
+    "section": "rat",
     "sections": [
-      "03 세균 기타세균"
+      "rat"
     ],
     "question": "56세 여자가 10월 초순 5박6일 야영을 하고 집에 돌아온 지 약 2주 후 가슴과 배에 발진이 생겼고 곧 팔다리로 번졌다. 열이 39도까지 올랐고 오한, 두통, 기침, 구토, 복통이 나타났다. 환자의 겨드랑이 사이로 괴사성 검은 가피를 볼 수 있었다. 원인균의 발병기전은?",
     "choices": [
@@ -51526,9 +51526,9 @@
     "setId": "microbiology_parasitology_9baf9a0f",
     "sourceId": "세균3 20-6",
     "subject": "Microbiology & Parasitology",
-    "section": "03 세균 기타세균",
+    "section": "rat",
     "sections": [
-      "03 세균 기타세균"
+      "rat"
     ],
     "question": "20세 남자가 열이 나고 다리와 등에 점출혈(petechia)이 있어 응급실에 왔다. 전날 새벽부터 발열과 오한이 있었고, 저녁 무렵부터 점출혈이 나타났다. 체온 39℃, 혈액과 뇌척수액 그람염색에서 붉게 염색되는 쌍알균(diplococcus)이 관찰되었다. 원인균의 주 독성인자는?",
     "choices": [
@@ -51549,9 +51549,9 @@
     "setId": "microbiology_parasitology_9baf9a0f",
     "sourceId": "세균3 20-7",
     "subject": "Microbiology & Parasitology",
-    "section": "03 세균 기타세균",
+    "section": "rat",
     "sections": [
-      "03 세균 기타세균"
+      "rat"
     ],
     "question": "53세 여자가 강원도 산간지방에 캠핑을 다녀온 후 5일째에 미열과 감기증상이 있었다고 한다. 오른 팔에 10cm의 과녁 모양의 유주성 홍반(erythema migrans)이 관찰되었다. 혈액배양 결과는 음성이었으며, 혈청검사는 국립보건원에 의뢰하였다. 이 균의 감염경로는?",
     "choices": [
@@ -51572,9 +51572,9 @@
     "setId": "microbiology_parasitology_9baf9a0f",
     "sourceId": "세균3 20-8",
     "subject": "Microbiology & Parasitology",
-    "section": "03 세균 기타세균",
+    "section": "rat",
     "sections": [
-      "03 세균 기타세균"
+      "rat"
     ],
     "question": "30대 남자가 자신의 성기에 사마귀 같은 병변이 생겨서 왔다. 한 달 전에 성기 부위에 통증이 없는 궤양이 있었고, 지금은 겨드랑이와 손바닥 등에 구진이 나타나고 발열과 오한도 있다. 이 병의 진단을 위한 선별검사와 확진검사가 맞게 짝지어진 것은?",
     "choices": [
@@ -51595,9 +51595,9 @@
     "setId": "microbiology_parasitology_9baf9a0f",
     "sourceId": "세균3 20-9",
     "subject": "Microbiology & Parasitology",
-    "section": "03 세균 기타세균",
+    "section": "rat",
     "sections": [
-      "03 세균 기타세균"
+      "rat"
     ],
     "question": "40대 남자가 고열, 각막충혈, 근육통 및 기침을 하면 피가 함께 나오는 객혈로 병원에 왔다. 이러한 증상은 늦가을 장마 후 벼베기를 끝내고 2주 후에 나타났다. 현미경응집법을 이용한 혈청학적 검사로 진단 후 항생제로 치료하였다. 원인균의 감염경로는?",
     "choices": [
@@ -51618,9 +51618,9 @@
     "setId": "microbiology_parasitology_9baf9a0f",
     "sourceId": "세균3 20-10",
     "subject": "Microbiology & Parasitology",
-    "section": "03 세균 기타세균",
+    "section": "rat",
     "sections": [
-      "03 세균 기타세균"
+      "rat"
     ],
     "question": "28세 여자가 소변 볼 때 불편하고 아랫배가 아프고 질 분비물이 나와 병원에 왔다. 질염이 의심되어 자궁경부를 생리식염수로 적신 면봉으로 도말 후 그람염색하고 초콜릿한천배지와 McCoy 세포에서 배양하였다. 그람염색 후 균은 발견되지 않았고 초콜릿한천배지에서는 배양되지 않았으나 McCoy 세포에서 72시간 배양 후 요오드 염색으로 세포내 봉입체를 확인하였다. 원인균은?",
     "choices": [
@@ -51641,9 +51641,9 @@
     "setId": "microbiology_parasitology_9baf9a0f",
     "sourceId": "바이러스1 20-1",
     "subject": "Microbiology & Parasitology",
-    "section": "04 바이러스 DNA·레트로·프리온",
+    "section": "rat",
     "sections": [
-      "04 바이러스 DNA·레트로·프리온"
+      "rat"
     ],
     "question": "HPV로 인한 자궁경부암에 대한 설명으로 맞는 것은?",
     "choices": [
@@ -51664,9 +51664,9 @@
     "setId": "microbiology_parasitology_9baf9a0f",
     "sourceId": "바이러스1 20-2",
     "subject": "Microbiology & Parasitology",
-    "section": "04 바이러스 DNA·레트로·프리온",
+    "section": "rat",
     "sections": [
-      "04 바이러스 DNA·레트로·프리온"
+      "rat"
     ],
     "question": "태어난 지 일주일이 안된 신생아 피부에 수포가 생겼고 중추신경계와 간에 이상 증상을 보였다. 아기의 엄마는 분만 며칠 전에 성기에 아픈 수포가 생겼었다고 하였다. 분만실에서 자궁경부와 질 외벽에서 병변이 확인되었으나 제왕절개를 시도하기에는 너무 늦은 때였다. 의사가 신생아와 엄마에게 투여했을 치료제는?",
     "choices": [
@@ -51687,9 +51687,9 @@
     "setId": "microbiology_parasitology_9baf9a0f",
     "sourceId": "바이러스1 20-3",
     "subject": "Microbiology & Parasitology",
-    "section": "04 바이러스 DNA·레트로·프리온",
+    "section": "rat",
     "sections": [
-      "04 바이러스 DNA·레트로·프리온"
+      "rat"
     ],
     "question": "54세 에이즈 환자가 기억력 감소와 왼손 마비 증상으로 치료 중 보행장애가 발생하고 갑자기 혼수 상태가 되었다. 뇌 MRI를 통해 양측 대뇌 백질에 병변을 확인하였다. 원인바이러스는?",
     "choices": [
@@ -51710,9 +51710,9 @@
     "setId": "microbiology_parasitology_9baf9a0f",
     "sourceId": "바이러스1 20-4",
     "subject": "Microbiology & Parasitology",
-    "section": "04 바이러스 DNA·레트로·프리온",
+    "section": "rat",
     "sections": [
-      "04 바이러스 DNA·레트로·프리온"
+      "rat"
     ],
     "question": "3인 철종경기에 참석한 30대 여성이 너무 무리한 운동으로 경기 후 피부 분절에 수포성 병변이 나타나 병원에 왔다. 의사는 대상포진으로 진단을 내렸다. 하지만 이 여성은 수두를 앓은 적이 없었다. 가장 적절한 설명은?",
     "choices": [
@@ -51733,9 +51733,9 @@
     "setId": "microbiology_parasitology_9baf9a0f",
     "sourceId": "바이러스1 20-5",
     "subject": "Microbiology & Parasitology",
-    "section": "04 바이러스 DNA·레트로·프리온",
+    "section": "rat",
     "sections": [
-      "04 바이러스 DNA·레트로·프리온"
+      "rat"
     ],
     "question": "정상분만으로 출생한 건강한 신생아가 3주 뒤에 소리에 반응하지 않았고 점차 지능저하 증상이 관찰되었다. 신생아 소변에서 원인 바이러스 항원이 검출되었다. 이 원인바이러스에 감염된 세포의 cytopathologic effect는?",
     "choices": [
@@ -51756,9 +51756,9 @@
     "setId": "microbiology_parasitology_9baf9a0f",
     "sourceId": "바이러스1 20-6",
     "subject": "Microbiology & Parasitology",
-    "section": "04 바이러스 DNA·레트로·프리온",
+    "section": "rat",
     "sections": [
-      "04 바이러스 DNA·레트로·프리온"
+      "rat"
     ],
     "question": "EBV가 T 림프구 면역기능이 저하된 사람에게 일으킬 수 있는 증상이 아닌 것은?",
     "choices": [
@@ -51779,9 +51779,9 @@
     "setId": "microbiology_parasitology_9baf9a0f",
     "sourceId": "바이러스1 20-7",
     "subject": "Microbiology & Parasitology",
-    "section": "04 바이러스 DNA·레트로·프리온",
+    "section": "rat",
     "sections": [
-      "04 바이러스 DNA·레트로·프리온"
+      "rat"
     ],
     "question": "다음 중에서 세포질에서 복제가 일어나는 바이러스는?",
     "choices": [
@@ -51802,9 +51802,9 @@
     "setId": "microbiology_parasitology_9baf9a0f",
     "sourceId": "바이러스1 20-8",
     "subject": "Microbiology & Parasitology",
-    "section": "04 바이러스 DNA·레트로·프리온",
+    "section": "rat",
     "sections": [
-      "04 바이러스 DNA·레트로·프리온"
+      "rat"
     ],
     "question": "시험에 스트레스를 받은 여학생의 입술 옆에 물집이 생겼다. 원인 바이러스와 이 바이러스가 잠복하는 세포는?",
     "choices": [
@@ -51825,9 +51825,9 @@
     "setId": "microbiology_parasitology_9baf9a0f",
     "sourceId": "바이러스1 20-9",
     "subject": "Microbiology & Parasitology",
-    "section": "04 바이러스 DNA·레트로·프리온",
+    "section": "rat",
     "sections": [
-      "04 바이러스 DNA·레트로·프리온"
+      "rat"
     ],
     "question": "8세 남아가 수영학원 여름캠프에 갔다 온 후 열, 인후통, 두통, 결막염 증상으로 병원에 왔다. 같이 캠프에 참가한 다른 아이들도 유사한 증상을 보였다. 증상은 약 5~7일 지속되고 호전되었다. 원인바이러스는?",
     "choices": [
@@ -51848,9 +51848,9 @@
     "setId": "microbiology_parasitology_9baf9a0f",
     "sourceId": "바이러스1 20-10",
     "subject": "Microbiology & Parasitology",
-    "section": "04 바이러스 DNA·레트로·프리온",
+    "section": "rat",
     "sections": [
-      "04 바이러스 DNA·레트로·프리온"
+      "rat"
     ],
     "question": "6세 여아가 열, 두통, 근육통 등 비특이 증상 후 1주일 정도 뒤에 마치 뺨을 맞은 것처럼 명확한 발진이 양쪽 뺨에 생기면서 전신으로 퍼지는 반구진 발진(maculopapular rash)으로 병원에 왔다. 함께 방문한 엄마는 양쪽 손 관절에 심한 관절통과 부종을 호소하였다. 의사는 감염된 바이러스에 대한 항체 생성에 따른 면역복합체 형성에 의해 초래되었다고 설명하였다. 감염된 바이러스는?",
     "choices": [
@@ -51871,9 +51871,9 @@
     "setId": "microbiology_parasitology_9baf9a0f",
     "sourceId": "바이러스2 20-1",
     "subject": "Microbiology & Parasitology",
-    "section": "05 바이러스 RNA·간염",
+    "section": "rat",
     "sections": [
-      "05 바이러스 RNA·간염"
+      "rat"
     ],
     "question": "6개월된 남자 아기가 물설사를 5일동안 하였다. 가끔씩 구토도 하였으나 변에 피나 농은 발견되지 않았다. 아기는 탈수 증상을 보였다. 이 집에 놀러왔던 가족의 아기도 같은 증상으로 병원에 갔다고 한다. 가장 가능성이 높은 바이러스의 특징으로 맞는 것은?",
     "choices": [
@@ -51894,9 +51894,9 @@
     "setId": "microbiology_parasitology_9baf9a0f",
     "sourceId": "바이러스2 20-2",
     "subject": "Microbiology & Parasitology",
-    "section": "05 바이러스 RNA·간염",
+    "section": "rat",
     "sections": [
-      "05 바이러스 RNA·간염"
+      "rat"
     ],
     "question": "45세 남자가 친구들과 함께 10일간의 지중해 선상여행을 다녀온 직후 갑자기 구역질, 구토, 복통과 심한 물설사가 있었다. 열은 없었고 친구들도 비슷한 증상을 보였다. 원인바이러스를 진단할 수 있는 방법이 아닌 것은?",
     "choices": [
@@ -51917,9 +51917,9 @@
     "setId": "microbiology_parasitology_9baf9a0f",
     "sourceId": "바이러스2 20-3",
     "subject": "Microbiology & Parasitology",
-    "section": "05 바이러스 RNA·간염",
+    "section": "rat",
     "sections": [
-      "05 바이러스 RNA·간염"
+      "rat"
     ],
     "question": "7월 말경 65세 남자가 갑작스런 고열로 왔다. 전신 권태, 인후통으로 시작하여 욕지기, 구토가 있다가 목 근육의 강직이 왔으며 의식이 혼미하여졌다. 최근 외국은 다녀온 적이 없다고 하였다. 원인 병원체는 외피가 있는 RNA 바이러스였다. 원인바이러스의 감염경로는?",
     "choices": [
@@ -51940,9 +51940,9 @@
     "setId": "microbiology_parasitology_9baf9a0f",
     "sourceId": "바이러스2 20-4",
     "subject": "Microbiology & Parasitology",
-    "section": "05 바이러스 RNA·간염",
+    "section": "rat",
     "sections": [
-      "05 바이러스 RNA·간염"
+      "rat"
     ],
     "question": "5세 남아가 3~4일간 지속되는 재채기, 콧물, 코막힘, 경미한 인후통, 두통으로 병원에 왔다. 이러한 증상을 유발한 원인체는 양성극성의 단일가닥 RNA 외피비보유바이러스로 밝혀졌다. 가장 가능성이 높은 원인체는?",
     "choices": [
@@ -51963,9 +51963,9 @@
     "setId": "microbiology_parasitology_9baf9a0f",
     "sourceId": "바이러스2 20-5",
     "subject": "Microbiology & Parasitology",
-    "section": "05 바이러스 RNA·간염",
+    "section": "rat",
     "sections": [
-      "05 바이러스 RNA·간염"
+      "rat"
     ],
     "question": "50세 남자가 동남아 여행에서 돌아오고 일주일 후에 심한 고열과 구토로 병원에 왔다. 처음에 일시적으로 붉은 반점이 몸통에 나타나다가 3~4일 후에는 해열과 함께 다시 두 번째 발진이 얼굴과 손발로 확산되고 심한 근육통과 뼈의 통증이 동반하였다. 이 남자가 이와 관련된 질환에 다시 걸리지 않도록 하려면?",
     "choices": [
@@ -51986,9 +51986,9 @@
     "setId": "microbiology_parasitology_9baf9a0f",
     "sourceId": "바이러스2 20-6",
     "subject": "Microbiology & Parasitology",
-    "section": "05 바이러스 RNA·간염",
+    "section": "rat",
     "sections": [
-      "05 바이러스 RNA·간염"
+      "rat"
     ],
     "question": "인도에 설립한 의료선교병원에서 급성 이완성 마비로 입원한 아이들을 진료하고 있었다. 이 병은 고열, 구토, 심한 두통으로 시작하여 목 강직, 근육통과 근육에 힘이 없어지고 변비 증상을 가진다. 파견된 의료진은 특별한 보호장비를 하지 않았는데 아무도 감염되지 않았다. 그 이유로 가장 적절한 것은?",
     "choices": [
@@ -52009,9 +52009,9 @@
     "setId": "microbiology_parasitology_9baf9a0f",
     "sourceId": "바이러스2 20-7",
     "subject": "Microbiology & Parasitology",
-    "section": "05 바이러스 RNA·간염",
+    "section": "rat",
     "sections": [
-      "05 바이러스 RNA·간염"
+      "rat"
     ],
     "question": "어린이집에 다니는 3세 여아가 열이 나고 칭얼거리고 음식을 먹지 않았다. 입안을 보니 수포가 있었고 손과 발에도 비슷한 수포를 관찰할 수 있었다. 다음 중 원인바이러스에 대해 맞게 설명한 것은?",
     "choices": [
@@ -52032,9 +52032,9 @@
     "setId": "microbiology_parasitology_9baf9a0f",
     "sourceId": "바이러스2 20-8",
     "subject": "Microbiology & Parasitology",
-    "section": "05 바이러스 RNA·간염",
+    "section": "rat",
     "sections": [
-      "05 바이러스 RNA·간염"
+      "rat"
     ],
     "question": "예정일보다 3주 일찍 태어난 신생아가 소리에 반응하지 않았다. 산모는 임신 4주째 얼굴, 목, 등에 연한 반점상 발진이 있었고 미열, 감기 비슷한 증상과 손/무릎 관절 경직이 있었지만 출산 전까지 치료를 받지 않았다. 산모는 어린시절 백신접종을 불규칙하게 받았다. 가장 가능성이 높은 바이러스가 속한 family는?",
     "choices": [
@@ -52055,9 +52055,9 @@
     "setId": "microbiology_parasitology_9baf9a0f",
     "sourceId": "바이러스2 20-9",
     "subject": "Microbiology & Parasitology",
-    "section": "05 바이러스 RNA·간염",
+    "section": "rat",
     "sections": [
-      "05 바이러스 RNA·간염"
+      "rat"
     ],
     "question": "34세 남자가 수개월간 지속된 피로, 체중감소, 설사 및 야간 발한(night sweat)으로 왔다. 신체진찰에서 림프절 종대가 있었으며, 구강에는 효모균 감염(아구창)이 의심되는 병변이 관찰되었다. 원인 바이러스의 감염경로는?",
     "choices": [
@@ -52074,13 +52074,13 @@
     "image": ""
   },
   {
-    "id": "microbiology_parasitology_05_2_20_10",
+    "id": "microbiology_parasitology_05_2_21_10",
     "setId": "microbiology_parasitology_9baf9a0f",
     "sourceId": "바이러스2 20-10",
     "subject": "Microbiology & Parasitology",
-    "section": "05 바이러스 RNA·간염",
+    "section": "rat",
     "sections": [
-      "05 바이러스 RNA·간염"
+      "rat"
     ],
     "question": "71세 여성이 38℃ 이상의 고열과 두통, 전신 권태, 근육통과 기침으로 왔다. 숨이 차고 호흡이 곤란하였다. 가슴 X선에서 폐 침윤의 폐렴 소견을 보였다. 객담 검사에서 세균배양은 음성, 코로나 RT-PCR에서 양성이었다. 원인 바이러스에 관한 설명으로 옳지 않은 것은?",
     "choices": [
@@ -52101,9 +52101,9 @@
     "setId": "microbiology_parasitology_9baf9a0f",
     "sourceId": "바이러스3 20-1",
     "subject": "Microbiology & Parasitology",
-    "section": "05 바이러스 RNA·간염",
+    "section": "rat",
     "sections": [
-      "05 바이러스 RNA·간염"
+      "rat"
     ],
     "question": "떨림, 간헐적 근육경련 및 운동 조정상실이 있는 65세 여자환자가 급속한 진행성 치매로 병원에 왔다. 뇌척수액과 혈청에서 세균 및 바이러스 감염 검사는 음성이었다. 편도선 생검조직의 웨스턴블롯으로 원인체를 확인할 수 있었다. 원인체에 대한 설명으로 올바른 것은?",
     "choices": [
@@ -52120,13 +52120,13 @@
     "image": ""
   },
   {
-    "id": "microbiology_parasitology_05_3_20_2a",
+    "id": "microbiology_parasitology_05_3_21_7",
     "setId": "microbiology_parasitology_9baf9a0f",
     "sourceId": "바이러스3 20-2A",
     "subject": "Microbiology & Parasitology",
-    "section": "05 바이러스 RNA·간염",
+    "section": "rat",
     "sections": [
-      "05 바이러스 RNA·간염"
+      "rat"
     ],
     "question": "3세 된 남아가 기침, 콧물, 결막염 증세로 병원에 왔다. 신체진찰에서 구강의 볼 점막 안 홍반에 회백색의 중심부가 존재하는 반점(Koplik spot)이 관찰되었다. 환아는 2~3일 후 피부에 발진이 났다. 원인 바이러스의 특징이 아닌 것은?",
     "choices": [
@@ -52147,9 +52147,9 @@
     "setId": "microbiology_parasitology_9baf9a0f",
     "sourceId": "바이러스3 20-2B",
     "subject": "Microbiology & Parasitology",
-    "section": "05 바이러스 RNA·간염",
+    "section": "rat",
     "sections": [
-      "05 바이러스 RNA·간염"
+      "rat"
     ],
     "question": "45세 남자의 정기건강검진에서 얻은 혈청검사 결과는 HBsAg(-), Anti-HBs(+), HBeAg(-), total anti-HBc(+)이었다. 이 남자의 현재 상태는?",
     "choices": [
@@ -52170,9 +52170,9 @@
     "setId": "microbiology_parasitology_9baf9a0f",
     "sourceId": "바이러스3 20-3",
     "subject": "Microbiology & Parasitology",
-    "section": "05 바이러스 RNA·간염",
+    "section": "rat",
     "sections": [
-      "05 바이러스 RNA·간염"
+      "rat"
     ],
     "question": "2세와 4세 남매가 열, 코막힘, 목아픔을 호소하다가 둘다 컹컹거리는 기침과 목이 쉬어서 병원에 왔다. 청진에서 가슴에 쌕쌕거리는 소리를 확인할 수 있었다. 가장 가능성이 높은 바이러스는?",
     "choices": [
@@ -52193,9 +52193,9 @@
     "setId": "microbiology_parasitology_9baf9a0f",
     "sourceId": "바이러스3 20-4",
     "subject": "Microbiology & Parasitology",
-    "section": "05 바이러스 RNA·간염",
+    "section": "rat",
     "sections": [
-      "05 바이러스 RNA·간염"
+      "rat"
     ],
     "question": "2개월 영아가 2월에 세기관지염으로 병원에 입원하였다. 아이는 호흡곤란으로 위중한 상태였다. 의사가 처방하였을 약제는?",
     "choices": [
@@ -52212,13 +52212,13 @@
     "image": ""
   },
   {
-    "id": "microbiology_parasitology_05_3_20_5",
+    "id": "microbiology_parasitology_05_2_23_7",
     "setId": "microbiology_parasitology_9baf9a0f",
     "sourceId": "바이러스3 20-5",
     "subject": "Microbiology & Parasitology",
-    "section": "05 바이러스 RNA·간염",
+    "section": "rat",
     "sections": [
-      "05 바이러스 RNA·간염"
+      "rat"
     ],
     "question": "40세 남자가 9월에 벌초 후에 발열, 오한, 두통이 나타나고 안면홍조와 출혈반점이 있어 병원에 왔다. 발열 후 5일경에 혈압저하가 나타나 3일간 지속되며, 신부전으로 인한 질소혈증, 심한 단백뇨가 동반되었다. 원인 바이러스의 특징이 아닌 것은?",
     "choices": [
@@ -52239,9 +52239,9 @@
     "setId": "microbiology_parasitology_9baf9a0f",
     "sourceId": "바이러스3 20-6",
     "subject": "Microbiology & Parasitology",
-    "section": "05 바이러스 RNA·간염",
+    "section": "rat",
     "sections": [
-      "05 바이러스 RNA·간염"
+      "rat"
     ],
     "question": "2009년 전세계적으로 유행한 H1N1 독감(돼지독감) 바이러스는 항원 대변이를 통해 만들어진 새로운 바이러스였다. 이것이 가능하게 한 influenza virus의 특성은?",
     "choices": [
@@ -52262,9 +52262,9 @@
     "setId": "microbiology_parasitology_9baf9a0f",
     "sourceId": "바이러스3 20-7",
     "subject": "Microbiology & Parasitology",
-    "section": "05 바이러스 RNA·간염",
+    "section": "rat",
     "sections": [
-      "05 바이러스 RNA·간염"
+      "rat"
     ],
     "question": "성질이 난폭했던 야생너구리에게 물린 사람이 병원에 왔다. 적절한 조치에 해당하는 것은?",
     "choices": [
@@ -52285,9 +52285,9 @@
     "setId": "microbiology_parasitology_9baf9a0f",
     "sourceId": "바이러스3 20-8",
     "subject": "Microbiology & Parasitology",
-    "section": "05 바이러스 RNA·간염",
+    "section": "rat",
     "sections": [
-      "05 바이러스 RNA·간염"
+      "rat"
     ],
     "question": "36세 여자가 등산에 갔다 온 후에 고열, 피로, 식욕 저하, 구토, 설사, 복통 등의 증상이 나타나고 백혈구와 혈소판이 감소하여서 입원하였다. 원인 바이러스의 특징이 아닌 것은?",
     "choices": [
@@ -52308,9 +52308,9 @@
     "setId": "microbiology_parasitology_9baf9a0f",
     "sourceId": "바이러스3 20-9",
     "subject": "Microbiology & Parasitology",
-    "section": "05 바이러스 RNA·간염",
+    "section": "rat",
     "sections": [
-      "05 바이러스 RNA·간염"
+      "rat"
     ],
     "question": "17세 남자가 고열과 권태, 식욕부진과 함께 한 쪽 귀와 턱이 아프고 귀 밑이 부어오르는 증상으로 병원에 왔다. 이 환자가 겪게 될 합병증으로 가장 가능성이 높은 것은?",
     "choices": [
@@ -52327,13 +52327,13 @@
     "image": ""
   },
   {
-    "id": "microbiology_parasitology_05_3_20_10",
+    "id": "microbiology_parasitology_05_2_20_10",
     "setId": "microbiology_parasitology_9baf9a0f",
     "sourceId": "바이러스3 20-10",
     "subject": "Microbiology & Parasitology",
-    "section": "05 바이러스 RNA·간염",
+    "section": "rat",
     "sections": [
-      "05 바이러스 RNA·간염"
+      "rat"
     ],
     "question": "71세 여성이 38℃ 이상의 고열과 두통, 전신 권태, 근육통과 기침으로 왔다. 숨이 차고 호흡이 곤란하였다. 가슴 X선에서 폐 침윤의 폐렴 소견을 보였다. 객담 검사에서 세균배양은 음성, 코로나 RT-PCR에서 양성이었다. 원인 바이러스에 관한 설명으로 옳지 않은 것은?",
     "choices": [
