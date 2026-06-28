@@ -7,7 +7,11 @@ function clean(value) {
 }
 
 function slug(value) {
-  return clean(value).toLowerCase().replace(/[^a-z0-9]+/g, "_").replace(/^_+|_+$/g, "");
+  return clean(value)
+    .toLowerCase()
+    .normalize("NFKD")
+    .replace(/[^a-z0-9]+/g, "_")
+    .replace(/^_+|_+$/g, "");
 }
 
 function hash(value, length = 8) {
@@ -17,9 +21,8 @@ function hash(value, length = 8) {
 function decodeHtml(value = "") {
   const named = { amp: "&", lt: "<", gt: ">", quot: '"', apos: "'", nbsp: " " };
   return String(value)
-    .replace(/<script[\s\S]*?<\/script>/gi, "")
-    .replace(/<style[\s\S]*?<\/style>/gi, "")
     .replace(/<br\s*\/?>/gi, "\n")
+    .replace(/<\/p>/gi, "\n")
     .replace(/<[^>]+>/g, " ")
     .replace(/&(#x[\da-f]+|#\d+|[a-z]+);/gi, (_, entity) => {
       if (entity.startsWith("#")) {
@@ -55,15 +58,25 @@ function extractLiteral(source, variable) {
       else if (character === '"') quoted = false;
     } else if (character === '"') quoted = true;
     else if (character === opener) depth += 1;
-    else if (character === closer && --depth === 0) return JSON.parse(source.slice(start, index + 1));
+    else if (character === closer && --depth === 0) {
+      return JSON.parse(source.slice(start, index + 1));
+    }
   }
   throw new Error(`Incomplete ${variable} data.`);
 }
 
+function metaFromHtml(html) {
+  return extractLiteral(html, "IMPORT_META") || extractLiteral(html, "QUIZ_META") || {};
+}
+
 function answerValue(value, zeroBased = false) {
   const values = Array.isArray(value) ? value : [value];
-  const normalized = [...new Set(values.map(Number).filter(Number.isInteger).map((number) => number + (zeroBased ? 1 : 0)))]
-    .sort((left, right) => left - right);
+  const normalized = [...new Set(
+    values
+      .map(Number)
+      .filter(Number.isInteger)
+      .map((number) => number + (zeroBased ? 1 : 0))
+  )].sort((left, right) => left - right);
   return normalized.length === 1 ? normalized[0] : normalized;
 }
 
@@ -101,7 +114,6 @@ function takePriorId(context, section, sourceId, questionText, anatomy = false) 
     context.usedOldIds.add(textMatch);
     return textMatch;
   }
-
   const source = sourceCode(sourceId, 0);
   const lookupKey = anatomy ? source : `${sectionCode(section)}|${source}`;
   const bySource = context.oldBySource.get(lookupKey) || [];
@@ -132,9 +144,14 @@ async function saveImage(dataUrl, id, imageDir) {
 
 function validQuestion(question) {
   const answers = Array.isArray(question.answer) ? question.answer : [question.answer];
-  return question.id && question.subject && question.section && question.question &&
-    Array.isArray(question.choices) && question.choices.length >= 2 && answers.length &&
-    answers.every((answer) => Number.isInteger(answer) && answer >= 1 && answer <= question.choices.length);
+  return question.id
+    && question.subject
+    && question.section
+    && question.question
+    && Array.isArray(question.choices)
+    && question.choices.length >= 2
+    && answers.length
+    && answers.every((answer) => Number.isInteger(answer) && answer >= 1 && answer <= question.choices.length);
 }
 
 function anatomySection(raw, histology) {
@@ -146,7 +163,7 @@ function anatomySection(raw, histology) {
 }
 
 function detectParser(html) {
-  if (/<div class="card"[^>]+data-answer=/i.test(html) && extractLiteral(html, "IMG_MAP")) return "anatomy";
+  if (/<div[^>]+class="card"[^>]+data-answer=/i.test(html) && extractLiteral(html, "IMG_MAP")) return "anatomy";
   const data = extractLiteral(html, "DATA");
   if (Array.isArray(data) && data[0]?.imageData !== undefined) return "microbiology";
   const questions = extractLiteral(html, "QUESTIONS");
@@ -160,7 +177,7 @@ function detectParser(html) {
   throw new Error("This HTML question format is not supported yet.");
 }
 
-const PARSER_INFO = {
+const DEFAULT_PARSER_INFO = {
   anatomy: { code: "anatomy", subject: "Anatomy" },
   biochemistry: { code: "biochemistry", subject: "Biochemistry & Genetics" },
   physiology: { code: "physiology", subject: "Physiology" },
@@ -170,51 +187,105 @@ const PARSER_INFO = {
   pharmacology: { code: "pharmacology", subject: "Pharmacology" }
 };
 
+function parserInfo(type, html) {
+  const info = { ...DEFAULT_PARSER_INFO[type] };
+  const meta = metaFromHtml(html);
+  if (meta.subject) info.subject = clean(meta.subject);
+  if (meta.code) info.code = slug(meta.code) || hash(meta.code);
+  return info;
+}
+
 function arrayConfig(type, html) {
   if (type === "microbiology") {
     return {
-      source: extractLiteral(html, "DATA"), sourceId: (q) => q.id, section: (q) => q.section,
-      question: (q) => q.stem, choices: (q) => q.options || [], answer: (q) => q.answer,
-      explanation: (q) => q.explanation, image: (q) => q.imageData || "",
-      examSource: (q) => q.id, zeroBased: true
+      source: extractLiteral(html, "DATA"),
+      sourceId: (q) => q.id,
+      section: (q) => q.section,
+      sections: (q) => Array.isArray(q.sections) ? q.sections : [q.section],
+      question: (q) => q.stem,
+      choices: (q) => q.options || [],
+      answer: (q) => q.answer,
+      explanation: (q) => q.explanation,
+      image: (q) => q.imageData || "",
+      examSource: (q) => q.examSource || q.id,
+      zeroBased: true
     };
   }
   const source = extractLiteral(html, "QUESTIONS");
-  if (type === "biochemistry") return {
-    source, sourceId: (q) => q.id, section: (q) => q.section, question: (q) => q.question,
-    choices: (q) => q.options || [], answer: (q) => q.answer, explanation: (q) => q.explanation,
-    image: (q) => q.image || "", examSource: (q) => q.source, zeroBased: false
-  };
-  if (type === "physiology") return {
-    source, sourceId: (q) => q.id, section: (q) => q.section, question: (q) => q.q,
-    choices: (q) => q.opts || [], answer: (q) => q.ans, explanation: (q) => q.exp,
-    image: (q) => q.image || "", examSource: (q) => q.file, zeroBased: true
-  };
+  if (type === "biochemistry") {
+    return {
+      source,
+      sourceId: (q) => q.id,
+      section: (q) => q.section,
+      question: (q) => q.question,
+      choices: (q) => q.options || [],
+      answer: (q) => q.answer,
+      explanation: (q) => q.explanation,
+      image: (q) => q.image || "",
+      examSource: (q) => q.source,
+      zeroBased: false
+    };
+  }
+  if (type === "physiology") {
+    return {
+      source,
+      sourceId: (q) => q.id,
+      section: (q) => q.section,
+      question: (q) => q.q,
+      choices: (q) => q.opts || [],
+      answer: (q) => q.ans,
+      explanation: (q) => q.exp,
+      image: (q) => q.image || "",
+      examSource: (q) => q.file,
+      zeroBased: true
+    };
+  }
   if (type === "pathology") {
     const images = extractLiteral(html, "IMG") || {};
     return {
-      source, sourceId: (q) => q.num, section: (q) => q.sec, question: (q) => q.q,
-      choices: (q) => q.opts || [], answer: (q) => q.ans, explanation: (q) => q.expl,
-      image: (q) => images[q.num] || "", examSource: (q) => q.num, zeroBased: true
+      source,
+      sourceId: (q) => q.num,
+      section: (q) => q.sec,
+      question: (q) => q.q,
+      choices: (q) => q.opts || [],
+      answer: (q) => q.ans,
+      explanation: (q) => q.expl,
+      image: (q) => images[q.num] || "",
+      examSource: (q) => q.num,
+      zeroBased: true
     };
   }
-  if (type === "previous") return {
-    source, sourceId: (q) => q.id, section: (q) => `인구기 ${q.source_short || q.file_display || q.file}`,
-    sections: (q) => [q.section, `인구기 ${q.source_short || q.file_display || q.file}`],
-    question: (q) => q.stem,
-    choices: (q) => (q.options || []).map((choice) => choice.text), answer: (q) => q.answer,
-    explanation: (q) => q.explain, image: (q) => q.image || "", zeroBased: false
-  };
+  if (type === "previous") {
+    return {
+      source,
+      sourceId: (q) => q.id,
+      section: (q) => `인구기 ${q.source_short || q.file_display || q.file}`,
+      sections: (q) => [q.section, `인구기 ${q.source_short || q.file_display || q.file}`],
+      question: (q) => q.stem,
+      choices: (q) => (q.options || []).map((choice) => choice.text),
+      answer: (q) => q.answer,
+      explanation: (q) => q.explain,
+      image: (q) => q.image || "",
+      zeroBased: false
+    };
+  }
   return {
-    source, sourceId: (q) => q.id, section: (q) => q.section, question: (q) => q.stem,
-    choices: (q) => q.options || [], answer: (q) => q.answer, explanation: (q) => q.explanation,
-    image: (q) => q.image || "", examSource: (q) => q.id, zeroBased: true
+    source,
+    sourceId: (q) => q.id,
+    section: (q) => q.section,
+    question: (q) => q.stem,
+    choices: (q) => q.options || [],
+    answer: (q) => q.answer,
+    explanation: (q) => q.explanation,
+    image: (q) => q.image || "",
+    examSource: (q) => q.id,
+    zeroBased: true
   };
 }
 
 async function parseArray(type, html, context) {
   const config = arrayConfig(type, html);
-  const info = PARSER_INFO[type];
+  const info = parserInfo(type, html);
   const questions = [];
   for (let index = 0; index < config.source.length; index += 1) {
     const source = config.source[index];
@@ -226,28 +297,33 @@ async function parseArray(type, html, context) {
       priorId || `${info.code}_${sectionCode(section)}_${sourceCode(sourceId, index + 1)}`,
       context.seen
     );
+    const choices = config.choices(source).map(clean).filter(Boolean);
+    const explanation = clean(config.explanation(source));
     const question = {
-      id, setId: context.setId, sourceId, subject: info.subject, section,
+      id,
+      setId: context.setId,
+      sourceId,
+      subject: clean(source.subject) || info.subject,
+      section,
       sections: config.sections ? config.sections(source).map(clean).filter(Boolean) : [section],
       question: questionText,
-      choices: config.choices(source).map(clean).filter(Boolean),
+      choices,
       answer: answerValue(config.answer(source), config.zeroBased),
       examSource: config.examSource ? clean(config.examSource(source)) : "",
       examRank: config.examSource ? examRank(config.examSource(source), type) : 0,
-      explanation: clean(config.explanation(source)),
+      explanation,
       image: await saveImage(config.image(source), id, context.imageDir)
     };
     if (!validQuestion(question)) throw new Error(`Invalid question ${sourceId} in ${context.filename}.`);
     questions.push(question);
   }
-  return type === "previous"
-    ? questions
-    : questions.sort((left, right) => right.examRank - left.examRank);
+  return type === "previous" ? questions : questions.sort((left, right) => right.examRank - left.examRank);
 }
 
 async function parseAnatomy(html, context) {
   const imageMap = extractLiteral(html, "IMG_MAP") || {};
-  const cards = [...html.matchAll(/<div class="card"(?<attrs>[^>]*)>(?<body>[\s\S]*?)(?=<div class="card"|<\/section>)/g)];
+  const cards = [...html.matchAll(/<div(?<attrs>[^>]*)>(?<body>[\s\S]*?)(?=<div[^>]+class="card"|<\/main>)/g)]
+    .filter((match) => /class="card"/.test(match.groups.attrs) && /data-answer=/.test(match.groups.attrs));
   const questions = [];
   for (let index = 0; index < cards.length; index += 1) {
     const attrs = cards[index].groups.attrs;
@@ -255,21 +331,25 @@ async function parseAnatomy(html, context) {
     const sourceId = attribute(attrs, "data-id") || String(index + 1);
     const rawSection = attribute(attrs, "data-big");
     const section = anatomySection(rawSection, attribute(attrs, "data-histo") === "1");
-    const questionText = decodeHtml(/<div class="stem">(?<text>[\s\S]*?)<\/div>/.exec(body)?.groups.text);
+    const questionText = decodeHtml(/<div[^>]+class="qtext"[^>]*>(?<text>[\s\S]*?)<\/div>/.exec(body)?.groups.text);
     const priorId = takePriorId(context, section, sourceId, questionText, true);
     const id = uniqueId(priorId || `anatomy_${sectionCode(rawSection)}_${sourceCode(sourceId, index + 1)}`, context.seen);
-    const imageKey = /<img[^>]+class="qimg"[^>]+data-img="(?<key>[^"]+)"/i.exec(body)?.groups.key;
-    const answerBox = /<div class="answer-box">(?<text>[\s\S]*)$/.exec(body)?.groups.text || "";
+    const imageKey = /<div[^>]+class="qimg"[^>]+data-img="(?<key>[^"]+)"/i.exec(body)?.groups.key;
+    const answerBox = /<div[^>]+class="answer"[^>]*>(?<text>[\s\S]*)$/.exec(body)?.groups.text || "";
     const question = {
-      id, setId: context.setId, sourceId, subject: "Anatomy", section,
+      id,
+      setId: context.setId,
+      sourceId,
+      subject: "Anatomy",
+      section,
       sections: [section],
       question: questionText,
-      choices: [...body.matchAll(/<button class="choice"[^>]*data-choice="\d+"[^>]*>(?<text>[\s\S]*?)<\/button>/g)]
+      choices: [...body.matchAll(/<button[^>]*data-choice="\d+"[^>]*>(?<text>[\s\S]*?)<\/button>/g)]
         .map((match) => decodeHtml(match.groups.text).replace(/^\d+\)\s*/, "")),
       answer: Number(attribute(attrs, "data-answer")),
       examSource: sourceId,
       examRank: examRank(sourceId, "anatomy"),
-      explanation: decodeHtml(answerBox.replace(/<details[\s\S]*?<\/details>/gi, "")),
+      explanation: decodeHtml(answerBox.replace(/<\/div>/gi, "")),
       image: imageKey ? await saveImage(imageMap[decodeHtml(imageKey)] || "", id, context.imageDir) : ""
     };
     if (!validQuestion(question)) throw new Error(`Invalid anatomy question ${sourceId}.`);
@@ -304,16 +384,20 @@ export async function importIncoming({ root, now = new Date() }) {
 
   let questions = await readJson(path.join(dataDir, "questions.json"), []);
   let sets = await readJson(path.join(dataDir, "question-sets.json"), []);
+
   const filenames = (await fs.readdir(incomingDir)).filter((filename) => filename.toLowerCase().endsWith(".html")).sort();
-  if (!filenames.length) return { processed: [], totalQuestions: questions.length, message: "No HTML files in incoming." };
+  if (!filenames.length) {
+    return { processed: [], totalQuestions: questions.length, message: "No HTML files in incoming." };
+  }
 
   const processed = [];
   for (const filename of filenames) {
     const html = await fs.readFile(path.join(incomingDir, filename), "utf8");
     const type = detectParser(html);
-    const info = PARSER_INFO[type];
+    const info = parserInfo(type, html);
     const existingSet = sets.find((set) => set.sourceFile === filename);
     const setId = existingSet?.id || `${info.code}_${hash(filename.toLowerCase())}`;
+
     const oldQuestions = questions.filter((question) => question.setId === setId);
     const oldByText = new Map();
     const oldBySource = new Map();
@@ -325,13 +409,14 @@ export async function importIncoming({ root, now = new Date() }) {
       oldByText.set(textKey, [...(oldByText.get(textKey) || []), question.id]);
       oldBySource.set(sourceKey, [...(oldBySource.get(sourceKey) || []), question.id]);
     }
+
     const seen = new Set(questions.filter((question) => question.setId !== setId).map((question) => question.id));
     await removeOldImages(oldQuestions, root);
     const context = { setId, oldByText, oldBySource, usedOldIds: new Set(), seen, imageDir, filename };
-    const converted = type === "anatomy"
-      ? await parseAnatomy(html, context)
-      : await parseArray(type, html, context);
+    const converted = type === "anatomy" ? await parseAnatomy(html, context) : await parseArray(type, html, context);
+
     questions = [...questions.filter((question) => question.setId !== setId), ...converted];
+
     const metadata = {
       id: setId,
       name: path.basename(filename, path.extname(filename)),
@@ -342,6 +427,7 @@ export async function importIncoming({ root, now = new Date() }) {
       updatedAt: now.toISOString()
     };
     sets = [...sets.filter((set) => set.id !== setId), metadata].sort((left, right) => left.name.localeCompare(right.name));
+
     const archiveName = `${now.toISOString().replace(/\D/g, "").slice(0, 14)}-${filename}`;
     await fs.rename(path.join(incomingDir, filename), path.join(archiveDir, archiveName));
     processed.push({ filename, setId, subject: info.subject, questions: converted.length });
