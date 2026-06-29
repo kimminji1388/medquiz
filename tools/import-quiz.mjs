@@ -292,7 +292,7 @@ async function parseArray(type, html, context) {
     const sourceId = clean(config.sourceId(source)) || String(index + 1);
     const section = clean(config.section(source)) || "General";
     const questionText = clean(config.question(source)).replace(/^\d+\.\s*/, "");
-    const priorId = takePriorId(context, section, sourceId, questionText);
+    const priorId = type === "microbiology" ? "" : takePriorId(context, section, sourceId, questionText);
     const id = uniqueId(
       priorId || `${info.code}_${sectionCode(section)}_${sourceCode(sourceId, index + 1)}`,
       context.seen
@@ -317,7 +317,7 @@ async function parseArray(type, html, context) {
     if (!validQuestion(question)) throw new Error(`Invalid question ${sourceId} in ${context.filename}.`);
     questions.push(question);
   }
-  return type === "previous" ? questions : questions.sort((left, right) => right.examRank - left.examRank);
+  return (type === "previous" || type === "microbiology") ? questions : questions.sort((left, right) => right.examRank - left.examRank);
 }
 
 async function parseAnatomy(html, context) {
