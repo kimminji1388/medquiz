@@ -534,3 +534,47 @@ input[type="password"] {
     min-height: 420px;
   }
 }
+/* Mobile quiz readability fix */
+.quiz-card {
+  width: 100%;
+  max-width: 100%;
+  overflow-x: hidden;
+}
+
+.meta,
+.tag {
+  max-width: 100%;
+}
+
+.tag {
+  overflow-wrap: anywhere;
+  word-break: break-word;
+  white-space: normal;
+}
+
+.question-title {
+  font-size: clamp(16px, 4.2vw, 24px);
+  line-height: 1.55;
+  overflow-wrap: anywhere;
+  word-break: keep-all;
+}
+
+.choice {
+  font-size: clamp(15px, 4vw, 18px);
+  overflow-wrap: anywhere;
+}
+
+@media (max-width: 820px) {
+  .panel {
+    padding: 14px;
+  }
+
+  .question-title {
+    font-size: clamp(16px, 4.2vw, 21px);
+  }
+
+  .tag {
+    font-size: 12px;
+    line-height: 1.35;
+  }
+}
