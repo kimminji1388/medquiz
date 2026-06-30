@@ -52348,5 +52348,6604 @@
     "examRank": 200,
     "explanation": "핵심 단서: 귀밑샘(이하선) 부종 = 볼거리(mumps). 해설: 볼거리는 viremia로 생식샘으로 퍼져 사춘기 이후 남성에서 고환염(orchitis)을 합병한다(환자가 남성). 암기: 볼거리(mumps)=이하선염, 사춘기 후 남성 고환염. 난소염은 여성.",
     "image": ""
+  },
+  {
+    "id": "physiology_a7dfc0de_23_3_2_1_2",
+    "setId": "physiology_91abc994",
+    "sourceId": "23인구기3-2차-1",
+    "subject": "Physiology",
+    "section": "소화생리",
+    "sections": [
+      "소화생리"
+    ],
+    "question": "장신경계에 대한 설명으로 옳은 것을 모두 고르시오. 2 가. 척추 손상 시 기능을 상실한다. 나. 근육층신경얼기(myenteric plexus)는 장 운동을 조절한다. 다. 점막하신경얼기(submucosal plexus)는 위장관 분비 및 국소혈류 흐름을 조절한다. 라. 위장관만의 독립적인 반사 기능을 수행할 수 있다. 마. 아세틸콜린(ACh)은 조임근을 수축시킨다. 바. 외인성 신경과 내인성 신경은 각각 독립적으로 작용한다.",
+    "choices": [
+      "가, 나, 다",
+      "나, 다, 라",
+      "나, 다, 라, 바",
+      "나, 라, 마",
+      "가, 나, 다, 바"
+    ],
+    "answer": 2,
+    "examSource": "TalkFile_23학번 인구기3_2차.pdf",
+    "examRank": 300,
+    "explanation": "핵심 단서: 소화생리 핵심 개념. 정답: 2번. 암기 포인트: 같은 표현의 유사 문항도 함께 확인하세요.",
+    "image": ""
+  },
+  {
+    "id": "physiology_a7dfc0de_23_3_2_2_2",
+    "setId": "physiology_91abc994",
+    "sourceId": "23인구기3-2차-2",
+    "subject": "Physiology",
+    "section": "소화생리",
+    "sections": [
+      "소화생리"
+    ],
+    "question": "위장관에서 교감신경과 부교감신경의 기능을 바르게 연결한 것을 고르시오",
+    "choices": [
+      "교감신경 - 장 분비 증가",
+      "교감신경 - 점성이 높은 침 분비 억제",
+      "부교감신경 - 세동맥을 이완하여 직접적으로 혈류 증가",
+      "부교감신경 - 소마토스타틴(somatostatin) 분비 억제",
+      "부교감신경 - 장⬝위(억제)반사에서 날문펌프를 촉진하고 날문조임근을 이완"
+    ],
+    "answer": 4,
+    "examSource": "TalkFile_23학번 인구기3_2차.pdf",
+    "examRank": 300,
+    "explanation": "핵심 단서: 소화생리 핵심 개념. 정답: 4번. 암기 포인트: 같은 표현의 유사 문항도 함께 확인하세요.",
+    "image": ""
+  },
+  {
+    "id": "physiology_a7dfc0de_23_3_2_3_2",
+    "setId": "physiology_91abc994",
+    "sourceId": "23인구기3-2차-3",
+    "subject": "Physiology",
+    "section": "소화생리",
+    "sections": [
+      "소화생리"
+    ],
+    "question": "위 배출 조절에 대한 설명으로 옳은 것을 모두 고르시오. 1 가. 가스트린은 위체부와 날문펌프 활동을 증가시켜 위 배출을 촉진한다. 나. 산을 많이 함유한 미즙이 십이지장에 도달하면 콜레시스토키닌(CCK)가 분비되어 가스트린으로 인한 위 운동 증가를 차단하여 위 배출을 억제한다. 다. 위산억제펩타이드(GIP)는 지방에 대한 반응으로 상부 소장에 분비되어 위 배출을 억제한다. 라. 십이지장 미즙의 고장성 억제는 장⬝위억제반사를 유발하여 위 배출을 억제한다. 마. 십이지장 미즙에 지방과 탄수화물의 분해산물이 많으면 장·위억제반사를 유발하여 위 배출을 억제한다. 바. 위(stomach) 내 음식물 중 탄수화물>지방>단백질 순으로 위 배출이 빠르다.",
+    "choices": [
+      "가, 다, 라",
+      "가, 나, 라",
+      "가, 다, 마",
+      "나, 다, 라, 바",
+      "다, 라, 마, 바"
+    ],
+    "answer": 1,
+    "examSource": "TalkFile_23학번 인구기3_2차.pdf",
+    "examRank": 300,
+    "explanation": "핵심 단서: 소화생리 핵심 개념. 정답: 1번. 암기 포인트: 같은 표현의 유사 문항도 함께 확인하세요.",
+    "image": ""
+  },
+  {
+    "id": "physiology_a7dfc0de_23_3_2_4_2",
+    "setId": "physiology_91abc994",
+    "sourceId": "23인구기3-2차-4",
+    "subject": "Physiology",
+    "section": "소화생리",
+    "sections": [
+      "소화생리"
+    ],
+    "question": "식후 위장관 혈류량 변화에 대한 설명으로 옳은 것을 고르시오",
+    "choices": [
+      "위산 분비가 증가하여 혈류량을 감소시킨다.",
+      "장운동이 증가하므로 혈류량이 감소한다.",
+      "위장관 벽에서 산소 농도가 증가하여 혈관 확장 물질을 증가시켜 혈류량을 증가시킨다.",
+      "위장관 샘이 키닌(kinin)을 위장관 벽 측으로 분비하여 혈류량을 감소시킨다.",
+      "소화과정 중에 콜레시스토키닌(CCK)가 분비되어 혈류량을 증가시킨다."
+    ],
+    "answer": 5,
+    "examSource": "TalkFile_23학번 인구기3_2차.pdf",
+    "examRank": 300,
+    "explanation": "핵심 단서: 소화생리 핵심 개념. 정답: 5번. 암기 포인트: 같은 표현의 유사 문항도 함께 확인하세요.",
+    "image": ""
+  },
+  {
+    "id": "physiology_a7dfc0de_23_3_2_5_2",
+    "setId": "physiology_91abc994",
+    "sourceId": "23인구기3-2차-5",
+    "subject": "Physiology",
+    "section": "소화생리",
+    "sections": [
+      "소화생리"
+    ],
+    "question": "서파(slow wave)의 기능으로 옳은 것을 고르시오",
+    "choices": [
+      "항상 활동전압을 발생시킨다.",
+      "부교감신경에 의해 발생한다.",
+      "위체부에서 십이지장, 회장으로 내려갈수록 빈도가 빨라진다.",
+      "막전압의 활동적 변동으로, 위장관 민무늬근육의 수축에 관여한다.",
+      "민무늬근육에 필요한 Ca2+은 ICC와 연결된 틈새이음(gap junction)을 통해 유입된다."
+    ],
+    "answer": 4,
+    "examSource": "TalkFile_23학번 인구기3_2차.pdf",
+    "examRank": 300,
+    "explanation": "핵심 단서: 기타생리 핵심 개념. 정답: 4번. 암기 포인트: 같은 표현의 유사 문항도 함께 확인하세요.",
+    "image": ""
+  },
+  {
+    "id": "physiology_a7dfc0de_23_3_2_6_2",
+    "setId": "physiology_91abc994",
+    "sourceId": "23인구기3-2차-6",
+    "subject": "Physiology",
+    "section": "소화생리",
+    "sections": [
+      "소화생리"
+    ],
+    "question": "미주신경 절단술(vagotomy) 후 위 배출이 지연되는 이유는?",
+    "choices": [
+      "위⬝장의 연동운동 손실",
+      "모틸린(motilin) 분비 감소",
+      "가스트린(gastrin) 분비 증가",
+      "위 날문방의 과도한 연동수축 증가",
+      "위의 수용성 이완(receptive relaxation)의 상실로 위 바닥(fundus)의 저장 능력 감소"
+    ],
+    "answer": 5,
+    "examSource": "TalkFile_23학번 인구기3_2차.pdf",
+    "examRank": 300,
+    "explanation": "핵심 단서: 소화생리 핵심 개념. 정답: 5번. 암기 포인트: 같은 표현의 유사 문항도 함께 확인하세요.",
+    "image": ""
+  },
+  {
+    "id": "physiology_a7dfc0de_23_3_2_7_2",
+    "setId": "physiology_91abc994",
+    "sourceId": "23인구기3-2차-7",
+    "subject": "Physiology",
+    "section": "소화생리",
+    "sections": [
+      "소화생리"
+    ],
+    "question": "직장암 수술 후 내괄약근은 보존되었으나 외괄약근의 신경 손상이 발생한 환자가 있다. 다음 중 이 환자의 배변 생리⬝신경 회로를 가장 잘 설명한 것은?",
+    "choices": [
+      "바깥항문조임근의 수의적 조절이 불가능하여, 배변을 지연시키는 능력이 감소한다.",
+      "배변 시 복근 수축과 발살바 조작(Valsalva maneuver)은 더 이상 배변에 도움을 줄 수 없다.",
+      "골반 신경(pelvic nerve)을 통한 내인성 반사는 소실되고, 수의적 배변만 가능하다.",
+      "직장 팽창 시 속항문조임근 수축이 증가하여 배변이 어려워진다.",
+      "대변이 직장에 도달해도 직장 탈장을 감지하지 못한다."
+    ],
+    "answer": 1,
+    "examSource": "TalkFile_23학번 인구기3_2차.pdf",
+    "examRank": 300,
+    "explanation": "핵심 단서: 소화생리 핵심 개념. 정답: 1번. 암기 포인트: 같은 표현의 유사 문항도 함께 확인하세요.",
+    "image": ""
+  },
+  {
+    "id": "physiology_a7dfc0de_23_3_2_8_2",
+    "setId": "physiology_91abc994",
+    "sourceId": "23인구기3-2차-8",
+    "subject": "Physiology",
+    "section": "소화생리",
+    "sections": [
+      "소화생리"
+    ],
+    "question": "십이지장내 고장액(hypertonic)의 미즙이 들어오면 위 배출이 급격히 억제된다. 이 반사 경로에 대한 설명으로 옳은 것을 모두 고르시오. 4 가. 장신경(ENS)의 근층간신경얼기(myenteric plexus)를 통해 직접 조절한다. 나. 척추앞신경절 반사(prevertebral ganglion reflex)에 의해 조절된다. 다. 교감신경에 의해 위바닥(fundus)의 이완이 일어난다. 라. 미주신경에 의해 흥분신호가 촉진된다. 마. 미주신경에 의해 날문조임근 긴장이 억제된다. 바. 장⬝위억제반사에 해당된다.",
+    "choices": [
+      "가, 다, 바",
+      "다, 라, 바",
+      "나, 다, 라",
+      "가, 나, 바",
+      "나, 다, 바"
+    ],
+    "answer": 4,
+    "examSource": "TalkFile_23학번 인구기3_2차.pdf",
+    "examRank": 300,
+    "explanation": "핵심 단서: 소화생리 핵심 개념. 정답: 4번. 암기 포인트: 같은 표현의 유사 문항도 함께 확인하세요.",
+    "image": ""
+  },
+  {
+    "id": "physiology_a7dfc0de_23_3_2_9_2",
+    "setId": "physiology_91abc994",
+    "sourceId": "23인구기3-2차-9",
+    "subject": "Physiology",
+    "section": "소화생리",
+    "sections": [
+      "소화생리"
+    ],
+    "question": "위 배출 속도를 늦추는 요인으로 옳은 것을 고르시오",
+    "choices": [
+      "십이지장 수축",
+      "고지방 식사",
+      "고탄수화물 식사",
+      "가스트린(gastrin) 증가",
+      "십이지장 내 pH 상승"
+    ],
+    "answer": 2,
+    "examSource": "TalkFile_23학번 인구기3_2차.pdf",
+    "examRank": 300,
+    "explanation": "핵심 단서: 소화생리 핵심 개념. 정답: 2번. 암기 포인트: 같은 표현의 유사 문항도 함께 확인하세요.",
+    "image": ""
+  },
+  {
+    "id": "physiology_a7dfc0de_23_3_2_10_2",
+    "setId": "physiology_91abc994",
+    "sourceId": "23인구기3-2차-10",
+    "subject": "Physiology",
+    "section": "소화생리",
+    "sections": [
+      "소화생리"
+    ],
+    "question": "소장 수술 후 환자에서 이동성 복합운동(MMC)가 소실될 때 나타날 수 있는 결과로 가장 옳은 것을 고르시오",
+    "choices": [
+      "소장 내 세균 과증식(SIBO)",
+      "가스트린 분비 감소",
+      "배변반사 감소",
+      "췌장액 분비 감소",
+      "대장운동 감소"
+    ],
+    "answer": 1,
+    "examSource": "TalkFile_23학번 인구기3_2차.pdf",
+    "examRank": 300,
+    "explanation": "핵심 단서: 소화생리 핵심 개념. 정답: 1번. 암기 포인트: 같은 표현의 유사 문항도 함께 확인하세요.",
+    "image": ""
+  },
+  {
+    "id": "physiology_a7dfc0de_23_3_2_11_2",
+    "setId": "physiology_91abc994",
+    "sourceId": "23인구기3-2차-11",
+    "subject": "Physiology",
+    "section": "소화생리",
+    "sections": [
+      "소화생리"
+    ],
+    "question": "45세 남자가 “지방식 후 속이 더부룩하고, 음식이 위에 오래 머문다”고 호소한다. 위내시경 소견은 정상이다. 가장 가능성이 높은 호르몬 이상은?",
+    "choices": [
+      "가스트린(gastrin) 과다 분비",
+      "위산억제펩타이드(GIP) 분비 감소",
+      "콜레시스토키닌(CCK) 과다 분비",
+      "모틸린(motilin) 과다 분비",
+      "세크레틴(secretin) 분비 감소"
+    ],
+    "answer": 3,
+    "examSource": "TalkFile_23학번 인구기3_2차.pdf",
+    "examRank": 300,
+    "explanation": "핵심 단서: 소화생리 핵심 개념. 정답: 3번. 암기 포인트: 같은 표현의 유사 문항도 함께 확인하세요.",
+    "image": ""
+  },
+  {
+    "id": "physiology_a7dfc0de_23_3_2_12_2",
+    "setId": "physiology_91abc994",
+    "sourceId": "23인구기3-2차-12",
+    "subject": "Physiology",
+    "section": "소화생리",
+    "sections": [
+      "소화생리"
+    ],
+    "question": "50세 남자가 GERD로 내원하였다. 위 내용물이 식도로 역류하는 주요 생리적 원인으로 가장 옳은 것을 고르시오",
+    "choices": [
+      "위 배출 증가",
+      "식도 연동운동(peristalsis) 감소",
+      "상부위식도조임근(UES) 압력 감소",
+      "하부위식도조임근(LES) 압력 감소",
+      "하부위식도조임근(LES) 이완 저하"
+    ],
+    "answer": 4,
+    "examSource": "TalkFile_23학번 인구기3_2차.pdf",
+    "examRank": 300,
+    "explanation": "핵심 단서: 소화생리 핵심 개념. 정답: 4번. 암기 포인트: 같은 표현의 유사 문항도 함께 확인하세요.",
+    "image": ""
+  },
+  {
+    "id": "physiology_a7dfc0de_23_3_2_13_2",
+    "setId": "physiology_91abc994",
+    "sourceId": "23인구기3-2차-13",
+    "subject": "Physiology",
+    "section": "소화생리",
+    "sections": [
+      "소화생리"
+    ],
+    "question": "62세 남자가 식사 중 음식을 삼키려 할 때 삼킴반사가 거의 유발되지 않았다. 혀 추진력은 정상이지만, 음식물이 구인두(oropharyngeal)에 오래 정체되었다. 다음 중 가장 가능성이 높은 이상은 무엇인가?",
+    "choices": [
+      "연수의 삼킴중추 흥분 증가",
+      "식도 연동운동(peristalsis) 감소",
+      "상부위식도조임근(UES) 압력 감소",
+      "혀인두신경의 들신경(afferent n.) 감각 입력의 저하",
+      "삼킴을 담당하는 개별 근육의 국소적 손상"
+    ],
+    "answer": 4,
+    "examSource": "TalkFile_23학번 인구기3_2차.pdf",
+    "examRank": 300,
+    "explanation": "핵심 단서: 소화생리 핵심 개념. 정답: 4번. 암기 포인트: 같은 표현의 유사 문항도 함께 확인하세요.",
+    "image": ""
+  },
+  {
+    "id": "physiology_a7dfc0de_23_3_2_14_2",
+    "setId": "physiology_91abc994",
+    "sourceId": "23인구기3-2차-14",
+    "subject": "Physiology",
+    "section": "소화생리",
+    "sections": [
+      "소화생리"
+    ],
+    "question": "식도이완불능증(achalasia)의 원인에 대한 설명 중 O 또는 X에 대해 바르게 짝지은 것은?",
+    "choices": [
+      "O-X-O",
+      "O-O-X",
+      "O-O-O",
+      "X-O-X",
+      "X-X-O"
+    ],
+    "answer": 2,
+    "examSource": "TalkFile_23학번 인구기3_2차.pdf",
+    "examRank": 300,
+    "explanation": "핵심 단서: 소화생리 핵심 개념. 정답: 2번. 암기 포인트: 같은 표현의 유사 문항도 함께 확인하세요.",
+    "image": ""
+  },
+  {
+    "id": "physiology_a7dfc0de_23_3_2_15_2",
+    "setId": "physiology_91abc994",
+    "sourceId": "23인구기3-2차-15",
+    "subject": "Physiology",
+    "section": "소화생리",
+    "sections": [
+      "소화생리"
+    ],
+    "question": "소화관 분비의 일반적 원리에 대한 설명으로 옳은 것을 모두 고르시오. 3 가. 대부분의 소화액은 전적으로 호르몬에 의해 조절된다. 나. 소화액 분비는 기계적⬝화학적 자극에 의해 국소적으로 조절된다. 다. 교감신경의 자극은 대부분 소화관 분비를 촉진한다. 라. 공장과 회장의 샘 분비는 부교감신경의 지배를 받지 않는다. 마. 대장의 처음 ⅔ 부위는 호르몬에 의해 조절된다. 바. 대장 말단 부위의 샘 분비는 미주 부교감신경의 지배를 받는다.",
+    "choices": [
+      "가, 나, 라",
+      "나, 다, 바",
+      "나, 라, 바",
+      "나, 마, 바",
+      "나, 라, 마"
+    ],
+    "answer": 3,
+    "examSource": "TalkFile_23학번 인구기3_2차.pdf",
+    "examRank": 300,
+    "explanation": "핵심 단서: 소화생리 핵심 개념. 정답: 3번. 암기 포인트: 같은 표현의 유사 문항도 함께 확인하세요.",
+    "image": ""
+  },
+  {
+    "id": "physiology_a7dfc0de_23_3_2_16_2",
+    "setId": "physiology_91abc994",
+    "sourceId": "23인구기3-2차-16",
+    "subject": "Physiology",
+    "section": "소화생리",
+    "sections": [
+      "소화생리"
+    ],
+    "question": "침 분비에 대한 설명 중 O 또는 X에 대해 바르게 짝지은 것은?",
+    "choices": [
+      "O-X-O",
+      "O-O-X",
+      "O-O-O",
+      "X-O-X",
+      "X-X-O"
+    ],
+    "answer": 5,
+    "examSource": "TalkFile_23학번 인구기3_2차.pdf",
+    "examRank": 300,
+    "explanation": "핵심 단서: 소화생리 핵심 개념. 정답: 5번. 암기 포인트: 같은 표현의 유사 문항도 함께 확인하세요.",
+    "image": ""
+  },
+  {
+    "id": "physiology_a7dfc0de_23_3_2_17_2",
+    "setId": "physiology_91abc994",
+    "sourceId": "23인구기3-2차-17",
+    "subject": "Physiology",
+    "section": "소화생리",
+    "sections": [
+      "소화생리"
+    ],
+    "question": "침샘관(salivary duct)에서 재흡수 기전과 물질 수송에 대한 설명으로 옳은 것을 모두 고르시오. 2 가. 바닥막 Na⁺/K⁺펌프의 작동으로 세포 내 Na⁺ 농도를 극히 낮게 유지(능동 수송) 나. 꼭대기막 Na⁺/H⁺ 역방향수송에 의해 Na⁺ 관 상피세포로 재흡수(능동수송) 다. 관 분비세포 내 K⁺은 Na⁺/K⁺펌프를 통해 내강으로 분비(능동수송) 라. Cl⁻은 꼭대기막 Cl⁻ 통로와 Cl⁻/HCO₃⁻ 역방향수송을 통해 관 상피세포로 재흡수(수동수송) 마. HCO₃⁻은 Na⁺/HCO₃⁻ 동방향수송을 통해 내강으로 분비(수동 수송) 바. 관 상피세포는 물에 대한 투과도가 낮아 침은 최종적으로 저장성으로 분비",
+    "choices": [
+      "가, 라, 마",
+      "가, 라, 바",
+      "가, 나, 라, 마",
+      "나, 다, 라, 바",
+      "가, 라, 마, 바"
+    ],
+    "answer": 2,
+    "examSource": "TalkFile_23학번 인구기3_2차.pdf",
+    "examRank": 300,
+    "explanation": "핵심 단서: 소화생리 핵심 개념. 정답: 2번. 암기 포인트: 같은 표현의 유사 문항도 함께 확인하세요.",
+    "image": ""
+  },
+  {
+    "id": "physiology_a7dfc0de_23_3_2_18_2",
+    "setId": "physiology_91abc994",
+    "sourceId": "23인구기3-2차-18",
+    "subject": "Physiology",
+    "section": "소화생리",
+    "sections": [
+      "소화생리"
+    ],
+    "question": "심한 탈수 환자에서 침이 끈적하고 점성이 높은 이유는 무엇인가?",
+    "choices": [
+      "교감신경 자극",
+      "침샘관에서 Na⁺ 재흡수 장애",
+      "브라디키닌(bradykinin) 형성 증가",
+      "NaCl 재흡수량이 KHCO₃ 분비량을 초과",
+      "산소결핍으로 아데노신(adenosin) 생성 증가"
+    ],
+    "answer": 1,
+    "examSource": "TalkFile_23학번 인구기3_2차.pdf",
+    "examRank": 300,
+    "explanation": "핵심 단서: 소화생리 핵심 개념. 정답: 1번. 암기 포인트: 같은 표현의 유사 문항도 함께 확인하세요.",
+    "image": ""
+  },
+  {
+    "id": "physiology_a7dfc0de_23_3_2_19_2",
+    "setId": "physiology_91abc994",
+    "sourceId": "23인구기3-2차-19",
+    "subject": "Physiology",
+    "section": "소화생리",
+    "sections": [
+      "소화생리"
+    ],
+    "question": "위산 분비 조절 기전으로 옳은 것을 모두 고르시오. 3 가. 가스트린이 직접 벽세포(parietal cell)을 자극하여 위산 분비 증가 나. 아세틸콜린(ACh)이 직접 벽세포를 자극하여 위산 분비 증가 다. 가스트린이 S 세포에서 세크레틴(secretin) 분비를 억제하여 위산 분비 감소 라. 가스트린이 ECL 세포에서 히스타민(histamine) 분비를 촉진하여 위산 분비 증가 마. 아세틸콜린이 ECL 세포에서 소마토스타틴(somatostatin) 분비를 촉진하여 위산 분비 감소 바. 세크레틴이 D 세포에서 소마토스타틴(somatostatin) 분비를 촉진하여 위산 분비 감소",
+    "choices": [
+      "가, 나, 다, 마",
+      "가, 나, 라, 마",
+      "가, 나, 라, 바",
+      "가, 나, 마, 바",
+      "나, 다, 라, 바"
+    ],
+    "answer": 3,
+    "examSource": "TalkFile_23학번 인구기3_2차.pdf",
+    "examRank": 300,
+    "explanation": "핵심 단서: 소화생리 핵심 개념. 정답: 3번. 암기 포인트: 같은 표현의 유사 문항도 함께 확인하세요.",
+    "image": ""
+  },
+  {
+    "id": "physiology_a7dfc0de_23_3_2_20_2",
+    "setId": "physiology_91abc994",
+    "sourceId": "23인구기3-2차-20",
+    "subject": "Physiology",
+    "section": "소화생리",
+    "sections": [
+      "소화생리"
+    ],
+    "question": "위산 과다 환자에게 양성자 펌프 억제제(PPI)를 투여했을 때 가장 먼저 감소하는 과정은?",
+    "choices": [
+      "활성 펩신(pepsin) 형성",
+      "가스트린 분비",
+      "내인 인자(intrinsic factor) 분비",
+      "H⁺/K⁺ ATPase 활성",
+      "세크레틴 분비"
+    ],
+    "answer": 4,
+    "examSource": "TalkFile_23학번 인구기3_2차.pdf",
+    "examRank": 300,
+    "explanation": "핵심 단서: 소화생리 핵심 개념. 정답: 4번. 암기 포인트: 같은 표현의 유사 문항도 함께 확인하세요.",
+    "image": ""
+  },
+  {
+    "id": "physiology_a7dfc0de_23_3_2_21_2",
+    "setId": "physiology_91abc994",
+    "sourceId": "23인구기3-2차-21",
+    "subject": "Physiology",
+    "section": "소화생리",
+    "sections": [
+      "소화생리"
+    ],
+    "question": "위 절제술 후 내인 인자(IF) 결핍 환자에서 나타날 가능성이 높은 소견은?",
+    "choices": [
+      "악성빈혈(pernicious anemia)",
+      "비타민 B2 결핍",
+      "지방 흡수 감소",
+      "철분 결핍",
+      "Ca2+ 흡수 감소"
+    ],
+    "answer": 1,
+    "examSource": "TalkFile_23학번 인구기3_2차.pdf",
+    "examRank": 300,
+    "explanation": "핵심 단서: 소화생리 핵심 개념. 정답: 1번. 암기 포인트: 같은 표현의 유사 문항도 함께 확인하세요.",
+    "image": ""
+  },
+  {
+    "id": "physiology_a7dfc0de_23_3_2_22_2",
+    "setId": "physiology_91abc994",
+    "sourceId": "23인구기3-2차-22",
+    "subject": "Physiology",
+    "section": "소화생리",
+    "sections": [
+      "소화생리"
+    ],
+    "question": "오른쪽 그림은 위산 분비 기전을 나타낸 것이다. 각 기호에 들어갈 이온에 대해 옳게 짝지은 것은?",
+    "choices": [
+      "가: Cl⁻, 나: CO3⁻",
+      "가: Cl⁻, 다: H⁺",
+      "라: Na⁺, 마: K⁺",
+      "다: H⁺, 라: Na⁺",
+      "다: Cl⁻, 마: Na⁺"
+    ],
+    "answer": 2,
+    "examSource": "TalkFile_23학번 인구기3_2차.pdf",
+    "examRank": 300,
+    "explanation": "핵심 단서: 소화생리 핵심 개념. 정답: 2번. 암기 포인트: 같은 표현의 유사 문항도 함께 확인하세요.",
+    "image": "assets/images/physiology_a7dfc0de_23_3_2_22_2.jpg"
+  },
+  {
+    "id": "physiology_a7dfc0de_23_3_2_23_2",
+    "setId": "physiology_91abc994",
+    "sourceId": "23인구기3-2차-23",
+    "subject": "Physiology",
+    "section": "소화생리",
+    "sections": [
+      "소화생리"
+    ],
+    "question": "40세 여자가 담낭 절제술 후 지방 흡수에 변화가 생겼다. 그 이유로 옳은 것은?",
+    "choices": [
+      "담낭 저장 기능 소실로 식사 후 담즙염 분비가 조절되지 않는다",
+      "담낭에서 담즙염이 더 이상 재흡수 되지 않는다",
+      "콜레시스토키닌 분비가 감소한다",
+      "간에서 담즙염을 만들지 못한다",
+      "췌장 효소 분비가 감소한다"
+    ],
+    "answer": 1,
+    "examSource": "TalkFile_23학번 인구기3_2차.pdf",
+    "examRank": 300,
+    "explanation": "핵심 단서: 기타생리 핵심 개념. 정답: 1번. 암기 포인트: 같은 표현의 유사 문항도 함께 확인하세요.",
+    "image": ""
+  },
+  {
+    "id": "physiology_a7dfc0de_23_3_2_24_2",
+    "setId": "physiology_91abc994",
+    "sourceId": "23인구기3-2차-24",
+    "subject": "Physiology",
+    "section": "소화생리",
+    "sections": [
+      "소화생리"
+    ],
+    "question": "십이지장 내로 산성 미즙이 유입되었을 때, 가장 먼저 일어나는 생리적 반응은?",
+    "choices": [
+      "연동운동 촉진",
+      "췌장액 분비 증가",
+      "콜레시스토키닌 분비 증가",
+      "가스트린 분비 증가",
+      "세크레틴 분비 증가"
+    ],
+    "answer": 5,
+    "examSource": "TalkFile_23학번 인구기3_2차.pdf",
+    "examRank": 300,
+    "explanation": "핵심 단서: 소화생리 핵심 개념. 정답: 5번. 암기 포인트: 같은 표현의 유사 문항도 함께 확인하세요.",
+    "image": ""
+  },
+  {
+    "id": "physiology_a7dfc0de_23_3_2_25_2",
+    "setId": "physiology_91abc994",
+    "sourceId": "23인구기3-2차-25",
+    "subject": "Physiology",
+    "section": "소화생리",
+    "sections": [
+      "소화생리"
+    ],
+    "question": "식사 전에 음식 냄새를 맡기만 했는데 위산 분비가 증가하였다. 이 반응을 가장 잘 설명하는 것은?",
+    "choices": [
+      "긴 미주신경 반사(long vagovagal reflexes) 자극",
+      "국소 장반사(enteric reflex) 자극",
+      "식욕 중추에서 시작된 신경신호가 미주신경 자극",
+      "위장반사(enterogastric reflex) 자극",
+      "가스트린 분비 자극"
+    ],
+    "answer": 3,
+    "examSource": "TalkFile_23학번 인구기3_2차.pdf",
+    "examRank": 300,
+    "explanation": "핵심 단서: 소화생리 핵심 개념. 정답: 3번. 암기 포인트: 같은 표현의 유사 문항도 함께 확인하세요.",
+    "image": ""
+  },
+  {
+    "id": "physiology_a7dfc0de_23_3_2_26_2",
+    "setId": "physiology_91abc994",
+    "sourceId": "23인구기3-2차-26",
+    "subject": "Physiology",
+    "section": "소화생리",
+    "sections": [
+      "소화생리"
+    ],
+    "question": "만성 췌장염 환자가 반복된 지방변을 보이며 체중이 감소하고 있다. 검사 결과는 다음과 같다. ● 췌액의 HCO₃⁻ 분비: 정상 ● 소장 내 pH: 정상 ● 췌장 효소 보충(pancrelipase) 투여 시 증상 대부분 호전 이 환자의 가장 핵심적인 문제는?",
+    "choices": [
+      "세크레틴 분비 부족",
+      "지방분해효소 분비 부족",
+      "담즙 분비 감소",
+      "담즙 생성 감소",
+      "콜레시스토키닌 분비 부족"
+    ],
+    "answer": 2,
+    "examSource": "TalkFile_23학번 인구기3_2차.pdf",
+    "examRank": 300,
+    "explanation": "핵심 단서: 소화생리 핵심 개념. 정답: 2번. 암기 포인트: 같은 표현의 유사 문항도 함께 확인하세요.",
+    "image": ""
+  },
+  {
+    "id": "physiology_a7dfc0de_23_3_2_27_2",
+    "setId": "physiology_91abc994",
+    "sourceId": "23인구기3-2차-27",
+    "subject": "Physiology",
+    "section": "소화생리",
+    "sections": [
+      "소화생리"
+    ],
+    "question": "회장 말단 절제술을 받은 환자가 지방변(steatorrhea)을 보이고 있다. 췌장 기능 검사에서는 모든 효소가 정상으로 확인되었다. 지방 소화 장애의 주요 원인은?",
+    "choices": [
+      "지방분해효소 분비 부족",
+      "담낭에서 담즙 재흡수 감소",
+      "미포(micelles) 형성 장애",
+      "장의 분절운동(segmentation) 감소",
+      "장의 연동운동(peristalsis) 감소"
+    ],
+    "answer": 3,
+    "examSource": "TalkFile_23학번 인구기3_2차.pdf",
+    "examRank": 300,
+    "explanation": "핵심 단서: 소화생리 핵심 개념. 정답: 3번. 암기 포인트: 같은 표현의 유사 문항도 함께 확인하세요.",
+    "image": ""
+  },
+  {
+    "id": "physiology_a7dfc0de_23_3_2_28_2",
+    "setId": "physiology_91abc994",
+    "sourceId": "23인구기3-2차-28",
+    "subject": "Physiology",
+    "section": "소화생리",
+    "sections": [
+      "소화생리"
+    ],
+    "question": "트립시노겐(trypsinogen)이 십이지장에서 트립신(trypsin)으로 활성화되지 못하면 일어날 수 있는 문제에 대해 가장 올바르게 설명한 것은?",
+    "choices": [
+      "단백질을 개별 아미노산으로 분해하지 못한다",
+      "위(stomach)에서 단백질 소화가 증가한다",
+      "포스포리파아제(phospholipase)의 분비가 감소한다",
+      "탄산수소이온(HCO3⁻)의 분비가 감소한다",
+      "펩타이드분해효소(peptidase)의 분비가 감소한다"
+    ],
+    "answer": 1,
+    "examSource": "TalkFile_23학번 인구기3_2차.pdf",
+    "examRank": 300,
+    "explanation": "핵심 단서: 소화생리 핵심 개념. 정답: 1번. 암기 포인트: 같은 표현의 유사 문항도 함께 확인하세요.",
+    "image": ""
+  },
+  {
+    "id": "physiology_a7dfc0de_23_3_2_29_2",
+    "setId": "physiology_91abc994",
+    "sourceId": "23인구기3-2차-29",
+    "subject": "Physiology",
+    "section": "소화생리",
+    "sections": [
+      "소화생리"
+    ],
+    "question": "낭포성 섬유증(CF) 환자가 만성 설사를 보였다. 가장 관련된 기전은?",
+    "choices": [
+      "CFTR의 활성 감소로 점액분비 억제",
+      "움(crypt)의 Cl⁻ 분비 증가",
+      "담낭에서 담즙 재흡수 감소",
+      "췌장효소 분비 부족으로 지방 흡수 저하",
+      "담즙 분비 증가"
+    ],
+    "answer": 4,
+    "examSource": "TalkFile_23학번 인구기3_2차.pdf",
+    "examRank": 300,
+    "explanation": "핵심 단서: 소화생리 핵심 개념. 정답: 4번. 암기 포인트: 같은 표현의 유사 문항도 함께 확인하세요.",
+    "image": ""
+  },
+  {
+    "id": "physiology_a7dfc0de_23_3_2_30_2",
+    "setId": "physiology_91abc994",
+    "sourceId": "23인구기3-2차-30",
+    "subject": "Physiology",
+    "section": "소화생리",
+    "sections": [
+      "소화생리"
+    ],
+    "question": "총담관 결석(choledocholithiasis)으로 인한 폐쇄성 황달 환자가 내원하였다. 다음 중 이 환자에서 나타나게 되는 변화를 가장 잘 설명한 것은?",
+    "choices": [
+      "감소 연해짐 검게 변함",
+      "변화없음 변화없음 창백/회색",
+      "변화없음 진해짐 창백/회색",
+      "증가 진해짐 검게 변함",
+      "증가 진해짐 창백/회색"
+    ],
+    "answer": 5,
+    "examSource": "TalkFile_23학번 인구기3_2차.pdf",
+    "examRank": 300,
+    "explanation": "핵심 단서: 소화생리 핵심 개념. 정답: 5번. 암기 포인트: 같은 표현의 유사 문항도 함께 확인하세요.",
+    "image": ""
+  },
+  {
+    "id": "physiology_a7dfc0de_23_3_2_31_2",
+    "setId": "physiology_91abc994",
+    "sourceId": "23인구기3-2차-31",
+    "subject": "Physiology",
+    "section": "소화생리",
+    "sections": [
+      "소화생리"
+    ],
+    "question": "콜레라 독소가 유발하는 설사의 직접적 기전은?",
+    "choices": [
+      "옴(crypt)의 상피세포에서 cAMP 증가로 CFTR을 통한 Cl⁻ 분비 과다",
+      "융모(villi)에서 SGLT1이나 GLUT5를 통한 당 흡수 감소로 인한 물의 역이동 증가",
+      "움(crypt)의 상피세포에서 HCO₃⁻ 분비 감소",
+      "알도스테론에 의한 Na⁺흡수 증가",
+      "CFTR을 통한 Cl⁻ 흡수 감소로 인한 물의 역이동 증가"
+    ],
+    "answer": 1,
+    "examSource": "TalkFile_23학번 인구기3_2차.pdf",
+    "examRank": 300,
+    "explanation": "핵심 단서: 소화생리 핵심 개념. 정답: 1번. 암기 포인트: 같은 표현의 유사 문항도 함께 확인하세요.",
+    "image": ""
+  },
+  {
+    "id": "physiology_a7dfc0de_23_3_2_32_2",
+    "setId": "physiology_91abc994",
+    "sourceId": "23인구기3-2차-32",
+    "subject": "Physiology",
+    "section": "소화생리",
+    "sections": [
+      "소화생리"
+    ],
+    "question": "췌장 효소는 정상인데도 탄수화물 흡수장애가 있는 환자에서 다음 중 가장 중요한 점검 대상은?",
+    "choices": [
+      "솔가장자리(brush border)의 CFTR 기능 이상 여부",
+      "솔가장자리(brush border)의 SGLT1 기능 이상 여부",
+      "솔가장자리(brush border)의 Na⁺/K⁺ 펌프 기능이상",
+      "바닥가쪽막(basolateral membrane)의 GLUT1 기능 이상 여부",
+      "담낭 수축 능력 이상 여부"
+    ],
+    "answer": 2,
+    "examSource": "TalkFile_23학번 인구기3_2차.pdf",
+    "examRank": 300,
+    "explanation": "핵심 단서: 소화생리 핵심 개념. 정답: 2번. 암기 포인트: 같은 표현의 유사 문항도 함께 확인하세요.",
+    "image": ""
+  },
+  {
+    "id": "physiology_a7dfc0de_23_3_2_33_2",
+    "setId": "physiology_91abc994",
+    "sourceId": "23인구기3-2차-33",
+    "subject": "Physiology",
+    "section": "소화생리",
+    "sections": [
+      "소화생리"
+    ],
+    "question": "소장에서 영양소와 전해질, 수분 흡수의 주된 구동력(driving force)을 가장 정확히 표현한 것은?",
+    "choices": [
+      "솔가장자리의 K⁺ 능동수송",
+      "솔가장자리(brush border)의 CFTR에 의한 Cl⁻ 수동수송",
+      "바닥가쪽막의 Na⁺/K⁺ 펌프에 의한 Na⁺ 농도 경사 형성",
+      "바닥가쪽막의 Cl⁻/HCO₃⁻ 역방향수송체에 의한 전기적 경사 형성",
+      "바닥가쪽막의 Na⁺/H⁺ 역방향수송체에 의한 Na⁺ 농도 경사 형성"
+    ],
+    "answer": 3,
+    "examSource": "TalkFile_23학번 인구기3_2차.pdf",
+    "examRank": 300,
+    "explanation": "핵심 단서: 소화생리 핵심 개념. 정답: 3번. 암기 포인트: 같은 표현의 유사 문항도 함께 확인하세요.",
+    "image": ""
+  },
+  {
+    "id": "physiology_a7dfc0de_23_3_2_34_2",
+    "setId": "physiology_91abc994",
+    "sourceId": "23인구기3-2차-34",
+    "subject": "Physiology",
+    "section": "소화생리",
+    "sections": [
+      "소화생리"
+    ],
+    "question": "심한 설사 후 탈수 저혈압 소견이 있는 환자에게서 aldosterone 증가가 장 흡수에 미치는 영향을 가장 잘 설명한 것은?",
+    "choices": [
+      "대장에서 Na⁺ 흡수 증가에 따른 Cl⁻과 물 흡수 증가",
+      "대장에서 HCO₃⁻ 흡수 증가에 따른 Na⁺과 Cl⁻, 물 흡수 증가",
+      "소장 전체에서 Na⁺ 분비 증가",
+      "솔가장자리(brush border)의 SGLT1 활성 증가에 따른 물 흡수 증가",
+      "세크레틴 분비 촉진으로 HCO₃⁻ 분비를 증가시켜 Cl⁻와 물 흡수 증가"
+    ],
+    "answer": 1,
+    "examSource": "TalkFile_23학번 인구기3_2차.pdf",
+    "examRank": 300,
+    "explanation": "핵심 단서: 소화생리 핵심 개념. 정답: 1번. 암기 포인트: 같은 표현의 유사 문항도 함께 확인하세요.",
+    "image": ""
+  },
+  {
+    "id": "physiology_a7dfc0de_23_3_2_35_2",
+    "setId": "physiology_91abc994",
+    "sourceId": "23인구기3-2차-35",
+    "subject": "Physiology",
+    "section": "소화생리",
+    "sections": [
+      "소화생리"
+    ],
+    "question": "다음 중 탄수화물의 소화⬝흡수 경로에 대한 설명으로 옳은 것을 모두 고르시오",
+    "choices": [
+      "가, 나, 다",
+      "가, 다, 라",
+      "다, 라, 마",
+      "나, 라",
+      "가, 다"
+    ],
+    "answer": 5,
+    "examSource": "TalkFile_23학번 인구기3_2차.pdf",
+    "examRank": 300,
+    "explanation": "핵심 단서: 소화생리 핵심 개념. 정답: 5번. 암기 포인트: 같은 표현의 유사 문항도 함께 확인하세요.",
+    "image": ""
+  },
+  {
+    "id": "physiology_a7dfc0de_23_3_2_36_2",
+    "setId": "physiology_91abc994",
+    "sourceId": "23인구기3-2차-36",
+    "subject": "Physiology",
+    "section": "소화생리",
+    "sections": [
+      "소화생리"
+    ],
+    "question": "담석형성 이유에 대한 설명으로 옳은 것을 모두 고르시오. 3 가. 담낭상피의 염증 나. 콜레스테롤 침전 다. 담즙으로부터 과도한 물 흡수 라. 담즙으로부터 과도한 담즙염 배추 마. 칼슘제의 과도한 섭취",
+    "choices": [
+      "가, 나, 라",
+      "가, 다, 마",
+      "가, 나, 다",
+      "나, 다, 마",
+      "가, 나, 라"
+    ],
+    "answer": 3,
+    "examSource": "TalkFile_23학번 인구기3_2차.pdf",
+    "examRank": 300,
+    "explanation": "핵심 단서: 소화생리 핵심 개념. 정답: 3번. 암기 포인트: 같은 표현의 유사 문항도 함께 확인하세요.",
+    "image": ""
+  },
+  {
+    "id": "physiology_a7dfc0de_23_3_2_37_2",
+    "setId": "physiology_91abc994",
+    "sourceId": "23인구기3-2차-37",
+    "subject": "Physiology",
+    "section": "소화생리",
+    "sections": [
+      "소화생리"
+    ],
+    "question": "십이지장으로 분비된 췌장액의 HCO₃⁻는 소장에서 주로 어떤 기전을 통해 재흡수되는가?",
+    "choices": [
+      "CFTR을 통한 재흡수",
+      "세균에서 분비하는 H⁺와의 중화 반응",
+      "Na⁺/HCO₃⁻ 동방향수송체(NBC)에 의한 재흡수",
+      "Na⁺/H⁺ 역방향수송체(NHE)에 의해 분비된 H⁺와의 중화 반응",
+      "치밀이음(tight junction)을 통한 재흡수 38. 아래 그림에서 위 주변 혈관의 번호와 이름이 맞는 조합을 고르시오. 2"
+    ],
+    "answer": 4,
+    "examSource": "TalkFile_23학번 인구기3_2차.pdf",
+    "examRank": 300,
+    "explanation": "핵심 단서: 소화생리 핵심 개념. 정답: 4번. 암기 포인트: 같은 표현의 유사 문항도 함께 확인하세요.",
+    "image": ""
+  },
+  {
+    "id": "physiology_3a347420_23_20_4",
+    "setId": "physiology_91abc994",
+    "sourceId": "23내분비-20",
+    "subject": "Physiology",
+    "section": "내분비생리",
+    "sections": [
+      "내분비생리"
+    ],
+    "question": "콘증후군에 대한 설명 중 틀린 것을 고르시오",
+    "choices": [
+      "(문제 소실)",
+      "혈장내 소듐 농도의 매우 경미한 증가와 지속적 고혈압",
+      "저포타슘혈증에 의해 가끔씩 유발되는 근육마비 현상이 있다.",
+      "진단 기준 중 하나는 안지오텐신2 농도의 감소이다.",
+      "치료는 암 또는 과형성의 원인인 부신 조직의 외과적 제거와 염류코르티코이드 억제제가 사용된다."
+    ],
+    "answer": 4,
+    "examSource": "TalkFile_23 내분비 생리 박억숭.pdf",
+    "examRank": 300,
+    "explanation": "핵심 단서: 내분비생리 핵심 개념. 정답: 4번. 암기 포인트: 같은 표현의 유사 문항도 함께 확인하세요.",
+    "image": ""
+  },
+  {
+    "id": "physiology_3a347420_23_21_2",
+    "setId": "physiology_91abc994",
+    "sourceId": "23내분비-21",
+    "subject": "Physiology",
+    "section": "내분비생리",
+    "sections": [
+      "내분비생리"
+    ],
+    "question": "'인슐린 수용체 활성화' 와 '세포 반응'에 대한 설명이다. 틀린 것을 고르시오",
+    "choices": [
+      "인슐린이 세포막 수용체와 결합한 후 포도당 유입이 수 분 내에 크게 증가한다.",
+      "근세포와 지방세포에서 두드러지고 뇌의 신경세포에서는 일어나지 않는다.",
+      "아미노산, 포타슘 이온, 탄산 이온 등에 대한 막 투 과도를 높인다.",
+      "느리게 10~15분에 걸쳐 나타나는 효과로서 세포 내 대사 효소활성을 변화시킨다.",
+      "리보소옴의 mRNA 번역률 또는 핵의 DNA 전사율 변화가 지연되어 일어난다."
+    ],
+    "answer": 1,
+    "examSource": "TalkFile_23 내분비 생리 박억숭.pdf",
+    "examRank": 300,
+    "explanation": "핵심 단서: 내분비생리 핵심 개념. 정답: 1번. 암기 포인트: 같은 표현의 유사 문항도 함께 확인하세요.",
+    "image": ""
+  },
+  {
+    "id": "physiology_3a347420_23_22_2",
+    "setId": "physiology_91abc994",
+    "sourceId": "23내분비-22",
+    "subject": "Physiology",
+    "section": "내분비생리",
+    "sections": [
+      "내분비생리"
+    ],
+    "question": "밥을 오랫동안 굶게 되면 혈당이 낮아지면서 간으로부터 혈중에 포도당이 분비 되는 일련의 과정이 일어난다. 맞는 것을 고르시오",
+    "choices": [
+      "혈당이 낮아지면 췌장의 인슐린 분비가 감소한다.",
+      "인슐린 농도가 증가하면 포도당 저장과 관련된 모든 현상이 정지한다.",
+      "인슐린 증가는 글루카곤 증가를 동반하고 글리코겐을 인산 포도당으로 분해한다.",
+      "인슐린이 증가하면 인슐린에 의해 억제되었던 글루코스 포스파디타아제가 활성화된다.",
+      "포도당과 인산기가 결합하여 포도당이 쉽게 혈중으로 분비된다."
+    ],
+    "answer": 1,
+    "examSource": "TalkFile_23 내분비 생리 박억숭.pdf",
+    "examRank": 300,
+    "explanation": "핵심 단서: 내분비생리 핵심 개념. 정답: 1번. 암기 포인트: 같은 표현의 유사 문항도 함께 확인하세요.",
+    "image": ""
+  },
+  {
+    "id": "physiology_3a347420_23_23_2",
+    "setId": "physiology_91abc994",
+    "sourceId": "23내분비-23",
+    "subject": "Physiology",
+    "section": "내분비생리",
+    "sections": [
+      "내분비생리"
+    ],
+    "question": "인슐린에 의한 단백 합성과 저장에 대한 설명 중 틀린 것을 고르시오",
+    "choices": [
+      "인슐린은 아미노산의 세포 내 유입을 촉진한다.",
+      "인슐린은 tRNA 번역을 촉진하여 새로운 단백 합성을 일으킨다.",
+      "장기간에 걸쳐 인슐린은 핵에서 특정 DNA 유전체의 번역률을 증가시킨다.",
+      "인슐린은 단백 분해를 억제하며 세포의 아미노산 유리를 억제한다.",
+      "인슐린은 간에서 당신생을 자극하는 효소를 억제하여 당신생을 억제한다."
+    ],
+    "answer": 2,
+    "examSource": "TalkFile_23 내분비 생리 박억숭.pdf",
+    "examRank": 300,
+    "explanation": "핵심 단서: 내분비생리 핵심 개념. 정답: 2번. 암기 포인트: 같은 표현의 유사 문항도 함께 확인하세요.",
+    "image": ""
+  },
+  {
+    "id": "physiology_3a347420_23_24_2",
+    "setId": "physiology_91abc994",
+    "sourceId": "23내분비-24",
+    "subject": "Physiology",
+    "section": "내분비생리",
+    "sections": [
+      "내분비생리"
+    ],
+    "question": "'인슐린 분비 조절인자' 중 성질이 다른 하나를 고르시오",
+    "choices": [
+      "increased blood glucose, free fatty acids, amino acids",
+      "gastrointestinal hormones (gastrin, CCK, secretin)",
+      "fasting",
+      "parasympathetic stimulation. ACh",
+      "insulin resistance: obesity"
+    ],
+    "answer": 3,
+    "examSource": "TalkFile_23 내분비 생리 박억숭.pdf",
+    "examRank": 300,
+    "explanation": "핵심 단서: 내분비생리 핵심 개념. 정답: 3번. 암기 포인트: 같은 표현의 유사 문항도 함께 확인하세요.",
+    "image": ""
+  },
+  {
+    "id": "physiology_3a347420_23_25_2",
+    "setId": "physiology_91abc994",
+    "sourceId": "23내분비-25",
+    "subject": "Physiology",
+    "section": "내분비생리",
+    "sections": [
+      "내분비생리"
+    ],
+    "question": "다음은 대사증후군에 대한 설명이다. 다음 중 맞는 것을 고르시오",
+    "choices": [
+      "대사증후군은 비만, 특히 복부지방의 축적, 인슐린 내성, 공복 시에도 높은 혈당 유지, 지방대사 이상과 저혈압 등을 보인다.",
+      "모든 대사성증후군에서 복부 장기에 많은 양의 지방이 축적되는 것을 볼 수 있다.",
+      "대사성증후군에서 인슐린 내성이 어떠한 구실을 하는지 명확히 알 수 있다.",
+      "대사성증후군에서 가장 유해한 문제는 혈관 확장과 조직손상이다.",
+      "대사성 증후군은 심혈관 질환의 위험성을 높이고, 인슐린 내성을 유발하여 1형 당뇨병과 심혈관 질환의 유발원인이 된다."
+    ],
+    "answer": 2,
+    "examSource": "TalkFile_23 내분비 생리 박억숭.pdf",
+    "examRank": 300,
+    "explanation": "핵심 단서: 내분비생리 핵심 개념. 정답: 2번. 암기 포인트: 같은 표현의 유사 문항도 함께 확인하세요.",
+    "image": ""
+  },
+  {
+    "id": "physiology_3a347420_23_26_2",
+    "setId": "physiology_91abc994",
+    "sourceId": "23내분비-26",
+    "subject": "Physiology",
+    "section": "내분비생리",
+    "sections": [
+      "내분비생리"
+    ],
+    "question": "이러한 현상이 일어나는 원인에 대한 설명으로 옳은 것을 고르시오",
+    "choices": [
+      "세포외액의 칼륨 이온 농도가 정상 이하로 낮아지면 신경계는 흥분성이 점진적으로 증가한다.",
+      "신경세포막에서 소듐 이온의 투과도가 증가하여 쉽게 활동 전위가 발생할 수 있다.",
+      "혈중 칼슘 농도가 정상보다 약 10%만 감소해도 말초 신경 섬유의 흥분성이 더욱 증가한다.",
+      "때때로 이러한 현상이 말초신경에서 흥분성을 증가시켜 발작을 유발하기도 한다.",
+      "이러한 현상은 인체의 다른 부위보다도 손에서 제일 마지막에 나타난다."
+    ],
+    "answer": 2,
+    "examSource": "TalkFile_23 내분비 생리 박억숭.pdf",
+    "examRank": 300,
+    "explanation": "핵심 단서: 내분비생리 핵심 개념. 정답: 2번. 암기 포인트: 같은 표현의 유사 문항도 함께 확인하세요.",
+    "image": ""
+  },
+  {
+    "id": "physiology_3a347420_23_27_2",
+    "setId": "physiology_91abc994",
+    "sourceId": "23내분비-27",
+    "subject": "Physiology",
+    "section": "내분비생리",
+    "sections": [
+      "내분비생리"
+    ],
+    "question": "다음은 '비타민 D'와 관련된 내용들이다. 틀린 것을 고르시오",
+    "choices": [
+      "비타민 D군에 속하는 많은 물질이 스테롤로부터 유도되고, 다소의 차이는 있으나 비슷한 효과를 나타낸다.",
+      "비타민 D3(콜레칼시페롤)가 이들 중 가장 중요한 역할을 하며 피부에 정상적으로 존재하는 7-디히드로콜레스테롤로부터 형성되는데 이는 햇빛의 자외선 자극으로 이루어진다.",
+      "콜레칼시페롤의 첫 번째 활성화 과정은 콩팥에서 이루어지며 25-히드록시콜레칼시페롤로 전환된다.",
+      "25-히드록시콜레칼시페롤이 음성 피드백 기전을 유발하므로 계속 증가하지는 않는다.",
+      "콩팥의 근위세뇨관에서 25-히드록시콜레칼시페롤이 1,25-디히드록시콜레칼시페롤로 전환된다. 이것이 가장 활성화된 비타민 D 형태이다."
+    ],
+    "answer": 3,
+    "examSource": "TalkFile_23 내분비 생리 박억숭.pdf",
+    "examRank": 300,
+    "explanation": "핵심 단서: 내분비생리 핵심 개념. 정답: 3번. 암기 포인트: 같은 표현의 유사 문항도 함께 확인하세요.",
+    "image": ""
+  },
+  {
+    "id": "physiology_3a347420_23_28_2",
+    "setId": "physiology_91abc994",
+    "sourceId": "23내분비-28",
+    "subject": "Physiology",
+    "section": "내분비생리",
+    "sections": [
+      "내분비생리"
+    ],
+    "question": "칼슘 농도가 조금만 감소해도 부갑상샘은 수분 내에 호르몬 분비를 증가시킨다. 다음 중 반대로 '칼슘 농도를 증가시키는 상태가 아닌 것'을 고르시오",
+    "choices": [
+      "과량의 칼슘을 함유한 음식물 섭취",
+      "과량의 비타민 D를 함유한 음식물 섭취",
+      "부갑상샘호르몬 이외의 요인에 의한 골흡수 증가",
+      "뼈의 사용이 감소하여 골흡수 증가",
+      "질환에 의한 골침착 증가"
+    ],
+    "answer": 5,
+    "examSource": "TalkFile_23 내분비 생리 박억숭.pdf",
+    "examRank": 300,
+    "explanation": "핵심 단서: 내분비생리 핵심 개념. 정답: 5번. 암기 포인트: 같은 표현의 유사 문항도 함께 확인하세요.",
+    "image": ""
+  },
+  {
+    "id": "physiology_3a347420_23_29_2",
+    "setId": "physiology_91abc994",
+    "sourceId": "23내분비-29",
+    "subject": "Physiology",
+    "section": "내분비생리",
+    "sections": [
+      "내분비생리"
+    ],
+    "question": "40대 남자가 '갑자기 발생한 오른쪽 옆구리 통증'으로 병원을 방문했다. 참고로 이번 여름 바깥 활동을 많이 했고 어제부터 '혈뇨와 소변볼 때 불편함' 이 있었다고 한다. 소변검사와 복부 CT로 이 질환을 진단할 수 있었다. 이 질환의 원인에 대한 설명으로 틀린 것을 고르시오",
+    "choices": [
+      "중증도의 부갑상샘기능 항진증을 가지고 있는 경우 이 질환이 많다.",
+      "과도한 칼슘과 인이 장으로부터 흡수되고 뼈로부터 동원되어 결국에는 콩팥에 의해 배출되기 때문에 소변의 칼슘과 인의 농도가 비례하여 증가하기 때문이다.",
+      "결과적으로 인산칼슘결정은 콩팥에서 침전하고, 인산칼슘결석을 형성한다.",
+      "수산칼슘결석의 경우에는 수산염은 정상이나 칼슘이 과도하게 침착되기 때문에 발생한다.",
+      "알칼리성 소변에서보다 산성 소변에서 훨씬 더 많이 형성된다. 이런 이유로 알칼리성식이와 알칼리성약물을 종종 치료에 이용한다."
+    ],
+    "answer": 5,
+    "examSource": "TalkFile_23 내분비 생리 박억숭.pdf",
+    "examRank": 300,
+    "explanation": "핵심 단서: 내분비생리 핵심 개념. 정답: 5번. 암기 포인트: 같은 표현의 유사 문항도 함께 확인하세요.",
+    "image": ""
+  },
+  {
+    "id": "physiology_3a347420_23_30_2",
+    "setId": "physiology_91abc994",
+    "sourceId": "23내분비-30",
+    "subject": "Physiology",
+    "section": "내분비생리",
+    "sections": [
+      "내분비생리"
+    ],
+    "question": "같은 나이, 같은 몸무게를 가진 두 명의 아주머니가 빙판길에서 동시에 넘어졌다. 상황은 다르겠지만, 한 명은 단순 타박상, 한명은 고관절 골절이 발생했다. 골절이 발생한 사람의 BMD는 -3이었다. 다음 중 이 질환의 원인이 아닌 것을 고르시오",
+    "choices": [
+      "과한 사용에 의한 뼈에 가해지는 물리적 스트레스의 증가",
+      "충분한 양의 단백질이 생성되지 않는 영양실조",
+      "비타민 C의 부족, 비타민 C는 골아세포에 의한 유골의 형성을 비롯하여 대부분의 세포에서 세포 사이의 기질 물질 분비를 촉진한다.",
+      "폐경 후 에스트로겐 분비부족, 에스트로겐은 골아세포를 자극한다.",
+      "노화, 나이가 들어감에 따라 성장호르몬과 다른 성장요소가 크게 감소하고 단백질의 신진대사가 감소되어 골격기질의 침착이 감소한다. [ 31~45. 해부 여성생식기-김은택 교수님/ 남성생식기-이지용교수님] 31. 아래의 모식도에서 avascular area는 어디인가? 5"
+    ],
+    "answer": 1,
+    "examSource": "TalkFile_23 내분비 생리 박억숭.pdf",
+    "examRank": 300,
+    "explanation": "핵심 단서: 내분비생리 핵심 개념. 정답: 1번. 암기 포인트: 같은 표현의 유사 문항도 함께 확인하세요.",
+    "image": ""
+  },
+  {
+    "id": "physiology_023bea16_23_1_2",
+    "setId": "physiology_91abc994",
+    "sourceId": "23신장-1",
+    "subject": "Physiology",
+    "section": "신장생리",
+    "sections": [
+      "신장생리"
+    ],
+    "question": "수술 후 저혈량(hypovolemic) 상태에 있는 환자에게 의 사는 순환혈액량을 보충하기 위해 0.9% 생리식염수 1L를 정맥으로 투여하였다. 체액 구획의 변화로 옳은 설명은?",
+    "choices": [
+      "세포내액 증가",
+      "세포외액 감소",
+      "세포내액과 세포외액의 증가",
+      "세포내액으로 수분 이동 증가",
+      "혈장보다 간질액이 더 증가"
+    ],
+    "answer": 5,
+    "examSource": "TalkFile_23 신장생리 안도환.pdf",
+    "examRank": 300,
+    "explanation": "핵심 단서: 신장생리 핵심 개념. 정답: 5번. 암기 포인트: 같은 표현의 유사 문항도 함께 확인하세요.",
+    "image": ""
+  },
+  {
+    "id": "physiology_023bea16_23_2_2",
+    "setId": "physiology_91abc994",
+    "sourceId": "23신장-2",
+    "subject": "Physiology",
+    "section": "신장생리",
+    "sections": [
+      "신장생리"
+    ],
+    "question": "운동 중 다량의 땀을 흘린 25세 남자가 운동 직후 갈증을 해소하기 위해 짧은 시간 내에 물 3L 이상을 연속적으로 섭취하였다. 이후 두통과 메스꺼움, 정신이 약간 혼미하여 내원하였다. 검사에서 혈장 나트륨 농도는 130 mEq/L로 측정되었다. 이때 체액 구획의 변화는? 세포내액 세포외액",
+    "choices": [
+      "증가 감소",
+      "감소 증가",
+      "증가 증가",
+      "증가 변화없음",
+      "변화없음 증가"
+    ],
+    "answer": 3,
+    "examSource": "TalkFile_23 신장생리 안도환.pdf",
+    "examRank": 300,
+    "explanation": "핵심 단서: 신장생리 핵심 개념. 정답: 3번. 암기 포인트: 같은 표현의 유사 문항도 함께 확인하세요.",
+    "image": ""
+  },
+  {
+    "id": "physiology_023bea16_23_3_2",
+    "setId": "physiology_91abc994",
+    "sourceId": "23신장-3",
+    "subject": "Physiology",
+    "section": "신장생리",
+    "sections": [
+      "신장생리"
+    ],
+    "question": "Inulin을 사용하여 체액 구획을 측정하고자 한다. 어떤 구획을 측정할 수 있는가?",
+    "choices": [
+      "세포외액",
+      "세포내액",
+      "혈장",
+      "간질액",
+      "총체액"
+    ],
+    "answer": 1,
+    "examSource": "TalkFile_23 신장생리 안도환.pdf",
+    "examRank": 300,
+    "explanation": "핵심 단서: 신장생리 핵심 개념. 정답: 1번. 암기 포인트: 같은 표현의 유사 문항도 함께 확인하세요.",
+    "image": ""
+  },
+  {
+    "id": "physiology_023bea16_23_4_2",
+    "setId": "physiology_91abc994",
+    "sourceId": "23신장-4",
+    "subject": "Physiology",
+    "section": "신장생리",
+    "sections": [
+      "신장생리"
+    ],
+    "question": "간경변 환자에서 저알부민혈증이 지속되면 GFR은 오히려 감소한다. 그 이유로 가장 적절한 설명은?",
+    "choices": [
+      "사구체 모세혈관 교질 삼투압(πGC)이 감소되므로",
+      "πGC 감소 효과보다 PGC 감소 효과가 더 크므로",
+      "AT-II로 인해 들세동맥이 더 수축되므로",
+      "사구체 Kf 감소가 πGC 효과를 상쇄하므로",
+      "반사계수가 2 이상으로 증가하여 πGC 감소를 상쇄하 므로"
+    ],
+    "answer": 2,
+    "examSource": "TalkFile_23 신장생리 안도환.pdf",
+    "examRank": 300,
+    "explanation": "핵심 단서: 신장생리 핵심 개념. 정답: 2번. 암기 포인트: 같은 표현의 유사 문항도 함께 확인하세요.",
+    "image": ""
+  },
+  {
+    "id": "physiology_023bea16_23_5_2",
+    "setId": "physiology_91abc994",
+    "sourceId": "23신장-5",
+    "subject": "Physiology",
+    "section": "신장생리",
+    "sections": [
+      "신장생리"
+    ],
+    "question": "정상 상태에서 여과된 Na⁺이 헨레고리에서 재흡수되는 비 율은?",
+    "choices": [
+      "1%",
+      "3%",
+      "10%",
+      "25%",
+      "65%"
+    ],
+    "answer": 4,
+    "examSource": "TalkFile_23 신장생리 안도환.pdf",
+    "examRank": 300,
+    "explanation": "핵심 단서: 신장생리 핵심 개념. 정답: 4번. 암기 포인트: 같은 표현의 유사 문항도 함께 확인하세요.",
+    "image": ""
+  },
+  {
+    "id": "physiology_023bea16_23_6_2",
+    "setId": "physiology_91abc994",
+    "sourceId": "23신장-6",
+    "subject": "Physiology",
+    "section": "신장생리",
+    "sections": [
+      "신장생리"
+    ],
+    "question": "정상 대조군의 쥐와 사구체 질환을 유도한 실험군의 쥐에 게 다른 크기의 anionic dextran (dextran sulfate)을 주 사한 후 사구체의 상대적 투과도를 조사했다. 실험군의 사 구체여과장벽(GFB)의 변화에 대한 옳은 해석은?",
+    "choices": [
+      "모세혈관 내피세포의 fenestra 수가 증가하였다.",
+      "모세혈관 내피세포의 직경이 감소하였다.",
+      "사구체 기저막의 음이온 성분이 증가하였다.",
+      "족세포의 slit diaphragm의 기능이 소실되었다.",
+      "족세포 증식으로 GFB가 두꺼워졌다."
+    ],
+    "answer": 4,
+    "examSource": "TalkFile_23 신장생리 안도환.pdf",
+    "examRank": 300,
+    "explanation": "핵심 단서: 신장생리 핵심 개념. 정답: 4번. 암기 포인트: 같은 표현의 유사 문항도 함께 확인하세요.",
+    "image": ""
+  },
+  {
+    "id": "physiology_023bea16_23_7_2",
+    "setId": "physiology_91abc994",
+    "sourceId": "23신장-7",
+    "subject": "Physiology",
+    "section": "신장생리",
+    "sections": [
+      "신장생리"
+    ],
+    "question": "건강검진에서 23세 의과대학생이 일시적으로 혈압이 떨어 질 때에도 사구체여과율이 일정하게 유지되는지를 질문하 였다. 의사는 “신장 혈관의 근원성(myogenic) 자동조절로 혈압 변화 시 세동맥 저항이 자동으로 조절된다”고 설명했 다. 이 경우, 들세동맥과 날세동맥 저항의 자동조절 결과 로 옳은 것은? 들세동맥 날세동맥",
+    "choices": [
+      "수축 수축",
+      "수축 이완",
+      "이완 변화없음",
+      "변화없음 수축",
+      "변화없음 이완"
+    ],
+    "answer": 3,
+    "examSource": "TalkFile_23 신장생리 안도환.pdf",
+    "examRank": 300,
+    "explanation": "핵심 단서: 신장생리 핵심 개념. 정답: 3번. 암기 포인트: 같은 표현의 유사 문항도 함께 확인하세요.",
+    "image": ""
+  },
+  {
+    "id": "physiology_023bea16_23_8_2",
+    "setId": "physiology_91abc994",
+    "sourceId": "23신장-8",
+    "subject": "Physiology",
+    "section": "신장생리",
+    "sections": [
+      "신장생리"
+    ],
+    "question": "25세 남자가 술을 마시다가 옆사람과 다툼 중 자상을 입 어 응급실로 내원하였다. 300~400 ml의 출혈이 있었으며 혈압은 110/75 mmHg, 심박수 90회, Pcr 0.8 mg/㎗(정 상 범위임)였다. 이 환자의 들세동맥과 날세동맥의 저항 변화로 ‘가장’ 적절한 것은? 들세동맥 저항 날세동맥 저항",
+    "choices": [
+      "증가 증가",
+      "감소 감소",
+      "변화없음 증가",
+      "증가 변화없음",
+      "변화없음 변화없음"
+    ],
+    "answer": 3,
+    "examSource": "TalkFile_23 신장생리 안도환.pdf",
+    "examRank": 300,
+    "explanation": "핵심 단서: 신장생리 핵심 개념. 정답: 3번. 암기 포인트: 같은 표현의 유사 문항도 함께 확인하세요.",
+    "image": ""
+  },
+  {
+    "id": "physiology_023bea16_23_9_2",
+    "setId": "physiology_91abc994",
+    "sourceId": "23신장-9",
+    "subject": "Physiology",
+    "section": "신장생리",
+    "sections": [
+      "신장생리"
+    ],
+    "question": "40세 남자가 교통사고로 피를 많이 흘린 후 응급실로 실 려 왔다. 환자의 혈압은 90/50 mmHg, 혈장 creatinine 농도는 3 mg/㎗(정상: 1 mg/㎗)었다. 응급실 검사 결과로 미루어 이 환자의 사구체여과율, 여과분율, 들세동맥, 날세 동맥의 저항 등의 변화로 옳은 것은? GFR FF 들세동맥 저항 날세동맥 저항",
+    "choices": [
+      "변화없음 증가 감소 증가",
+      "증가 변화없음 증가 감소",
+      "감소 증가 감소 증가",
+      "감소 변화없음 증가 변화 없음",
+      "감소 증가 증가 증가"
+    ],
+    "answer": 5,
+    "examSource": "TalkFile_23 신장생리 안도환.pdf",
+    "examRank": 300,
+    "explanation": "핵심 단서: 신장생리 핵심 개념. 정답: 5번. 암기 포인트: 같은 표현의 유사 문항도 함께 확인하세요.",
+    "image": ""
+  },
+  {
+    "id": "physiology_023bea16_23_10_2",
+    "setId": "physiology_91abc994",
+    "sourceId": "23신장-10",
+    "subject": "Physiology",
+    "section": "신장생리",
+    "sections": [
+      "신장생리"
+    ],
+    "question": "근위세관(PT) 끝부분의 세관액(tubular fluid, TF)과 혈 장(plasma, P)의 inulin 농도비율이 [TF/P]inulin = 3으로 측정되었다면 이것이 의미하는 바는?",
+    "choices": [
+      "여과된 수분의 33%가 재흡수되었다.",
+      "여과된 수분의 67%가 재흡수되었다.",
+      "여과된 수분과 나트륨이 각각 67% 재흡수되었다.",
+      "수분이 67%, 나트륨이 33% 재흡수되었다.",
+      "수분이 inulin에 비해 3배 더 재흡수되었다. * 어떤 피검자에서 요와 혈액의 Na, creatinine (cr) 농도를 측정했을 때 다음과 같았다 V; 2 ml/min Ucr: 40 mg/㎗, UNa: 100 mM, Pcr: 1 mg/㎗, PNa: 150 mM,"
+    ],
+    "answer": 2,
+    "examSource": "TalkFile_23 신장생리 안도환.pdf",
+    "examRank": 300,
+    "explanation": "핵심 단서: 신장생리 핵심 개념. 정답: 2번. 암기 포인트: 같은 표현의 유사 문항도 함께 확인하세요.",
+    "image": ""
+  },
+  {
+    "id": "physiology_023bea16_23_11_2",
+    "setId": "physiology_91abc994",
+    "sourceId": "23신장-11",
+    "subject": "Physiology",
+    "section": "신장생리",
+    "sections": [
+      "신장생리"
+    ],
+    "question": "이 피검자의 GFR로 적절한 것은?",
+    "choices": [
+      "50",
+      "80",
+      "100",
+      "125",
+      "150"
+    ],
+    "answer": 2,
+    "examSource": "TalkFile_23 신장생리 안도환.pdf",
+    "examRank": 300,
+    "explanation": "핵심 단서: 신장생리 핵심 개념. 정답: 2번. 암기 포인트: 같은 표현의 유사 문항도 함께 확인하세요.",
+    "image": ""
+  },
+  {
+    "id": "physiology_023bea16_23_12_4",
+    "setId": "physiology_91abc994",
+    "sourceId": "23신장-12",
+    "subject": "Physiology",
+    "section": "신장생리",
+    "sections": [
+      "신장생리"
+    ],
+    "question": "이 피검자의 Na⁺ 배설분율(fractional excretion)은?",
+    "choices": [
+      "0.017",
+      "0.020",
+      "0.023",
+      "0.026",
+      "0.029"
+    ],
+    "answer": 1,
+    "examSource": "TalkFile_23 신장생리 안도환.pdf",
+    "examRank": 300,
+    "explanation": "핵심 단서: 신장생리 핵심 개념. 정답: 1번. 암기 포인트: 같은 표현의 유사 문항도 함께 확인하세요.",
+    "image": ""
+  },
+  {
+    "id": "physiology_023bea16_23_13_4",
+    "setId": "physiology_91abc994",
+    "sourceId": "23신장-13",
+    "subject": "Physiology",
+    "section": "신장생리",
+    "sections": [
+      "신장생리"
+    ],
+    "question": "젊은이에 비해 노인의 최대 요농축력은 낮아서 1000 mOsm/L이다. 노인의 하루 삼투질 생성이 400 mosmole/day이라면, 노인이 이 삼투질을 모두 배설하기 위한 하루 소변량은 최소 얼마나 되어야 하는가?",
+    "choices": [
+      "100 ㎖/day",
+      "250 ㎖/day",
+      "400 ㎖/day",
+      "600 ㎖/day",
+      "800 ㎖/day"
+    ],
+    "answer": 3,
+    "examSource": "TalkFile_23 신장생리 안도환.pdf",
+    "examRank": 300,
+    "explanation": "핵심 단서: 신장생리 핵심 개념. 정답: 3번. 암기 포인트: 같은 표현의 유사 문항도 함께 확인하세요.",
+    "image": ""
+  },
+  {
+    "id": "physiology_023bea16_23_14_4",
+    "setId": "physiology_91abc994",
+    "sourceId": "23신장-14",
+    "subject": "Physiology",
+    "section": "신장생리",
+    "sections": [
+      "신장생리"
+    ],
+    "question": "포도당 적정 곡선에서 splay가 존재하는 생리학적 이유 를 가장 정확히 설명한 것은?",
+    "choices": [
+      "네프론 간 운반체 수와 친화도의 차이로 포화 시점이 서로 다르기 때문이다.",
+      "모든 네프론이 동일한 threshold와 Tm을 가지면 splay가 커진다.",
+      "포도당 여과량이 증가할수록 운반체의 친화도가 증가 하기 때문이다.",
+      "threshold는 운반체 친화도를 반영하는 것으로, splay 는 GFR 감소로만 증가한다",
+      "splay는 병리적 상태에서만 나타나는 현상으로 정상 신장에서는 관찰되지 않는다"
+    ],
+    "answer": 1,
+    "examSource": "TalkFile_23 신장생리 안도환.pdf",
+    "examRank": 300,
+    "explanation": "핵심 단서: 신장생리 핵심 개념. 정답: 1번. 암기 포인트: 같은 표현의 유사 문항도 함께 확인하세요.",
+    "image": ""
+  },
+  {
+    "id": "physiology_023bea16_23_15_2",
+    "setId": "physiology_91abc994",
+    "sourceId": "23신장-15",
+    "subject": "Physiology",
+    "section": "신장생리",
+    "sections": [
+      "신장생리"
+    ],
+    "question": "52세 남성이 집에서 공복 측정 혈당도 높고(280 mg/dL) 요당이 다량 검출되어 내원하였다. 이전에도 여러 번 혈당 이 170 mg/dL까지 올랐으나 요당은 없었다. 검사에서 GFR은 정상이었다. 이 환자에서 Tm, threshold, splay 간의 관계를 가장 정확히 설명한 것은?",
+    "choices": [
+      "Tm은 감소하고 threshold도 감소하여 고혈당에서 요 당이 나타난다.",
+      "Tm은 정상이나 threshold를 초과하는 혈당에서 요당 이 나타난다.",
+      "Tm은 감소하고 threshold가 증가하여 고혈당에서 요당이 발된다..",
+      "splay 소실이 고혈당 시 요당 발생의 주된 이유이다.",
+      "Tm이 증가하여 재흡수 포화점이 지연되어 요당이 발 생한다."
+    ],
+    "answer": [
+      1,
+      2
+    ],
+    "examSource": "TalkFile_23 신장생리 안도환.pdf",
+    "examRank": 300,
+    "explanation": "핵심 단서: 원본 정답/직접 풀이 기준. 정답은 1, 2번입니다. 암기 포인트: 문제의 핵심 키워드와 연결해 반복 확인하세요.",
+    "image": ""
+  },
+  {
+    "id": "physiology_023bea16_23_16_2",
+    "setId": "physiology_91abc994",
+    "sourceId": "23신장-16",
+    "subject": "Physiology",
+    "section": "신장생리",
+    "sections": [
+      "신장생리"
+    ],
+    "question": "NaCl 중심의 수질의 삼투질 경사도가 형성되는 반류 증 폭(countercurrent multiplication)의 핵심 작동 기전은?",
+    "choices": [
+      "헨레고리 하행각에서 NaCl의 수동적 재흡수",
+      "헨레고리 상행각의 능동적 NaCl 재흡수",
+      "수질집합관에서 요소 재흡수",
+      "직행혈관의 U자형 구조",
+      "집합관의 ADH와 무관한 수분 재흡수"
+    ],
+    "answer": 2,
+    "examSource": "TalkFile_23 신장생리 안도환.pdf",
+    "examRank": 300,
+    "explanation": "핵심 단서: 신장생리 핵심 개념. 정답: 2번. 암기 포인트: 같은 표현의 유사 문항도 함께 확인하세요.",
+    "image": ""
+  },
+  {
+    "id": "physiology_023bea16_23_17_2",
+    "setId": "physiology_91abc994",
+    "sourceId": "23신장-17",
+    "subject": "Physiology",
+    "section": "신장생리",
+    "sections": [
+      "신장생리"
+    ],
+    "question": "적정산 배설은 신장 산 배설의 한 형태이다. 다음 중 적 정산 배설의 가장 핵심적인 특성은 무엇인가?",
+    "choices": [
+      "인산염, 크레아티닌 등 완충물질 양에 의해 제한된다.",
+      "NH₄⁺ 배설보다 장기 보상에서 중요한 역할을 한다.",
+      "대사성 알칼리증에서 증가한다.",
+      "요 pH가 낮으면 더 많이 배설된다.",
+      "여과된 HCO₃⁻의 양에 의해 결정된다. * 아래 그림은 신원을 모식적으로 나타낸 것이다."
+    ],
+    "answer": 1,
+    "examSource": "TalkFile_23 신장생리 안도환.pdf",
+    "examRank": 300,
+    "explanation": "핵심 단서: 신장생리 핵심 개념. 정답: 1번. 암기 포인트: 같은 표현의 유사 문항도 함께 확인하세요.",
+    "image": ""
+  },
+  {
+    "id": "physiology_023bea16_23_18_2",
+    "setId": "physiology_91abc994",
+    "sourceId": "23신장-18",
+    "subject": "Physiology",
+    "section": "신장생리",
+    "sections": [
+      "신장생리"
+    ],
+    "question": "위 그림과 같은 단면을 가진 신장에서 겉질과 속질의 경 계를 구분해 주는 구조물은?",
+    "choices": [
+      "interlobar 동맥",
+      "interlobular 동맥",
+      "arcuate 동맥",
+      "efferent 세동맥",
+      "segmental 동맥"
+    ],
+    "answer": 3,
+    "examSource": "TalkFile_23 신장생리 안도환.pdf",
+    "examRank": 300,
+    "explanation": "핵심 단서: 신장생리 핵심 개념. 정답: 3번. 암기 포인트: 같은 표현의 유사 문항도 함께 확인하세요.",
+    "image": ""
+  },
+  {
+    "id": "physiology_023bea16_23_19_2",
+    "setId": "physiology_91abc994",
+    "sourceId": "23신장-19",
+    "subject": "Physiology",
+    "section": "신장생리",
+    "sections": [
+      "신장생리"
+    ],
+    "question": "Na-Cl cotransporter을 통해 Na⁺ 재흡수가 대부분 일 어나는 부위는?",
+    "choices": [
+      "(A)",
+      "(B)",
+      "(C)",
+      "(D)",
+      "(E)"
+    ],
+    "answer": 4,
+    "examSource": "TalkFile_23 신장생리 안도환.pdf",
+    "examRank": 300,
+    "explanation": "핵심 단서: 신장생리 핵심 개념. 정답: 4번. 암기 포인트: 같은 표현의 유사 문항도 함께 확인하세요.",
+    "image": ""
+  },
+  {
+    "id": "physiology_023bea16_23_20_2",
+    "setId": "physiology_91abc994",
+    "sourceId": "23신장-20",
+    "subject": "Physiology",
+    "section": "신장생리",
+    "sections": [
+      "신장생리"
+    ],
+    "question": "요소 재순환(urea recycling)에 대한 설명으로 옳은 것 은?",
+    "choices": [
+      "헨레고리 상행각에서 요소가 능동적으로 분비되어 수 질 삼투농도를 낮춘다.",
+      "ADH는 집합관에서 요소 투과성을 감소시켜 요 배설 을 촉진한다.",
+      "근위세관에서 재흡수된 요소가 피질 집합관을 통해 다 시 혈액으로 이동한다.",
+      "내수질 집합관에서 재흡수된 요소가 헨레고리 하행각 으로 재유입되어 수질 고삼투 환경을 만든다.",
+      "요소 재순환은 요 농축과 거의 무관하며 희석능에만 관여한다."
+    ],
+    "answer": 4,
+    "examSource": "TalkFile_23 신장생리 안도환.pdf",
+    "examRank": 300,
+    "explanation": "핵심 단서: 신장생리 핵심 개념. 정답: 4번. 암기 포인트: 같은 표현의 유사 문항도 함께 확인하세요.",
+    "image": ""
+  },
+  {
+    "id": "physiology_023bea16_23_21_2",
+    "setId": "physiology_91abc994",
+    "sourceId": "23신장-21",
+    "subject": "Physiology",
+    "section": "신장생리",
+    "sections": [
+      "신장생리"
+    ],
+    "question": "65세 남성이 심한 패혈증으로 치료 중이다. 혈관 확장 물질의 과다 생성으로 혈압이 저하되고 상대적으로 수질 혈류가 급증했으며, 이후에도 저삼투뇨(150 mOsm/kg)가 계속 되었다. ADH 농도는 매우 높았고, Na⁺ 재흡수는 정 상으로 판정되었다. 이 환자에서 저삼투뇨가 지속되는 기 전적 원인은?",
+    "choices": [
+      "TAL에서 NKCC2 작용의 억제",
+      "집합관의 ADH 수용체 부족",
+      "직행 혈관의 반류 교환 장애",
+      "근위세관에서의 물 재흡수 감소",
+      "IMCD로부터 요소 재흡수 감소 * 42세 여성이 감기로 발열이 지속된 후 경도의 탈수 상태로 내원하였으며, 검사 결과는 다음과 같다."
+    ],
+    "answer": 3,
+    "examSource": "TalkFile_23 신장생리 안도환.pdf",
+    "examRank": 300,
+    "explanation": "핵심 단서: 신장생리 핵심 개념. 정답: 3번. 암기 포인트: 같은 표현의 유사 문항도 함께 확인하세요.",
+    "image": ""
+  },
+  {
+    "id": "physiology_023bea16_23_22_2",
+    "setId": "physiology_91abc994",
+    "sourceId": "23신장-22",
+    "subject": "Physiology",
+    "section": "신장생리",
+    "sections": [
+      "신장생리"
+    ],
+    "question": "이 환자의 자유수분 청소율(CH2O)을 계산하면?",
+    "choices": [
+      "0 (ml/min)",
+      "-1.4",
+      "+1.4",
+      "-0.7",
+      "+0.7"
+    ],
+    "answer": 4,
+    "examSource": "TalkFile_23 신장생리 안도환.pdf",
+    "examRank": 300,
+    "explanation": "핵심 단서: 신장생리 핵심 개념. 정답: 4번. 암기 포인트: 같은 표현의 유사 문항도 함께 확인하세요.",
+    "image": ""
+  },
+  {
+    "id": "physiology_023bea16_23_23_2",
+    "setId": "physiology_91abc994",
+    "sourceId": "23신장-23",
+    "subject": "Physiology",
+    "section": "신장생리",
+    "sections": [
+      "신장생리"
+    ],
+    "question": "자유수분 청소율 결과에 대한 해석으로 적절한 것은?",
+    "choices": [
+      "ADH 억제로 인해 물 배출이 증가하고 있다.",
+      "집합관에서 물 재흡수가 감소하여 희석뇨를 배출하는 상태이다.",
+      "ADH 증가로 물 보존이 이루어지고 있다.",
+      "isosthenuria로 만성 신질환 초기를 시사한다.",
+      "경도의 핍뇨로 인해 자유수분 청소율이 양성으로 전환 된 상태이다."
+    ],
+    "answer": 3,
+    "examSource": "TalkFile_23 신장생리 안도환.pdf",
+    "examRank": 300,
+    "explanation": "핵심 단서: 신장생리 핵심 개념. 정답: 3번. 암기 포인트: 같은 표현의 유사 문항도 함께 확인하세요.",
+    "image": ""
+  },
+  {
+    "id": "physiology_023bea16_23_24_2",
+    "setId": "physiology_91abc994",
+    "sourceId": "23신장-24",
+    "subject": "Physiology",
+    "section": "신장생리",
+    "sections": [
+      "신장생리"
+    ],
+    "question": "고칼륨식이를 3주 이상 지속한 55세 남자에서 혈장 K⁺는 정상이고, 알도스테론 농도는 증가되어 있다. 체중은 약 0.5 kg 증가하였으나 혈압은 정상 범위이며, Na⁺ 배설량 은 평소 식이와 거의 동일하다. 이 환자에서 고칼륨식이에 도 불구하고 장기적으로 Na⁺ 배설량이 정상으로 유지되는 이유는 무엇인가?",
+    "choices": [
+      "알도스테론 민감도가 상승하여 Na⁺재흡수가 증가된다.",
+      "고칼륨혈증이 직접 ANP 분비를 억제한다.",
+      "체액량 증가가 사구체 여과율을 감소시킨다.",
+      "체액량 증가가 압력-이뇨와 ANP 분비를 유발하여 Na⁺ 배설을 정상으로 되돌린다.",
+      "고칼륨식이는 Na-Cl cotransporter 활성을 감소시켜 Na⁺ 재흡수를 억제한다."
+    ],
+    "answer": 4,
+    "examSource": "TalkFile_23 신장생리 안도환.pdf",
+    "examRank": 300,
+    "explanation": "핵심 단서: 신장생리 핵심 개념. 정답: 4번. 암기 포인트: 같은 표현의 유사 문항도 함께 확인하세요.",
+    "image": ""
+  },
+  {
+    "id": "physiology_023bea16_23_25_2",
+    "setId": "physiology_91abc994",
+    "sourceId": "23신장-25",
+    "subject": "Physiology",
+    "section": "신장생리",
+    "sections": [
+      "신장생리"
+    ],
+    "question": "45세 여성이 체중 감량을 목적으로 강한 저염식을 한달 간 지속하였다. 그 결과 체중은 2 kg 감소하였으나 기립 시 어지러움으로 내원하였다. 혈압은 평소보다 낮고, 혈장 알도스테론 농도는 상승되어 있으며, 혈청 K⁺는 정상 상한 선(5.0 mEq/L)에 가깝웠다. 소변 분석에서 K⁺ 배설은 예 상보다 낮게 나타났다. 이 환자에서 칼륨 배설이 줄어드는 주된 생리학적 이유는?",
+    "choices": [
+      "알도스테론 수용체의 포화로 인해 K⁺분비가 억제된다.",
+      "교감신경 억제로 원위세관 Na⁺ 펌프 활성이 저하된다.",
+      "체액량 감소로 GFR이 증가하여 K⁺재흡수가 증가한다.",
+      "심방압 저하로 ANP 분비가 증가하여 K⁺ 분비가 억제 된다.",
+      "근위세관 Na⁺ 재흡수 증가로 원위세관으로의 Na⁺ 도 달량과 유속이 감소한다."
+    ],
+    "answer": 5,
+    "examSource": "TalkFile_23 신장생리 안도환.pdf",
+    "examRank": 300,
+    "explanation": "핵심 단서: 신장생리 핵심 개념. 정답: 5번. 암기 포인트: 같은 표현의 유사 문항도 함께 확인하세요.",
+    "image": ""
+  },
+  {
+    "id": "physiology_023bea16_23_26_2",
+    "setId": "physiology_91abc994",
+    "sourceId": "23신장-26",
+    "subject": "Physiology",
+    "section": "신장생리",
+    "sections": [
+      "신장생리"
+    ],
+    "question": "과호흡으로 인해 일시적으로 PaCO₂가 25 mmHg까지 감 소한다면 근위세관에서 가장 즉각적으로 일어날 변화는 무 엇인가?",
+    "choices": [
+      "H⁺ 분비 증가",
+      "HCO₃⁻ 재흡수 증가",
+      "H⁺ 분비 감소",
+      "NH₄⁺ 생성 증가",
+      "요의 적정산 배설 증가"
+    ],
+    "answer": 3,
+    "examSource": "TalkFile_23 신장생리 안도환.pdf",
+    "examRank": 300,
+    "explanation": "핵심 단서: 신장생리 핵심 개념. 정답: 3번. 암기 포인트: 같은 표현의 유사 문항도 함께 확인하세요.",
+    "image": ""
+  },
+  {
+    "id": "physiology_023bea16_23_27_2",
+    "setId": "physiology_91abc994",
+    "sourceId": "23신장-27",
+    "subject": "Physiology",
+    "section": "신장생리",
+    "sections": [
+      "신장생리"
+    ],
+    "question": "적정산 배설은 신장의 산 배설의 한 형태이다. 다음 중 적정산 배설의 가장 핵심적인 특성은?",
+    "choices": [
+      "인산염, 크레아티닌 완충물질의 양에 의해 제한된다.",
+      "NH₄⁺ 배설보다 장기적 산증 보상에 더 크게 작용한다.",
+      "대사성 알칼리증에서 증가한다.",
+      "요 pH가 낮으면 더 많이 배설된다.",
+      "여과된 HCO₃⁻의 양에 의해 결정된다."
+    ],
+    "answer": [
+      1,
+      2,
+      3,
+      4,
+      5
+    ],
+    "examSource": "TalkFile_23 신장생리 안도환.pdf",
+    "examRank": 300,
+    "explanation": "핵심 단서: 원본 정답/직접 풀이 기준. 정답은 1, 2, 3, 4, 5번입니다. 암기 포인트: 문제의 핵심 키워드와 연결해 반복 확인하세요.",
+    "image": ""
+  },
+  {
+    "id": "physiology_023bea16_23_28_2",
+    "setId": "physiology_91abc994",
+    "sourceId": "23신장-28",
+    "subject": "Physiology",
+    "section": "신장생리",
+    "sections": [
+      "신장생리"
+    ],
+    "question": "37세 여성이 만성 설사 이후 지속적인 대사성 산증을 보 인다. 혈액 pH는 7.28~7.31이고, NH₄⁺ 배설은 증가했지만 기대보다 낮으며 요 pH는 항상 6.2 이상으로 보고된다. 이 환자에서 요의 pH가 4.5까지 충분히 산성화하지 못할 때 발생하는 생리적 결과는 무엇인가?",
+    "choices": [
+      "요 중으로 H⁺가 과다 배출된다.",
+      "여과된 HCO₃⁻가 전부 재흡수되지 못한다.",
+      "인산염이 모두 재흡수되어 적정산 배설이 불가능하다.",
+      "H⁺과 Na⁺교환이 감소되어 Na⁺재흡수가 감소된다.",
+      "NH₄⁺ trapping과 NH₄⁺-Na 교환 기반의 배설이 저해 된다. * 64세 남자가 3일 전부터 구토로 응급실에 왔다. 입이 마른 증상과 혈압이 약간 감소하였다. 혈액검사 결과는 다음과 같다. pH: 7.47 PaCO₂: 45 mmHg HCO₃⁻: 32 mEq/L Na⁺: 140 mEq/L, K⁺: 3.6 mEq/L, Cl⁻: 88 mEq/L"
+    ],
+    "answer": 5,
+    "examSource": "TalkFile_23 신장생리 안도환.pdf",
+    "examRank": 300,
+    "explanation": "핵심 단서: 신장생리 핵심 개념. 정답: 5번. 암기 포인트: 같은 표현의 유사 문항도 함께 확인하세요.",
+    "image": ""
+  },
+  {
+    "id": "physiology_023bea16_23_29_2",
+    "setId": "physiology_91abc994",
+    "sourceId": "23신장-29",
+    "subject": "Physiology",
+    "section": "신장생리",
+    "sections": [
+      "신장생리"
+    ],
+    "question": "이 환자의 산-염기 평형 해석은?",
+    "choices": [
+      "호흡성 알칼리증에서 신장의 보상작용이 있는 상태",
+      "대사성 알칼리증에서 호흡성 보상작용이 있는 상태",
+      "대사성 알칼리증에서 호흡성 보상작용이 없는 상태",
+      "호흡성 알칼리증에서 신장의 보상작용이 없는 상태",
+      "대사성 알칼리증과 호흡성 산증의 혼합된 상태"
+    ],
+    "answer": 2,
+    "examSource": "TalkFile_23 신장생리 안도환.pdf",
+    "examRank": 300,
+    "explanation": "핵심 단서: 신장생리 핵심 개념. 정답: 2번. 암기 포인트: 같은 표현의 유사 문항도 함께 확인하세요.",
+    "image": ""
+  },
+  {
+    "id": "physiology_023bea16_23_30_2",
+    "setId": "physiology_91abc994",
+    "sourceId": "23신장-30",
+    "subject": "Physiology",
+    "section": "신장생리",
+    "sections": [
+      "신장생리"
+    ],
+    "question": "산-염기 조절의 관점에서 이 환자의 신장에서 핵심적인 변화의 기전은?",
+    "choices": [
+      "집합관 주세포의 Na⁺ 재흡수 억제",
+      "집합관 사이세포의 HCO₃⁻ 분비 증가",
+      "헨레고리 TAL에서의 Na⁺-K⁺-2Cl⁻ 공동수송 감소",
+      "근위세관에서의 NH₄⁺ 생성과 분비 증가",
+      "근위세관에서의 H⁺ 분비 및 HCO₃⁻ 재흡수 증가 <<문제지는 가져가기 바랍니다>> <수고했습니다>"
+    ],
+    "answer": [
+      2,
+      5
+    ],
+    "examSource": "TalkFile_23 신장생리 안도환.pdf",
+    "examRank": 300,
+    "explanation": "핵심 단서: 원본 정답/직접 풀이 기준. 정답은 2, 5번입니다. 암기 포인트: 문제의 핵심 키워드와 연결해 반복 확인하세요.",
+    "image": ""
+  },
+  {
+    "id": "physiology_3d74b319_23_1_2",
+    "setId": "physiology_91abc994",
+    "sourceId": "23호흡-1",
+    "subject": "Physiology",
+    "section": "호흡생리",
+    "sections": [
+      "호흡생리"
+    ],
+    "question": "다음 중 ‘교육의 궁극적 목적’과 ‘자유와 행복의 조건’이 아닌 것을 고르시오.",
+    "choices": [
+      "인간성 회복",
+      "선한 사회질서 창출",
+      "진실과 자유 갈망",
+      "인간애",
+      "사명감"
+    ],
+    "answer": 5,
+    "examSource": "TalkFile_23 호흡생리 박억숭.pdf",
+    "examRank": 300,
+    "explanation": "핵심 단서: 호흡생리 핵심 개념. 정답: 5번. 암기 포인트: 같은 표현의 유사 문항도 함께 확인하세요.",
+    "image": ""
+  },
+  {
+    "id": "physiology_3d74b319_23_2_2",
+    "setId": "physiology_91abc994",
+    "sourceId": "23호흡-2",
+    "subject": "Physiology",
+    "section": "호흡생리",
+    "sections": [
+      "호흡생리"
+    ],
+    "question": "심장에 있는 신경은 ‘불응기’가 있어야 규칙적인 심장박동이 가능하다. 불응기를 만드는 주된 전해질은 칼슘이다. 다음 중 ‘칼슘 통로를 막아서 부정맥 치료’에 이용하는 약물은?",
+    "choices": [
+      "Class I",
+      "Class II",
+      "Class III",
+      "Class IV",
+      "Class V"
+    ],
+    "answer": 4,
+    "examSource": "TalkFile_23 호흡생리 박억숭.pdf",
+    "examRank": 300,
+    "explanation": "핵심 단서: 호흡생리 핵심 개념. 정답: 4번. 암기 포인트: 같은 표현의 유사 문항도 함께 확인하세요.",
+    "image": ""
+  },
+  {
+    "id": "physiology_3d74b319_23_3_2",
+    "setId": "physiology_91abc994",
+    "sourceId": "23호흡-3",
+    "subject": "Physiology",
+    "section": "호흡생리",
+    "sections": [
+      "호흡생리"
+    ],
+    "question": "다음 중 들숨에 사용하는 근육에 속하지 않는 것은?",
+    "choices": [
+      "extrenal intercostal m.",
+      "abdominal recti.",
+      "SCM",
+      "anterior serrati.",
+      "scaleni."
+    ],
+    "answer": 2,
+    "examSource": "TalkFile_23 호흡생리 박억숭.pdf",
+    "examRank": 300,
+    "explanation": "핵심 단서: 호흡생리 핵심 개념. 정답: 2번. 암기 포인트: 같은 표현의 유사 문항도 함께 확인하세요.",
+    "image": ""
+  },
+  {
+    "id": "physiology_3d74b319_23_4_4",
+    "setId": "physiology_91abc994",
+    "sourceId": "23호흡-4",
+    "subject": "Physiology",
+    "section": "호흡생리",
+    "sections": [
+      "호흡생리"
+    ],
+    "question": "폐포내압과 흉막내압에 대한 설명이다. 틀린 것을 고르시오.",
+    "choices": [
+      "폐포 내에 존재하는 공기의 압력을 폐포내압이라 한다.",
+      "들숨을 할 때 폐포내압은 약 –1 ㎝H2O까지 감소, 약 2초에 걸쳐 약 0.5ℓ 공기가 폐포 내로 들어간다.",
+      "장측, 벽측 흉막 사이의 좁은 공간 내에 존재하는 액체의 압력을 흉막내압이라 한다.",
+      "들숨 시 흉막내압은 폐포내압보다 5 ㎝H2O 낮은 상태에서 7.5 ㎝H2O 낮은 상태로 바뀌면, 폐용적은 0.5ℓ증가한다.",
+      "폐포내압과 흉막내압의 차이를 transpulmonary pressure 라 하고 폐의 유순도를 나타낸다."
+    ],
+    "answer": 5,
+    "examSource": "TalkFile_23 호흡생리 박억숭.pdf",
+    "examRank": 300,
+    "explanation": "핵심 단서: 호흡생리 핵심 개념. 정답: 5번. 암기 포인트: 같은 표현의 유사 문항도 함께 확인하세요.",
+    "image": ""
+  },
+  {
+    "id": "physiology_3d74b319_23_5_4",
+    "setId": "physiology_91abc994",
+    "sourceId": "23호흡-5",
+    "subject": "Physiology",
+    "section": "호흡생리",
+    "sections": [
+      "호흡생리"
+    ],
+    "question": "임신 후 6~7개월 이전 조산아에서 계면활성제 관련하여 가장 문제가 되는 질환은?",
+    "choices": [
+      "다운증후군",
+      "알레르기 천식",
+      "신생아 호흡곤란증후군",
+      "폐공기증",
+      "흡인성 폐렴"
+    ],
+    "answer": 3,
+    "examSource": "TalkFile_23 호흡생리 박억숭.pdf",
+    "examRank": 300,
+    "explanation": "핵심 단서: 호흡생리 핵심 개념. 정답: 3번. 암기 포인트: 같은 표현의 유사 문항도 함께 확인하세요.",
+    "image": ""
+  },
+  {
+    "id": "physiology_3d74b319_23_6_4",
+    "setId": "physiology_91abc994",
+    "sourceId": "23호흡-6",
+    "subject": "Physiology",
+    "section": "호흡생리",
+    "sections": [
+      "호흡생리"
+    ],
+    "question": "다음 설명 중 틀린 것을 고르시오.",
+    "choices": [
+      "날숨 시에는 호흡근의 ‘작업효과’는 나타나지 않는다.",
+      "안정호흡 시에는 총에너지 소모량의 3~5%가 폐환기를 위한 목적에 사용된다.",
+      "격렬한 운동을 할 때는 호흡을 위한 에너지 소모량이 20배까지 증가하지만, 그 이상 증가하지 는 않는다.",
+      "기도저항이 증가되거나, 폐의 유순도가 감소된 경우는 에너지 소모량은 더욱 증가한다.",
+      "운동 중 호흡을 위한 에너지양은 운동강도를 결정하는 제한요소가 될 수 있다."
+    ],
+    "answer": 3,
+    "examSource": "TalkFile_23 호흡생리 박억숭.pdf",
+    "examRank": 300,
+    "explanation": "핵심 단서: 호흡생리 핵심 개념. 정답: 3번. 암기 포인트: 같은 표현의 유사 문항도 함께 확인하세요.",
+    "image": ""
+  },
+  {
+    "id": "physiology_3d74b319_23_7_4",
+    "setId": "physiology_91abc994",
+    "sourceId": "23호흡-7",
+    "subject": "Physiology",
+    "section": "호흡생리",
+    "sections": [
+      "호흡생리"
+    ],
+    "question": "정상적인 날숨 후에 폐 내에 남아 있는 공기의 양에 해당하는 ‘폐용량’과 ‘그 수치’로 적당한 것을 고르시오. 이것은 폐기능 유지에 중요하다.",
+    "choices": [
+      "FRC, 2,300㎖",
+      "TV, 500㎖",
+      "IRV 3,000㎖",
+      "VC, 4,600㎖",
+      "RV 1,200㎖"
+    ],
+    "answer": 1,
+    "examSource": "TalkFile_23 호흡생리 박억숭.pdf",
+    "examRank": 300,
+    "explanation": "핵심 단서: 호흡생리 핵심 개념. 정답: 1번. 암기 포인트: 같은 표현의 유사 문항도 함께 확인하세요.",
+    "image": ""
+  },
+  {
+    "id": "physiology_3d74b319_23_8_2",
+    "setId": "physiology_91abc994",
+    "sourceId": "23호흡-8",
+    "subject": "Physiology",
+    "section": "호흡생리",
+    "sections": [
+      "호흡생리"
+    ],
+    "question": "다음 중 교감신경과 관련된 고혈압 치료제 조합으로 합당한 것을 고르시오.",
+    "choices": [
+      "α1 agonist, α2 blocker, β1 blocker",
+      "α1 blocker, β2 blocker, β3 agonist",
+      "α1 agonist, α2 blocker, β2 agonist",
+      "α1 blocker, β1 blocker, β3 blocker",
+      "α1 blocker, α2 agonist, β1 blocker"
+    ],
+    "answer": 5,
+    "examSource": "TalkFile_23 호흡생리 박억숭.pdf",
+    "examRank": 300,
+    "explanation": "핵심 단서: 호흡생리 핵심 개념. 정답: 5번. 암기 포인트: 같은 표현의 유사 문항도 함께 확인하세요.",
+    "image": ""
+  },
+  {
+    "id": "physiology_3d74b319_23_9_2",
+    "setId": "physiology_91abc994",
+    "sourceId": "23호흡-9",
+    "subject": "Physiology",
+    "section": "호흡생리",
+    "sections": [
+      "호흡생리"
+    ],
+    "question": "다음은 폐혈관에 대한 설명이다. 틀린 것을 고르시오.",
+    "choices": [
+      "폐동맥은 우심실에서 시작해 겨우 5cm 정도의 길이를 갖는다.",
+      "폐동맥 벽의 두께는 대동맥의 1/3에 해당한다.",
+      "폐동맥분지의 길이는 매우 짧으며 체순환계의 해당 동맥에 비하여 소동맥과 세동맥을 포함한 폐동맥의 직경이 더 크다.",
+      "폐순환계의 혈관은 벽이 얇고 팽창성이 크다.",
+      "폐동맥은 유순도가 크기 때문에 우심실 박출량을 수용할 수 없다."
+    ],
+    "answer": 5,
+    "examSource": "TalkFile_23 호흡생리 박억숭.pdf",
+    "examRank": 300,
+    "explanation": "핵심 단서: 호흡생리 핵심 개념. 정답: 5번. 암기 포인트: 같은 표현의 유사 문항도 함께 확인하세요.",
+    "image": ""
+  },
+  {
+    "id": "physiology_3d74b319_23_10_2",
+    "setId": "physiology_91abc994",
+    "sourceId": "23호흡-10",
+    "subject": "Physiology",
+    "section": "호흡생리",
+    "sections": [
+      "호흡생리"
+    ],
+    "question": "다음 폐순환의 압력에서 틀린 것을 고르시오.",
+    "choices": [
+      "폐동맥의 최고혈압은 25mmHg, 최저혈압은 8mmHg이다.",
+      "폐모세혈관의 평균 혈압은 약 7mmHg이다.",
+      "폐쐐기압을 측정하면, 정상치는 약 5mmHg이다.",
+      "폐쐐기압은 좌심방내압보다 4~6mmHg 높다.",
+      "비스듬히 기댄 자세에서 좌심방과 좌심방에 연결된 주요 폐정맥 내 평균혈압은 약 2mmHg로 써 1~5mmHg 범위 내에서 변동될 수 있다."
+    ],
+    "answer": 4,
+    "examSource": "TalkFile_23 호흡생리 박억숭.pdf",
+    "examRank": 300,
+    "explanation": "핵심 단서: 호흡생리 핵심 개념. 정답: 4번. 암기 포인트: 같은 표현의 유사 문항도 함께 확인하세요.",
+    "image": ""
+  },
+  {
+    "id": "physiology_3d74b319_23_11_2",
+    "setId": "physiology_91abc994",
+    "sourceId": "23호흡-11",
+    "subject": "Physiology",
+    "section": "호흡생리",
+    "sections": [
+      "호흡생리"
+    ],
+    "question": "격한 운동 시 증가된 심장박출량에 폐순환이 적응하는 내용 중 틀린 것을 고르시오.",
+    "choices": [
+      "심한 운동 시 폐혈류는 약 4~7배 증가한다.",
+      "폐혈류가 증가되면 닫혀 있던 모세혈관이 열리게 되어 열린 모세혈관의 수가 최고 10배나 증가된다.",
+      "폐모세혈관이 확장되기 때문에 혈류가 2배 이상 증가된다.",
+      "폐동맥압이 증가되는 등의 기전에 의하여 큰 변화 없이 폐순환이 유지된다.",
+      "정상적인 경우 폐혈관의 저항이 감소되므로 운동 시 폐동맥압은 크게 변하지 않는다."
+    ],
+    "answer": 4,
+    "examSource": "TalkFile_23 호흡생리 박억숭.pdf",
+    "examRank": 300,
+    "explanation": "핵심 단서: 호흡생리 핵심 개념. 정답: 4번. 암기 포인트: 같은 표현의 유사 문항도 함께 확인하세요.",
+    "image": ""
+  },
+  {
+    "id": "physiology_3d74b319_23_12_2",
+    "setId": "physiology_91abc994",
+    "sourceId": "23호흡-12",
+    "subject": "Physiology",
+    "section": "호흡생리",
+    "sections": [
+      "호흡생리"
+    ],
+    "question": "다음 중 폐부종과 흉수의 공통된 원인 두 가지에 해당하는 것을 고르시오.",
+    "choices": [
+      "림프관 폐쇄와 삼투압 감소",
+      "심장기능 저하와 감염",
+      "림프관 폐쇄와 감염",
+      "심장기능 저하와 삼투압 감소",
+      "삼투압 감소와 감염"
+    ],
+    "answer": 4,
+    "examSource": "TalkFile_23 호흡생리 박억숭.pdf",
+    "examRank": 300,
+    "explanation": "핵심 단서: 호흡생리 핵심 개념. 정답: 4번. 암기 포인트: 같은 표현의 유사 문항도 함께 확인하세요.",
+    "image": ""
+  },
+  {
+    "id": "physiology_3d74b319_23_13_2",
+    "setId": "physiology_91abc994",
+    "sourceId": "23호흡-13",
+    "subject": "Physiology",
+    "section": "호흡생리",
+    "sections": [
+      "호흡생리"
+    ],
+    "question": "다음 x-ray에서 보이는 것은 무엇인가?",
+    "choices": [
+      "Lt. pulmonary edema",
+      "Bat man wing sign",
+      "Lt. CP angle blunting",
+      "crazy paving pattern",
+      "Lt. pneumothorax"
+    ],
+    "answer": 3,
+    "examSource": "TalkFile_23 호흡생리 박억숭.pdf",
+    "examRank": 300,
+    "explanation": "핵심 단서: 호흡생리 핵심 개념. 정답: 3번. 암기 포인트: 같은 표현의 유사 문항도 함께 확인하세요.",
+    "image": "assets/images/physiology_3d74b319_23_13_2.jpg"
+  },
+  {
+    "id": "physiology_3d74b319_23_14_2",
+    "setId": "physiology_91abc994",
+    "sourceId": "23호흡-14",
+    "subject": "Physiology",
+    "section": "호흡생리",
+    "sections": [
+      "호흡생리"
+    ],
+    "question": "다음 중 막을 통과하는 단순확산에서 더 빨라지는 경우가 아닌 것을 고르시오.",
+    "choices": [
+      "막의 표면적이 넓을수록",
+      "막의 두께가 얇을수록",
+      "농도 기울기가 클수록",
+      "막이 그 분자에 대한 투과성이 클수록",
+      "온도가 낮을수록"
+    ],
+    "answer": 5,
+    "examSource": "TalkFile_23 호흡생리 박억숭.pdf",
+    "examRank": 300,
+    "explanation": "핵심 단서: 호흡생리 핵심 개념. 정답: 5번. 암기 포인트: 같은 표현의 유사 문항도 함께 확인하세요.",
+    "image": ""
+  },
+  {
+    "id": "physiology_3d74b319_23_15_2",
+    "setId": "physiology_91abc994",
+    "sourceId": "23호흡-15",
+    "subject": "Physiology",
+    "section": "호흡생리",
+    "sections": [
+      "호흡생리"
+    ],
+    "question": "다음 중 액체 속에서 가스의 확산에 영향을 미치지만, 인체에서 고려하지 않는 것은 무엇인가?",
+    "choices": [
+      "액체의 온도",
+      "액체에서 가스의 용해도",
+      "액체의 단면적",
+      "가스의 분자량",
+      "가스가 확산되는 거리"
+    ],
+    "answer": 1,
+    "examSource": "TalkFile_23 호흡생리 박억숭.pdf",
+    "examRank": 300,
+    "explanation": "핵심 단서: 호흡생리 핵심 개념. 정답: 1번. 암기 포인트: 같은 표현의 유사 문항도 함께 확인하세요.",
+    "image": ""
+  },
+  {
+    "id": "physiology_3d74b319_23_16_2",
+    "setId": "physiology_91abc994",
+    "sourceId": "23호흡-16",
+    "subject": "Physiology",
+    "section": "호흡생리",
+    "sections": [
+      "호흡생리"
+    ],
+    "question": "폐포의 공기는 그 조성이 대기공기와 다르다. 그 이유가 아닌 것을 고르시오.",
+    "choices": [
+      "폐포공기는 매번 숨 쉴 때마다 대기공기로 단지 일부분만이 교체된다.",
+      "산소가 폐포공기에서 폐혈액으로 일정하게 흡수된다.",
+      "대기공기와 폐포의 공기는 온도가 다르다.",
+      "이산화탄소가 폐혈액에서 폐포로 일정하게 확산된다.",
+      "호흡기도로 들어온 건조한 대기공기가 폐포에 도달하기도 전에 가습화된다."
+    ],
+    "answer": 3,
+    "examSource": "TalkFile_23 호흡생리 박억숭.pdf",
+    "examRank": 300,
+    "explanation": "핵심 단서: 호흡생리 핵심 개념. 정답: 3번. 암기 포인트: 같은 표현의 유사 문항도 함께 확인하세요.",
+    "image": ""
+  },
+  {
+    "id": "physiology_3d74b319_23_17_2",
+    "setId": "physiology_91abc994",
+    "sourceId": "23호흡-17",
+    "subject": "Physiology",
+    "section": "호흡생리",
+    "sections": [
+      "호흡생리"
+    ],
+    "question": "다음 설명에서 괄호에 들어갈 적당한 것을 고르시오. “만성폐쇄성폐질환에서 폐의 어떤 부위에서는 심각한 shunt, 또 다른 부위에서는 심각한 dead space를 나타낸다. 이 두 상황은 가스교환기관으로 폐의 효율을 상당히 감소시켜 종종 그 효율을 정상의 ( )까지 감소시킨다.”",
+    "choices": [
+      "1/2",
+      "1/5",
+      "1/10",
+      "1/50",
+      "1/100"
+    ],
+    "answer": 3,
+    "examSource": "TalkFile_23 호흡생리 박억숭.pdf",
+    "examRank": 300,
+    "explanation": "핵심 단서: 호흡생리 핵심 개념. 정답: 3번. 암기 포인트: 같은 표현의 유사 문항도 함께 확인하세요.",
+    "image": ""
+  },
+  {
+    "id": "physiology_3d74b319_23_18_2",
+    "setId": "physiology_91abc994",
+    "sourceId": "23호흡-18",
+    "subject": "Physiology",
+    "section": "호흡생리",
+    "sections": [
+      "호흡생리"
+    ],
+    "question": "‘V/Q=0’에서의 산소와 이산화탄소의 분압으로 적당한 것을 고르시오.(단위 mmHg)",
+    "choices": [
+      "PO2 40, PCO2 45",
+      "PO2 149, PCO2 0",
+      "PO2 40, PCO2 0",
+      "PO2 159, PCO2 45",
+      "PO2 104, PCO2 40"
+    ],
+    "answer": 1,
+    "examSource": "TalkFile_23 호흡생리 박억숭.pdf",
+    "examRank": 300,
+    "explanation": "핵심 단서: 호흡생리 핵심 개념. 정답: 1번. 암기 포인트: 같은 표현의 유사 문항도 함께 확인하세요.",
+    "image": ""
+  },
+  {
+    "id": "physiology_3d74b319_23_19_2",
+    "setId": "physiology_91abc994",
+    "sourceId": "23호흡-19",
+    "subject": "Physiology",
+    "section": "호흡생리",
+    "sections": [
+      "호흡생리"
+    ],
+    "question": "혈액에 의한 산소와 이산화탄소의 운반은 ( )과 ( )에 의해 이루어진다.",
+    "choices": [
+      "확산, 혈류",
+      "확산, 기압",
+      "포도당, 혈류",
+      "확산능, 확산계수",
+      "혈류, pH"
+    ],
+    "answer": 1,
+    "examSource": "TalkFile_23 호흡생리 박억숭.pdf",
+    "examRank": 300,
+    "explanation": "핵심 단서: 호흡생리 핵심 개념. 정답: 1번. 암기 포인트: 같은 표현의 유사 문항도 함께 확인하세요.",
+    "image": ""
+  },
+  {
+    "id": "physiology_3d74b319_23_20_2",
+    "setId": "physiology_91abc994",
+    "sourceId": "23호흡-20",
+    "subject": "Physiology",
+    "section": "호흡생리",
+    "sections": [
+      "호흡생리"
+    ],
+    "question": "다음은 말초모세혈관 그림에서 ‘간질액(1), 조직세포(2)의 산소분압’으로 적절한 것을 고르시오.",
+    "choices": [
+      "40, 45",
+      "45, 40",
+      "23, 45",
+      "40, 23",
+      "90, 40"
+    ],
+    "answer": 4,
+    "examSource": "TalkFile_23 호흡생리 박억숭.pdf",
+    "examRank": 300,
+    "explanation": "핵심 단서: 호흡생리 핵심 개념. 정답: 4번. 암기 포인트: 같은 표현의 유사 문항도 함께 확인하세요.",
+    "image": "assets/images/physiology_3d74b319_23_20_2.jpg"
+  },
+  {
+    "id": "physiology_3d74b319_23_21_2",
+    "setId": "physiology_91abc994",
+    "sourceId": "23호흡-21",
+    "subject": "Physiology",
+    "section": "호흡생리",
+    "sections": [
+      "호흡생리"
+    ],
+    "question": "다음 중 산소해리곡선의 오른쪽 이동을 일으키는 것이 아닌 것을 고르시오.",
+    "choices": [
+      "pH 감소",
+      "극심한 운동",
+      "체온 상승",
+      "이산화탄소 증가",
+      "BPG 농도 감소"
+    ],
+    "answer": 5,
+    "examSource": "TalkFile_23 호흡생리 박억숭.pdf",
+    "examRank": 300,
+    "explanation": "핵심 단서: 호흡생리 핵심 개념. 정답: 5번. 암기 포인트: 같은 표현의 유사 문항도 함께 확인하세요.",
+    "image": ""
+  },
+  {
+    "id": "physiology_3d74b319_23_22_2",
+    "setId": "physiology_91abc994",
+    "sourceId": "23호흡-22",
+    "subject": "Physiology",
+    "section": "호흡생리",
+    "sections": [
+      "호흡생리"
+    ],
+    "question": "다음은 일산화탄소 이야기이다. 맞는 것을 고르시오.",
+    "choices": [
+      "일산화탄소는 산소가 결합하는 다른 부위에 혈색소 분자와 결합한다.",
+      "혈색소로부터 산소를 치환하여 혈액의 산소운반 능력을 증가시킨다.",
+      "일산화탄소는 산소보다 250배 더 강하게 혈색소와 결합한다.",
+      "일산화탄소의 압력이 0.1 mmHg만 되어도 치명적일 수 있다.",
+      "일산화탄소 중독에서는 청색증이 나타난다."
+    ],
+    "answer": 3,
+    "examSource": "TalkFile_23 호흡생리 박억숭.pdf",
+    "examRank": 300,
+    "explanation": "핵심 단서: 호흡생리 핵심 개념. 정답: 3번. 암기 포인트: 같은 표현의 유사 문항도 함께 확인하세요.",
+    "image": ""
+  },
+  {
+    "id": "physiology_3d74b319_23_23_2",
+    "setId": "physiology_91abc994",
+    "sourceId": "23호흡-23",
+    "subject": "Physiology",
+    "section": "호흡생리",
+    "sections": [
+      "호흡생리"
+    ],
+    "question": "‘곰퍼즈 곡선(S 선)’에 적용되는 분야가 아닌 것을 고르시오.",
+    "choices": [
+      "노화의 보편성",
+      "암의 성장",
+      "인구 감소",
+      "시장 효과",
+      "산소-혈색소 해리곡선"
+    ],
+    "answer": 3,
+    "examSource": "TalkFile_23 호흡생리 박억숭.pdf",
+    "examRank": 300,
+    "explanation": "핵심 단서: 호흡생리 핵심 개념. 정답: 3번. 암기 포인트: 같은 표현의 유사 문항도 함께 확인하세요.",
+    "image": ""
+  },
+  {
+    "id": "physiology_3d74b319_23_24_2",
+    "setId": "physiology_91abc994",
+    "sourceId": "23호흡-24",
+    "subject": "Physiology",
+    "section": "호흡생리",
+    "sections": [
+      "호흡생리"
+    ],
+    "question": "100ml 혈액당 산소는 5ml가 조직으로 운반되고, 이산화탄소는 ( )ml가 조직에서 폐로 운반된다.",
+    "choices": [
+      "1",
+      "2",
+      "3",
+      "4",
+      "5"
+    ],
+    "answer": 5,
+    "examSource": "TalkFile_23 호흡생리 박억숭.pdf",
+    "examRank": 300,
+    "explanation": "핵심 단서: 호흡생리 핵심 개념. 정답: 5번. 암기 포인트: 같은 표현의 유사 문항도 함께 확인하세요.",
+    "image": ""
+  },
+  {
+    "id": "physiology_3d74b319_23_25_2",
+    "setId": "physiology_91abc994",
+    "sourceId": "23호흡-25",
+    "subject": "Physiology",
+    "section": "호흡생리",
+    "sections": [
+      "호흡생리"
+    ],
+    "question": "다음은 ‘할덴 효과’에 대한 설명이다. 틀린 것을 고르시오.",
+    "choices": [
+      "혈색소에 산소가 결합하면 혈액으로부터 이산화탄소를 유리시키려 한다.",
+      "이산화탄소의 운반을 촉진하는데 있어서 양적으로 산소운반을 촉진하는 보어 효과보다 훨씬 더 중요한다.",
+      "폐에서 산소가 혈색소와 결합하면 혈색소가 더 약한 산이 된다는 사실에 기인한다.",
+      "혈액에서 카르바미노 형태로 존재하는 이산화탄소를 더 많이 유리시킨다.",
+      "혈색소 산도가 증가되면 과량의 수소 이온을 방출시키고, 이들은 중탄산 이온과 결합하여 탄산을 형성한다."
+    ],
+    "answer": 5,
+    "examSource": "TalkFile_23 호흡생리 박억숭.pdf",
+    "examRank": 300,
+    "explanation": "핵심 단서: 호흡생리 핵심 개념. 정답: 5번. 암기 포인트: 같은 표현의 유사 문항도 함께 확인하세요.",
+    "image": ""
+  },
+  {
+    "id": "physiology_3d74b319_23_26_2",
+    "setId": "physiology_91abc994",
+    "sourceId": "23호흡-26",
+    "subject": "Physiology",
+    "section": "호흡생리",
+    "sections": [
+      "호흡생리"
+    ],
+    "question": "호흡교환비율(R)에 대한 다음 설명 중 틀린 것을 고르시오.",
+    "choices": [
+      "산소섭취에 대한 이산화탄소배출의 비로 호흡교환비율(R)이라 한다.",
+      "산소가 탄수화물과 함께 대사될 때에는 소비되는 산소 분자당 두 분자의 이산화탄소가 형성된다.",
+      "산소가 지방과 반응할 때에는 산소 분자의 일부분이 이산화탄소 대신 물을 형성하기 위해 지방의 수소 원자와 결합하기 때문이다.",
+      "지방이 대사될 때, 조직에서 화학반응의 호흡지수는 1.0 대신 약 0.7이다.",
+      "정상적으로 음식을 섭취하여 평균적인 양의 탄수화물, 지방 및 단백질을 소비하는 사람의 경우 R의 평균수치는 0.825가 된다."
+    ],
+    "answer": 4,
+    "examSource": "TalkFile_23 호흡생리 박억숭.pdf",
+    "examRank": 300,
+    "explanation": "핵심 단서: 호흡생리 핵심 개념. 정답: 4번. 암기 포인트: 같은 표현의 유사 문항도 함께 확인하세요.",
+    "image": ""
+  },
+  {
+    "id": "physiology_3d74b319_23_27_2",
+    "setId": "physiology_91abc994",
+    "sourceId": "23호흡-27",
+    "subject": "Physiology",
+    "section": "호흡생리",
+    "sections": [
+      "호흡생리"
+    ],
+    "question": "27 다음은 HbA1c에 대한 설명이다. ( )에 들어갈 말로 적당한 것을 고르시오. “HbA1c는 장기간에 걸친 정상적인 혈당 유지 확인에 사용하는 검사이다. 혈장의 ( )은 Hb와 공유 결합하면서 HbA1c가 생긴다. 지난 8~12주 사이에 Hb이 ( )에 노출된 정도에 직접적으로 비례한다.”",
+    "choices": [
+      "인슐린",
+      "포도당",
+      "단백질",
+      "글루카곤",
+      "지방"
+    ],
+    "answer": 5,
+    "examSource": "TalkFile_23 호흡생리 박억숭.pdf",
+    "examRank": 300,
+    "explanation": "핵심 단서: 호흡생리 핵심 개념. 정답: 5번. 암기 포인트: 같은 표현의 유사 문항도 함께 확인하세요.",
+    "image": ""
+  },
+  {
+    "id": "physiology_3d74b319_23_28_2",
+    "setId": "physiology_91abc994",
+    "sourceId": "23호흡-28",
+    "subject": "Physiology",
+    "section": "호흡생리",
+    "sections": [
+      "호흡생리"
+    ],
+    "question": "사람이 쓰러지는 경우, 심정지 상황에서 ‘심폐소생술이 잘 이루어졌다’라는 방송을 종종 볼 수 있다. 다음 중 이와 관련된 상황(심정지)과 내용에서 맞는 것을 고르시오.",
+    "choices": [
+      "미주신경 실신이 가장 많은 경우이므로, 쓰러지더라도 일단 지켜본다.",
+      "상황이 발생하면 의료제공자는 10초 이내에 심장박동과 호흡을 확인한다.",
+      "심장박동은 요골동맥 촉지, 호흡은 흉벽 움직임을 눈으로 보고 확인한다.",
+      "의료제공자라면 도움 요청은 생략하고, 즉시 심장마사지를 시행한다.",
+      "심전도에서 VT(심실빈맥), VF(심실세동)가 확인되면 에피네프린을 먼저 사용한다."
+    ],
+    "answer": 5,
+    "examSource": "TalkFile_23 호흡생리 박억숭.pdf",
+    "examRank": 300,
+    "explanation": "핵심 단서: 호흡생리 핵심 개념. 정답: 5번. 암기 포인트: 같은 표현의 유사 문항도 함께 확인하세요.",
+    "image": ""
+  },
+  {
+    "id": "physiology_3d74b319_23_29_2",
+    "setId": "physiology_91abc994",
+    "sourceId": "23호흡-29",
+    "subject": "Physiology",
+    "section": "호흡생리",
+    "sections": [
+      "호흡생리"
+    ],
+    "question": "다음 설명하는 환자 중 가장 응급인 환자를 고르시오.",
+    "choices": [
+      "기저질환이 없이 room air SpO2 95%인 편안한 노인",
+      "당뇨와 고혈압이 있는 중년으로 호흡곤란은 살짝 있지만, 말도 하고 room air SpO2는 93%인 사람",
+      "COPD를 오랫동안 앓고 있지만, 호흡곤란이 없는 room air SpO2 89%인 노인",
+      "기저질환이 없이 room air SpO2 80%에 숨이 찬 30대 청년",
+      "천식을 앓고 있지만, 말에 불편함이 없는 room air SpO2는 90%인 중년"
+    ],
+    "answer": 4,
+    "examSource": "TalkFile_23 호흡생리 박억숭.pdf",
+    "examRank": 300,
+    "explanation": "핵심 단서: 호흡생리 핵심 개념. 정답: 4번. 암기 포인트: 같은 표현의 유사 문항도 함께 확인하세요.",
+    "image": ""
+  },
+  {
+    "id": "physiology_3d74b319_23_30_2",
+    "setId": "physiology_91abc994",
+    "sourceId": "23호흡-30",
+    "subject": "Physiology",
+    "section": "호흡생리",
+    "sections": [
+      "호흡생리"
+    ],
+    "question": "다음은 교뇌의 호흡조정중추에 대한 설명이다. ( )에 들어갈 적당한 것은? “호흡조정중추는 ( )중추에 신호를 보낸다. 이 중추의 주요기능은 경사신호가 끝나는 시점을 조절하는 것이다. 그러므로 호흡조정중추의 주기능은 ( )을 제한하는 것이다.”",
+    "choices": [
+      "흡식",
+      "호식",
+      "호흡수",
+      "호흡 깊이",
+      "PCO2"
+    ],
+    "answer": 1,
+    "examSource": "TalkFile_23 호흡생리 박억숭.pdf",
+    "examRank": 300,
+    "explanation": "핵심 단서: 호흡생리 핵심 개념. 정답: 1번. 암기 포인트: 같은 표현의 유사 문항도 함께 확인하세요.",
+    "image": ""
+  },
+  {
+    "id": "physiology_3d74b319_23_31_2",
+    "setId": "physiology_91abc994",
+    "sourceId": "23호흡-31",
+    "subject": "Physiology",
+    "section": "호흡생리",
+    "sections": [
+      "호흡생리"
+    ],
+    "question": "다음은 호흡의 화학적 조절에 대한 설명이다. 틀린 것을 고르시오.",
+    "choices": [
+      "호흡의 궁극적인 목표는 조직 내 산소, 이산화탄소 및 수소 이온 농도를 일정하게 유지하는 것이다.",
+      "호흡활동은 이들 물질의 농도변화에 반응하면서 정확하게 조절된다.",
+      "혈액 내 존재하는 과량의 이산화탄소와 수소 이온은 주로 호흡중추에 직접 작용한다.",
+      "산소는 호흡중추에 대한 직접작용이 대부분이다.",
+      "산소는 경동맥소체, 대동맥소체 내에 위치하는 화학 수용체에 작용하여 호흡 조절을 위한 적절한 신호를 호흡중추에 전달한다."
+    ],
+    "answer": 4,
+    "examSource": "TalkFile_23 호흡생리 박억숭.pdf",
+    "examRank": 300,
+    "explanation": "핵심 단서: 호흡생리 핵심 개념. 정답: 4번. 암기 포인트: 같은 표현의 유사 문항도 함께 확인하세요.",
+    "image": ""
+  },
+  {
+    "id": "physiology_3d74b319_23_32_2",
+    "setId": "physiology_91abc994",
+    "sourceId": "23호흡-32",
+    "subject": "Physiology",
+    "section": "호흡생리",
+    "sections": [
+      "호흡생리"
+    ],
+    "question": "호흡조절에서 이산화탄소의 자극 효과에 대한 설명이다. 틀린 것을 고르시오.",
+    "choices": [
+      "처음 몇 시간 동안은 이산화탄소의 호흡중추 자극 효과가 매우 강력하다.",
+      "3~4일이 지나면 그 효과는 점차 떨어져서 처음 효과의 약 1/5까지 감소한다.",
+      "처음 이산화탄소에 의해 증가되었던 수소 이온 농도는 콩팥에 의해 정상으로 조절된다.",
+      "탄산(HCO3⁻)이 뇌-혈관 장벽과 혈관-뇌척수액 장벽을 통해 천천히 확산된다.",
+      "이산화탄소는 호흡조절의 급성효과는 강력하지만, 만성효과는 미약하다."
+    ],
+    "answer": 2,
+    "examSource": "TalkFile_23 호흡생리 박억숭.pdf",
+    "examRank": 300,
+    "explanation": "핵심 단서: 호흡생리 핵심 개념. 정답: 2번. 암기 포인트: 같은 표현의 유사 문항도 함께 확인하세요.",
+    "image": ""
+  },
+  {
+    "id": "physiology_3d74b319_23_33_2",
+    "setId": "physiology_91abc994",
+    "sourceId": "23호흡-33",
+    "subject": "Physiology",
+    "section": "호흡생리",
+    "sections": [
+      "호흡생리"
+    ],
+    "question": "호흡에 영향을 미치는 다른 요인들에 대한 설명이다. 틀린 것을 고르시오.",
+    "choices": [
+      "호흡은 불수의적 조절뿐만 아니라 과호흡, 저호흡 등 수의적 조절도 가능하다.",
+      "기도에 존재하는 폐 자극 수용체가 자극되면 기침, 재채기가 유발될 수 있다.",
+      "급성 뇌부종은 호흡중추의 활성은 억제되나 완전한 기능 상실은 일어나지 않는다.",
+      "뇌부종에 따른 호흡중추 기능 저하는 경우에 따라, 고농도 만니톨 용액 같은 고장액을 정맥 주사하면, 일시적으로 경감될 수 있다.",
+      "몰핀은 호흡중추를 강력하게 억제하는 반면에 대뇌겉질을 마취시키는 효과는 약하다."
+    ],
+    "answer": 3,
+    "examSource": "TalkFile_23 호흡생리 박억숭.pdf",
+    "examRank": 300,
+    "explanation": "핵심 단서: 호흡생리 핵심 개념. 정답: 3번. 암기 포인트: 같은 표현의 유사 문항도 함께 확인하세요.",
+    "image": ""
+  },
+  {
+    "id": "physiology_3d74b319_23_34_2",
+    "setId": "physiology_91abc994",
+    "sourceId": "23호흡-34",
+    "subject": "Physiology",
+    "section": "호흡생리",
+    "sections": [
+      "호흡생리"
+    ],
+    "question": "COPD(만성폐쇄성폐질환)로 외래 진료 대기 중이 환자가 있다. 서술하는 상황에서 본인이 할 수 있는 가장 최선의 대응을 고르시오. “응급실 OOO 선생님 내과 외래 ‘윈터’ 간호사입니다. COPD로 외래 진료 오신 70대 ‘차은우’ 환자분 현재 Room air 산소 포화도가 85%입니다. 그런데 말은 잘하시네요. ER로 내리겠습니 다. 환자 조금은 힘들어하시는데 뭐 괜찮겠죠? 활력징후는 BP 120/80, HR 105회, RR 20회, 체온 37.5도 mental은 다행히 괜찮습니다. 저희 과장님이 산소 포화도 유지될 때까지 full로 산소 주라고 하십니다.”",
+    "choices": [
+      "아니, 아니, 미친, 85%면 중환자실로 가지 왜 나한테 이러나요? 당장 중환자실 보내세요!",
+      "담당 과장님이 full로 산소 주라고 하시니까, 자 산소통 준비합시다.",
+      "미치겠네, 환자 사망할 수 있으니까 바로 전원 의뢰합시다. 119 상황실 연결하세요.",
+      "85%라~~ 산소는 무슨! 응급이에요 바로 intubation 준비합시다.",
+      "COPD! 일단 다들 놀라지 마세요~~ 마스크 말고 nasal로 산소 1~2ℓ만 줘보고 산소 포화도 90% 초반 유지되는지 봅시다. COPD 환자는 산소가 유일한 호흡 자극원이니깐 산소 많이 주면 안되요. 산소 포화도 90% 정도면 괜찮습니다. 유지되지 않으면 기도삽관 할테니까 준비는 해두세요."
+    ],
+    "answer": 5,
+    "examSource": "TalkFile_23 호흡생리 박억숭.pdf",
+    "examRank": 300,
+    "explanation": "핵심 단서: 호흡생리 핵심 개념. 정답: 5번. 암기 포인트: 같은 표현의 유사 문항도 함께 확인하세요.",
+    "image": ""
+  },
+  {
+    "id": "physiology_3d74b319_23_35_2",
+    "setId": "physiology_91abc994",
+    "sourceId": "23호흡-35",
+    "subject": "Physiology",
+    "section": "호흡생리",
+    "sections": [
+      "호흡생리"
+    ],
+    "question": "다음 중 호흡기능 이상을 연구하는 유용한 방법이 아닌 것을 고르시오.",
+    "choices": [
+      "폐활량",
+      "일회호흡량",
+      "들숨용량",
+      "생리적 샛길",
+      "생리적 무용공간의 측정"
+    ],
+    "answer": 3,
+    "examSource": "TalkFile_23 호흡생리 박억숭.pdf",
+    "examRank": 300,
+    "explanation": "핵심 단서: 호흡생리 핵심 개념. 정답: 3번. 암기 포인트: 같은 표현의 유사 문항도 함께 확인하세요.",
+    "image": ""
+  },
+  {
+    "id": "physiology_3d74b319_23_36_2",
+    "setId": "physiology_91abc994",
+    "sourceId": "23호흡-36",
+    "subject": "Physiology",
+    "section": "호흡생리",
+    "sections": [
+      "호흡생리"
+    ],
+    "question": "다음 그림에서 화살표로 표시된 결과를 보이는 질환을 고르시오.",
+    "choices": [
+      "폐결핵",
+      "천식",
+      "규폐증",
+      "척추측만증",
+      "섬유성 흉막염"
+    ],
+    "answer": 2,
+    "examSource": "TalkFile_23 호흡생리 박억숭.pdf",
+    "examRank": 300,
+    "explanation": "핵심 단서: 호흡생리 핵심 개념. 정답: 2번. 암기 포인트: 같은 표현의 유사 문항도 함께 확인하세요.",
+    "image": "assets/images/physiology_3d74b319_23_36_2.jpg"
+  },
+  {
+    "id": "physiology_3d74b319_23_37_2",
+    "setId": "physiology_91abc994",
+    "sourceId": "23호흡-37",
+    "subject": "Physiology",
+    "section": "호흡생리",
+    "sections": [
+      "호흡생리"
+    ],
+    "question": "폐공기증 환자에서 관찰되는 여러 가지 이상 증상이 아닌 것을 고르시오.",
+    "choices": [
+      "세기관지가 폐쇄되면 기도저항이 커지고 호흡을 위한 일이 크게 증가한다.",
+      "폐포벽이 심하게 손상되면 폐의 확산능이 감소한다.",
+      "기도폐쇄가 심하지 않은 부위의 폐포는 환기가 잘 되지만, 기도폐쇄가 심한 부위는 환기가 잘 안된다.",
+      "생리적 샛길과 생리적 무용공간을 형성하여 폐포환기를 낭비한다.",
+      "폐포벽이 파괴되면 혈액이 지나갈 수 있는 폐모세혈관 수는 오히려 증가한다."
+    ],
+    "answer": 5,
+    "examSource": "TalkFile_23 호흡생리 박억숭.pdf",
+    "examRank": 300,
+    "explanation": "핵심 단서: 호흡생리 핵심 개념. 정답: 5번. 암기 포인트: 같은 표현의 유사 문항도 함께 확인하세요.",
+    "image": ""
+  },
+  {
+    "id": "physiology_3d74b319_23_38_2",
+    "setId": "physiology_91abc994",
+    "sourceId": "23호흡-38",
+    "subject": "Physiology",
+    "section": "호흡생리",
+    "sections": [
+      "호흡생리"
+    ],
+    "question": "다음 그림에 들어갈 질환 순서(ㄱ, ㄴ)로 맞는 것을 고르시오.",
+    "choices": [
+      "Pneumonia, Emphysema",
+      "Emphysema, Chronic bronchitis",
+      "Atalectasis, Pneumonia",
+      "Bronchiectasis, Pneumonia",
+      "Pneumonia, Asthma"
+    ],
+    "answer": 1,
+    "examSource": "TalkFile_23 호흡생리 박억숭.pdf",
+    "examRank": 300,
+    "explanation": "핵심 단서: 호흡생리 핵심 개념. 정답: 1번. 암기 포인트: 같은 표현의 유사 문항도 함께 확인하세요.",
+    "image": "assets/images/physiology_3d74b319_23_38_2.jpg"
+  },
+  {
+    "id": "physiology_3d74b319_23_39_2",
+    "setId": "physiology_91abc994",
+    "sourceId": "23호흡-39",
+    "subject": "Physiology",
+    "section": "호흡생리",
+    "sections": [
+      "호흡생리"
+    ],
+    "question": "다음 이산화탄소 과다증에 대한 설명 중 맞지 않는 것을 고르시오.",
+    "choices": [
+      "체액 내 이산화탄소 농도가 높은 상태를 의미한다.",
+      "저산소증을 유발하는 조건이 이산화탄소 과다증을 유발한다.",
+      "환기량의 감소 혹은 순환 이상에 의한 저산소증의 경우에만 저산소증과 이산화탄소 과다증이 동시에 발생한다.",
+      "이산화탄소분압이 80~100mmHg로 증가되면 행동이 둔해지고 가끔은 반혼수 상태에 빠진다.",
+      "이산화탄소분압이 120~150mmHg 이상 과도하게 높아지면 더 높은 이산화탄소, 더 억제된 호흡, 더욱 높은 이산화탄소로 악순환이 반복되어 결국은 죽게된다."
+    ],
+    "answer": 2,
+    "examSource": "TalkFile_23 호흡생리 박억숭.pdf",
+    "examRank": 300,
+    "explanation": "핵심 단서: 호흡생리 핵심 개념. 정답: 2번. 암기 포인트: 같은 표현의 유사 문항도 함께 확인하세요.",
+    "image": ""
+  },
+  {
+    "id": "physiology_3d74b319_23_40_2",
+    "setId": "physiology_91abc994",
+    "sourceId": "23호흡-40",
+    "subject": "Physiology",
+    "section": "호흡생리",
+    "sections": [
+      "호흡생리"
+    ],
+    "question": "다음 4차 산업혁명의 ‘O2O 진행 순서’로 맞는 것을 고르시오.",
+    "choices": [
+      "데이터 수집, 인공지능 가치창출, 저장과 분석, 최적화",
+      "최적화, 인공지는 가치창출, 데이터 수집, 저장과 분석",
+      "데이터 수집, 저장과 분석, 인공지능 가치 창출, 최적화",
+      "인공지능 가치 창출, 저장과 분석, 최적화, 데이터 수집",
+      "데이터 수집, 최적화, 저장과 분석, 인공지능 가치 창출 <2025년도 2학기 고신의대 예과, 호흡생리 40문제 정답, 해설 by 박억숭> 54253/31554 22351/33114 53343/22241 42353/25123 1. 5) 사명감은 해당하지 않음 2. 4) Class IV(Ca), I(Na), II(β blocker), III(K), IV(Ca)이다. 3. 2) abdominal recti.는 날숨(호기)에 사용한다. 4. 5) 폐포내압과 흉막내압의 차이를 transpulmonary pressure라 하고 폐의 유순도를 나타 낸다. ==> 탄성력을 나타내고 폐의 유순도는 압력 변화에 따른 용적 변화이다. 5. 3) 신생아 호흡곤란증후군 6. 3) 격렬한 운동을 할 때는 호흡을 위한 에너지 소모량이 20배까지 증가하지만, 그 이상 증 가하지는 않는다. ==> 50배 이상 증가한다. 7. 1) FRC, 2,300㎖ 8. 5) α1 blocker, α2 agonist, β1 blocker 9. 5) 폐동맥은 유순도가 크기 때문에 우심실 박출량을 수용할 수 없다. ==> 수용할 수 있다. 10. 4) 폐쐐기압은 좌심방내압보다 4~6mmHg 높다. ==> 2~3mmHg 높다. 11. 2) 폐혈류가 증가되면 닫혀 있던 모세혈관이 열리게 되어 열린 모세혈관의 수가 최고 10 배나 증가된다. ==> 3배나 증가된다. 12. 2) 심장기능 저하와 감염 13. 3) Lt. CP angle blunting 14. 5) 온도가 낮을수록 ==> 온도는 높을수록 15. 1) 액체의 온도 ==> 체온은 일정해서 액체의 온도는 고려하지 않는다. 16. 3) 대기공기와 폐포의 공기는 온도가 다르다. ==> 이런 내용은 없음 17. 3) 1/10 18. 1) PO2 40, PCO2 45 19. 1) 확산, 혈류 20. 4) 40, 23 21. 5) BPG 농도 감소 ==> BPG 농도 증가 22. 1) 일산화탄소는 산소가 결합하는 다른 부위에 혈색소 분자와 결합한다. ==> 같은 자리에 결 합한다. 2) 혈색소로부터 산소를 치환하여 혈액의 산소운반 능력을 증가시킨다. ==> 감소시킨다. 4) 일산화탄소의 압력이 0.1 mmHg만 되어도 치명적일 수 있다. ==> 0.6mmHg만 되어도 치 명적이다. 5) 일산화탄소 중독에서는 청색증이 나타난다. ==> 청색증의 저산소혈증 징후가 확실히 나타 나지 않는다. 23. 3) 인구 감소 ==> 인구 성장 24. 4) 4 25. 3) 폐에서 산소가 혈색소와 결합하면 혈색소가 더 약한 산이 된다는 사실에 기인한다. ==> 강한 산이 된다. 26. 2) 산소가 탄수화물과 함께 대사될 때에는 소비되는 산소 분자당 두 분자의 이산화탄소가 형성된다. ==> 한 분자의 이산화탄소가 형성된다. 27. 2) 포도당 28. 2) 상황이 발생하면 의료제공자는 10초 이내에 심장박동과 호흡을 확인한다. 29. 1) 기저질환이 없이 room air SpO2 95%인 노인 ==> 정상 2) 당뇨와 고혈압이 있는 중년으로 호흡곤란은 있지만, 말도 하고 room air SpO2는 93%인 사람 ==> 정상 3) COPD를 오랫동안 앓고 있지만, 호흡곤란이 없는 room air SpO2 89%인 노인 ==> COPD 면 정상 그리고 증상이 없음 4) 기저질환이 없이 room air SpO2는 85%인 30대 청년 ==> 뭔가 문제가 생겼다. 5) 천식을 앓고 있지만, 말 하는데 불편함이 없는 room air SpO2는 90%인 중년 ==> 괜찮음 30. 1) 흡식 31. 4) 산소는 호흡중추에 대한 직접작용이 대부분이다. ==> 산소는 직접작용은 거의 없다. 32. 2) 3~4일이 지나면 그 효과는 점차 떨어져서 처음 효과의 약 1/5까지 감소한다. ==> 1~2일 지나면 효과는 떨어진다. 33. 3) 급성 뇌부종은 호흡중추의 활성은 억제되나 완전한 기능 상실은 일어나지 않는다. ==> 활성이 억제되거나 완전히 기능이 상실될 수도 있다. 34. 5) COPD! 일단 다들 놀라지 마세요~~ 마스크 말고 nasal로 산소 1~2ℓ만 줘보고 산소 포화도 90% 초반 유지되는지 봅시다. COPD 환자는 산소가 유일한 호흡 자극원이니깐 산소 많이 주면 안되요. 산소 포화도 90% 정도면 괜찮습니다. 유지되지 않으면 기도삽관 할테니까 준비는 해두세요. 35. 3) 들숨용량 ==> 기능잔기용량 36. 2) 천식 37. 5) 폐포벽이 파괴되면 혈액이 지나갈 수 있는 폐모세혈관 수는 오히려 증가한다. 38. 1) Pneumonia, Emphysema 39. 2) 저산소증을 유발하는 조건이 이산화탄소 과다증을 유발한다. ==> 얼른 생각하면 그렇 다. 하지만, 환기량의 감소 혹은 순환 이상에 의한 저산소증의 경우에만 저산소증과 이산화탄 소 과다증이 동시에 발생한다. 40. 3) 데이터 수집, 저장과 분석, 인공지능 가치 창출, 최적화"
+    ],
+    "answer": 3,
+    "examSource": "TalkFile_23 호흡생리 박억숭.pdf",
+    "examRank": 300,
+    "explanation": "핵심 단서: 호흡생리 핵심 개념. 정답: 3번. 암기 포인트: 같은 표현의 유사 문항도 함께 확인하세요.",
+    "image": ""
+  },
+  {
+    "id": "physiology_a1353134_23_1_2",
+    "setId": "physiology_91abc994",
+    "sourceId": "23순환-1",
+    "subject": "Physiology",
+    "section": "순환생리",
+    "sections": [
+      "순환생리"
+    ],
+    "question": "환자가 심근허혈 상태에 빠졌을 때, 허혈 부위의 심근세포 는 정상 세포에 비해 활동전위가 어떻게 변화하는가?",
+    "choices": [
+      "탈분극 속도 증가, 활동전위 지속시간 연장",
+      "탈분극 속도 감소, 활동전위 지속시간 단축",
+      "탈분극 속도 증가, 활동전위 지속시간 단축",
+      "탈분극 속도가 감소, 활동전위 지속시간 연장",
+      "변화가 거의 없다."
+    ],
+    "answer": 2,
+    "examSource": "TalkFile_23 순환생리 안도환.pdf",
+    "examRank": 300,
+    "explanation": "핵심 단서: 순환생리 핵심 개념. 정답: 2번. 암기 포인트: 같은 표현의 유사 문항도 함께 확인하세요.",
+    "image": ""
+  },
+  {
+    "id": "physiology_a1353134_23_2_2",
+    "setId": "physiology_91abc994",
+    "sourceId": "23순환-2",
+    "subject": "Physiology",
+    "section": "순환생리",
+    "sections": [
+      "순환생리"
+    ],
+    "question": "심근세포의 안정막전위가 K⁺ 평형전위(−90 mV)에 거의 일치하는 주된 이유는?",
+    "choices": [
+      "K⁺ leak channel의 높은 전도도 때문이다.",
+      "Delayed rectifier K⁺ channel의 높은 전도도 때문이다.",
+      "Inward rectifier K⁺ channel의 높은 전도도 때문이다.",
+      "Na⁺/K⁺ ATPase를 통한 K⁺ 전류의 누출이 크기 때문이 다.",
+      "Cl⁻의 내향전류가 커서 Na⁺ 내향 전류를 상쇄시키기 때 문이다."
+    ],
+    "answer": 3,
+    "examSource": "TalkFile_23 순환생리 안도환.pdf",
+    "examRank": 300,
+    "explanation": "핵심 단서: 순환생리 핵심 개념. 정답: 3번. 암기 포인트: 같은 표현의 유사 문항도 함께 확인하세요.",
+    "image": ""
+  },
+  {
+    "id": "physiology_a1353134_23_3_2",
+    "setId": "physiology_91abc994",
+    "sourceId": "23순환-3",
+    "subject": "Physiology",
+    "section": "순환생리",
+    "sections": [
+      "순환생리"
+    ],
+    "question": "40세 여성이 만성 신부전으로 투석을 받고 있다. 최근 식사 조절이 잘 되지않아 전신 무력감, 근력 약화, 심장 두근거 림을 호소하며 응급실에 내원하였다. 혈액검사에서 혈장 K⁺ 농도가 7.0 mmol/L로 확인되었다. 이때 심근 활동전위의 변화는?",
+    "choices": [
+      "안정막 전위가 과분극된다.",
+      "불응기가 길어진다",
+      "활동전위의 0기 기울기가 증가한다.",
+      "활동전위 진폭이 커진다.",
+      "활동전위 3기 기울기가 증가한다."
+    ],
+    "answer": 5,
+    "examSource": "TalkFile_23 순환생리 안도환.pdf",
+    "examRank": 300,
+    "explanation": "핵심 단서: 순환생리 핵심 개념. 정답: 5번. 암기 포인트: 같은 표현의 유사 문항도 함께 확인하세요.",
+    "image": ""
+  },
+  {
+    "id": "physiology_a1353134_23_4_2",
+    "setId": "physiology_91abc994",
+    "sourceId": "23순환-4",
+    "subject": "Physiology",
+    "section": "순환생리",
+    "sections": [
+      "순환생리"
+    ],
+    "question": "심근세포의 막전위가 부분 탈분극(-60 mV)상태에 머무를 때, 전도속도 저하의 주요 원인은?",
+    "choices": [
+      "Na⁺ 통로의 활성화 지연",
+      "Na⁺ 통로의 불활성화 지속",
+      "Ca2+ 통로의 과도한 개방",
+      "K⁺ 통로의 폐쇄",
+      "Na⁺/K⁺ 펌프의 과활성"
+    ],
+    "answer": 2,
+    "examSource": "TalkFile_23 순환생리 안도환.pdf",
+    "examRank": 300,
+    "explanation": "핵심 단서: 순환생리 핵심 개념. 정답: 2번. 암기 포인트: 같은 표현의 유사 문항도 함께 확인하세요.",
+    "image": ""
+  },
+  {
+    "id": "physiology_a1353134_23_5_2",
+    "setId": "physiology_91abc994",
+    "sourceId": "23순환-5",
+    "subject": "Physiology",
+    "section": "순환생리",
+    "sections": [
+      "순환생리"
+    ],
+    "question": "Purkinje 섬유 세포의 활동전위가 화살표 모양으로 바뀌었 다면 그 이유로 가장 타당한 것은?",
+    "choices": [
+      "K⁺ 통로의 억제",
+      "K⁺ 통로의 조기 활성화",
+      "Ca2+ 통로의 억제",
+      "교감신경 β 수용체의 억제",
+      "부교감신경 muscarinic 수용체의 활성화"
+    ],
+    "answer": 1,
+    "examSource": "TalkFile_23 순환생리 안도환.pdf",
+    "examRank": 300,
+    "explanation": "핵심 단서: 순환생리 핵심 개념. 정답: 1번. 암기 포인트: 같은 표현의 유사 문항도 함께 확인하세요.",
+    "image": "assets/images/physiology_a1353134_23_5_2.jpg"
+  },
+  {
+    "id": "physiology_a1353134_23_6_2",
+    "setId": "physiology_91abc994",
+    "sourceId": "23순환-6",
+    "subject": "Physiology",
+    "section": "순환생리",
+    "sections": [
+      "순환생리"
+    ],
+    "question": "산소소모량을 이용하여 Fick 방법으로 심박출량을 측정하 고자 할 때 측정하지 않아도 되는 항목은?",
+    "choices": [
+      "흡입하는 산소의 분압",
+      "요골동맥 혈액의 산소 포화도",
+      "요골동맥 혈액의 산소 분압",
+      "폐동맥 혈액의 산소 포화도",
+      "폐동맥 혈액의 산소 분압 【7~9】 아래 그림은 심박조율기(pacemaker) 세포의 활동전압 을 표시한 것이다."
+    ],
+    "answer": 1,
+    "examSource": "TalkFile_23 순환생리 안도환.pdf",
+    "examRank": 300,
+    "explanation": "핵심 단서: 순환생리 핵심 개념. 정답: 1번. 암기 포인트: 같은 표현의 유사 문항도 함께 확인하세요.",
+    "image": ""
+  },
+  {
+    "id": "physiology_a1353134_23_7_2",
+    "setId": "physiology_91abc994",
+    "sourceId": "23순환-7",
+    "subject": "Physiology",
+    "section": "순환생리",
+    "sections": [
+      "순환생리"
+    ],
+    "question": "4기 기울기를 증가시켜 심박수를 조절하려면 그 방법은?",
+    "choices": [
+      "Ca2+ 채널 억제",
+      "GIRK 채널 활성화",
+      "IK1 채널 억제",
+      "Na⁺ 채널 억제",
+      "HCN 채널 활성화"
+    ],
+    "answer": 5,
+    "examSource": "TalkFile_23 순환생리 안도환.pdf",
+    "examRank": 300,
+    "explanation": "핵심 단서: 순환생리 핵심 개념. 정답: 5번. 암기 포인트: 같은 표현의 유사 문항도 함께 확인하세요.",
+    "image": ""
+  },
+  {
+    "id": "physiology_a1353134_23_8_4",
+    "setId": "physiology_91abc994",
+    "sourceId": "23순환-8",
+    "subject": "Physiology",
+    "section": "순환생리",
+    "sections": [
+      "순환생리"
+    ],
+    "question": "부교감신경 자극에 의해 ‘최대 이완기 전위(MDP)’가 변할 때 이온 흐름의 변화는?",
+    "choices": [
+      "Ca2+ 유입 증가",
+      "Ca2+ 유출 증가",
+      "K⁺ 유입 증가",
+      "K⁺ 유출 증가",
+      "Na⁺ 유입 증가"
+    ],
+    "answer": 4,
+    "examSource": "TalkFile_23 순환생리 안도환.pdf",
+    "examRank": 300,
+    "explanation": "핵심 단서: 순환생리 핵심 개념. 정답: 4번. 암기 포인트: 같은 표현의 유사 문항도 함께 확인하세요.",
+    "image": ""
+  },
+  {
+    "id": "physiology_a1353134_23_9_2",
+    "setId": "physiology_91abc994",
+    "sourceId": "23순환-9",
+    "subject": "Physiology",
+    "section": "순환생리",
+    "sections": [
+      "순환생리"
+    ],
+    "question": "협심증으로 β1 차단제(=교감신경 억제제)를 처방받은 환자 에서 이 약물의 전기생리학적 효과가 발생하는 기(phase) 와 그 기전은?",
+    "choices": [
+      "0기- ICa(L) 촉진",
+      "0기- If 억제",
+      "4기- IK(ACh) 억제",
+      "4기- ICa(T) 억제",
+      "4기- If 촉진"
+    ],
+    "answer": 4,
+    "examSource": "TalkFile_23 순환생리 안도환.pdf",
+    "examRank": 300,
+    "explanation": "핵심 단서: 순환생리 핵심 개념. 정답: 4번. 암기 포인트: 같은 표현의 유사 문항도 함께 확인하세요.",
+    "image": ""
+  },
+  {
+    "id": "physiology_a1353134_23_10_2",
+    "setId": "physiology_91abc994",
+    "sourceId": "23순환-10",
+    "subject": "Physiology",
+    "section": "순환생리",
+    "sections": [
+      "순환생리"
+    ],
+    "question": "심장 내에서 전도 속도가 가장 느린 부위는?",
+    "choices": [
+      "방실 결절",
+      "His 다발",
+      "오른쪽 다발가지(bundle branch)",
+      "Purkinje system",
+      "심방근 【11-13】 정상 상태의 좌심실의 압력-용적 고리를 나타낸 것이 다."
+    ],
+    "answer": 1,
+    "examSource": "TalkFile_23 순환생리 안도환.pdf",
+    "examRank": 300,
+    "explanation": "핵심 단서: 순환생리 핵심 개념. 정답: 1번. 암기 포인트: 같은 표현의 유사 문항도 함께 확인하세요.",
+    "image": ""
+  },
+  {
+    "id": "physiology_a1353134_23_11_2",
+    "setId": "physiology_91abc994",
+    "sourceId": "23순환-11",
+    "subject": "Physiology",
+    "section": "순환생리",
+    "sections": [
+      "순환생리"
+    ],
+    "question": "심전도의 QT 간격(interval)과 거의 일치하는 심장주기 는?",
+    "choices": [
+      "A–B–C-D",
+      "B–C-D-E",
+      "C-D-E-F",
+      "D-E-F-A",
+      "E-F-A"
+    ],
+    "answer": 3,
+    "examSource": "TalkFile_23 순환생리 안도환.pdf",
+    "examRank": 300,
+    "explanation": "핵심 단서: 순환생리 핵심 개념. 정답: 3번. 암기 포인트: 같은 표현의 유사 문항도 함께 확인하세요.",
+    "image": "assets/images/physiology_a1353134_23_11_2.jpg"
+  },
+  {
+    "id": "physiology_a1353134_23_12_2",
+    "setId": "physiology_91abc994",
+    "sourceId": "23순환-12",
+    "subject": "Physiology",
+    "section": "순환생리",
+    "sections": [
+      "순환생리"
+    ],
+    "question": "제3 심음을 들을 수 있는 가능성이 제일 높은 지점은?",
+    "choices": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E"
+    ],
+    "answer": 2,
+    "examSource": "TalkFile_23 순환생리 안도환.pdf",
+    "examRank": 300,
+    "explanation": "핵심 단서: 순환생리 핵심 개념. 정답: 2번. 암기 포인트: 같은 표현의 유사 문항도 함께 확인하세요.",
+    "image": ""
+  },
+  {
+    "id": "physiology_a1353134_23_13_2",
+    "setId": "physiology_91abc994",
+    "sourceId": "23순환-13",
+    "subject": "Physiology",
+    "section": "순환생리",
+    "sections": [
+      "순환생리"
+    ],
+    "question": "대동맥압 파형에 이중패임(dicrotic notch)이 발생되는 순간과 동일한 지점은?",
+    "choices": [
+      "A",
+      "C",
+      "D",
+      "E",
+      "F"
+    ],
+    "answer": 5,
+    "examSource": "TalkFile_23 순환생리 안도환.pdf",
+    "examRank": 300,
+    "explanation": "핵심 단서: 순환생리 핵심 개념. 정답: 5번. 암기 포인트: 같은 표현의 유사 문항도 함께 확인하세요.",
+    "image": ""
+  },
+  {
+    "id": "physiology_a1353134_23_14_2",
+    "setId": "physiology_91abc994",
+    "sourceId": "23순환-14",
+    "subject": "Physiology",
+    "section": "순환생리",
+    "sections": [
+      "순환생리"
+    ],
+    "question": "다음 중 정맥환류 곡선의 기울기 증가를 가장 잘 설명하 는 생리적 상황은?",
+    "choices": [
+      "정맥 compliance 감소",
+      "전신혈관저항 증가",
+      "정맥혈관저항 감소",
+      "Pmsf 감소",
+      "우심방압 증가"
+    ],
+    "answer": 3,
+    "examSource": "TalkFile_23 순환생리 안도환.pdf",
+    "examRank": 300,
+    "explanation": "핵심 단서: 순환생리 핵심 개념. 정답: 3번. 암기 포인트: 같은 표현의 유사 문항도 함께 확인하세요.",
+    "image": ""
+  },
+  {
+    "id": "physiology_a1353134_23_15_2",
+    "setId": "physiology_91abc994",
+    "sourceId": "23순환-15",
+    "subject": "Physiology",
+    "section": "순환생리",
+    "sections": [
+      "순환생리"
+    ],
+    "question": "심전도 실습에서 오른쪽 다리와 왼쪽 다리의 전극을 바꾸 어 붙였을 경우 표준사지유도의 변화는?",
+    "choices": [
+      "RR 간격이 불규칙해진다.",
+      "유도가 보이지 않고 기준선만 나타난다.",
+      "파형, 전기축 등의 변화는 없고 기준선만 흔들린다.",
+      "평균 전기축이 시계방향으로 더 이동된다.",
+      "제 II, III 유도의 QRS 극성이 바뀐다(inversion)"
+    ],
+    "answer": 3,
+    "examSource": "TalkFile_23 순환생리 안도환.pdf",
+    "examRank": 300,
+    "explanation": "핵심 단서: 순환생리 핵심 개념. 정답: 3번. 암기 포인트: 같은 표현의 유사 문항도 함께 확인하세요.",
+    "image": ""
+  },
+  {
+    "id": "physiology_a1353134_23_16_2",
+    "setId": "physiology_91abc994",
+    "sourceId": "23순환-16",
+    "subject": "Physiology",
+    "section": "순환생리",
+    "sections": [
+      "순환생리"
+    ],
+    "question": "아래 심전도에서 평균 전기축의 각도로 가장 적당한 것 은?",
+    "choices": [
+      "-30도",
+      "0도",
+      "+60도",
+      "+100도",
+      "+150도"
+    ],
+    "answer": 5,
+    "examSource": "TalkFile_23 순환생리 안도환.pdf",
+    "examRank": 300,
+    "explanation": "핵심 단서: 순환생리 핵심 개념. 정답: 5번. 암기 포인트: 같은 표현의 유사 문항도 함께 확인하세요.",
+    "image": "assets/images/physiology_a1353134_23_16_2.jpg"
+  },
+  {
+    "id": "physiology_a1353134_23_17_2",
+    "setId": "physiology_91abc994",
+    "sourceId": "23순환-17",
+    "subject": "Physiology",
+    "section": "순환생리",
+    "sections": [
+      "순환생리"
+    ],
+    "question": "QRS파의 전압이 제 I유도에서 +0.5 mV, aVL에서 +0.25 mV로 기록되었다. 육축참조 시스템을 이용할 때, 평균 전기축 방향과 근사한 것은?",
+    "choices": [
+      "(A)",
+      "(B)",
+      "(C)",
+      "(D)",
+      "(E) 【18-19】 아래 그림은 동맥 혈관을 분리하여 관류압(perfusion pressure)에 따른 혈류의 변화를 나타낸 것이다."
+    ],
+    "answer": 2,
+    "examSource": "TalkFile_23 순환생리 안도환.pdf",
+    "examRank": 300,
+    "explanation": "핵심 단서: 순환생리 핵심 개념. 정답: 2번. 암기 포인트: 같은 표현의 유사 문항도 함께 확인하세요.",
+    "image": ""
+  },
+  {
+    "id": "physiology_a1353134_23_18_2",
+    "setId": "physiology_91abc994",
+    "sourceId": "23순환-18",
+    "subject": "Physiology",
+    "section": "순환생리",
+    "sections": [
+      "순환생리"
+    ],
+    "question": "A와 B의 특성을 보이는 혈관의 조합으로 옳은 것은? A B",
+    "choices": [
+      "관상동맥 폐동맥",
+      "폐동맥 관상동맥",
+      "뇌동맥 관상동맥",
+      "대동맥 대정맥",
+      "대동맥 뇌동맥"
+    ],
+    "answer": 1,
+    "examSource": "TalkFile_23 순환생리 안도환.pdf",
+    "examRank": 300,
+    "explanation": "핵심 단서: 순환생리 핵심 개념. 정답: 1번. 암기 포인트: 같은 표현의 유사 문항도 함께 확인하세요.",
+    "image": ""
+  },
+  {
+    "id": "physiology_a1353134_23_19_2",
+    "setId": "physiology_91abc994",
+    "sourceId": "23순환-19",
+    "subject": "Physiology",
+    "section": "순환생리",
+    "sections": [
+      "순환생리"
+    ],
+    "question": "위 그림과 같은 혈류 특성의 차이가 나는 주요 기전은?",
+    "choices": [
+      "L-형 칼슘 채널의 밀도",
+      "교감신경의 작용 유무",
+      "혈관수축 물질의 분비량",
+      "혈관 자체의 근원성 반응",
+      "탄력 조직에 의한 복원력(recoil force)"
+    ],
+    "answer": 4,
+    "examSource": "TalkFile_23 순환생리 안도환.pdf",
+    "examRank": 300,
+    "explanation": "핵심 단서: 순환생리 핵심 개념. 정답: 4번. 암기 포인트: 같은 표현의 유사 문항도 함께 확인하세요.",
+    "image": "assets/images/physiology_a1353134_23_19_2.jpg"
+  },
+  {
+    "id": "physiology_a1353134_23_20_2",
+    "setId": "physiology_91abc994",
+    "sourceId": "23순환-20",
+    "subject": "Physiology",
+    "section": "순환생리",
+    "sections": [
+      "순환생리"
+    ],
+    "question": "운동 중인 25세 건강한 남성에서 골격근 혈관이 확장되고, 관상동맥 혈류가 증가하였다. 이때 체순환 전반의 평균 동맥압이 일정하게 유지되는 주된 기전은 무엇인가?",
+    "choices": [
+      "폐순환 저항의 감소",
+      "전신적 혈류속도의 증가",
+      "혈액량 일시적 감소",
+      "혈압-이뇨 작용의 촉진",
+      "교감신경에 의한 비활동 장기의 혈관수축"
+    ],
+    "answer": 5,
+    "examSource": "TalkFile_23 순환생리 안도환.pdf",
+    "examRank": 300,
+    "explanation": "핵심 단서: 순환생리 핵심 개념. 정답: 5번. 암기 포인트: 같은 표현의 유사 문항도 함께 확인하세요.",
+    "image": ""
+  },
+  {
+    "id": "physiology_a1353134_23_21_2",
+    "setId": "physiology_91abc994",
+    "sourceId": "23순환-21",
+    "subject": "Physiology",
+    "section": "순환생리",
+    "sections": [
+      "순환생리"
+    ],
+    "question": "25세 남성이 고열량 식사 후 갑자기 심장이 두근거리며 배가 더부룩하여 내원하였다. 검사에서 일시적인 심잡음 외 에 특별한 이상 소견은 없었다. 심잡음의 발생을 잘 설명하는 요인은?",
+    "choices": [
+      "혈압 감소",
+      "혈액 밀도 감소",
+      "혈관 반경 감소",
+      "혈류 속도 증가",
+      "혈액 점성 증가"
+    ],
+    "answer": 4,
+    "examSource": "TalkFile_23 순환생리 안도환.pdf",
+    "examRank": 300,
+    "explanation": "핵심 단서: 순환생리 핵심 개념. 정답: 4번. 암기 포인트: 같은 표현의 유사 문항도 함께 확인하세요.",
+    "image": ""
+  },
+  {
+    "id": "physiology_a1353134_23_22_2",
+    "setId": "physiology_91abc994",
+    "sourceId": "23순환-22",
+    "subject": "Physiology",
+    "section": "순환생리",
+    "sections": [
+      "순환생리"
+    ],
+    "question": "60세 남자가 고혈압 진단 후 항고혈압제를 복용 중이다. 최근 들어 가슴이 두근거리고 어지러워 내원하였다, 초음파 도플러 검사에서 대동맥 근위부의 혈류가 와류로 전환되는 소견이 관찰되었다. 이 현상은 주로 어떤 요인과 가장 밀접한가?",
+    "choices": [
+      "혈관 반경 감소",
+      "혈액 점도 증가",
+      "혈류 속도 감소",
+      "혈관 길이 단축",
+      "정맥 혈류량 증가"
+    ],
+    "answer": 1,
+    "examSource": "TalkFile_23 순환생리 안도환.pdf",
+    "examRank": 300,
+    "explanation": "핵심 단서: 순환생리 핵심 개념. 정답: 1번. 암기 포인트: 같은 표현의 유사 문항도 함께 확인하세요.",
+    "image": ""
+  },
+  {
+    "id": "physiology_a1353134_23_23_2",
+    "setId": "physiology_91abc994",
+    "sourceId": "23순환-23",
+    "subject": "Physiology",
+    "section": "순환생리",
+    "sections": [
+      "순환생리"
+    ],
+    "question": "운동부하 검사에서 심근 허혈 소견이 나타난 환자에 대해 심초음파를 수행하였다. 이 환자에서 허혈 부위는 이완기 보다 수축기 동안 더 먼저 기능 이상이 관찰되었다. 이 소견의 생리학적 이유는 무엇인가?",
+    "choices": [
+      "수축기 동안 관상동맥이 확장되어 혈류가 증가하기 때문 에",
+      "내막하층 혈류는 수축기 동안 증가하기 때문에",
+      "수축기는 심근 산소추출율이 이완기보다 낮기 때문에",
+      "심박수 증가 시 수축기 연장이 이완기를 단축시키기 때 문에",
+      "심근 수축 시 산소소비가 증가하나 관상혈류는 제한되기 때문에"
+    ],
+    "answer": 5,
+    "examSource": "TalkFile_23 순환생리 안도환.pdf",
+    "examRank": 300,
+    "explanation": "핵심 단서: 순환생리 핵심 개념. 정답: 5번. 암기 포인트: 같은 표현의 유사 문항도 함께 확인하세요.",
+    "image": ""
+  },
+  {
+    "id": "physiology_a1353134_23_24_2",
+    "setId": "physiology_91abc994",
+    "sourceId": "23순환-24",
+    "subject": "Physiology",
+    "section": "순환생리",
+    "sections": [
+      "순환생리"
+    ],
+    "question": "70세 남성이 노화로 인해 대동맥의 경직성(stiffness)이 증가 되었다. 이 환자에서 관찰될 가능성이 가장 높은 현상은?",
+    "choices": [
+      "이완기 혈압 상승 및 관상동맥 관류 증가",
+      "수축기 혈압 상승 및 좌심실 후부하 증가",
+      "맥압 증가 및 좌심실 벽 스트레스(wall stress) 감소",
+      "평균 동맥압의 현저한 감소",
+      "심박출량 감소에 따른 혈압 변동 완화 【25-26】 20세 건강한 남자의 상완동맥에서 측정한 수축기 혈압은 120 mmHg였다. 연구 목적으로 비침습적 기법 (applanation tonometry)을 이용해 추정한 중심 대동맥 수축기압은 100 mmHg로써 상완압보다 낮았다"
+    ],
+    "answer": 2,
+    "examSource": "TalkFile_23 순환생리 안도환.pdf",
+    "examRank": 300,
+    "explanation": "핵심 단서: 순환생리 핵심 개념. 정답: 2번. 암기 포인트: 같은 표현의 유사 문항도 함께 확인하세요.",
+    "image": ""
+  },
+  {
+    "id": "physiology_a1353134_23_25_2",
+    "setId": "physiology_91abc994",
+    "sourceId": "23순환-25",
+    "subject": "Physiology",
+    "section": "순환생리",
+    "sections": [
+      "순환생리"
+    ],
+    "question": "이런 차이가 발생하는 주된 기전은 무엇인가?",
+    "choices": [
+      "혈류 점성도 증가",
+      "혈류 속도 증가",
+      "말초혈관 저항 감소",
+      "교감신경 활성도 감소",
+      "압력 반사파에 의한 증폭"
+    ],
+    "answer": 5,
+    "examSource": "TalkFile_23 순환생리 안도환.pdf",
+    "examRank": 300,
+    "explanation": "핵심 단서: 순환생리 핵심 개념. 정답: 5번. 암기 포인트: 같은 표현의 유사 문항도 함께 확인하세요.",
+    "image": ""
+  },
+  {
+    "id": "physiology_a1353134_23_26_2",
+    "setId": "physiology_91abc994",
+    "sourceId": "23순환-26",
+    "subject": "Physiology",
+    "section": "순환생리",
+    "sections": [
+      "순환생리"
+    ],
+    "question": "이런 혈역학적 차이가 임상적으로 나타내는 의미는?",
+    "choices": [
+      "상완혈압은 심장의 수축력을 반영하지 못한다",
+      "상완혈압은 실제 중심 대동맥압과 동일하다",
+      "상완혈압이 실제 장기 관류압을 과소평가한다",
+      "상완혈압이 실제 장기 관류압을 과대평가할 수 있다",
+      "중심 대동맥압은 말초혈관저항에 영향을 받지 않는다"
+    ],
+    "answer": 4,
+    "examSource": "TalkFile_23 순환생리 안도환.pdf",
+    "examRank": 300,
+    "explanation": "핵심 단서: 순환생리 핵심 개념. 정답: 4번. 암기 포인트: 같은 표현의 유사 문항도 함께 확인하세요.",
+    "image": ""
+  },
+  {
+    "id": "physiology_a1353134_23_27_2",
+    "setId": "physiology_91abc994",
+    "sourceId": "23순환-27",
+    "subject": "Physiology",
+    "section": "순환생리",
+    "sections": [
+      "순환생리"
+    ],
+    "question": "55세 남자가 패혈증으로 중환자실에 입원했다. 혈압 88/52 mmHg, 맥박 118회/분, 호흡수 24회/분이다. 중심정맥압은 8 mmHg이다. 이 환자의 평균동맥압(MAP) 을 계산하면 얼마인가?",
+    "choices": [
+      "56 mmHg",
+      "64 mmHg",
+      "70 mmHg",
+      "76 mmHg",
+      "82 mmHg"
+    ],
+    "answer": 3,
+    "examSource": "TalkFile_23 순환생리 안도환.pdf",
+    "examRank": 300,
+    "explanation": "핵심 단서: 순환생리 핵심 개념. 정답: 3번. 암기 포인트: 같은 표현의 유사 문항도 함께 확인하세요.",
+    "image": ""
+  },
+  {
+    "id": "physiology_a1353134_23_28_2",
+    "setId": "physiology_91abc994",
+    "sourceId": "23순환-28",
+    "subject": "Physiology",
+    "section": "순환생리",
+    "sections": [
+      "순환생리"
+    ],
+    "question": "20세 여학생이 합창 연습 중 20분 이상 서 있다가 실신했 다. 실신 직전 속이 메스껍고, 어지럼을 호소하였다. 회복 후 혈압은 85/50 mmHg, 맥박 45회/분이었다. 이 환자의 혈압·심박수 변화를 가장 잘 설명하는 기전은?",
+    "choices": [
+      "압력수용체 반사 항진 → 교감신경 활성 증가",
+      "압력수용체 반사 억제 → 부교감신경 활성 증가",
+      "압력수용체 반사 항진 → 미주신경 억제",
+      "부정맥으로 인한 동방결절 기능 저하",
+      "뇌혈류 증가로 인한 혈관 반사"
+    ],
+    "answer": 2,
+    "examSource": "TalkFile_23 순환생리 안도환.pdf",
+    "examRank": 300,
+    "explanation": "핵심 단서: 순환생리 핵심 개념. 정답: 2번. 암기 포인트: 같은 표현의 유사 문항도 함께 확인하세요.",
+    "image": ""
+  },
+  {
+    "id": "physiology_a1353134_23_29_2",
+    "setId": "physiology_91abc994",
+    "sourceId": "23순환-29",
+    "subject": "Physiology",
+    "section": "순환생리",
+    "sections": [
+      "순환생리"
+    ],
+    "question": "심전도 실습에서 담당교수가 경동맥 마사지 후 심전도의 변화를 관찰할 것을 지시하였다. 안정상태에서 정상적 심전 도를 보인 피검자에서 경동맥 마사지를 하면서 기록한 경 우 가장 두드러지게 나타나는 변화는?",
+    "choices": [
+      "RR 간격의 증가",
+      "PR 간격의 감소",
+      "PR 간격의 증가",
+      "QT 간격의 감소",
+      "QRS파 간격의 증가"
+    ],
+    "answer": [
+      1,
+      3
+    ],
+    "examSource": "TalkFile_23 순환생리 안도환.pdf",
+    "examRank": 300,
+    "explanation": "핵심 단서: 원본 정답/직접 풀이 기준. 정답은 1, 3번입니다. 암기 포인트: 문제의 핵심 키워드와 연결해 반복 확인하세요.",
+    "image": ""
+  },
+  {
+    "id": "physiology_a1353134_23_30_2",
+    "setId": "physiology_91abc994",
+    "sourceId": "23순환-30",
+    "subject": "Physiology",
+    "section": "순환생리",
+    "sections": [
+      "순환생리"
+    ],
+    "question": "건강한 성인 남자가 휴식 상태에서 조직 대사율이 낮을 때, 골격근 모세혈관은 어떤 혈류 패턴을 보이는가?",
+    "choices": [
+      "간헐적인(intermittent) 혈류가 나타남.",
+      "산소 요구량과 무관하게 혈류가 일정하게 유지됨.",
+      "동맥혈압과 동일한 맥동성(pulsitile)을 보임.",
+      "전모세혈관 괄약근에 의해 혈류가 차단됨.",
+      "지속적이고(continous) 균일한(steady) 혈류를 보임."
+    ],
+    "answer": 1,
+    "examSource": "TalkFile_23 순환생리 안도환.pdf",
+    "examRank": 300,
+    "explanation": "핵심 단서: 순환생리 핵심 개념. 정답: 1번. 암기 포인트: 같은 표현의 유사 문항도 함께 확인하세요.",
+    "image": ""
+  },
+  {
+    "id": "physiology_a1353134_23_31_2",
+    "setId": "physiology_91abc994",
+    "sourceId": "23순환-31",
+    "subject": "Physiology",
+    "section": "순환생리",
+    "sections": [
+      "순환생리"
+    ],
+    "question": "말초조직 모세혈관 구간의 압력 평균값이 아래와 같다. (단위 mmHg). c; capillary, i; interstitium  = 28,  = −2,  = 25,  = 5,  = 0.9, 는 양수로 가정 Net driving pressure(NDP)는 얼마이며, 유체 이동의 방 향은?",
+    "choices": [
+      "-10, 재흡수",
+      "+10, 여과",
+      "-12, 재흡수",
+      "+12, 여과",
+      "+2, 여과"
+    ],
+    "answer": 4,
+    "examSource": "TalkFile_23 순환생리 안도환.pdf",
+    "examRank": 300,
+    "explanation": "핵심 단서: 순환생리 핵심 개념. 정답: 4번. 암기 포인트: 같은 표현의 유사 문항도 함께 확인하세요.",
+    "image": ""
+  },
+  {
+    "id": "physiology_a1353134_23_32_2",
+    "setId": "physiology_91abc994",
+    "sourceId": "23순환-32",
+    "subject": "Physiology",
+    "section": "순환생리",
+    "sections": [
+      "순환생리"
+    ],
+    "question": "실험 동물을 운동시켰을 때 림프 흐름이 크게 증가하는 현상을 보였다. 조직학적 소견에서 림프관 벽의 구조는 정 상이고, 판막도 잘 보존되어 있었다. 이 상황에서 림프순환 이 증가한 ‘가장 중요한’ 생리학적 기전은 무엇인가?",
+    "choices": [
+      "골격근 펌프 활동 증가",
+      "호흡 펌프 활동 증가",
+      "교감신경 활성 증가",
+      "림프관 평활근 수축 증가",
+      "간질액 압력 증가"
+    ],
+    "answer": 1,
+    "examSource": "TalkFile_23 순환생리 안도환.pdf",
+    "examRank": 300,
+    "explanation": "핵심 단서: 순환생리 핵심 개념. 정답: 1번. 암기 포인트: 같은 표현의 유사 문항도 함께 확인하세요.",
+    "image": ""
+  },
+  {
+    "id": "physiology_a1353134_23_33_2",
+    "setId": "physiology_91abc994",
+    "sourceId": "23순환-33",
+    "subject": "Physiology",
+    "section": "순환생리",
+    "sections": [
+      "순환생리"
+    ],
+    "question": "60세 남자가 하지의 부종과 무거움으로 내원하였다. 장시 간 앉아 일하는 직업을 가지고 있으며, 말초 조직에서 정맥 귀환과 림프순환이 모두 저하된 상태였다. 검사에서 림프관 내 압력이 상승했음에도 림프액의 전진은 제대로 이루어지 지 않았다. 가장 직접적인 원인은 무엇인가?",
+    "choices": [
+      "모세혈관 투과성 감소",
+      "림프관 평활근 수축 저하",
+      "간질액 압력 감소",
+      "혈장 단백질 농도 증가",
+      "림프관 플랩 밸브 기능 손상"
+    ],
+    "answer": 5,
+    "examSource": "TalkFile_23 순환생리 안도환.pdf",
+    "examRank": 300,
+    "explanation": "핵심 단서: 순환생리 핵심 개념. 정답: 5번. 암기 포인트: 같은 표현의 유사 문항도 함께 확인하세요.",
+    "image": ""
+  },
+  {
+    "id": "physiology_a1353134_23_34_2",
+    "setId": "physiology_91abc994",
+    "sourceId": "23순환-34",
+    "subject": "Physiology",
+    "section": "순환생리",
+    "sections": [
+      "순환생리"
+    ],
+    "question": "어떤 환자가 급성 출혈 후 충분한 수액을 받아 추정 출혈 량 이상의 혈액량이 보충되었으며, 동시에 도파민 약물 투 여로 수축력이 상승된 상태이다. 이 상황에서 CO 곡선–VR 곡선의 교차점 변화로 옳은 것은?",
+    "choices": [
+      "CO 곡선 위로 이동, VR 곡선 우측 이동 → CO 증가 & 중심정맥압 감소",
+      "CO 곡선 위로 이동, VR 곡선 우측 이동 → CO 증가 & 중심정맥압 약간 증가",
+      "CO 곡선 아래로 이동, VR 곡선 우측 이동 → CO 감소 & 중심정맥압 감소",
+      "CO 곡선 위로 이동, VR 곡선 좌측 이동 → CO 증가 & 중심정맥압 감소",
+      "두 곡선 모두 거의 변하지 않음."
+    ],
+    "answer": [
+      1,
+      2
+    ],
+    "examSource": "TalkFile_23 순환생리 안도환.pdf",
+    "examRank": 300,
+    "explanation": "핵심 단서: 원본 정답/직접 풀이 기준. 정답은 1, 2번입니다. 암기 포인트: 문제의 핵심 키워드와 연결해 반복 확인하세요.",
+    "image": ""
+  },
+  {
+    "id": "physiology_a1353134_23_35_2",
+    "setId": "physiology_91abc994",
+    "sourceId": "23순환-35",
+    "subject": "Physiology",
+    "section": "순환생리",
+    "sections": [
+      "순환생리"
+    ],
+    "question": "만성적으로 혈압이 상승한 환자에서, 수 주 후에도 압력수 용체의 발사율(firing rate)은 정상범위에서 거의 차이가 없 음을 확인하였다. 이 현상은 어떤 생리현상을 의미하는가?",
+    "choices": [
+      "장기적 보상반사 강화",
+      "압력-이뇨 작용의 촉진",
+      "화학수용체 감수성 증가",
+      "압력수용체의 리셋팅(resetting)",
+      "Bainbridge 반사"
+    ],
+    "answer": 4,
+    "examSource": "TalkFile_23 순환생리 안도환.pdf",
+    "examRank": 300,
+    "explanation": "핵심 단서: 순환생리 핵심 개념. 정답: 4번. 암기 포인트: 같은 표현의 유사 문항도 함께 확인하세요.",
+    "image": ""
+  },
+  {
+    "id": "physiology_a1353134_23_36_2",
+    "setId": "physiology_91abc994",
+    "sourceId": "23순환-36",
+    "subject": "Physiology",
+    "section": "순환생리",
+    "sections": [
+      "순환생리"
+    ],
+    "question": "운동 직후 측정한 젊은 남성의 혈역학적 변화를 설명한 것 중 옳은 것은?",
+    "choices": [
+      "CO 증가, HR 감소, TPR 불변",
+      "CO 증가, HR 증가, TPR 감소",
+      "CO 감소, HR 감소, TPR 감소",
+      "CO 불변, HR 증가, TPR 증가",
+      "CO 증가, HR 증가, TPR 증가"
+    ],
+    "answer": [
+      2,
+      5
+    ],
+    "examSource": "TalkFile_23 순환생리 안도환.pdf",
+    "examRank": 300,
+    "explanation": "핵심 단서: 원본 정답/직접 풀이 기준. 정답은 2, 5번입니다. 암기 포인트: 문제의 핵심 키워드와 연결해 반복 확인하세요.",
+    "image": ""
+  },
+  {
+    "id": "physiology_a1353134_23_37_2",
+    "setId": "physiology_91abc994",
+    "sourceId": "23순환-37",
+    "subject": "Physiology",
+    "section": "순환생리",
+    "sections": [
+      "순환생리"
+    ],
+    "question": "정상 상태에서 상행 대동맥의 압력파와 비교하여 대퇴동맥 의 압력파에서 보이는 차이를 바르게 나타낸 것은?",
+    "choices": [
+      "이중패임(dicrotic notch)이 더 강화된다.",
+      "수축기압이 더 감소한다.",
+      "이완기압은 거의 비슷하다.",
+      "수축기압 증가 속도는 더 완만하다.",
+      "맥압이 더 감소한다."
+    ],
+    "answer": 3,
+    "examSource": "TalkFile_23 순환생리 안도환.pdf",
+    "examRank": 300,
+    "explanation": "핵심 단서: 순환생리 핵심 개념. 정답: 3번. 암기 포인트: 같은 표현의 유사 문항도 함께 확인하세요.",
+    "image": ""
+  },
+  {
+    "id": "physiology_a1353134_23_38_2",
+    "setId": "physiology_91abc994",
+    "sourceId": "23순환-38",
+    "subject": "Physiology",
+    "section": "순환생리",
+    "sections": [
+      "순환생리"
+    ],
+    "question": "55세 남성이 여름철 탈수로 인한 저혈압을 보였다. 혈액검사에서 전해질 이상은 없었으나, 중심정맥압이 감소 한 상태였다. 이때 프랭크-스타링 법칙에 따른 세포·분자 수준의 변화로 가장 적절한 설명은?",
+    "choices": [
+      "CICR이 촉진되어 수축력이 증가한다.",
+      "근절 길이가 짧아져 Ca2+ 민감도가 증가한다.",
+      "근절 길이가 늘어나 교차다리 형성 기회가 줄어든다.",
+      "Titin의 장력이 증가하여 수축력이 회복된다.",
+      "근절 길이가 짧아져 교차다리 형성 기회가 줄어든다."
+    ],
+    "answer": 5,
+    "examSource": "TalkFile_23 순환생리 안도환.pdf",
+    "examRank": 300,
+    "explanation": "핵심 단서: 순환생리 핵심 개념. 정답: 5번. 암기 포인트: 같은 표현의 유사 문항도 함께 확인하세요.",
+    "image": ""
+  },
+  {
+    "id": "physiology_a1353134_23_39_2",
+    "setId": "physiology_91abc994",
+    "sourceId": "23순환-39",
+    "subject": "Physiology",
+    "section": "순환생리",
+    "sections": [
+      "순환생리"
+    ],
+    "question": "실험용 돼지(miniature pig)에 심근 경색을 유발시킨 후 좌심실의 압력-용적 고리를 작성한 결과가 아래와 같다. 심근경색 유도 전에 비해 유도 후 심장역학 지표의 변화에 대한 해석으로 맞는 것은?",
+    "choices": [
+      "심장의 외적 일은 증가했다.",
+      "박출분율이 감소했다.",
+      "심실 수축력은 변화가 없다.",
+      "수축기말 용적은 변화가 없다.",
+      "이완기말 용적이 감소했다."
+    ],
+    "answer": 2,
+    "examSource": "TalkFile_23 순환생리 안도환.pdf",
+    "examRank": 300,
+    "explanation": "핵심 단서: 순환생리 핵심 개념. 정답: 2번. 암기 포인트: 같은 표현의 유사 문항도 함께 확인하세요.",
+    "image": "assets/images/physiology_a1353134_23_39_2.jpg"
+  },
+  {
+    "id": "physiology_a1353134_23_40_2",
+    "setId": "physiology_91abc994",
+    "sourceId": "23순환-40",
+    "subject": "Physiology",
+    "section": "순환생리",
+    "sections": [
+      "순환생리"
+    ],
+    "question": "45세 남자가 관상동맥 질환 치료를 끝낸 후 정기적으로 운동부하 검사를 받는다. 초음파에서 운동 전에 비해 운동 후 EDV(end-diastolic vol.)는 증가되어 있었고, 상완동맥 혈압을 이용한 추정 ESP(end-systolic pr.)는 운동 전과 차이가 없었다. 이 경우 일회 심박출량 증가의 주된 기전 은 무엇인가?",
+    "choices": [
+      "후부하 감소",
+      "전부하 증가",
+      "ESPVR 기울기 감소",
+      "EDPVR 기울기 증가",
+      "혈액 Ca2+ 농도 증가"
+    ],
+    "answer": 2,
+    "examSource": "TalkFile_23 순환생리 안도환.pdf",
+    "examRank": 300,
+    "explanation": "핵심 단서: 순환생리 핵심 개념. 정답: 2번. 암기 포인트: 같은 표현의 유사 문항도 함께 확인하세요.",
+    "image": ""
+  },
+  {
+    "id": "physiology_39841f9b_25_1_2",
+    "setId": "physiology_91abc994",
+    "sourceId": "25-1",
+    "subject": "Physiology",
+    "section": "신경과 근육에서의 막생리",
+    "sections": [
+      "신경과 근육에서의 막생리"
+    ],
+    "question": "근육 세포의 HCO3⁻ 세포내 농도는 10 mM, 세포외 농도는 25 mM이다. 37℃에서 HCO3⁻에 대한 Nernst 전위를 계산하는 식으로 옳은 것은?",
+    "choices": [
+      "-61 × log([HCO3⁻]in/[HCO3⁻]out)",
+      "+61 × log([HCO3⁻]in/[HCO3⁻]out)",
+      "-30.5 × log([HCO3⁻]in/[HCO3⁻]out)",
+      "+30.5 × log([HCO3⁻]in/[HCO3⁻]out)",
+      "정답 없음"
+    ],
+    "answer": 2,
+    "examSource": "25 2교시.pdf",
+    "examRank": 250,
+    "explanation": "핵심 단서: HCO3⁻는 음이온(z=-1). Nernst식은 E = 61/z log(out/in) = +61 log(in/out)로 변형된다.",
+    "image": ""
+  },
+  {
+    "id": "physiology_39841f9b_25_2_2",
+    "setId": "physiology_91abc994",
+    "sourceId": "25-2",
+    "subject": "Physiology",
+    "section": "신경과 근육에서의 막생리",
+    "sections": [
+      "신경과 근육에서의 막생리"
+    ],
+    "question": "골격근 수축에서 근육세포 내 Ca2+ 이온의 역할은?",
+    "choices": [
+      "Myosin head ATPase 활성을 증가시킨다.",
+      "Troponin과 결합하여 tropomyosin의 구조적 변화를 유도한다.",
+      "Ca2+-calmodulin complex를 형성하여 근수축 방해 요소를 제거한다.",
+      "Titin을 활성화시켜 actin의 myosin head 친화력을 증가시킨다.",
+      "Myosin light chain kinase를 인산화시켜 cross-bridge 형성을 촉진한다."
+    ],
+    "answer": 2,
+    "examSource": "25 2교시.pdf",
+    "examRank": 250,
+    "explanation": "핵심 단서: 골격근. Ca2+는 troponin C에 결합해 tropomyosin을 이동시키고 actin-myosin 결합부위를 노출한다.",
+    "image": ""
+  },
+  {
+    "id": "physiology_39841f9b_25_3_2",
+    "setId": "physiology_91abc994",
+    "sourceId": "25-3",
+    "subject": "Physiology",
+    "section": "신경과 근육에서의 막생리",
+    "sections": [
+      "신경과 근육에서의 막생리"
+    ],
+    "question": "d-tubocurare가 신경-근 이음부 종판의 nicotinic ACh receptor에 경쟁적으로 결합할 때 나타나는 전기생리적 변화는?",
+    "choices": [
+      "종판 전위가 증가한다.",
+      "threshold가 증가한다.",
+      "활동 전위는 정상적으로 발생한다.",
+      "안정 전위가 더 음성으로 된다.",
+      "ACh receptor를 통한 Na+와 K+ 투과도가 감소한다."
+    ],
+    "answer": 5,
+    "examSource": "25 2교시.pdf",
+    "examRank": 250,
+    "explanation": "핵심 단서: nicotinic ACh receptor 경쟁적 차단. 리간드 개폐 양이온 통로가 덜 열려 Na+/K+ 투과도가 감소하고 종판전위가 작아진다.",
+    "image": ""
+  },
+  {
+    "id": "physiology_3d74b319_25_4_2",
+    "setId": "physiology_91abc994",
+    "sourceId": "25-4",
+    "subject": "Physiology",
+    "section": "호흡생리",
+    "sections": [
+      "호흡생리"
+    ],
+    "question": "폐, 흉벽, 폐-흉벽(호흡계)의 압력-용적 곡선에 대한 해석 중 옳은 것은?",
+    "choices": [
+      "기도압이 0일 때 흉강압은 양압이다.",
+      "기도압이 0일 때 폐용적은 기능적 잔기용량에 해당한다.",
+      "폐 자체의 compliance는 폐-흉벽의 compliance보다 작다.",
+      "흉벽 자체의 compliance는 폐-흉벽의 compliance보다 작다.",
+      "폐-흉벽의 compliance는 폐 compliance와 흉벽 compliance를 더한 것과 같다."
+    ],
+    "answer": 2,
+    "examSource": "25 2교시.pdf",
+    "examRank": 250,
+    "explanation": "핵심 단서: 호흡계 평형점. 기도압 0에서 폐의 안쪽 탄성복원력과 흉벽의 바깥쪽 힘이 균형을 이루며 FRC가 된다. 직렬 탄성체라 전체 compliance는 더 작다.",
+    "image": "assets/images/physiology_3d74b319_25_4_2.jpg"
+  },
+  {
+    "id": "physiology_3d74b319_25_5_2",
+    "setId": "physiology_91abc994",
+    "sourceId": "25-5",
+    "subject": "Physiology",
+    "section": "호흡생리",
+    "sections": [
+      "호흡생리"
+    ],
+    "question": "정상 호흡에서 호기 끝 늑막압이 -5 cmH2O이다. 이어지는 흡기 끝부분에서 경폐압의 최대값은?",
+    "choices": [
+      "1",
+      "4",
+      "5",
+      "6",
+      "-6"
+    ],
+    "answer": 4,
+    "examSource": "25 2교시.pdf",
+    "examRank": 250,
+    "explanation": "핵심 단서: 정상 흡기 끝에는 늑막압이 약 -6 cmH2O, 폐포압은 0으로 돌아온다. 경폐압 = PA - Ppl = 0 - (-6) = 6 cmH2O.",
+    "image": ""
+  },
+  {
+    "id": "physiology_3d74b319_25_6_2",
+    "setId": "physiology_91abc994",
+    "sourceId": "25-6",
+    "subject": "Physiology",
+    "section": "호흡생리",
+    "sections": [
+      "호흡생리"
+    ],
+    "question": "폐 표면활성제의 생리 기능으로 볼 수 없는 것은?",
+    "choices": [
+      "호흡 시 폐조직과 흉벽 간의 마찰을 감소시킨다.",
+      "폐포 액체층을 얇게 유지해 기체 확산거리를 짧게 한다.",
+      "폐포 내로 체액이 차는 것을 방지해 폐포를 비교적 건조하게 유지한다.",
+      "폐 탄성복원력을 극복하기 위한 에너지 소모를 줄인다.",
+      "폐포 안정성을 유지해 기체교환 면적을 확보한다."
+    ],
+    "answer": 1,
+    "examSource": "25 2교시.pdf",
+    "examRank": 250,
+    "explanation": "핵심 단서: surfactant는 폐포 표면장력을 낮춘다. 흉벽과 폐의 마찰 감소는 흉막액의 역할이다.",
+    "image": ""
+  },
+  {
+    "id": "physiology_3d74b319_25_7_2",
+    "setId": "physiology_91abc994",
+    "sourceId": "25-7",
+    "subject": "Physiology",
+    "section": "호흡생리",
+    "sections": [
+      "호흡생리"
+    ],
+    "question": "서 있는 상태에서 폐 바닥부분(zone 3)의 압력 배치는?",
+    "choices": [
+      "PA > Pa > Pv",
+      "PA > Pv > Pa",
+      "Pa > PA > Pv",
+      "Pa > Pv > PA",
+      "Pv > PA > Pa"
+    ],
+    "answer": 4,
+    "examSource": "25 2교시.pdf",
+    "examRank": 250,
+    "explanation": "핵심 단서: zone 3는 혈류가 가장 잘 흐르는 폐기저부. Pa > Pv > PA이다.",
+    "image": ""
+  },
+  {
+    "id": "physiology_3d74b319_25_8_2",
+    "setId": "physiology_91abc994",
+    "sourceId": "25-8",
+    "subject": "Physiology",
+    "section": "호흡생리",
+    "sections": [
+      "호흡생리"
+    ],
+    "question": "폐섬유화가 진행된 환자에서 PaCO2가 32 mmHg로 낮아진 기전에 대한 설명으로 옳은 것은?",
+    "choices": [
+      "증가된 pH가 말초화학수용체를 통해 호흡을 자극하여",
+      "증가된 pH가 중추화학수용체를 통해 호흡을 억제하여",
+      "감소된 PO2가 말초화학수용체를 통해 호흡을 억제하여",
+      "감소된 PO2가 중추화학수용체를 통해 호흡을 자극하여",
+      "감소된 PO2가 말초화학수용체를 통해 호흡을 자극하여"
+    ],
+    "answer": 5,
+    "examSource": "25 2교시.pdf",
+    "examRank": 250,
+    "explanation": "핵심 단서: 폐섬유화 → 저산소혈증. 낮은 PaO2는 말초화학수용체를 자극해 과환기를 유발하고 PaCO2를 낮춘다.",
+    "image": ""
+  },
+  {
+    "id": "physiology_a1353134_25_9_2",
+    "setId": "physiology_91abc994",
+    "sourceId": "25-9",
+    "subject": "Physiology",
+    "section": "순환생리",
+    "sections": [
+      "순환생리"
+    ],
+    "question": "안정 상태에서 심장 기능을 표현하는 식으로 옳은 것은?",
+    "choices": [
+      "심박출량 = 평균 동맥압 × 심박동수",
+      "심박출량 = 평균 동맥압 / 총말초저항",
+      "평균 동맥압 = 1/2 × (수축기압 + 이완기압)",
+      "평균 동맥압 = 심박출량 / 맥압",
+      "맥압 = 1/2 × (수축기압 - 이완기압)"
+    ],
+    "answer": 2,
+    "examSource": "25 2교시.pdf",
+    "examRank": 250,
+    "explanation": "핵심 단서: MAP ≈ CO × TPR. 따라서 CO ≈ MAP/TPR이다.",
+    "image": ""
+  },
+  {
+    "id": "physiology_f57b8364_25_10_2",
+    "setId": "physiology_91abc994",
+    "sourceId": "25-10",
+    "subject": "Physiology",
+    "section": "심장생리",
+    "sections": [
+      "심장생리"
+    ],
+    "question": "심장 pacemaker 세포 활동전위에서 phase 0에 주로 관여하는 이온통로는?",
+    "choices": [
+      "funny 통로",
+      "voltage-gated Na 통로",
+      "voltage-gated Ca 통로",
+      "inward rectifier K 통로",
+      "delayed rectifier K 통로"
+    ],
+    "answer": 3,
+    "examSource": "25 2교시.pdf",
+    "examRank": 250,
+    "explanation": "핵심 단서: SA/AV node의 upstroke. pacemaker phase 0은 fast Na+가 아니라 L-type Ca2+ 유입이 주도한다.",
+    "image": "assets/images/physiology_f57b8364_25_10_2.jpg"
+  },
+  {
+    "id": "physiology_f57b8364_25_11_2",
+    "setId": "physiology_91abc994",
+    "sourceId": "25-11",
+    "subject": "Physiology",
+    "section": "심장생리",
+    "sections": [
+      "심장생리"
+    ],
+    "question": "심근 세포 활동전위에서 phase 4 안정전위에 주로 기여하는 이온통로는?",
+    "choices": [
+      "leak K 통로",
+      "delayed rectifier K 통로",
+      "ATP-sensitive K 통로",
+      "inward rectifier K 통로",
+      "voltage-gated Ca 통로"
+    ],
+    "answer": 4,
+    "examSource": "25 2교시.pdf",
+    "examRank": 250,
+    "explanation": "핵심 단서: ventricular myocyte의 안정막전위. IK1(inward rectifier K+)가 -90 mV 부근의 안정전위를 유지한다.",
+    "image": "assets/images/physiology_f57b8364_25_11_2.jpg"
+  },
+  {
+    "id": "physiology_f57b8364_25_12_2",
+    "setId": "physiology_91abc994",
+    "sourceId": "25-12",
+    "subject": "Physiology",
+    "section": "심장생리",
+    "sections": [
+      "심장생리"
+    ],
+    "question": "심방 탈분극이 시작되고 방실결절 탈분극이 완료된 시점까지의 심전도 표현은?",
+    "choices": [
+      "P wave",
+      "PR segment",
+      "PR interval",
+      "ST segment",
+      "QRS complex"
+    ],
+    "answer": 3,
+    "examSource": "25 2교시.pdf",
+    "examRank": 250,
+    "explanation": "핵심 단서: 심방 탈분극 시작부터 심실 탈분극 시작 전까지. 이는 PR interval에 해당한다.",
+    "image": ""
+  },
+  {
+    "id": "physiology_f57b8364_25_13_2",
+    "setId": "physiology_91abc994",
+    "sourceId": "25-13",
+    "subject": "Physiology",
+    "section": "심장생리",
+    "sections": [
+      "심장생리"
+    ],
+    "question": "좌심실 압력-용적 고리가 실선에서 점선으로 바뀐 경우 증가한 심장 기능 지표는?",
+    "choices": [
+      "일회 심박출량",
+      "심근 수축력",
+      "이완기 혈압",
+      "수축기말 용적",
+      "심근 유순도(compliance)"
+    ],
+    "answer": 5,
+    "examSource": "25 2교시.pdf",
+    "examRank": 250,
+    "explanation": "핵심 단서: 같은 압력에서 더 큰 이완기 용적을 허용하는 방향. 이완기 P-V 관계가 아래/오른쪽이면 심근 compliance 증가이다.",
+    "image": "assets/images/physiology_f57b8364_25_13_2.jpg"
+  },
+  {
+    "id": "physiology_023bea16_25_14_2",
+    "setId": "physiology_91abc994",
+    "sourceId": "25-14",
+    "subject": "Physiology",
+    "section": "신장생리",
+    "sections": [
+      "신장생리"
+    ],
+    "question": "정상 신기능 30세 여성, 체중 55 kg, 혈장 Na 140 mEq/L일 때 세포외액량 추정치는?",
+    "choices": [
+      "5 L",
+      "7.5 L",
+      "10 L",
+      "15 L",
+      "20 L"
+    ],
+    "answer": 3,
+    "examSource": "25 2교시.pdf",
+    "examRank": 250,
+    "explanation": "핵심 단서: 여성 총체수분 ≈ 체중의 50%, ECF는 체중의 약 20%. 55×0.2≈11 L로 가장 가까운 값은 10 L.",
+    "image": ""
+  },
+  {
+    "id": "physiology_023bea16_25_15_2",
+    "setId": "physiology_91abc994",
+    "sourceId": "25-15",
+    "subject": "Physiology",
+    "section": "신장생리",
+    "sections": [
+      "신장생리"
+    ],
+    "question": "혈장 삼투질농도 300 mOsm/L, 요 삼투질농도 100 mOsm/L, 요량 9 mL/min일 때 유리 수분 제거율은?",
+    "choices": [
+      "-6 mL/min",
+      "-3 mL/min",
+      "+1 mL/min",
+      "+3 mL/min",
+      "+6 mL/min"
+    ],
+    "answer": 5,
+    "examSource": "25 2교시.pdf",
+    "examRank": 250,
+    "explanation": "핵심 단서: CH2O = V - Cosm, Cosm=(Uosm×V)/Posm=(100×9)/300=3. 따라서 9-3=+6 mL/min.",
+    "image": ""
+  },
+  {
+    "id": "physiology_023bea16_25_16_2",
+    "setId": "physiology_91abc994",
+    "sourceId": "25-16",
+    "subject": "Physiology",
+    "section": "신장생리",
+    "sections": [
+      "신장생리"
+    ],
+    "question": "먼쪽세관(distal tubule) 강막에서 Na+가 재흡수되는 분자 기전은?",
+    "choices": [
+      "Na-H exchange",
+      "Na-HCO3 cotransport",
+      "Na-K-2Cl cotransport",
+      "Na-Cl cotransport",
+      "ENaC transport"
+    ],
+    "answer": 4,
+    "examSource": "25 2교시.pdf",
+    "examRank": 250,
+    "explanation": "핵심 단서: early distal tubule. Na-Cl cotransporter(NCC)가 NaCl 재흡수를 담당한다.",
+    "image": ""
+  },
+  {
+    "id": "physiology_023bea16_25_17_2",
+    "setId": "physiology_91abc994",
+    "sourceId": "25-17",
+    "subject": "Physiology",
+    "section": "신장생리",
+    "sections": [
+      "신장생리"
+    ],
+    "question": "소변 pH 6.0~8.0 범위에서 적정산 배설에 주로 기여하는 물질은?",
+    "choices": [
+      "phosphate",
+      "creatinine",
+      "ammonium",
+      "urate",
+      "citrate"
+    ],
+    "answer": 1,
+    "examSource": "25 2교시.pdf",
+    "examRank": 250,
+    "explanation": "핵심 단서: titratable acid의 대표 완충계. 생리적 요 pH에서 HPO4²⁻/H2PO4⁻ phosphate buffer가 중요하다.",
+    "image": ""
+  },
+  {
+    "id": "physiology_3a347420_25_22_2",
+    "setId": "physiology_91abc994",
+    "sourceId": "25-22",
+    "subject": "Physiology",
+    "section": "내분비생리",
+    "sections": [
+      "내분비생리"
+    ],
+    "question": "인슐린에 의해 세포막 GLUT가 증가하여 포도당 이동이 촉진되는 장기의 조합은?",
+    "choices": [
+      "심장, 지방",
+      "소장, 골격근",
+      "뇌, 소장",
+      "심장, 뇌",
+      "지방, 췌장"
+    ],
+    "answer": 1,
+    "examSource": "25 2교시.pdf",
+    "examRank": 250,
+    "explanation": "핵심 단서: 인슐린 의존성 GLUT4. 골격근·심근·지방에서 증가하며, 보기 중 둘 다 맞는 조합은 심장/지방이다.",
+    "image": ""
+  },
+  {
+    "id": "physiology_3a347420_25_23_2",
+    "setId": "physiology_91abc994",
+    "sourceId": "25-23",
+    "subject": "Physiology",
+    "section": "내분비생리",
+    "sections": [
+      "내분비생리"
+    ],
+    "question": "호르몬 주입 후 간 glycogen은 감소하고 혈당은 증가했다. 이 호르몬은?",
+    "choices": [
+      "insulin",
+      "glucagon",
+      "aldosterone",
+      "thyroxine",
+      "somatostatin"
+    ],
+    "answer": 2,
+    "examSource": "25 2교시.pdf",
+    "examRank": 250,
+    "explanation": "핵심 단서: 간 당원분해 증가 + 혈당 상승. Glucagon은 간 glycogenolysis와 gluconeogenesis를 촉진한다.",
+    "image": ""
+  },
+  {
+    "id": "physiology_3a347420_25_24_2",
+    "setId": "physiology_91abc994",
+    "sourceId": "25-24",
+    "subject": "Physiology",
+    "section": "내분비생리",
+    "sections": [
+      "내분비생리"
+    ],
+    "question": "임신 시 estrogen 증가로 TBG가 증가하지만 갑상샘 질환은 생기지 않는다. 임신부 혈액 상태로 옳은 것은? (total T4 / free T4 / TSH)",
+    "choices": [
+      "↑ / ↑ / ↑",
+      "↑ / ↑ / →",
+      "↑ / → / ↑",
+      "↑ / → / →",
+      "→ / → / ↑"
+    ],
+    "answer": 4,
+    "examSource": "25 2교시.pdf",
+    "examRank": 250,
+    "explanation": "핵심 단서: TBG 증가. 결합형이 늘어 total T4는 증가하지만 정상 피드백으로 free T4와 TSH는 정상 유지된다.",
+    "image": ""
+  },
+  {
+    "id": "physiology_3a347420_25_25_2",
+    "setId": "physiology_91abc994",
+    "sourceId": "25-25",
+    "subject": "Physiology",
+    "section": "내분비생리",
+    "sections": [
+      "내분비생리"
+    ],
+    "question": "펩티드 호르몬과 비교하여 스테로이드 호르몬에서 특이하게 나타나는 기능은?",
+    "choices": [
+      "혈장 결합단백질과 결합한다.",
+      "세포막 투과가 매우 어렵다.",
+      "유전자 전사를 직접 조절한다.",
+      "계층적 되먹임 축을 형성한다.",
+      "생성 후 일정 속도로 지속 분비된다."
+    ],
+    "answer": 3,
+    "examSource": "25 2교시.pdf",
+    "examRank": 250,
+    "explanation": "핵심 단서: 지용성 스테로이드. 세포내/핵 수용체에 결합해 DNA 전사를 직접 조절한다.",
+    "image": ""
+  },
+  {
+    "id": "physiology_39841f9b_23r_1_2",
+    "setId": "physiology_91abc994",
+    "sourceId": "23R-1",
+    "subject": "Physiology",
+    "section": "신경과 근육에서의 막생리",
+    "sections": [
+      "신경과 근육에서의 막생리"
+    ],
+    "question": "흥분성 세포에서 이온 이동으로 탈분극이 나타나는 경우는?",
+    "choices": [
+      "Na+ 이온의 세포외로 유출",
+      "K+ 이온의 세포외로 유출",
+      "K+ 이온의 세포내로 유입",
+      "Ca2+ 이온의 세포외로 유출",
+      "Cl- 이온이 세포내로 유입"
+    ],
+    "answer": 3,
+    "examSource": "TalkFile_2023년 기시평 재시-2교시 2.pdf",
+    "examRank": 231,
+    "explanation": "핵심 단서: 탈분극은 막전위가 덜 음성이 되는 것. 양전하 유입 또는 음전하 유출이 해당하며, 보기에서는 K+의 세포내 유입이 맞다.",
+    "image": ""
+  },
+  {
+    "id": "physiology_f57b8364_23r_2_2",
+    "setId": "physiology_91abc994",
+    "sourceId": "23R-2",
+    "subject": "Physiology",
+    "section": "심장생리",
+    "sections": [
+      "심장생리"
+    ],
+    "question": "심근 세포 활동전위 phase 4 안정전위에 크게 기여하는 이온통로는?",
+    "choices": [
+      "leak K 통로",
+      "delayed rectifier K 통로",
+      "funny 통로",
+      "inward rectifier K 통로",
+      "voltage-gated Cl 통로"
+    ],
+    "answer": 4,
+    "examSource": "TalkFile_2023년 기시평 재시-2교시 2.pdf",
+    "examRank": 231,
+    "explanation": "핵심 단서: 작업심근 안정전위 유지 = inward rectifier K+ channel(IK1).",
+    "image": "assets/images/physiology_f57b8364_23r_2_2.jpg"
+  },
+  {
+    "id": "physiology_a1353134_23r_3_2",
+    "setId": "physiology_91abc994",
+    "sourceId": "23R-3",
+    "subject": "Physiology",
+    "section": "순환생리",
+    "sections": [
+      "순환생리"
+    ],
+    "question": "안정 상태에서 심장의 기능을 나타내는 식으로 옳은 것은?",
+    "choices": [
+      "심박출량 = 평균 동맥압 × 심박동수",
+      "심박출량 = 평균 동맥압 / 총말초저항",
+      "평균 동맥압 = 1/2 × (수축기압+이완기압)",
+      "평균 동맥압 = 심박출량 / 맥압",
+      "맥압 = 1/2 × (수축기압-이완기압)"
+    ],
+    "answer": 2,
+    "examSource": "TalkFile_2023년 기시평 재시-2교시 2.pdf",
+    "examRank": 231,
+    "explanation": "핵심 단서: 평균동맥압 ≈ 심박출량×총말초저항.",
+    "image": ""
+  },
+  {
+    "id": "physiology_3d74b319_23r_4_2",
+    "setId": "physiology_91abc994",
+    "sourceId": "23R-4",
+    "subject": "Physiology",
+    "section": "호흡생리",
+    "sections": [
+      "호흡생리"
+    ],
+    "question": "폐 표면활성제의 생리 기능으로 볼 수 없는 것은?",
+    "choices": [
+      "호흡 시 폐조직과 흉벽 간 마찰 감소",
+      "폐포 액체층을 얇게 유지",
+      "폐포 내 체액 유입 방지",
+      "탄성복원력 극복 에너지 감소",
+      "폐포 안정성 유지"
+    ],
+    "answer": 1,
+    "examSource": "TalkFile_2023년 기시평 재시-2교시 2.pdf",
+    "examRank": 231,
+    "explanation": "핵심 단서: surfactant는 표면장력 감소. 마찰 감소는 흉막액의 기능이다.",
+    "image": ""
+  },
+  {
+    "id": "physiology_3d74b319_23r_5_2",
+    "setId": "physiology_91abc994",
+    "sourceId": "23R-5",
+    "subject": "Physiology",
+    "section": "호흡생리",
+    "sections": [
+      "호흡생리"
+    ],
+    "question": "서 있는 상태에서 폐 바닥부분(zone 3)의 압력 배치는?",
+    "choices": [
+      "PA > Pa > Pv",
+      "PA > Pv > Pa",
+      "Pa > PA > Pv",
+      "Pa > Pv > PA",
+      "Pv > PA > Pa"
+    ],
+    "answer": 4,
+    "examSource": "TalkFile_2023년 기시평 재시-2교시 2.pdf",
+    "examRank": 231,
+    "explanation": "핵심 단서: Zone 3 = Pa > Pv > PA.",
+    "image": ""
+  },
+  {
+    "id": "physiology_023bea16_23r_6_2",
+    "setId": "physiology_91abc994",
+    "sourceId": "23R-6",
+    "subject": "Physiology",
+    "section": "신장생리",
+    "sections": [
+      "신장생리"
+    ],
+    "question": "정상 신기능 30세 여성, 체중 55 kg, 혈장 Na 140 mEq/L일 때 ECF 추정치는?",
+    "choices": [
+      "5 L",
+      "7.5 L",
+      "10 L",
+      "15 L",
+      "20 L"
+    ],
+    "answer": 3,
+    "examSource": "TalkFile_2023년 기시평 재시-2교시 2.pdf",
+    "examRank": 231,
+    "explanation": "핵심 단서: ECF ≈ 체중의 20%. 55 kg이면 약 11 L → 가장 가까운 10 L.",
+    "image": ""
+  },
+  {
+    "id": "physiology_023bea16_23r_7_2",
+    "setId": "physiology_91abc994",
+    "sourceId": "23R-7",
+    "subject": "Physiology",
+    "section": "신장생리",
+    "sections": [
+      "신장생리"
+    ],
+    "question": "혈장 삼투질농도 300, 요 삼투질농도 100, 요량 9 mL/min일 때 free-water clearance는?",
+    "choices": [
+      "-6 mL/min",
+      "-3 mL/min",
+      "+1 mL/min",
+      "+3 mL/min",
+      "+6 mL/min"
+    ],
+    "answer": 5,
+    "examSource": "TalkFile_2023년 기시평 재시-2교시 2.pdf",
+    "examRank": 231,
+    "explanation": "핵심 단서: Cosm=(100×9)/300=3, CH2O=9-3=+6.",
+    "image": ""
+  },
+  {
+    "id": "physiology_3a347420_23r_8_2",
+    "setId": "physiology_91abc994",
+    "sourceId": "23R-8",
+    "subject": "Physiology",
+    "section": "내분비생리",
+    "sections": [
+      "내분비생리"
+    ],
+    "question": "미즙 내 지방과 단백질에 의해 분비되고 위배출을 강하게 억제하는 호르몬은?",
+    "choices": [
+      "motilin",
+      "gastrin",
+      "secretin",
+      "cholecystokinin",
+      "glucagon-like peptide-1"
+    ],
+    "answer": 4,
+    "examSource": "TalkFile_2023년 기시평 재시-2교시 2.pdf",
+    "examRank": 231,
+    "explanation": "핵심 단서: 지방·단백질 자극, 위배출 억제 = CCK. 단, 사용자가 지정한 생리 섹션상 내분비 조절 문항으로 분류했다.",
+    "image": ""
+  },
+  {
+    "id": "physiology_3a347420_23r_9_2",
+    "setId": "physiology_91abc994",
+    "sourceId": "23R-9",
+    "subject": "Physiology",
+    "section": "내분비생리",
+    "sections": [
+      "내분비생리"
+    ],
+    "question": "스테로이드 호르몬과 비교하여 펩티드 호르몬에서 더 자주 나타나는 현상은?",
+    "choices": [
+      "대부분 혈장 결합단백질과 결합",
+      "높은 세포막 투과도",
+      "유전자 전사 조절",
+      "계층적 되먹임 축 형성",
+      "분비 소포 내 저장"
+    ],
+    "answer": 5,
+    "examSource": "TalkFile_2023년 기시평 재시-2교시 2.pdf",
+    "examRank": 231,
+    "explanation": "핵심 단서: 펩티드 호르몬은 합성 후 vesicle에 저장되어 자극 시 분비된다.",
+    "image": ""
+  },
+  {
+    "id": "physiology_3a347420_23r_10_2",
+    "setId": "physiology_91abc994",
+    "sourceId": "23R-10",
+    "subject": "Physiology",
+    "section": "내분비생리",
+    "sections": [
+      "내분비생리"
+    ],
+    "question": "호르몬 되먹임 축에서 호르몬과 혈액 되먹임 인자의 관계가 맞지 않는 것은?",
+    "choices": [
+      "인슐린-포도당 농도",
+      "부갑상샘호르몬-Ca 농도",
+      "항이뇨호르몬-삼투질 농도",
+      "알도스테론-K 농도",
+      "코티졸-triglyceride 농도"
+    ],
+    "answer": 5,
+    "examSource": "TalkFile_2023년 기시평 재시-2교시 2.pdf",
+    "examRank": 231,
+    "explanation": "핵심 단서: 코티졸은 HPA axis에서 ACTH/CRH와 음성 되먹임. triglyceride가 주된 직접 피드백 인자는 아니다.",
+    "image": ""
+  },
+  {
+    "id": "physiology_f57b8364_23r_11_2",
+    "setId": "physiology_91abc994",
+    "sourceId": "23R-11",
+    "subject": "Physiology",
+    "section": "심장생리",
+    "sections": [
+      "심장생리"
+    ],
+    "question": "pacemaker 세포 활동전위 phase 0에 주로 관여하는 이온통로는?",
+    "choices": [
+      "funny 통로",
+      "voltage-gated Na 통로",
+      "voltage-gated Ca 통로",
+      "inward rectifier K 통로",
+      "delayed rectifier K 통로"
+    ],
+    "answer": 3,
+    "examSource": "TalkFile_2023년 기시평 재시-2교시 2.pdf",
+    "examRank": 231,
+    "explanation": "핵심 단서: 결절세포 upstroke = Ca2+ channel.",
+    "image": "assets/images/physiology_f57b8364_23r_11_2.jpg"
+  },
+  {
+    "id": "physiology_023bea16_23r_12_2",
+    "setId": "physiology_91abc994",
+    "sourceId": "23R-12",
+    "subject": "Physiology",
+    "section": "신장생리",
+    "sections": [
+      "신장생리"
+    ],
+    "question": "nephron 모식도에서 정상 상태 세관내액 삼투질 농도가 가장 낮은 부위는?",
+    "choices": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E"
+    ],
+    "answer": 4,
+    "examSource": "TalkFile_2023년 기시평 재시-2교시 2.pdf",
+    "examRank": 231,
+    "explanation": "핵심 단서: 희석분절인 thick ascending limb/early DCT 부위가 가장 낮다.",
+    "image": "assets/images/physiology_023bea16_23r_12_2.jpg"
+  },
+  {
+    "id": "physiology_39841f9b_23r_13_2",
+    "setId": "physiology_91abc994",
+    "sourceId": "23R-13",
+    "subject": "Physiology",
+    "section": "신경과 근육에서의 막생리",
+    "sections": [
+      "신경과 근육에서의 막생리"
+    ],
+    "question": "골격근 수축에서 Ca2+ 이온의 역할은?",
+    "choices": [
+      "Myosin head ATPase 활성 증가",
+      "Troponin과 결합하여 tropomyosin 변화 유도",
+      "Ca2+-calmodulin complex 형성",
+      "Titin 활성화",
+      "MLCK 인산화"
+    ],
+    "answer": 2,
+    "examSource": "TalkFile_2023년 기시평 재시-2교시 2.pdf",
+    "examRank": 231,
+    "explanation": "핵심 단서: 골격근은 Ca2+-troponin C 결합으로 actin 결합부위가 열린다.",
+    "image": ""
+  },
+  {
+    "id": "physiology_f57b8364_23r_14_2",
+    "setId": "physiology_91abc994",
+    "sourceId": "23R-14",
+    "subject": "Physiology",
+    "section": "심장생리",
+    "sections": [
+      "심장생리"
+    ],
+    "question": "심전도 중괄호 부분의 전기적 활동으로 옳은 것은?",
+    "choices": [
+      "방실결절 전도 기간",
+      "심방 탈분극 시작에서 방실결절 탈분극 시작",
+      "심방 탈분극 시작에서 심방 탈분극 종료",
+      "심방 탈분극 시작에서 심방 재분극 종료",
+      "심방 탈분극 시작에서 심실 탈분극 시작"
+    ],
+    "answer": 5,
+    "examSource": "TalkFile_2023년 기시평 재시-2교시 2.pdf",
+    "examRank": 231,
+    "explanation": "핵심 단서: PR interval = P 시작부터 QRS 시작까지.",
+    "image": "assets/images/physiology_f57b8364_23r_14_2.jpg"
+  },
+  {
+    "id": "physiology_023bea16_23r_17_2",
+    "setId": "physiology_91abc994",
+    "sourceId": "23R-17",
+    "subject": "Physiology",
+    "section": "신장생리",
+    "sections": [
+      "신장생리"
+    ],
+    "question": "먼쪽세관 강막에서 Na+ 재흡수 분자 기전은?",
+    "choices": [
+      "Na-H exchange",
+      "Na-HCO3 cotransport",
+      "Na-K-2Cl cotransport",
+      "Na-Cl cotransport",
+      "ENaC transport"
+    ],
+    "answer": 4,
+    "examSource": "TalkFile_2023년 기시평 재시-2교시 2.pdf",
+    "examRank": 231,
+    "explanation": "핵심 단서: DCT의 NCC. Thiazide 작용 부위로도 암기한다.",
+    "image": ""
+  },
+  {
+    "id": "physiology_39841f9b_23r_18_2",
+    "setId": "physiology_91abc994",
+    "sourceId": "23R-18",
+    "subject": "Physiology",
+    "section": "신경과 근육에서의 막생리",
+    "sections": [
+      "신경과 근육에서의 막생리"
+    ],
+    "question": "근육 세포 HCO3⁻ 농도(in 10 mM, out 25 mM)에서 Nernst 전위 계산식으로 옳은 것은?",
+    "choices": [
+      "-61 × log([HCO3⁻]in/[HCO3⁻]out)",
+      "+61 × log([HCO3⁻]in/[HCO3⁻]out)",
+      "-30.5 × log([HCO3⁻]in/[HCO3⁻]out)",
+      "+30.5 × log([HCO3⁻]in/[HCO3⁻]out)",
+      "-61 × ln([HCO3⁻]in/[HCO3⁻]out)"
+    ],
+    "answer": 2,
+    "examSource": "TalkFile_2023년 기시평 재시-2교시 2.pdf",
+    "examRank": 231,
+    "explanation": "핵심 단서: HCO3⁻는 음이온이므로 +61 log(in/out).",
+    "image": ""
+  },
+  {
+    "id": "physiology_a1353134_23r_19_2",
+    "setId": "physiology_91abc994",
+    "sourceId": "23R-19",
+    "subject": "Physiology",
+    "section": "순환생리",
+    "sections": [
+      "순환생리"
+    ],
+    "question": "기립저혈압 후 혈압 회복 기전은?",
+    "choices": [
+      "심박동수 증가",
+      "말초혈관 이완",
+      "압력수용기 흥분",
+      "정맥환류량 증가",
+      "미주신경 활성화"
+    ],
+    "answer": 1,
+    "examSource": "TalkFile_2023년 기시평 재시-2교시 2.pdf",
+    "examRank": 231,
+    "explanation": "핵심 단서: 기립 시 압력수용기 발사 감소 → 교감신경 증가 → HR 증가.",
+    "image": ""
+  },
+  {
+    "id": "physiology_39841f9b_23r_20_2",
+    "setId": "physiology_91abc994",
+    "sourceId": "23R-20",
+    "subject": "Physiology",
+    "section": "신경과 근육에서의 막생리",
+    "sections": [
+      "신경과 근육에서의 막생리"
+    ],
+    "question": "d-tubocurare 처리 시 전기생리적 변화는?",
+    "choices": [
+      "종판 전위 증가",
+      "threshold 증가",
+      "활동전위 정상 발생",
+      "안정전위가 더 음성",
+      "ACh receptor channel을 통한 Na+와 K+ 투과도 감소"
+    ],
+    "answer": 5,
+    "examSource": "TalkFile_2023년 기시평 재시-2교시 2.pdf",
+    "examRank": 231,
+    "explanation": "핵심 단서: nicotinic receptor channel 차단 → 종판 양이온 투과도 감소.",
+    "image": ""
+  },
+  {
+    "id": "physiology_a1353134_23r_21_2",
+    "setId": "physiology_91abc994",
+    "sourceId": "23R-21",
+    "subject": "Physiology",
+    "section": "순환생리",
+    "sections": [
+      "순환생리"
+    ],
+    "question": "Renin-Angiotensin system에서 angiotensin II 증가로 유도되는 현상으로 적절하지 않은 것은?",
+    "choices": [
+      "교감신경활성 증가",
+      "Aldosterone 분비 증가",
+      "신장에서 NaCl 및 물 흡수 증가",
+      "동맥혈관 수축",
+      "뇌하수체 전엽 자극"
+    ],
+    "answer": 5,
+    "examSource": "TalkFile_2023년 기시평 재시-2교시 2.pdf",
+    "examRank": 231,
+    "explanation": "핵심 단서: Ang II는 혈관수축, aldosterone, ADH/갈증, 교감활성 증가. 뇌하수체 전엽 자극은 대표 작용이 아니다.",
+    "image": ""
+  },
+  {
+    "id": "physiology_023bea16_23r_26_2",
+    "setId": "physiology_91abc994",
+    "sourceId": "23R-26",
+    "subject": "Physiology",
+    "section": "신장생리",
+    "sections": [
+      "신장생리"
+    ],
+    "question": "콩팥 치밀반점은 여과액 양과 Na 농도 감소 시 레닌 분비를 유도한다. 치밀반점 세포가 있는 곳은?",
+    "choices": [
+      "먼쪽곱슬세관",
+      "들토리세동맥",
+      "날토리세동맥",
+      "토리쪽곱슬세관",
+      "토리주머니 속벽"
+    ],
+    "answer": 1,
+    "examSource": "TalkFile_2023년 기시평 재시-2교시 2.pdf",
+    "examRank": 231,
+    "explanation": "핵심 단서: macula densa는 JGA의 일부이며 DCT가 afferent arteriole에 접하는 부위에 있다.",
+    "image": ""
+  },
+  {
+    "id": "physiology_39841f9b_23_1_2",
+    "setId": "physiology_91abc994",
+    "sourceId": "23-1",
+    "subject": "Physiology",
+    "section": "신경과 근육에서의 막생리",
+    "sections": [
+      "신경과 근육에서의 막생리"
+    ],
+    "question": "근육 세포 HCO3⁻의 세포내 농도 10 mM, 세포외 농도 25 mM이다. 37℃에서 Nernst 전위 계산식으로 옳은 것은?",
+    "choices": [
+      "-61 × log([HCO3⁻]in/[HCO3⁻]out)",
+      "+61 × log([HCO3⁻]in/[HCO3⁻]out)",
+      "-30.5 × log([HCO3⁻]in/[HCO3⁻]out)",
+      "+30.5 × log([HCO3⁻]in/[HCO3⁻]out)",
+      "-61 × ln([HCO3⁻]in/[HCO3⁻]out)"
+    ],
+    "answer": 2,
+    "examSource": "TalkFile_2023학년도 자체 기초의학시기평가-2교시 2.pdf",
+    "examRank": 230,
+    "explanation": "핵심 단서: 음이온 HCO3⁻. E = 61/z log(out/in)이므로 +61 log(in/out)이 된다.",
+    "image": ""
+  },
+  {
+    "id": "physiology_39841f9b_23_2_2",
+    "setId": "physiology_91abc994",
+    "sourceId": "23-2",
+    "subject": "Physiology",
+    "section": "신경과 근육에서의 막생리",
+    "sections": [
+      "신경과 근육에서의 막생리"
+    ],
+    "question": "골격근 수축에서 Ca2+ 이온의 역할은?",
+    "choices": [
+      "Myosin head ATPase 활성을 증가시킨다.",
+      "Troponin과 결합하여 tropomyosin의 구조적 변화를 유도한다.",
+      "Ca2+-calmodulin complex를 형성한다.",
+      "Titin을 활성화시킨다.",
+      "Myosin light chain kinase를 인산화시킨다."
+    ],
+    "answer": 2,
+    "examSource": "TalkFile_2023학년도 자체 기초의학시기평가-2교시 2.pdf",
+    "examRank": 230,
+    "explanation": "핵심 단서: 골격근은 troponin 조절. Smooth muscle의 Ca-calmodulin/MLCK와 구분한다.",
+    "image": ""
+  },
+  {
+    "id": "physiology_39841f9b_23_3_2",
+    "setId": "physiology_91abc994",
+    "sourceId": "23-3",
+    "subject": "Physiology",
+    "section": "신경과 근육에서의 막생리",
+    "sections": [
+      "신경과 근육에서의 막생리"
+    ],
+    "question": "d-tubocurare가 nicotinic ACh receptor channel에 경쟁적으로 결합할 때 변화는?",
+    "choices": [
+      "종판 전위 증가",
+      "threshold 증가",
+      "활동전위 정상 발생",
+      "안정전위가 더 음성",
+      "ACh receptor channel을 통한 Na+와 K+ 투과도 감소"
+    ],
+    "answer": 5,
+    "examSource": "TalkFile_2023학년도 자체 기초의학시기평가-2교시 2.pdf",
+    "examRank": 230,
+    "explanation": "핵심 단서: ACh 수용체 통로 차단 → 양이온 투과도 감소 → EPP 감소.",
+    "image": ""
+  },
+  {
+    "id": "physiology_3d74b319_23_4_3",
+    "setId": "physiology_91abc994",
+    "sourceId": "23-4",
+    "subject": "Physiology",
+    "section": "호흡생리",
+    "sections": [
+      "호흡생리"
+    ],
+    "question": "정상 호흡 시 호기 끝 늑막압이 -5 cmH2O일 때 이어지는 흡기 끝부분의 경폐압 최대값은?",
+    "choices": [
+      "-5 cmH2O",
+      "1 cmH2O",
+      "5 cmH2O",
+      "6 cmH2O",
+      "8 cmH2O"
+    ],
+    "answer": 4,
+    "examSource": "TalkFile_2023학년도 자체 기초의학시기평가-2교시 2.pdf",
+    "examRank": 230,
+    "explanation": "핵심 단서: 흡기 말 PA=0, Ppl≈-6. 경폐압=6 cmH2O.",
+    "image": ""
+  },
+  {
+    "id": "physiology_3d74b319_23_5_3",
+    "setId": "physiology_91abc994",
+    "sourceId": "23-5",
+    "subject": "Physiology",
+    "section": "호흡생리",
+    "sections": [
+      "호흡생리"
+    ],
+    "question": "폐·흉벽·호흡계 압력-용적 곡선 해석 중 옳은 것은?",
+    "choices": [
+      "기도압 0일 때 흉강압은 양압",
+      "기도압 0일 때 폐용적은 기능적 잔기용량",
+      "폐 자체 compliance는 호흡계보다 작다",
+      "흉벽 자체 compliance는 호흡계보다 작다",
+      "호흡계 compliance는 폐와 흉벽 compliance의 합이다"
+    ],
+    "answer": 2,
+    "examSource": "TalkFile_2023학년도 자체 기초의학시기평가-2교시 2.pdf",
+    "examRank": 230,
+    "explanation": "핵심 단서: airway pressure 0의 평형 폐용적은 FRC. 전체 호흡계 compliance는 폐/흉벽보다 작다.",
+    "image": "assets/images/physiology_3d74b319_23_5_3.jpg"
+  },
+  {
+    "id": "physiology_3d74b319_23_6_3",
+    "setId": "physiology_91abc994",
+    "sourceId": "23-6",
+    "subject": "Physiology",
+    "section": "호흡생리",
+    "sections": [
+      "호흡생리"
+    ],
+    "question": "폐섬유화 환자 ABG에서 PaCO2가 32 mmHg로 낮아진 기전은?",
+    "choices": [
+      "증가된 pH가 말초화학수용체를 자극",
+      "증가된 pH가 중추화학수용체를 억제",
+      "감소된 PO2가 말초화학수용체를 억제",
+      "감소된 PO2가 중추화학수용체를 자극",
+      "감소된 PO2가 말초화학수용체를 자극"
+    ],
+    "answer": 5,
+    "examSource": "TalkFile_2023학년도 자체 기초의학시기평가-2교시 2.pdf",
+    "examRank": 230,
+    "explanation": "핵심 단서: 저산소혈증 → carotid/aortic body 자극 → 과환기 → PaCO2 감소.",
+    "image": ""
+  },
+  {
+    "id": "physiology_3d74b319_23_7_3",
+    "setId": "physiology_91abc994",
+    "sourceId": "23-7",
+    "subject": "Physiology",
+    "section": "호흡생리",
+    "sections": [
+      "호흡생리"
+    ],
+    "question": "100% 산소 호흡 전후 PaO2가 60→80 mmHg로 크게 교정되지 않는 저산소혈증의 이유는?",
+    "choices": [
+      "shunt",
+      "환기저하",
+      "환기-관류 불균형",
+      "저산소성 폐모세혈관 수축",
+      "호흡성 산혈증으로 Hb 산소친화도 감소"
+    ],
+    "answer": 1,
+    "examSource": "TalkFile_2023학년도 자체 기초의학시기평가-2교시 2.pdf",
+    "examRank": 230,
+    "explanation": "핵심 단서: 100% O2에도 PaO2 상승이 제한적. 산소에 잘 반응하지 않는 저산소혈증은 shunt를 시사한다.",
+    "image": "assets/images/physiology_3d74b319_23_7_3.jpg"
+  },
+  {
+    "id": "physiology_a1353134_23_8_3",
+    "setId": "physiology_91abc994",
+    "sourceId": "23-8",
+    "subject": "Physiology",
+    "section": "순환생리",
+    "sections": [
+      "순환생리"
+    ],
+    "question": "누웠다가 갑자기 일어날 때 일시적 혈압 감소 후 회복되는 주된 기전은?",
+    "choices": [
+      "심박동수 증가",
+      "말초혈관 이완",
+      "압력수용기 흥분",
+      "정맥환류량 증가",
+      "미주신경 활성화"
+    ],
+    "answer": 1,
+    "examSource": "TalkFile_2023학년도 자체 기초의학시기평가-2교시 2.pdf",
+    "examRank": 230,
+    "explanation": "핵심 단서: 기립 시 venous pooling → baroreceptor firing 감소 → 교감신경 증가. 심박동수와 수축력, 말초저항이 증가한다.",
+    "image": ""
+  },
+  {
+    "id": "physiology_f57b8364_23_9_2",
+    "setId": "physiology_91abc994",
+    "sourceId": "23-9",
+    "subject": "Physiology",
+    "section": "심장생리",
+    "sections": [
+      "심장생리"
+    ],
+    "question": "pacemaker 세포 활동전위 phase 0에 주로 관여하는 이온통로는?",
+    "choices": [
+      "funny 통로",
+      "voltage-gated Na 통로",
+      "voltage-gated Ca 통로",
+      "inward rectifier K 통로",
+      "delayed rectifier K 통로"
+    ],
+    "answer": 3,
+    "examSource": "TalkFile_2023학년도 자체 기초의학시기평가-2교시 2.pdf",
+    "examRank": 230,
+    "explanation": "핵심 단서: 결절세포 phase 0은 Ca2+ channel이 담당한다.",
+    "image": "assets/images/physiology_f57b8364_23_9_2.jpg"
+  },
+  {
+    "id": "physiology_f57b8364_23_10_2",
+    "setId": "physiology_91abc994",
+    "sourceId": "23-10",
+    "subject": "Physiology",
+    "section": "심장생리",
+    "sections": [
+      "심장생리"
+    ],
+    "question": "심전도에서 중괄호로 표시한 PR interval의 전기적 활동으로 옳은 것은?",
+    "choices": [
+      "방실결절의 전도 기간",
+      "심방 탈분극 시작에서 방실결절 탈분극 시작까지",
+      "심방 탈분극 시작에서 심방 탈분극 종료까지",
+      "심방 탈분극 시작에서 심방 재분극 종료까지",
+      "심방 탈분극 시작에서 심실 탈분극 시작까지"
+    ],
+    "answer": 5,
+    "examSource": "TalkFile_2023학년도 자체 기초의학시기평가-2교시 2.pdf",
+    "examRank": 230,
+    "explanation": "핵심 단서: PR interval은 P파 시작부터 QRS 시작까지. 즉 심방 탈분극 시작부터 심실 탈분극 시작까지이다.",
+    "image": "assets/images/physiology_f57b8364_23_10_2.jpg"
+  },
+  {
+    "id": "physiology_f57b8364_23_11_2",
+    "setId": "physiology_91abc994",
+    "sourceId": "23-11",
+    "subject": "Physiology",
+    "section": "심장생리",
+    "sections": [
+      "심장생리"
+    ],
+    "question": "좌심실 압력-용적 고리가 실선에서 점선으로 바뀐 경우의 해석으로 합당한 것은?",
+    "choices": [
+      "일회 심박출량 증가",
+      "심근 유순도 감소",
+      "이완기 혈압 증가",
+      "수축기말 용적 증가",
+      "심근 수축력 감소"
+    ],
+    "answer": 2,
+    "examSource": "TalkFile_2023학년도 자체 기초의학시기평가-2교시 2.pdf",
+    "examRank": 230,
+    "explanation": "핵심 단서: 점선은 같은 용적에서 이완기압이 높고 EDV가 감소한 양상. 이완기 compliance 감소로 해석한다.",
+    "image": "assets/images/physiology_f57b8364_23_11_2.jpg"
+  },
+  {
+    "id": "physiology_023bea16_23_12_3",
+    "setId": "physiology_91abc994",
+    "sourceId": "23-12",
+    "subject": "Physiology",
+    "section": "신장생리",
+    "sections": [
+      "신장생리"
+    ],
+    "question": "nephron 모식도에서 정상 상태 세관내액 삼투질 농도가 가장 낮은 부위는?",
+    "choices": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E"
+    ],
+    "answer": 4,
+    "examSource": "TalkFile_2023학년도 자체 기초의학시기평가-2교시 2.pdf",
+    "examRank": 230,
+    "explanation": "핵심 단서: thick ascending limb/early distal tubule은 물 재흡수 없이 NaCl 재흡수 → 희석분절. 그림의 D가 가장 낮다.",
+    "image": "assets/images/physiology_023bea16_23_12_3.jpg"
+  },
+  {
+    "id": "physiology_023bea16_23_13_3",
+    "setId": "physiology_91abc994",
+    "sourceId": "23-13",
+    "subject": "Physiology",
+    "section": "신장생리",
+    "sections": [
+      "신장생리"
+    ],
+    "question": "먼쪽세관 강막에서 Na+ 재흡수 분자 기전은?",
+    "choices": [
+      "Na-H exchange",
+      "Na-HCO3 cotransport",
+      "Na-K-2Cl cotransport",
+      "Na-Cl cotransport",
+      "ENaC transport"
+    ],
+    "answer": 4,
+    "examSource": "TalkFile_2023학년도 자체 기초의학시기평가-2교시 2.pdf",
+    "examRank": 230,
+    "explanation": "핵심 단서: DCT = Na-Cl cotransporter. ENaC는 주로 collecting duct principal cell.",
+    "image": ""
+  },
+  {
+    "id": "physiology_023bea16_23_14_3",
+    "setId": "physiology_91abc994",
+    "sourceId": "23-14",
+    "subject": "Physiology",
+    "section": "신장생리",
+    "sections": [
+      "신장생리"
+    ],
+    "question": "소변 pH 6.0~8.0에서 적정산 배설에 주로 기여하는 물질은?",
+    "choices": [
+      "phosphate",
+      "creatinine",
+      "ammonium",
+      "urate",
+      "citrate"
+    ],
+    "answer": 1,
+    "examSource": "TalkFile_2023학년도 자체 기초의학시기평가-2교시 2.pdf",
+    "examRank": 230,
+    "explanation": "핵심 단서: titratable acid는 주로 phosphate buffer로 배설된다.",
+    "image": ""
+  },
+  {
+    "id": "physiology_3a347420_23_18_2",
+    "setId": "physiology_91abc994",
+    "sourceId": "23-18",
+    "subject": "Physiology",
+    "section": "내분비생리",
+    "sections": [
+      "내분비생리"
+    ],
+    "question": "부신에서 aldosterone 생성 과정 그림에서 A와 B에 해당하는 물질은?",
+    "choices": [
+      "progesterone / pregnenolone",
+      "progesterone / 11-deoxycortisol",
+      "pregnenolone / progesterone",
+      "pregnenolone / 11-deoxycortisol",
+      "progesterone / 17-hydroxyprogesterone"
+    ],
+    "answer": 3,
+    "examSource": "TalkFile_2023학년도 자체 기초의학시기평가-2교시 2.pdf",
+    "examRank": 230,
+    "explanation": "핵심 단서: mineralocorticoid 합성 경로. cholesterol → pregnenolone → progesterone → 11-deoxycorticosterone → corticosterone → aldosterone.",
+    "image": "assets/images/physiology_3a347420_23_18_2.jpg"
+  },
+  {
+    "id": "physiology_3a347420_23_19_2",
+    "setId": "physiology_91abc994",
+    "sourceId": "23-19",
+    "subject": "Physiology",
+    "section": "내분비생리",
+    "sections": [
+      "내분비생리"
+    ],
+    "question": "호르몬 주입 후 간 glycogen 감소, 혈당 증가가 관찰되었다. 해당 호르몬은?",
+    "choices": [
+      "insulin",
+      "glucagon",
+      "aldosterone",
+      "thyroxine",
+      "somatostatin"
+    ],
+    "answer": 2,
+    "examSource": "TalkFile_2023학년도 자체 기초의학시기평가-2교시 2.pdf",
+    "examRank": 230,
+    "explanation": "핵심 단서: 혈당 상승 + 간 당원 감소 = glucagon.",
+    "image": ""
+  },
+  {
+    "id": "physiology_3a347420_23_20_3",
+    "setId": "physiology_91abc994",
+    "sourceId": "23-20",
+    "subject": "Physiology",
+    "section": "내분비생리",
+    "sections": [
+      "내분비생리"
+    ],
+    "question": "임신으로 TBG가 증가할 때 임신부 혈액 상태는? (total T4 / free T4 / TSH)",
+    "choices": [
+      "↑ / ↑ / ↑",
+      "↑ / ↑ / →",
+      "↑ / → / ↑",
+      "↑ / → / →",
+      "→ / → / ↑"
+    ],
+    "answer": 4,
+    "examSource": "TalkFile_2023학년도 자체 기초의학시기평가-2교시 2.pdf",
+    "examRank": 230,
+    "explanation": "핵심 단서: total T4만 증가, free T4와 TSH는 정상 유지.",
+    "image": ""
+  },
+  {
+    "id": "physiology_39841f9b_21_1_2",
+    "setId": "physiology_91abc994",
+    "sourceId": "21-1",
+    "subject": "Physiology",
+    "section": "신경과 근육에서의 막생리",
+    "sections": [
+      "신경과 근육에서의 막생리"
+    ],
+    "question": "세포막 전위 계산에서 Nernst 식과 GHK 식의 근본적인 차이점은?",
+    "choices": [
+      "이온 개수",
+      "이온 투과도",
+      "세포 내외 농도차",
+      "활동 전위의 산출 방식",
+      "평형 전위의 산출 방식"
+    ],
+    "answer": 2,
+    "examSource": "21 기종평 3교시-생리학.pdf",
+    "examRank": 210,
+    "explanation": "핵심 단서: GHK 식은 여러 이온의 상대적 투과도를 반영해 막전위를 계산한다. Nernst는 한 이온의 평형전위 계산이다.",
+    "image": ""
+  },
+  {
+    "id": "physiology_39841f9b_21_2_2",
+    "setId": "physiology_91abc994",
+    "sourceId": "21-2",
+    "subject": "Physiology",
+    "section": "신경과 근육에서의 막생리",
+    "sections": [
+      "신경과 근육에서의 막생리"
+    ],
+    "question": "사망 후 수시간이 지나 근육이 굳어진 상태의 이유로 설명될 수 없는 것은?",
+    "choices": [
+      "cross-bridge 형성 증가",
+      "근육세포 내 Na 농도 증가",
+      "근육세포 내 ATP 결핍",
+      "근형질세망에서 세포질로 Ca 방출 증가",
+      "세포외액에서 근육세포 내로 Ca 유입 증가"
+    ],
+    "answer": 2,
+    "examSource": "21 기종평 3교시-생리학.pdf",
+    "examRank": 210,
+    "explanation": "핵심 단서: 사후강직은 ATP 결핍으로 cross-bridge 분리가 안 되고 Ca2+가 증가해서 생긴다. Na 증가가 핵심 원인은 아니다.",
+    "image": ""
+  },
+  {
+    "id": "physiology_39841f9b_21_3_2",
+    "setId": "physiology_91abc994",
+    "sourceId": "21-3",
+    "subject": "Physiology",
+    "section": "신경과 근육에서의 막생리",
+    "sections": [
+      "신경과 근육에서의 막생리"
+    ],
+    "question": "근절(sarcomere) 그림에서 의문 부호에 해당하는 물질은?",
+    "choices": [
+      "titin",
+      "cross-bridge",
+      "tropomyosin",
+      "globular actin",
+      "myosin heavy chain"
+    ],
+    "answer": 3,
+    "examSource": "21 기종평 3교시-생리학.pdf",
+    "examRank": 210,
+    "explanation": "핵심 단서: 얇은 필라멘트 위를 따라 길게 놓인 조절 단백은 tropomyosin이다. Ca2+ 결합 후 위치가 변한다.",
+    "image": "assets/images/physiology_39841f9b_21_3_2.jpg"
+  },
+  {
+    "id": "physiology_39841f9b_21_4_2",
+    "setId": "physiology_91abc994",
+    "sourceId": "21-4",
+    "subject": "Physiology",
+    "section": "신경과 근육에서의 막생리",
+    "sections": [
+      "신경과 근육에서의 막생리"
+    ],
+    "question": "고칼륨혈증 환자의 신경에서 흥분성이 증가하는 기전은?",
+    "choices": [
+      "역치가 낮아졌기 때문이다.",
+      "잠복기가 짧아졌기 때문이다.",
+      "안정 전위가 증가했기(less negative) 때문이다.",
+      "막전압 의존성 K+ 채널 수가 감소했기 때문이다.",
+      "막전압 의존성 Na+ 채널 수가 증가했기 때문이다."
+    ],
+    "answer": 3,
+    "examSource": "21 기종평 3교시-생리학.pdf",
+    "examRank": 210,
+    "explanation": "핵심 단서: 고칼륨혈증은 안정막전위를 덜 음성으로 만들어 역치와 가까워지게 한다.",
+    "image": ""
+  },
+  {
+    "id": "physiology_f57b8364_21_5_2",
+    "setId": "physiology_91abc994",
+    "sourceId": "21-5",
+    "subject": "Physiology",
+    "section": "심장생리",
+    "sections": [
+      "심장생리"
+    ],
+    "question": "심전도 그림에서 중괄호로 표시한 부분의 전기생리학적 설명으로 옳은 것은?",
+    "choices": [
+      "방실결절의 전도 기간",
+      "심방 탈분극 시작에서 방실결절 탈분극 시작까지의 기간",
+      "심방 탈분극 시작에서 심방 재분극 끝까지의 기간",
+      "심방 탈분극 시작에서 심실 탈분극 시작까지의 기간",
+      "심방 탈분극 시작에서 심실 탈분극 끝까지의 기간"
+    ],
+    "answer": 4,
+    "examSource": "21 기종평 3교시-생리학.pdf",
+    "examRank": 210,
+    "explanation": "핵심 단서: 중괄호는 P파 시작부터 QRS 시작까지, 즉 PR interval이다. 심방 탈분극 시작부터 심실 탈분극 시작까지다.",
+    "image": "assets/images/physiology_f57b8364_21_5_2.jpg"
+  },
+  {
+    "id": "physiology_f57b8364_21_6_2",
+    "setId": "physiology_91abc994",
+    "sourceId": "21-6",
+    "subject": "Physiology",
+    "section": "심장생리",
+    "sections": [
+      "심장생리"
+    ],
+    "question": "심장의 Starling 법칙이 적용된 경우로 맞는 것은?",
+    "choices": [
+      "운동 시 심박수가 증가한다.",
+      "심정지 후 평균체충만압이 증가한다.",
+      "수혈 시 심박출량이 증가한다.",
+      "교감신경 자극 시 심박출량이 증가한다.",
+      "허혈 시 심박수가 증가한다."
+    ],
+    "answer": 3,
+    "examSource": "21 기종평 3교시-생리학.pdf",
+    "examRank": 210,
+    "explanation": "핵심 단서: Starling 법칙은 전부하 증가에 따른 박출량 증가. 수혈은 정맥환류와 전부하를 늘린다.",
+    "image": ""
+  },
+  {
+    "id": "physiology_f57b8364_21_7_2",
+    "setId": "physiology_91abc994",
+    "sourceId": "21-7",
+    "subject": "Physiology",
+    "section": "심장생리",
+    "sections": [
+      "심장생리"
+    ],
+    "question": "약물 X 투여 전후 좌심실 압력-용적 고리에서 증가한 지표는?",
+    "choices": [
+      "전부하",
+      "후부하",
+      "박출분율",
+      "일회박출량",
+      "이완기말 용적"
+    ],
+    "answer": 2,
+    "examSource": "21 기종평 3교시-생리학.pdf",
+    "examRank": 210,
+    "explanation": "핵심 단서: 고리가 더 높은 압력/수축기말 용적 증가 양상으로 변하면 후부하 증가를 시사한다. 후부하 증가는 박출을 어렵게 한다.",
+    "image": "assets/images/physiology_f57b8364_21_7_2.jpg"
+  },
+  {
+    "id": "physiology_a1353134_21_8_2",
+    "setId": "physiology_91abc994",
+    "sourceId": "21-8",
+    "subject": "Physiology",
+    "section": "순환생리",
+    "sections": [
+      "순환생리"
+    ],
+    "question": "오른쪽 경동맥에 bruit가 들릴 정도의 혈관 이상이 생겼다면 혈류역학 변화는?",
+    "choices": [
+      "양쪽 경동맥의 혈류저항은 동일하다.",
+      "왼쪽 경동맥에서 와류가 더 크게 들린다.",
+      "왼쪽 경동맥의 Reynolds 값이 더 크다.",
+      "오른쪽 경동맥의 혈류량이 더 크다.",
+      "오른쪽 경동맥의 혈류속도가 더 빠르다."
+    ],
+    "answer": 5,
+    "examSource": "21 기종평 3교시-생리학.pdf",
+    "examRank": 210,
+    "explanation": "핵심 단서: 협착 부위는 단면적 감소로 유속이 증가하고 난류가 생겨 bruit가 들린다.",
+    "image": ""
+  },
+  {
+    "id": "physiology_a1353134_21_9_2",
+    "setId": "physiology_91abc994",
+    "sourceId": "21-9",
+    "subject": "Physiology",
+    "section": "순환생리",
+    "sections": [
+      "순환생리"
+    ],
+    "question": "Epidural nerve block 후 어지러움과 저혈압이 생긴 이유는?",
+    "choices": [
+      "순환 혈액량이 감소했기 때문이다.",
+      "심박출량이 증가했기 때문이다.",
+      "정맥혈관의 용적이 증가했기 때문이다.",
+      "동맥혈관의 용적이 감소했기 때문이다.",
+      "총말초저항이 증가했기 때문이다."
+    ],
+    "answer": 3,
+    "examSource": "21 기종평 3교시-생리학.pdf",
+    "examRank": 210,
+    "explanation": "핵심 단서: 교감신경 차단은 정맥 확장과 정맥 저장량 증가를 일으켜 정맥환류를 줄인다.",
+    "image": ""
+  },
+  {
+    "id": "physiology_a1353134_21_10_2",
+    "setId": "physiology_91abc994",
+    "sourceId": "21-10",
+    "subject": "Physiology",
+    "section": "순환생리",
+    "sections": [
+      "순환생리"
+    ],
+    "question": "누웠다가 갑자기 일어났을 때 감소한 혈압이 곧 회복되는 기전은?",
+    "choices": [
+      "심박동수 증가",
+      "말초혈관 이완",
+      "압력수용기 흥분",
+      "정맥환류량 증가",
+      "미주 신경 활성화"
+    ],
+    "answer": 1,
+    "examSource": "21 기종평 3교시-생리학.pdf",
+    "examRank": 210,
+    "explanation": "핵심 단서: 기립 시 혈압 감소 → baroreceptor firing 감소 → 교감신경 증가/미주 감소 → 심박수 증가와 혈관수축.",
+    "image": ""
+  },
+  {
+    "id": "physiology_3d74b319_21_11_2",
+    "setId": "physiology_91abc994",
+    "sourceId": "21-11",
+    "subject": "Physiology",
+    "section": "호흡생리",
+    "sections": [
+      "호흡생리"
+    ],
+    "question": "흡기 시 폐 부피가 커지는 기전은?",
+    "choices": [
+      "폐에 있는 호흡근이 수축되기 때문에",
+      "흡기근 수축으로 흉벽이 확장되어 흉막내 음압이 증가하기 때문에",
+      "폐내 공기가 혈액으로 이동해서 폐내압이 낮아지기 때문에",
+      "흡기근 수축은 강해지고 호기근 수축은 약해지기 때문에",
+      "호흡중추 작용으로 흉벽 탄성력이 강해지고 폐조직 탄성력은 약해지기 때문에"
+    ],
+    "answer": 2,
+    "examSource": "21 기종평 3교시-생리학.pdf",
+    "examRank": 210,
+    "explanation": "핵심 단서: 흡기근 수축 → 흉곽 확장 → 흉막내압 더 음성 → 경폐압 증가 → 폐 팽창.",
+    "image": ""
+  },
+  {
+    "id": "physiology_3d74b319_21_12_2",
+    "setId": "physiology_91abc994",
+    "sourceId": "21-12",
+    "subject": "Physiology",
+    "section": "호흡생리",
+    "sections": [
+      "호흡생리"
+    ],
+    "question": "중증근무력증 환자에서 neostigmine 투여 전 예상되는 폐기능 검사 소견은?",
+    "choices": [
+      "TLC ↓, RV ↔, FEV1/FVC ↔",
+      "TLC ↑, RV ↑, FEV1/FVC ↓",
+      "TLC ↑, RV ↑, FEV1/FVC ↔",
+      "TLC ↓, RV ↔, FEV1/FVC ↑",
+      "TLC ↓, RV ↓, FEV1/FVC ↓"
+    ],
+    "answer": 1,
+    "examSource": "21 기종평 3교시-생리학.pdf",
+    "examRank": 210,
+    "explanation": "핵심 단서: 호흡근 약화는 제한성 양상으로 TLC가 감소하고, 기도폐쇄가 아니므로 FEV1/FVC는 대체로 보존된다.",
+    "image": ""
+  },
+  {
+    "id": "physiology_3d74b319_21_13_2",
+    "setId": "physiology_91abc994",
+    "sourceId": "21-13",
+    "subject": "Physiology",
+    "section": "호흡생리",
+    "sections": [
+      "호흡생리"
+    ],
+    "question": "폐섬유화 환자에서 PaO2 55, PaCO2 32가 나타나는 기전으로 옳은 것은?",
+    "choices": [
+      "증가된 pH가 말초화학수용체를 통해 호흡을 자극하여",
+      "증가된 pH가 중추화학수용체를 통해 호흡을 억제하여",
+      "감소된 PaO2가 말초화학수용체를 통해 호흡을 억제하여",
+      "감소된 PaO2가 중추화학수용체를 통해 호흡을 자극하여",
+      "감소된 PaO2가 말초화학수용체를 통해 호흡을 자극하여"
+    ],
+    "answer": 5,
+    "examSource": "21 기종평 3교시-생리학.pdf",
+    "examRank": 210,
+    "explanation": "핵심 단서: 저산소혈증은 말초화학수용체를 자극해 환기를 증가시킨다. 과환기로 CO2가 낮아진다.",
+    "image": ""
+  },
+  {
+    "id": "physiology_3d74b319_21_14_2",
+    "setId": "physiology_91abc994",
+    "sourceId": "21-14",
+    "subject": "Physiology",
+    "section": "호흡생리",
+    "sections": [
+      "호흡생리"
+    ],
+    "question": "폐기종 환자에서 날숨이 길어진 원인은?",
+    "choices": [
+      "날숨량이 많아졌기 때문에",
+      "기도저항이 증가했기 때문에",
+      "날숨근 수축력이 약해졌기 때문에",
+      "늑막염 때문에 호기시 통증이 나타나기 때문에",
+      "흉벽 탄성복원력이 커졌기 때문에"
+    ],
+    "answer": 2,
+    "examSource": "21 기종평 3교시-생리학.pdf",
+    "examRank": 210,
+    "explanation": "핵심 단서: 폐기종은 탄성복원력 감소와 소기도 허탈로 호기 시 기도저항이 증가한다.",
+    "image": ""
+  },
+  {
+    "id": "physiology_a7dfc0de_21_15_2",
+    "setId": "physiology_91abc994",
+    "sourceId": "21-15",
+    "subject": "Physiology",
+    "section": "소화생리",
+    "sections": [
+      "소화생리"
+    ],
+    "question": "지방의 소화와 흡수 과정을 순서대로 바르게 나열한 것은?",
+    "choices": [
+      "지방의 유화 → 유미미립 분비 → 미포 형성 → 장세포 흡수",
+      "지방의 유화 → 장세포 흡수 → 유미미립 분비 → 미포 형성",
+      "지방의 유화 → 미포 형성 → 유미미립 분비 → 장세포 흡수",
+      "지방의 유화 → 장세포 흡수 → 미포 형성 → 유미미립 분비",
+      "지방의 유화 → 미포 형성 → 장세포 흡수 → 유미미립 분비"
+    ],
+    "answer": 5,
+    "examSource": "21 기종평 3교시-생리학.pdf",
+    "examRank": 210,
+    "explanation": "핵심 단서: 유화 후 micelle로 장세포까지 운반되고, 장세포 안에서 재에스터화 후 chylomicron으로 분비된다.",
+    "image": ""
+  },
+  {
+    "id": "physiology_a7dfc0de_21_16_2",
+    "setId": "physiology_91abc994",
+    "sourceId": "21-16",
+    "subject": "Physiology",
+    "section": "소화생리",
+    "sections": [
+      "소화생리"
+    ],
+    "question": "소화성 궤양 환자에게 PPI를 처방했다. 처방과 관련된 세포 이름은?",
+    "choices": [
+      "G세포",
+      "Enterochromaffin-like cell",
+      "주세포",
+      "점액목세포",
+      "벽세포"
+    ],
+    "answer": 5,
+    "examSource": "21 기종평 3교시-생리학.pdf",
+    "examRank": 210,
+    "explanation": "핵심 단서: PPI는 parietal cell의 H+/K+ ATPase를 억제해 위산 분비를 줄인다.",
+    "image": ""
+  },
+  {
+    "id": "physiology_a7dfc0de_21_17_2",
+    "setId": "physiology_91abc994",
+    "sourceId": "21-17",
+    "subject": "Physiology",
+    "section": "소화생리",
+    "sections": [
+      "소화생리"
+    ],
+    "question": "식사로 위가 팽창되어 회맹판이 이완되고 회장 연동운동이 시작되는 반사 경로는?",
+    "choices": [
+      "Colonoileal reflex",
+      "Gastrocolic reflex",
+      "Enterogastric reflex",
+      "Gastroileal reflex",
+      "Rectosphincteric reflex"
+    ],
+    "answer": 4,
+    "examSource": "21 기종평 3교시-생리학.pdf",
+    "examRank": 210,
+    "explanation": "핵심 단서: 위 팽창이 ileum 운동과 ileocecal sphincter 이완을 촉진하는 반사는 gastroileal reflex이다.",
+    "image": ""
+  },
+  {
+    "id": "physiology_a7dfc0de_21_18_2",
+    "setId": "physiology_91abc994",
+    "sourceId": "21-18",
+    "subject": "Physiology",
+    "section": "소화생리",
+    "sections": [
+      "소화생리"
+    ],
+    "question": "위점막 장벽 손상과 더불어 위산 분비를 촉진시키는 요인은?",
+    "choices": [
+      "prostaglandin E2",
+      "gastrin",
+      "담즙염",
+      "점액",
+      "H. pylori"
+    ],
+    "answer": 2,
+    "examSource": "21 기종평 3교시-생리학.pdf",
+    "examRank": 210,
+    "explanation": "핵심 단서: gastrin은 벽세포/ECL cell을 통해 위산 분비를 촉진한다. PGE2와 점액은 보호인자다.",
+    "image": ""
+  },
+  {
+    "id": "physiology_023bea16_21_19_2",
+    "setId": "physiology_91abc994",
+    "sourceId": "21-19",
+    "subject": "Physiology",
+    "section": "신장생리",
+    "sections": [
+      "신장생리"
+    ],
+    "question": "정상인에서 사구체 여과 수분이 근위세관을 통해 재흡수되는 비율은?",
+    "choices": [
+      "30%",
+      "50%",
+      "70%",
+      "90%",
+      "99%"
+    ],
+    "answer": 3,
+    "examSource": "21 기종평 3교시-생리학.pdf",
+    "examRank": 210,
+    "explanation": "핵심 단서: 근위세관은 여과된 Na+와 물의 약 65~70%를 등삼투적으로 재흡수한다.",
+    "image": ""
+  },
+  {
+    "id": "physiology_023bea16_21_20_2",
+    "setId": "physiology_91abc994",
+    "sourceId": "21-20",
+    "subject": "Physiology",
+    "section": "신장생리",
+    "sections": [
+      "신장생리"
+    ],
+    "question": "혈장 pH 7.40일 때 혈장 내 [HCO3-]/[H2CO3] 비율은?",
+    "choices": [
+      "20",
+      "10",
+      "1",
+      "0.5",
+      "0.1"
+    ],
+    "answer": 1,
+    "examSource": "21 기종평 3교시-생리학.pdf",
+    "examRank": 210,
+    "explanation": "핵심 단서: Henderson-Hasselbalch에서 pH 7.40은 bicarbonate buffer 비율이 약 20:1이다.",
+    "image": ""
+  },
+  {
+    "id": "physiology_023bea16_21_21_2",
+    "setId": "physiology_91abc994",
+    "sourceId": "21-21",
+    "subject": "Physiology",
+    "section": "신장생리",
+    "sections": [
+      "신장생리"
+    ],
+    "question": "네프론 그림의 E 초반부에서 Na가 재흡수되는 기전은?",
+    "choices": [
+      "Na-H exchange",
+      "Na-HCO3- cotransport",
+      "Na-K-2Cl cotransport",
+      "Na-Cl cotransport",
+      "ENaC transport"
+    ],
+    "answer": 4,
+    "examSource": "21 기종평 3교시-생리학.pdf",
+    "examRank": 210,
+    "explanation": "핵심 단서: E 초반부는 먼쪽곱슬세관 초반부에 해당한다. Na-Cl cotransporter가 대표적이다.",
+    "image": "assets/images/physiology_023bea16_21_21_2.jpg"
+  },
+  {
+    "id": "physiology_023bea16_21_22_2",
+    "setId": "physiology_91abc994",
+    "sourceId": "21-22",
+    "subject": "Physiology",
+    "section": "신장생리",
+    "sections": [
+      "신장생리"
+    ],
+    "question": "만성 신부전 환자에서 저나트륨혈증이 발생한 중요한 요인은?",
+    "choices": [
+      "ADH 분비의 증가",
+      "신성 요붕증의 발생",
+      "신장에서 나트륨 배설의 증가",
+      "사구체를 통한 수분 여과의 감소",
+      "영양 결핍에 의한 나트륨 섭취 감소"
+    ],
+    "answer": 4,
+    "examSource": "21 기종평 3교시-생리학.pdf",
+    "examRank": 210,
+    "explanation": "핵심 단서: 신부전은 자유수 배설 능력이 떨어져 물이 상대적으로 축적된다. 희석성 저나트륨혈증이 생긴다.",
+    "image": ""
+  },
+  {
+    "id": "physiology_023bea16_21_23_2",
+    "setId": "physiology_91abc994",
+    "sourceId": "21-23",
+    "subject": "Physiology",
+    "section": "신장생리",
+    "sections": [
+      "신장생리"
+    ],
+    "question": "칼륨이 많은 음식을 먹은 뒤 고칼륨혈증과 체중 증가가 생겼다. 체중 증가 원인은?",
+    "choices": [
+      "사구체여과율 감소",
+      "혈장 교질삼투압 증가",
+      "알도스테론 분비 증가",
+      "레닌-안지오텐신 활성화",
+      "나트륨이뇨펩티드 분비 감소"
+    ],
+    "answer": 3,
+    "examSource": "21 기종평 3교시-생리학.pdf",
+    "examRank": 210,
+    "explanation": "핵심 단서: 혈중 K+ 증가는 알도스테론 분비를 직접 자극한다. 알도스테론은 Na+와 물 재흡수를 증가시켜 체중을 늘릴 수 있다.",
+    "image": ""
+  },
+  {
+    "id": "physiology_3a347420_21_24_2",
+    "setId": "physiology_91abc994",
+    "sourceId": "21-24",
+    "subject": "Physiology",
+    "section": "내분비생리",
+    "sections": [
+      "내분비생리"
+    ],
+    "question": "성조숙증 여아에게 고농도 GnRH를 12주간 주입하자 증상이 호전된 기전은?",
+    "choices": [
+      "GnRH 수용체의 탈감작",
+      "생식샘자극호르몬에 의한 음성되먹임",
+      "생식샘자극호르몬에 의한 양성되먹임",
+      "에스트로겐에 의한 생식샘자극호르몬 분비 억제",
+      "프로게스테론에 의한 생식샘자극호르몬 분비 억제"
+    ],
+    "answer": 1,
+    "examSource": "21 기종평 3교시-생리학.pdf",
+    "examRank": 210,
+    "explanation": "핵심 단서: GnRH는 박동성 투여 시 자극, 지속적 고농도 투여 시 수용체 탈감작으로 LH/FSH가 감소한다.",
+    "image": ""
+  },
+  {
+    "id": "physiology_3a347420_21_25_2",
+    "setId": "physiology_91abc994",
+    "sourceId": "21-25",
+    "subject": "Physiology",
+    "section": "내분비생리",
+    "sections": [
+      "내분비생리"
+    ],
+    "question": "성장호르몬과 IGF-1, 포도당이 증가한 환자에서 혈당 증가의 기전은?",
+    "choices": [
+      "간에서 포도당 신생 억제",
+      "간에서 포도당 분해 증가",
+      "근육세포의 포도당 섭취 감소",
+      "지방세포에서 지방산 합성 증가",
+      "뇌신경세포에서 포도당 사용 감소"
+    ],
+    "answer": 3,
+    "examSource": "21 기종평 3교시-생리학.pdf",
+    "examRank": 210,
+    "explanation": "핵심 단서: GH는 insulin antagonist. 말초조직, 특히 근육과 지방의 포도당 섭취를 감소시켜 혈당을 올린다.",
+    "image": ""
+  },
+  {
+    "id": "physiology_3a347420_21_26_2",
+    "setId": "physiology_91abc994",
+    "sourceId": "21-26",
+    "subject": "Physiology",
+    "section": "내분비생리",
+    "sections": [
+      "내분비생리"
+    ],
+    "question": "TSH와 free T4가 모두 감소한 환자의 질병 발생 부위로 적합한 것은?",
+    "choices": [
+      "갑상샘",
+      "뇌하수체",
+      "시상하부",
+      "부신",
+      "뇌하수체와 시상하부"
+    ],
+    "answer": 5,
+    "examSource": "21 기종평 3교시-생리학.pdf",
+    "examRank": 210,
+    "explanation": "핵심 단서: T4가 낮은데 TSH도 낮으면 중추성 갑상샘저하증이다. 뇌하수체 또는 시상하부 이상이 가능하다.",
+    "image": ""
+  },
+  {
+    "id": "physiology_3a347420_21_27_2",
+    "setId": "physiology_91abc994",
+    "sourceId": "21-27",
+    "subject": "Physiology",
+    "section": "내분비생리",
+    "sections": [
+      "내분비생리"
+    ],
+    "question": "부갑상샘 종양으로 PTH가 증가하면 일어날 수 있는 상황은?",
+    "choices": [
+      "파골세포 활성에 의한 골흡수 증가",
+      "신장의 인산염 재흡수 증가",
+      "혈중 24,25-dihydroxyvitamin D 증가",
+      "요중 Ca 배설 증가",
+      "혈중 calcitonin 증가"
+    ],
+    "answer": 1,
+    "examSource": "21 기종평 3교시-생리학.pdf",
+    "examRank": 210,
+    "explanation": "핵심 단서: PTH는 RANKL을 통해 파골세포 활성을 증가시켜 골흡수와 혈중 Ca2+를 증가시킨다.",
+    "image": ""
+  },
+  {
+    "id": "physiology_39841f9b_21_28_2",
+    "setId": "physiology_91abc994",
+    "sourceId": "21-28",
+    "subject": "Physiology",
+    "section": "신경과 근육에서의 막생리",
+    "sections": [
+      "신경과 근육에서의 막생리"
+    ],
+    "question": "아픈 부위를 문지르면 통증이 경감되는 현상을 설명하는 이론은?",
+    "choices": [
+      "pattern theory",
+      "gate control theory",
+      "stimulus-response theory",
+      "sensory interaction theory",
+      "central summation theory"
+    ],
+    "answer": 2,
+    "examSource": "21 기종평 3교시-생리학.pdf",
+    "examRank": 210,
+    "explanation": "핵심 단서: 비유해성 촉각 입력이 척수 후각에서 통증 전달을 억제한다는 이론은 gate control theory이다.",
+    "image": ""
+  },
+  {
+    "id": "physiology_39841f9b_21_29_2",
+    "setId": "physiology_91abc994",
+    "sourceId": "21-29",
+    "subject": "Physiology",
+    "section": "신경과 근육에서의 막생리",
+    "sections": [
+      "신경과 근육에서의 막생리"
+    ],
+    "question": "뇌손상 후 과도한 불안, 감정 조절 어려움, 쉽게 화를 내는 모습이 보일 때 예상 손상부위는?",
+    "choices": [
+      "편도",
+      "해마",
+      "후각엽",
+      "대상회",
+      "시상하부"
+    ],
+    "answer": 1,
+    "examSource": "21 기종평 3교시-생리학.pdf",
+    "examRank": 210,
+    "explanation": "핵심 단서: 편도체는 공포, 불안, 분노 등 정서 반응 조절에 중요하다.",
+    "image": ""
+  },
+  {
+    "id": "physiology_39841f9b_21_30_2",
+    "setId": "physiology_91abc994",
+    "sourceId": "21-30",
+    "subject": "Physiology",
+    "section": "신경과 근육에서의 막생리",
+    "sections": [
+      "신경과 근육에서의 막생리"
+    ],
+    "question": "갑자기 최근 기억력이 떨어지고 반복질문을 하는 환자에서 급성 뇌경색이 발생한 부위로 가장 가능성이 높은 곳은?",
+    "choices": [
+      "cerebellar vermis",
+      "internal capsule",
+      "thalamus",
+      "putamen",
+      "insula"
+    ],
+    "answer": 3,
+    "examSource": "21 기종평 3교시-생리학.pdf",
+    "examRank": 210,
+    "explanation": "핵심 단서: 선택지 중 기억 회로와 가장 관련 깊은 부위는 thalamus이다.",
+    "image": ""
+  },
+  {
+    "id": "physiology_39841f9b_21_31_2",
+    "setId": "physiology_91abc994",
+    "sourceId": "21-31",
+    "subject": "Physiology",
+    "section": "신경과 근육에서의 막생리",
+    "sections": [
+      "신경과 근육에서의 막생리"
+    ],
+    "question": "뇌경색 후 인지기능 검사에서 그림과 같은 결과가 보였다. 기능 저하가 의심되는 부위는?",
+    "choices": [
+      "오른쪽 후두엽",
+      "오른쪽 두정엽",
+      "오른쪽 전두엽",
+      "왼쪽 후두엽",
+      "왼쪽 두정엽"
+    ],
+    "answer": 2,
+    "examSource": "21 기종평 3교시-생리학.pdf",
+    "examRank": 210,
+    "explanation": "핵심 단서: 선분 지우기/시계/그림에서 한쪽을 무시하는 hemispatial neglect는 대개 오른쪽 두정엽 병변이다.",
+    "image": "assets/images/physiology_39841f9b_21_31_2.jpg"
+  },
+  {
+    "id": "physiology_3a347420_21_32_2",
+    "setId": "physiology_91abc994",
+    "sourceId": "21-32",
+    "subject": "Physiology",
+    "section": "내분비생리",
+    "sections": [
+      "내분비생리"
+    ],
+    "question": "두통, 시야 감소, 양측 귀쪽 시야 협착, 야뇨, 성장 저하와 중추성 호르몬 저하가 있는 7세 남아의 병터는?",
+    "choices": [
+      "시상",
+      "소뇌",
+      "뇌들보",
+      "뇌하수체",
+      "솔방울샘"
+    ],
+    "answer": 4,
+    "examSource": "21 기종평 3교시-생리학.pdf",
+    "examRank": 210,
+    "explanation": "핵심 단서: 양측 temporal 시야장애 + DI/중추성 갑상샘·부신 기능저하 → sellar/suprasellar, 즉 뇌하수체 부위 병변.",
+    "image": ""
+  },
+  {
+    "id": "physiology_39841f9b_21_33_2",
+    "setId": "physiology_91abc994",
+    "sourceId": "21-33",
+    "subject": "Physiology",
+    "section": "신경과 근육에서의 막생리",
+    "sections": [
+      "신경과 근육에서의 막생리"
+    ],
+    "question": "왼쪽 아래 물건을 볼 때 수직복시가 심하고 머리를 오른쪽으로 기울이면 좋아지는 환자에서 손상된 뇌신경은?",
+    "choices": [
+      "오른쪽 동안신경",
+      "오른쪽 활차신경",
+      "오른쪽 외전신경",
+      "왼쪽 동안신경",
+      "왼쪽 활차신경"
+    ],
+    "answer": 5,
+    "examSource": "21 기종평 3교시-생리학.pdf",
+    "examRank": 210,
+    "explanation": "핵심 단서: 수직복시와 보상성 head tilt는 활차신경 병변을 시사한다. 머리를 오른쪽으로 기울이면 호전되므로 왼쪽 활차신경 병변으로 판단한다.",
+    "image": "assets/images/physiology_39841f9b_21_33_2.jpg"
+  },
+  {
+    "id": "physiology_3a347420_21_34_2",
+    "setId": "physiology_91abc994",
+    "sourceId": "21-34",
+    "subject": "Physiology",
+    "section": "내분비생리",
+    "sections": [
+      "내분비생리"
+    ],
+    "question": "빛자극에 의해 혈중 농도가 변하며 circadian rhythm의 주요 지표로 알려진 물질은?",
+    "choices": [
+      "serotonin",
+      "acetylcholine",
+      "dopamine",
+      "melatonin",
+      "orexin"
+    ],
+    "answer": 4,
+    "examSource": "21 기종평 3교시-생리학.pdf",
+    "examRank": 210,
+    "explanation": "핵심 단서: melatonin은 어두울 때 송과샘에서 증가하고 빛에 의해 억제된다. 일주기 리듬 지표이다.",
+    "image": ""
+  },
+  {
+    "id": "physiology_3a347420_21_35_2",
+    "setId": "physiology_91abc994",
+    "sourceId": "21-35",
+    "subject": "Physiology",
+    "section": "내분비생리",
+    "sections": [
+      "내분비생리"
+    ],
+    "question": "크롬친화세포종 수술 전 카테콜아민에 의한 심한 혈압 상승을 예방하기 위해 사용할 약물은?",
+    "choices": [
+      "항콜린성 약물",
+      "니코틴 수용체 효현제",
+      "도파민 수용체 효현제",
+      "무스카린 수용체 효현제",
+      "알파 아드레날린성 차단제"
+    ],
+    "answer": 5,
+    "examSource": "21 기종평 3교시-생리학.pdf",
+    "examRank": 210,
+    "explanation": "핵심 단서: pheochromocytoma는 catecholamine 과다. 수술 전 먼저 alpha blocker로 혈압을 조절한다.",
+    "image": ""
+  },
+  {
+    "id": "physiology_39841f9b_20_1_2",
+    "setId": "physiology_91abc994",
+    "sourceId": "20-1",
+    "subject": "Physiology",
+    "section": "신경과 근육에서의 막생리",
+    "sections": [
+      "신경과 근육에서의 막생리"
+    ],
+    "question": "흥분성 세포에서 이온의 이동으로 탈분극이 나타나는 경우는?",
+    "choices": [
+      "Na+ 이온의 유출",
+      "K+ 이온의 유출",
+      "Ca2+ 이온의 유입",
+      "Cl- 이온의 유입",
+      "HCO3- 이온의 유입"
+    ],
+    "answer": 3,
+    "examSource": "20 기종평 3교시생리학.pdf",
+    "examRank": 200,
+    "explanation": "핵심 단서: 탈분극은 세포 안이 덜 음성이 되는 변화. 양전하인 Ca2+ 유입은 막전위를 상승시킨다.",
+    "image": ""
+  },
+  {
+    "id": "physiology_39841f9b_20_2_2",
+    "setId": "physiology_91abc994",
+    "sourceId": "20-2",
+    "subject": "Physiology",
+    "section": "신경과 근육에서의 막생리",
+    "sections": [
+      "신경과 근육에서의 막생리"
+    ],
+    "question": "고칼륨혈증 환자의 신경에서 약한 자극에도 쉽게 활동전압이 발생하는 기전은?",
+    "choices": [
+      "역치가 낮아졌기 때문이다.",
+      "시치가 짧아졌기 때문이다.",
+      "안정막전압의 크기가 작아졌기 때문이다.",
+      "잠복기가 짧아졌기 때문이다.",
+      "막전압 의존성 Na+ 채널 수가 증가했기 때문이다."
+    ],
+    "answer": 3,
+    "examSource": "20 기종평 3교시생리학.pdf",
+    "examRank": 200,
+    "explanation": "핵심 단서: 고칼륨혈증은 K+ 농도기울기를 줄여 안정막전압을 덜 음성으로 만든다. 역치까지 거리가 가까워져 흥분성이 증가한다.",
+    "image": ""
+  },
+  {
+    "id": "physiology_39841f9b_20_3_2",
+    "setId": "physiology_91abc994",
+    "sourceId": "20-3",
+    "subject": "Physiology",
+    "section": "신경과 근육에서의 막생리",
+    "sections": [
+      "신경과 근육에서의 막생리"
+    ],
+    "question": "골격근 thick myofilament의 구조와 화학적 특징 중 옳은 것은?",
+    "choices": [
+      "Myosin head에서는 ATPase activity가, tail에서는 Ca2+ binding activity가 나타난다.",
+      "Myosin tail region에서 creatinine phosphokinase activity를 나타낸다.",
+      "H-zone에서 6개의 myosin head가 thin myofilament 쪽으로 돌출되어 있다.",
+      "Thick myofilament를 구성하는 수축단백질 중 가장 많은 것은 actin이다.",
+      "Myosin head에서는 actin과 ATP에 대해 친화력을 나타낸다."
+    ],
+    "answer": 5,
+    "examSource": "20 기종평 3교시생리학.pdf",
+    "examRank": 200,
+    "explanation": "핵심 단서: thick filament의 주성분은 myosin. Myosin head는 actin 결합부위와 ATPase 활성을 가진다.",
+    "image": ""
+  },
+  {
+    "id": "physiology_39841f9b_20_4_2",
+    "setId": "physiology_91abc994",
+    "sourceId": "20-4",
+    "subject": "Physiology",
+    "section": "신경과 근육에서의 막생리",
+    "sections": [
+      "신경과 근육에서의 막생리"
+    ],
+    "question": "골격근 수축에서 세포 내 Ca2+ 이온의 역할은?",
+    "choices": [
+      "주로 Ca2+-calmodulin complex를 형성하여 근수축 방해 요소들을 제거한다.",
+      "Troponin에 결합하여 actin-myosin 결합을 방해하는 tropomyosin의 위치 변화를 유도한다.",
+      "Myosin head에 결합하여 actin에 대한 친화력을 증가시킨다.",
+      "Troponin과 tropomyosin의 기능을 억제하여 actin-myosin 친화력을 증가시킨다.",
+      "Myosin light chain kinase를 인산화시켜 cross-bridge가 actin에 결합하게 한다."
+    ],
+    "answer": 2,
+    "examSource": "20 기종평 3교시생리학.pdf",
+    "examRank": 200,
+    "explanation": "핵심 단서: 골격근. Ca2+는 troponin C에 결합하고 tropomyosin이 이동해 actin 결합부위가 노출된다.",
+    "image": ""
+  },
+  {
+    "id": "physiology_f57b8364_20_5_2",
+    "setId": "physiology_91abc994",
+    "sourceId": "20-5",
+    "subject": "Physiology",
+    "section": "심장생리",
+    "sections": [
+      "심장생리"
+    ],
+    "question": "그림의 점선은 허혈 시 심근세포의 활동전압이다. 허혈 시 활동전압 기간이 감소한 이유는?",
+    "choices": [
+      "transient outward K 전류",
+      "inward-rectifying K 전류",
+      "outward-rectifying K 전류",
+      "ATP-sensitive K 전류",
+      "L-type Ca 전류"
+    ],
+    "answer": 4,
+    "examSource": "20 기종평 3교시생리학.pdf",
+    "examRank": 200,
+    "explanation": "핵심 단서: 허혈은 ATP 감소. ATP-sensitive K+ 통로가 열리면 K+ 유출이 증가하여 plateau가 짧아진다.",
+    "image": "assets/images/physiology_f57b8364_20_5_2.jpg"
+  },
+  {
+    "id": "physiology_f57b8364_20_6_2",
+    "setId": "physiology_91abc994",
+    "sourceId": "20-6",
+    "subject": "Physiology",
+    "section": "심장생리",
+    "sections": [
+      "심장생리"
+    ],
+    "question": "심장의 Starling 법칙이 적용된 경우로 맞는 것은?",
+    "choices": [
+      "심정지 후 평균체충만압이 증가한다.",
+      "운동 시 심박수가 증가한다.",
+      "수혈 시 심박출량이 증가한다.",
+      "교감신경 자극 시 심박출량이 증가한다.",
+      "허혈 시 심박수가 증가한다."
+    ],
+    "answer": 3,
+    "examSource": "20 기종평 3교시생리학.pdf",
+    "examRank": 200,
+    "explanation": "핵심 단서: Starling 법칙은 정맥환류/전부하 증가 → 일회박출량 증가. 수혈은 혈액량과 전부하를 증가시킨다.",
+    "image": ""
+  },
+  {
+    "id": "physiology_f57b8364_20_7_2",
+    "setId": "physiology_91abc994",
+    "sourceId": "20-7",
+    "subject": "Physiology",
+    "section": "심장생리",
+    "sections": [
+      "심장생리"
+    ],
+    "question": "심장 주기 동안 좌심실 압력이 대동맥 압력보다 높게 유지되는 기간은?",
+    "choices": [
+      "심방 수축기",
+      "중간 충만기",
+      "등용적 수축기",
+      "빠른 박출기",
+      "느린 박출기"
+    ],
+    "answer": 4,
+    "examSource": "20 기종평 3교시생리학.pdf",
+    "examRank": 200,
+    "explanation": "핵심 단서: 대동맥판이 열려 박출이 일어나려면 좌심실압이 대동맥압보다 높아야 한다. 특히 빠른 박출기에 뚜렷하다.",
+    "image": ""
+  },
+  {
+    "id": "physiology_a1353134_20_8_2",
+    "setId": "physiology_91abc994",
+    "sourceId": "20-8",
+    "subject": "Physiology",
+    "section": "순환생리",
+    "sections": [
+      "순환생리"
+    ],
+    "question": "적혈구용적률이 증가한 적혈구증가증 환자에서 증가하는 것은?",
+    "choices": [
+      "평균 혈압",
+      "동맥의 직경",
+      "정맥의 직경",
+      "중심 정맥압",
+      "모세혈관의 혈류"
+    ],
+    "answer": 1,
+    "examSource": "20 기종평 3교시생리학.pdf",
+    "examRank": 200,
+    "explanation": "핵심 단서: hematocrit 증가 → 혈액 점도 증가 → 총말초저항 증가. 저항 증가 시 평균동맥압이 상승하기 쉽다.",
+    "image": ""
+  },
+  {
+    "id": "physiology_a1353134_20_9_2",
+    "setId": "physiology_91abc994",
+    "sourceId": "20-9",
+    "subject": "Physiology",
+    "section": "순환생리",
+    "sections": [
+      "순환생리"
+    ],
+    "question": "무통분만을 위해 교감신경을 억제하는 epidural nerve block 후 어지러움과 저혈압이 생긴 이유는?",
+    "choices": [
+      "심박출량이 증가했기 때문이다.",
+      "순환 혈액량이 감소했기 때문이다.",
+      "정맥혈관의 용적이 증가했기 때문이다.",
+      "동맥혈관의 용적이 감소했기 때문이다.",
+      "혈관의 총말초저항이 증가했기 때문이다."
+    ],
+    "answer": 3,
+    "examSource": "20 기종평 3교시생리학.pdf",
+    "examRank": 200,
+    "explanation": "핵심 단서: 교감신경 차단 → 정맥 이완 → 정맥 capacitance 증가 → 정맥환류와 혈압 감소.",
+    "image": ""
+  },
+  {
+    "id": "physiology_3d74b319_20_10_2",
+    "setId": "physiology_91abc994",
+    "sourceId": "20-10",
+    "subject": "Physiology",
+    "section": "호흡생리",
+    "sections": [
+      "호흡생리"
+    ],
+    "question": "흡기 시 폐의 부피가 커지는 기전을 바르게 설명한 것은?",
+    "choices": [
+      "호흡중추 작용으로 흉벽 탄성력이 강해지고 폐조직 탄성력은 약해지기 때문이다.",
+      "흉막내압이 음압인 상태에서 흡기근 수축으로 흉벽이 확장되기 때문에 폐가 연동하여 커진다.",
+      "폐내 공기가 혈액으로 이동해서 폐내압이 낮아지기 때문이다.",
+      "흡기근 수축은 강해지고 호기근 수축은 약해지기 때문이다.",
+      "폐에 있는 호흡근이 수축되기 때문이다."
+    ],
+    "answer": 2,
+    "examSource": "20 기종평 3교시생리학.pdf",
+    "examRank": 200,
+    "explanation": "핵심 단서: 흡기근 수축 → 흉곽 확장 → 흉막내압 더 음성 → 경폐압 증가 → 폐 팽창.",
+    "image": ""
+  },
+  {
+    "id": "physiology_3d74b319_20_11_2",
+    "setId": "physiology_91abc994",
+    "sourceId": "20-11",
+    "subject": "Physiology",
+    "section": "호흡생리",
+    "sections": [
+      "호흡생리"
+    ],
+    "question": "Pulmonary surfactant의 생리학적 역할로 볼 수 없는 것은?",
+    "choices": [
+      "크기가 다양한 폐포들의 안정성을 유지한다.",
+      "폐포 내부 액체층을 얇게 유지하여 확산거리를 짧게 한다.",
+      "폐포 내 체액 유입을 방지하여 비교적 건조하게 유지한다.",
+      "폐 탄성복원력을 극복하기 위한 에너지 소모를 줄인다.",
+      "호흡운동 시 폐조직과 흉벽 간의 마찰을 감소시킨다."
+    ],
+    "answer": 5,
+    "examSource": "20 기종평 3교시생리학.pdf",
+    "examRank": 200,
+    "explanation": "핵심 단서: surfactant는 폐포 표면장력을 낮춘다. 흉막 마찰 감소는 흉막액의 역할이다.",
+    "image": ""
+  },
+  {
+    "id": "physiology_3d74b319_20_12_2",
+    "setId": "physiology_91abc994",
+    "sourceId": "20-12",
+    "subject": "Physiology",
+    "section": "호흡생리",
+    "sections": [
+      "호흡생리"
+    ],
+    "question": "최대로 숨을 내쉬어도 폐에 잔기량(RV)이 남는 원인은?",
+    "choices": [
+      "흉벽 탄성복원력이 폐 탄성복원력보다 크기 때문이다.",
+      "호기근 수축 장력이 흉벽의 바깥쪽 탄성복원력을 더 이상 극복하지 못하기 때문이다.",
+      "호기근 수축 장력이 폐 탄성복원력을 극복하지 못하기 때문이다.",
+      "호기근 수축 장력이 기도저항을 극복하지 못하기 때문이다.",
+      "RV level에서 호기근 수축 장력이 zero이기 때문이다."
+    ],
+    "answer": 2,
+    "examSource": "20 기종평 3교시생리학.pdf",
+    "examRank": 200,
+    "explanation": "핵심 단서: 매우 낮은 폐용적에서는 흉벽이 바깥쪽으로 되돌아가려는 힘이 커진다. 더 이상 폐용적을 줄이기 어렵다.",
+    "image": ""
+  },
+  {
+    "id": "physiology_3d74b319_20_13_2",
+    "setId": "physiology_91abc994",
+    "sourceId": "20-13",
+    "subject": "Physiology",
+    "section": "호흡생리",
+    "sections": [
+      "호흡생리"
+    ],
+    "question": "안정 시 혈액에 존재하는 CO2 가스에 대한 설명 중 바르지 않은 것은?",
+    "choices": [
+      "폐환기로 제거되는 CO2의 60% 정도는 carbamino-hemoglobin 형태로 운반된다.",
+      "HCO3- 형태로 운반되는 CO2가 총 CO2 함량의 대부분이다.",
+      "용해된 형태로 운반되는 CO2는 약 5%이다.",
+      "안정 시 동맥혈 CO2 총량은 혈액 100 mL당 약 48.3 mL이다.",
+      "동맥혈 CO2 양은 O2 양보다 크다."
+    ],
+    "answer": 1,
+    "examSource": "20 기종평 3교시생리학.pdf",
+    "examRank": 200,
+    "explanation": "핵심 단서: CO2의 대부분은 HCO3-로 운반된다. Carbamino-Hb는 일부에 불과하므로 60%라는 진술이 틀리다.",
+    "image": ""
+  },
+  {
+    "id": "physiology_3d74b319_20_14_2",
+    "setId": "physiology_91abc994",
+    "sourceId": "20-14",
+    "subject": "Physiology",
+    "section": "호흡생리",
+    "sections": [
+      "호흡생리"
+    ],
+    "question": "정상인에서 PaO2가 전체 평균 PAO2보다 5~10 mmHg 낮은 원인에 해당하지 않는 것은?",
+    "choices": [
+      "폐저부 VA/Q가 낮고 폐첨부로 갈수록 증가하기 때문이다.",
+      "해부학적/생리학적 단락혈이 존재하기 때문이다.",
+      "폐저부에서 환기량이 혈류량보다 적어 충분히 산소화되지 못하기 때문이다.",
+      "기관지 순환 정맥혈 일부가 폐정맥으로 직접 흐르기 때문이다.",
+      "폐첨부에서는 폐포 무용공간이 발생하기 때문이다."
+    ],
+    "answer": 5,
+    "examSource": "20 기종평 3교시생리학.pdf",
+    "examRank": 200,
+    "explanation": "핵심 단서: 정상 A-a 차이는 주로 V/Q 불균형과 생리적 단락 때문이다. 폐첨부 dead space 자체는 산소가 낮은 혈액을 섞는 원인이 아니다.",
+    "image": ""
+  },
+  {
+    "id": "physiology_a7dfc0de_20_15_2",
+    "setId": "physiology_91abc994",
+    "sourceId": "20-15",
+    "subject": "Physiology",
+    "section": "소화생리",
+    "sections": [
+      "소화생리"
+    ],
+    "question": "지방의 소화 과정을 시간 순서로 바르게 나열한 것은?",
+    "choices": [
+      "지방의 유화 → 유미미립 분비 → 미포 형성 → 장세포 흡수",
+      "지방의 유화 → 장세포 흡수 → 유미미립 분비 → 미포 형성",
+      "지방의 유화 → 장세포 흡수 → 미포 형성 → 유미미립 분비",
+      "지방의 유화 → 미포 형성 → 장세포 흡수 → 유미미립 분비",
+      "지방의 유화 → 미포 형성 → 유미미립 분비 → 장세포 흡수"
+    ],
+    "answer": 4,
+    "examSource": "20 기종평 3교시생리학.pdf",
+    "examRank": 200,
+    "explanation": "핵심 단서: 담즙산으로 유화 → micelle 형성 → 장세포 흡수 → chylomicron으로 림프 배출.",
+    "image": ""
+  },
+  {
+    "id": "physiology_a7dfc0de_20_16_2",
+    "setId": "physiology_91abc994",
+    "sourceId": "20-16",
+    "subject": "Physiology",
+    "section": "소화생리",
+    "sections": [
+      "소화생리"
+    ],
+    "question": "공복 시 위와 장의 주기적 수축으로 소장 세균 증식을 억제하는 데 주로 관여하는 호르몬은?",
+    "choices": [
+      "ghrelin",
+      "gastrin",
+      "motilin",
+      "cholecystokinin",
+      "vasoactive intestinal peptide"
+    ],
+    "answer": 3,
+    "examSource": "20 기종평 3교시생리학.pdf",
+    "examRank": 200,
+    "explanation": "핵심 단서: 공복기의 migrating motor complex는 motilin에 의해 촉진된다.",
+    "image": ""
+  },
+  {
+    "id": "physiology_a7dfc0de_20_17_2",
+    "setId": "physiology_91abc994",
+    "sourceId": "20-17",
+    "subject": "Physiology",
+    "section": "소화생리",
+    "sections": [
+      "소화생리"
+    ],
+    "question": "선천적 enterokinase 결핍 영유아에서 나타날 수 있는 장애는?",
+    "choices": [
+      "위 운동성",
+      "지방 소화",
+      "단백질 소화",
+      "포도당 흡수",
+      "담즙산 재흡수"
+    ],
+    "answer": 3,
+    "examSource": "20 기종평 3교시생리학.pdf",
+    "examRank": 200,
+    "explanation": "핵심 단서: enterokinase는 trypsinogen을 trypsin으로 활성화한다. 단백질 소화효소 활성화가 안 된다.",
+    "image": ""
+  },
+  {
+    "id": "physiology_a7dfc0de_20_18_2",
+    "setId": "physiology_91abc994",
+    "sourceId": "20-18",
+    "subject": "Physiology",
+    "section": "소화생리",
+    "sections": [
+      "소화생리"
+    ],
+    "question": "고도비만으로 위소매절제술을 받은 후 체중이 감소한 것에 대한 생리학적 해석으로 가장 적당한 것은?",
+    "choices": [
+      "저혈당",
+      "조기 포만감",
+      "혈중 leptin 농도의 감소",
+      "혈중 ghrelin 농도의 증가",
+      "시상하부 melanocortin 시스템의 억제"
+    ],
+    "answer": 2,
+    "examSource": "20 기종평 3교시생리학.pdf",
+    "examRank": 200,
+    "explanation": "핵심 단서: 위 용적 감소 → 적은 음식으로도 위 팽창과 포만감이 빨리 온다. Ghrelin은 보통 감소 방향이다.",
+    "image": "assets/images/physiology_a7dfc0de_20_18_2.jpg"
+  },
+  {
+    "id": "physiology_023bea16_20_19_2",
+    "setId": "physiology_91abc994",
+    "sourceId": "20-19",
+    "subject": "Physiology",
+    "section": "신장생리",
+    "sections": [
+      "신장생리"
+    ],
+    "question": "사구체 압력의 자동조절에 중요한 것은?",
+    "choices": [
+      "macula densa",
+      "erythropoietin",
+      "신동맥의 직경",
+      "ADH",
+      "GFR"
+    ],
+    "answer": 1,
+    "examSource": "20 기종평 3교시생리학.pdf",
+    "examRank": 200,
+    "explanation": "핵심 단서: tubuloglomerular feedback. 치밀반점은 NaCl 전달량을 감지해 afferent arteriole과 renin을 조절한다.",
+    "image": ""
+  },
+  {
+    "id": "physiology_023bea16_20_20_2",
+    "setId": "physiology_91abc994",
+    "sourceId": "20-20",
+    "subject": "Physiology",
+    "section": "신장생리",
+    "sections": [
+      "신장생리"
+    ],
+    "question": "정상 신기능을 가진 40세 여자, 체중 60 kg, 혈장 Na 140 mEq/L일 때 총체액량은?",
+    "choices": [
+      "5 L",
+      "12 L",
+      "24 L",
+      "36 L",
+      "48 L"
+    ],
+    "answer": 3,
+    "examSource": "20 기종평 3교시생리학.pdf",
+    "examRank": 200,
+    "explanation": "핵심 단서: 성인 여성 총체액량은 체중의 약 40%. 60 kg × 0.4 = 24 L.",
+    "image": ""
+  },
+  {
+    "id": "physiology_023bea16_20_21_2",
+    "setId": "physiology_91abc994",
+    "sourceId": "20-21",
+    "subject": "Physiology",
+    "section": "신장생리",
+    "sections": [
+      "신장생리"
+    ],
+    "question": "네프론 그림의 D 부위에서 Na가 재흡수되는 기전은?",
+    "choices": [
+      "Na-H exchange",
+      "Na-Cl cotransport",
+      "Na-K-2Cl cotransport",
+      "Na-HCO3- cotransport",
+      "용매 끌기"
+    ],
+    "answer": 3,
+    "examSource": "20 기종평 3교시생리학.pdf",
+    "examRank": 200,
+    "explanation": "핵심 단서: D는 헨레고리 굵은 오름부분. Na-K-2Cl cotransporter가 대표적이다.",
+    "image": "assets/images/physiology_023bea16_20_21_2.jpg"
+  },
+  {
+    "id": "physiology_023bea16_20_22_2",
+    "setId": "physiology_91abc994",
+    "sourceId": "20-22",
+    "subject": "Physiology",
+    "section": "신장생리",
+    "sections": [
+      "신장생리"
+    ],
+    "question": "만성 신부전 투석 환자에서 저나트륨혈증이 발생한 가장 중요한 요인은?",
+    "choices": [
+      "ADH 분비의 증가",
+      "신장에서 나트륨 배설의 증가",
+      "사구체를 통한 수분 여과의 감소",
+      "신성 요붕증의 발생",
+      "영양 결핍에 의한 나트륨 섭취 감소"
+    ],
+    "answer": 3,
+    "examSource": "20 기종평 3교시생리학.pdf",
+    "examRank": 200,
+    "explanation": "핵심 단서: 만성 신부전은 수분 배설능 저하가 핵심이다. 물이 상대적으로 축적되면 희석성 저나트륨혈증이 생긴다.",
+    "image": ""
+  },
+  {
+    "id": "physiology_3a347420_20_23_2",
+    "setId": "physiology_91abc994",
+    "sourceId": "20-23",
+    "subject": "Physiology",
+    "section": "내분비생리",
+    "sections": [
+      "내분비생리"
+    ],
+    "question": "제1형 당뇨병 환자가 인슐린을 자주 거른 뒤 의식저하가 왔다. 인슐린 주사 전 혈액검사에서 감소한 물질은?",
+    "choices": [
+      "K 이온",
+      "Na 이온",
+      "HCO3 이온",
+      "cholesterol",
+      "acetoacetic acid"
+    ],
+    "answer": 3,
+    "examSource": "20 기종평 3교시생리학.pdf",
+    "examRank": 200,
+    "explanation": "핵심 단서: DKA에서는 케톤산 증가로 대사성 산증이 생기고 완충에 의해 HCO3-가 감소한다.",
+    "image": ""
+  },
+  {
+    "id": "physiology_3a347420_20_24_2",
+    "setId": "physiology_91abc994",
+    "sourceId": "20-24",
+    "subject": "Physiology",
+    "section": "내분비생리",
+    "sections": [
+      "내분비생리"
+    ],
+    "question": "성인에서 성장호르몬이 과다하게 증가했을 때 보이는 변화는?",
+    "choices": [
+      "저혈압",
+      "수면 부족",
+      "키가 커짐",
+      "체지방률 증가",
+      "혈중 포도당 농도 증가"
+    ],
+    "answer": 5,
+    "examSource": "20 기종평 3교시생리학.pdf",
+    "examRank": 200,
+    "explanation": "핵심 단서: 성인은 성장판이 닫혀 거인증이 아니라 말단비대증. GH는 insulin antagonist라 혈당을 올린다.",
+    "image": ""
+  },
+  {
+    "id": "physiology_3a347420_20_25_2",
+    "setId": "physiology_91abc994",
+    "sourceId": "20-25",
+    "subject": "Physiology",
+    "section": "내분비생리",
+    "sections": [
+      "내분비생리"
+    ],
+    "question": "Glucocorticoid 투여 시 나타나는 생리 작용으로 옳은 것은?",
+    "choices": [
+      "모세혈관 투과도를 증가시켜 저혈압을 유발한다.",
+      "골아세포 기능을 촉진하여 골 생성을 증가시킨다.",
+      "T세포와 항체 생성을 촉진한다.",
+      "세포 내 lysosome을 안정화시켜 염증 반응을 감소시킨다.",
+      "염증부위 백혈구 이동을 촉진한다."
+    ],
+    "answer": 4,
+    "examSource": "20 기종평 3교시생리학.pdf",
+    "examRank": 200,
+    "explanation": "핵심 단서: glucocorticoid는 항염증/면역억제. lysosome 안정화, cytokine 감소, 백혈구 이동 억제가 특징이다.",
+    "image": ""
+  },
+  {
+    "id": "physiology_3a347420_20_26_2",
+    "setId": "physiology_91abc994",
+    "sourceId": "20-26",
+    "subject": "Physiology",
+    "section": "내분비생리",
+    "sections": [
+      "내분비생리"
+    ],
+    "question": "피로와 추위 불내성, TSH와 free T4가 모두 감소한 환자의 질병 발생 부위로 가장 적합한 것은?",
+    "choices": [
+      "뇌하수체와 시상하부",
+      "뇌하수체",
+      "시상하부",
+      "갑상샘",
+      "부신"
+    ],
+    "answer": 1,
+    "examSource": "20 기종평 3교시생리학.pdf",
+    "examRank": 200,
+    "explanation": "핵심 단서: free T4도 낮고 TSH도 낮으면 원발 갑상샘이 아니라 중추성 갑상샘저하증이다.",
+    "image": ""
+  },
+  {
+    "id": "physiology_3a347420_20_27_2",
+    "setId": "physiology_91abc994",
+    "sourceId": "20-27",
+    "subject": "Physiology",
+    "section": "내분비생리",
+    "sections": [
+      "내분비생리"
+    ],
+    "question": "뇌 MRI에서 화살표 부위 종양과 시야 이상이 확인되었다. 환자에서 보일 수 있는 시야장애 유형은?",
+    "choices": [
+      "그림 ①",
+      "그림 ②",
+      "그림 ③",
+      "그림 ④",
+      "그림 ⑤"
+    ],
+    "answer": 4,
+    "examSource": "20 기종평 3교시생리학.pdf",
+    "examRank": 200,
+    "explanation": "핵심 단서: 뇌하수체 종양은 시신경교차를 압박한다. 시신경교차 병변의 전형은 양측 temporal visual field 소실이다.",
+    "image": "assets/images/physiology_3a347420_20_27_2.jpg"
+  },
+  {
+    "id": "physiology_39841f9b_20_28_2",
+    "setId": "physiology_91abc994",
+    "sourceId": "20-28",
+    "subject": "Physiology",
+    "section": "신경과 근육에서의 막생리",
+    "sections": [
+      "신경과 근육에서의 막생리"
+    ],
+    "question": "오른쪽 소뇌 출혈 환자에서 관찰 가능한 증상은?",
+    "choices": [
+      "시야장애",
+      "감각저하",
+      "병식결여증",
+      "기억력저하",
+      "안구운동장애"
+    ],
+    "answer": 5,
+    "examSource": "20 기종평 3교시생리학.pdf",
+    "examRank": 200,
+    "explanation": "핵심 단서: 소뇌 병변은 실조, 안진, 안구운동 이상을 일으킨다. 시야/감각/기억은 주된 소뇌 증상이 아니다.",
+    "image": ""
+  },
+  {
+    "id": "physiology_39841f9b_20_29_2",
+    "setId": "physiology_91abc994",
+    "sourceId": "20-29",
+    "subject": "Physiology",
+    "section": "신경과 근육에서의 막생리",
+    "sections": [
+      "신경과 근육에서의 막생리"
+    ],
+    "question": "오른쪽 다리의 진동각·위치감각과 온도각·통각이 저하되고 근력은 정상일 때 예측되는 척수 손상 부위는?",
+    "choices": [
+      "그림 ①",
+      "그림 ②",
+      "그림 ③",
+      "그림 ④",
+      "그림 ⑤"
+    ],
+    "answer": 5,
+    "examSource": "20 기종평 3교시생리학.pdf",
+    "examRank": 200,
+    "explanation": "핵심 단서: 운동은 정상이라 피질척수로는 보존된다. 같은 쪽 posterior column과 반대쪽 spinothalamic tract 조합을 고른다.",
+    "image": "assets/images/physiology_39841f9b_20_29_2.jpg"
+  },
+  {
+    "id": "physiology_39841f9b_20_30_2",
+    "setId": "physiology_91abc994",
+    "sourceId": "20-30",
+    "subject": "Physiology",
+    "section": "신경과 근육에서의 막생리",
+    "sections": [
+      "신경과 근육에서의 막생리"
+    ],
+    "question": "시상하부에 있으면서 일주기 리듬과 수면-각성 주기를 조절하는 중추는?",
+    "choices": [
+      "amygdala",
+      "pineal gland",
+      "raphe nucleus",
+      "paraventricular nucleus",
+      "suprachiasmatic nucleus"
+    ],
+    "answer": 5,
+    "examSource": "20 기종평 3교시생리학.pdf",
+    "examRank": 200,
+    "explanation": "핵심 단서: circadian rhythm의 master clock은 시상하부 suprachiasmatic nucleus이다.",
+    "image": ""
+  },
+  {
+    "id": "physiology_39841f9b_20_31_2",
+    "setId": "physiology_91abc994",
+    "sourceId": "20-31",
+    "subject": "Physiology",
+    "section": "신경과 근육에서의 막생리",
+    "sections": [
+      "신경과 근육에서의 막생리"
+    ],
+    "question": "갑자기 최근 기억력이 떨어지고 반복 질문을 하는 환자에서 급성 뇌경색이 발생한 부위로 가장 가능성이 높은 곳은?",
+    "choices": [
+      "cerebellar vermis",
+      "internal capsule",
+      "thalamus",
+      "putamen",
+      "insula"
+    ],
+    "answer": 3,
+    "examSource": "20 기종평 3교시생리학.pdf",
+    "examRank": 200,
+    "explanation": "핵심 단서: 급성 기억장애와 반복질문은 기억 회로 병변. 선택지 중 thalamus가 Papez 회로와 관련된다.",
+    "image": ""
+  },
+  {
+    "id": "physiology_39841f9b_20_32_2",
+    "setId": "physiology_91abc994",
+    "sourceId": "20-32",
+    "subject": "Physiology",
+    "section": "신경과 근육에서의 막생리",
+    "sections": [
+      "신경과 근육에서의 막생리"
+    ],
+    "question": "통증 조절 부위(pain modulatory area)로 알려진 뇌 부위는?",
+    "choices": [
+      "angular gyrus",
+      "medial lemniscus",
+      "periaqueductal gray matter",
+      "lateral nucleus of thalamus",
+      "spinal cord posterior column"
+    ],
+    "answer": 3,
+    "examSource": "20 기종평 3교시생리학.pdf",
+    "examRank": 200,
+    "explanation": "핵심 단서: 하행성 통증 억제 회로의 시작점으로 PAG가 중요하다.",
+    "image": ""
+  },
+  {
+    "id": "physiology_39841f9b_20_33_2",
+    "setId": "physiology_91abc994",
+    "sourceId": "20-33",
+    "subject": "Physiology",
+    "section": "신경과 근육에서의 막생리",
+    "sections": [
+      "신경과 근육에서의 막생리"
+    ],
+    "question": "오른쪽 측두부 뇌출혈 후 의식저하, 오른쪽 동공산대, 왼쪽 마비가 악화된 환자의 즉각 조치로 잘못된 것은?",
+    "choices": [
+      "체온을 떨어뜨린다.",
+      "인공호흡기로 충분한 산소를 공급한다.",
+      "고장성 용액을 빠르게 주입한다.",
+      "두개골 감압술을 시행한다.",
+      "호흡수를 떨어뜨려 체내 CO2 농도를 높인다."
+    ],
+    "answer": 5,
+    "examSource": "20 기종평 3교시생리학.pdf",
+    "examRank": 200,
+    "explanation": "핵심 단서: 두개내압 상승에서는 CO2 증가가 뇌혈관 확장으로 ICP를 더 올린다. 저환기는 금물이다.",
+    "image": ""
+  },
+  {
+    "id": "physiology_39841f9b_20_34_2",
+    "setId": "physiology_91abc994",
+    "sourceId": "20-34",
+    "subject": "Physiology",
+    "section": "신경과 근육에서의 막생리",
+    "sections": [
+      "신경과 근육에서의 막생리"
+    ],
+    "question": "직장암 수술 후 소변이 보고 싶어도 나오지 않을 때 손상된 신경은?",
+    "choices": [
+      "해면체신경",
+      "큰내장신경",
+      "아랫배신경",
+      "골반내장신경",
+      "아래창자간막신경절"
+    ],
+    "answer": 4,
+    "examSource": "20 기종평 3교시생리학.pdf",
+    "examRank": 200,
+    "explanation": "핵심 단서: 배뇨근 수축은 부교감신경 S2-S4, 즉 pelvic splanchnic nerve가 담당한다.",
+    "image": ""
+  },
+  {
+    "id": "physiology_39841f9b_20_35_2",
+    "setId": "physiology_91abc994",
+    "sourceId": "20-35",
+    "subject": "Physiology",
+    "section": "신경과 근육에서의 막생리",
+    "sections": [
+      "신경과 근육에서의 막생리"
+    ],
+    "question": "뇌출혈로 근력이 저하된 환자에서 나타날 가능성이 가장 낮은 증상은?",
+    "choices": [
+      "병적 반사가 나타난다.",
+      "강직성 마비가 나타난다.",
+      "깊은 힘줄 반사가 증가된다.",
+      "초기에 심한 근육 위축이 나타난다.",
+      "근전도에서 근육섬유성 연축은 나타나지 않는다."
+    ],
+    "answer": 4,
+    "examSource": "20 기종평 3교시생리학.pdf",
+    "examRank": 200,
+    "explanation": "핵심 단서: 뇌출혈은 상위운동신경원 병변. 강직, 과반사, 병적반사는 가능하지만 초기 심한 위축은 하위운동신경원 병변 소견이다.",
+    "image": ""
   }
 ]
