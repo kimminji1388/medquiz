@@ -322,7 +322,9 @@ async function parseArray(type, html, context) {
 
 async function parseAnatomy(html, context) {
   const imageMap = extractLiteral(html, "IMG_MAP") || {};
-  const cards = [...html.matchAll(/<div(?<attrs>[^>]*)>(?<body>[\s\S]*?)(?=<div[^>]+class="card"|<\/main>)/g)]
+  const cards = [...html.matchAll(
+    /<div(?<attrs>[^>]*)>(?<body>[\s\S]*?)(?=<div[^>]+class="card"|<\/section>|<\/main>|<\/body>)/g
+  )]
     .filter((match) => /class="card"/.test(match.groups.attrs) && /data-answer=/.test(match.groups.attrs));
   const questions = [];
   for (let index = 0; index < cards.length; index += 1) {
@@ -331,11 +333,16 @@ async function parseAnatomy(html, context) {
     const sourceId = attribute(attrs, "data-id") || String(index + 1);
     const rawSection = attribute(attrs, "data-big");
     const section = anatomySection(rawSection, attribute(attrs, "data-histo") === "1");
-    const questionText = decodeHtml(/<div[^>]+class="qtext"[^>]*>(?<text>[\s\S]*?)<\/div>/.exec(body)?.groups.text);
+    const questionText = decodeHtml(
+      /<div[^>]+class="[^"]*\b(?:qtext|stem)\b[^"]*"[^>]*>(?<text>[\s\S]*?)<\/div>/i.exec(body)?.groups.text
+    );
     const priorId = takePriorId(context, section, sourceId, questionText, true);
     const id = uniqueId(priorId || `anatomy_${sectionCode(rawSection)}_${sourceCode(sourceId, index + 1)}`, context.seen);
-    const imageKey = /<div[^>]+class="qimg"[^>]+data-img="(?<key>[^"]+)"/i.exec(body)?.groups.key;
-    const answerBox = /<div[^>]+class="answer"[^>]*>(?<text>[\s\S]*)$/.exec(body)?.groups.text || "";
+    const questionImageTag =
+      /<img\b[^>]*\bclass="[^"]*\bqimg\b[^"]*"[^>]*>/i.exec(body)?.[0] || "";
+    const imageKey = attribute(questionImageTag, "data-img");
+    const answerBox =
+      /<div[^>]+class="[^"]*\b(?:answer|answer-box)\b[^"]*"[^>]*>(?<text>[\s\S]*)$/i.exec(body)?.groups.text || "";
     const question = {
       id,
       setId: context.setId,
