@@ -53063,7 +53063,7 @@
     "image": ""
   },
   {
-    "id": "physiology_f57b8364_23r_11",
+    "id": "physiology_f57b8364_23_9",
     "setId": "physiology_19088825",
     "sourceId": "23R-11",
     "subject": "Physiology",
@@ -53083,10 +53083,10 @@
     "examSource": "TalkFile_2023년 기시평 재시-2교시 2.pdf",
     "examRank": 231,
     "explanation": "핵심 단서: 결절세포 upstroke = Ca2+ channel.",
-    "image": "assets/images/physiology_f57b8364_23r_11.jpg"
+    "image": "assets/images/physiology_f57b8364_23_9.jpg"
   },
   {
-    "id": "physiology_023bea16_23r_12",
+    "id": "physiology_023bea16_23_12",
     "setId": "physiology_19088825",
     "sourceId": "23R-12",
     "subject": "Physiology",
@@ -53106,10 +53106,10 @@
     "examSource": "TalkFile_2023년 기시평 재시-2교시 2.pdf",
     "examRank": 231,
     "explanation": "핵심 단서: 희석분절인 thick ascending limb/early DCT 부위가 가장 낮다.",
-    "image": "assets/images/physiology_023bea16_23r_12.jpg"
+    "image": "assets/images/physiology_023bea16_23_12.jpg"
   },
   {
-    "id": "physiology_39841f9b_23r_13",
+    "id": "physiology_39841f9b_23_2",
     "setId": "physiology_19088825",
     "sourceId": "23R-13",
     "subject": "Physiology",
@@ -53155,7 +53155,7 @@
     "image": "assets/images/physiology_f57b8364_23r_14.jpg"
   },
   {
-    "id": "physiology_023bea16_23r_17",
+    "id": "physiology_023bea16_23_13",
     "setId": "physiology_19088825",
     "sourceId": "23R-17",
     "subject": "Physiology",
@@ -53316,7 +53316,7 @@
     "image": ""
   },
   {
-    "id": "physiology_39841f9b_23_2",
+    "id": "physiology_39841f9b_23r_13",
     "setId": "physiology_19088825",
     "sourceId": "23-2",
     "subject": "Physiology",
@@ -53477,7 +53477,7 @@
     "image": ""
   },
   {
-    "id": "physiology_f57b8364_23_9",
+    "id": "physiology_f57b8364_23r_11",
     "setId": "physiology_19088825",
     "sourceId": "23-9",
     "subject": "Physiology",
@@ -53497,7 +53497,7 @@
     "examSource": "TalkFile_2023학년도 자체 기초의학시기평가-2교시 2.pdf",
     "examRank": 230,
     "explanation": "핵심 단서: 결절세포 phase 0은 Ca2+ channel이 담당한다.",
-    "image": "assets/images/physiology_f57b8364_23_9.jpg"
+    "image": "assets/images/physiology_f57b8364_23r_11.jpg"
   },
   {
     "id": "physiology_f57b8364_23_10",
@@ -53546,7 +53546,7 @@
     "image": "assets/images/physiology_f57b8364_23_11.jpg"
   },
   {
-    "id": "physiology_023bea16_23_12",
+    "id": "physiology_023bea16_23r_12",
     "setId": "physiology_19088825",
     "sourceId": "23-12",
     "subject": "Physiology",
@@ -53566,10 +53566,10 @@
     "examSource": "TalkFile_2023학년도 자체 기초의학시기평가-2교시 2.pdf",
     "examRank": 230,
     "explanation": "핵심 단서: thick ascending limb/early distal tubule은 물 재흡수 없이 NaCl 재흡수 → 희석분절. 그림의 D가 가장 낮다.",
-    "image": "assets/images/physiology_023bea16_23_12.jpg"
+    "image": "assets/images/physiology_023bea16_23r_12.jpg"
   },
   {
-    "id": "physiology_023bea16_23_13",
+    "id": "physiology_023bea16_23r_17",
     "setId": "physiology_19088825",
     "sourceId": "23-13",
     "subject": "Physiology",
@@ -57454,7 +57454,7 @@
     "image": "assets/images/physiology_f57b8364_21_5.jpg"
   },
   {
-    "id": "physiology_f57b8364_21_6",
+    "id": "physiology_f57b8364_20_6",
     "setId": "physiology_19088825",
     "sourceId": "21-6",
     "subject": "Physiology",
@@ -58259,7 +58259,7 @@
     "image": "assets/images/physiology_f57b8364_20_5.jpg"
   },
   {
-    "id": "physiology_f57b8364_20_6",
+    "id": "physiology_f57b8364_21_6",
     "setId": "physiology_19088825",
     "sourceId": "20-6",
     "subject": "Physiology",
