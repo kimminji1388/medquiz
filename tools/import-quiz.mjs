@@ -82,7 +82,6 @@ function answerValue(value, zeroBased = false) {
 
 function examRank(value, type) {
   const label = clean(value).normalize("NFC");
-  if (type === "physiology" && /^TalkFile_23(?!\d)/i.test(label)) return 300;
   const year = Number(label.match(/(?:20)?(19|20|21|22|23|24|25|26)/)?.[1]);
   if (!year) return 0;
   const isRetest = /재시|재-|23r|r-/i.test(label);
